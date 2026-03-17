@@ -147,7 +147,7 @@ class CitationParserEngine:
                 return 0
             single_tokens = sum(1 for a in authors if len(a.split()) < 2)
             hyphen_fragments = sum(1 for a in authors if a.startswith("-"))
-            return len(authors) * 3 - single_tokens * 2 - hyphen_fragments * 2
+            return len(authors) * 3 - single_tokens * 4 - hyphen_fragments * 2
 
         xml_score = score(xml_authors)
         regex_score = score(regex_authors)

@@ -4,6 +4,7 @@ Async HTTP clients with fault tolerance for GROBID and LLM providers.
 """
 import aiohttp
 import json
+import re
 from typing import List, Optional
 from bs4 import BeautifulSoup
 from tenacity import retry, stop_after_attempt, wait_exponential
@@ -47,6 +48,8 @@ class AsyncGrobidClient:
             if note and note.get_text(strip=True):
                 # Clean up hyphenation from PDF line breaks
                 clean_text = note.get_text(strip=True).replace("- ", "")
+                # Strip leading citation labels like "ACG + 16]"
+                clean_text = re.sub(r"^[A-Z]{2,}\s*\+\s*\d{2}\]\s*", "", clean_text)
                 references.append(clean_text)
         return references
 
