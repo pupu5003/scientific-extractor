@@ -1,0 +1,649 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Rohan Anil, Andrew M Dai, Orhan Firat, Melvin Johnson, Dmitry Lepikhin, Alexandre Passos, Siamak Shakeri, Emanuel Taropa, Paige Bailey, Zhifeng Chen, et al. Palm 2 technical report. arXiv preprint arXiv:2305.10403, 2023.",
+    "title": "Palm 2 technical report",
+    "authors": [
+      "Rohan Anil",
+      "Andrew M Dai",
+      "Orhan Firat",
+      "Melvin Johnson",
+      "Dmitry Lepikhin",
+      "Alexandre Passos",
+      "Siamak Shakeri",
+      "Emanuel Taropa",
+      "Paige Bailey",
+      "Zhifeng Chen"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.10403"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Hao Bai, Yifei Zhou, Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, and Aviral Kumar. Digirl: Training in-the-wild device-control agents with autonomous reinforcement learning. arXiv preprint arXiv:2406.11896, 2024.",
+    "title": "Digirl: Training in-the-wild device-control agents with autonomous reinforcement learning",
+    "authors": [
+      "Hao Bai",
+      "Yifei Zhou",
+      "Mert Cemri",
+      "Jiayi Pan",
+      "Alane Suhr",
+      "Sergey Levine",
+      "Aviral Kumar"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.11896"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, and Jingren Zhou. Qwen-vl: A versatile vision-language model for understanding, localization, text reading, and beyond. arXiv preprint arXiv:2308.12966, 2023.",
+    "title": "Qwen-vl: A versatile vision-language model for understanding, localization, text reading, and beyond",
+    "authors": [
+      "Jinze Bai",
+      "Shuai Bai",
+      "Shusheng Yang",
+      "Shijie Wang",
+      "Sinan Tan",
+      "Peng Wang",
+      "Junyang Lin",
+      "Chang Zhou",
+      "Jingren Zhou"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2308.12966"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Jingxuan Chen, Derek Yuen, Bin Xie, Yuhao Yang, Gongwei Chen, Zhihao Wu, Li Yixing, Xurui Zhou, Weiwen Liu, Shuai Wang, Kaiwen Zhou, Rui Shao, Liqiang Nie, Yasheng Wang, Jianye Hao, Jun Wang, and Kun Shao. Spa-bench: A comprehensive benchmark for smartphone agent evaluation. 2024.",
+    "title": "Spa-bench: A comprehensive benchmark for smartphone agent evaluation",
+    "authors": [
+      "Jingxuan Chen",
+      "Derek Yuen",
+      "Bin Xie",
+      "Yuhao Yang",
+      "Gongwei Chen",
+      "Zhihao Wu",
+      "Li Yixing",
+      "Xurui Zhou",
+      "Weiwen Liu",
+      "Shuai Wang",
+      "Kaiwen Zhou",
+      "Rui Shao",
+      "Liqiang Nie",
+      "Yasheng Wang",
+      "Jianye Hao",
+      "Jun Wang",
+      "Kun Shao"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Misha Laskin, Pieter Abbeel, Aravind Srinivas, and Igor Mordatch. Decision transformer: Reinforcement learning via sequence modeling. Advances in neural information processing systems, 2021.",
+    "title": "Decision transformer: Reinforcement learning via sequence modeling",
+    "authors": [
+      "Lili Chen",
+      "Kevin Lu",
+      "Aravind Rajeswaran",
+      "Kimin Lee",
+      "Aditya Grover",
+      "Misha Laskin",
+      "Pieter Abbeel",
+      "Aravind Srinivas",
+      "Igor Mordatch"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Sam Stevens, Boshi Wang, Huan Sun, and Yu Su. Mind2web: Towards a generalist agent for the web. Advances in Neural Information Processing Systems, 36, 2023.",
+    "title": "Mind2web: Towards a generalist agent for the web",
+    "authors": [
+      "Xiang Deng",
+      "Yu Gu",
+      "Boyuan Zheng",
+      "Shijie Chen",
+      "Sam Stevens",
+      "Boshi Wang",
+      "Huan Sun",
+      "Yu Su"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805, 2018.",
+    "title": "Bert: Pre-training of deep bidirectional transformers for language understanding",
+    "authors": [
+      "Jacob Devlin",
+      "Ming-Wei Chang",
+      "Kenton Lee",
+      "Kristina Toutanova"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1810.04805"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, and Izzeddin Gur. Multimodal web navigation with instruction-finetuned foundation models. arXiv preprint arXiv:2305.11854, 2023.",
+    "title": "Multimodal web navigation with instruction-finetuned foundation models",
+    "authors": [
+      "Hiroki Furuta",
+      "Kuang-Huei Lee",
+      "Ofir Nachum",
+      "Yutaka Matsuo",
+      "Aleksandra Faust",
+      "Shixiang Shane Gu",
+      "Izzeddin Gur"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.11854"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, and Aleksandra Faust. A real-world webagent with planning, long context understanding, and program synthesis. arXiv preprint arXiv:2307.12856, 2023.",
+    "title": "A real-world webagent with planning, long context understanding, and program synthesis",
+    "authors": [
+      "Izzeddin Gur",
+      "Hiroki Furuta",
+      "Austin Huang",
+      "Mustafa Safdari",
+      "Yutaka Matsuo",
+      "Douglas Eck",
+      "Aleksandra Faust"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.12856"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wang, Zihan Wang, Yuxiao Dong, Ming Ding, et al. Cogagent: A visual language model for gui agents. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 14281-14290, 2024.",
+    "title": "Cogagent: A visual language model for gui agents",
+    "authors": [
+      "Wenyi Hong",
+      "Weihan Wang",
+      "Qingsong Lv",
+      "Jiazheng Xu",
+      "Wenmeng Yu",
+      "Junhui Ji",
+      "Yan Wang",
+      "Zihan Wang",
+      "Yuxiao Dong",
+      "Ming Ding"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Edward J Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen. Lora: Low-rank adaptation of large language models. arXiv preprint arXiv:2106.09685, 2021.",
+    "title": "Low-rank adaptation of large language models",
+    "authors": [
+      "J Edward",
+      "Yelong Hu",
+      "Phillip Shen",
+      "Zeyuan Wallis",
+      "Yuanzhi Allen-Zhu",
+      "Shean Li",
+      "Lu Wang",
+      "Weizhu Wang",
+      "Chen",
+      "Lora"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2106.09685"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Stefanos Laskaridis, Kleomenis Katevas, Lorenzo Minto, and Hamed Haddadi. Melting point: Mobile evaluation of language transformers. 2024.",
+    "title": "Melting point: Mobile evaluation of language transformers",
+    "authors": [
+      "Stefanos Laskaridis",
+      "Kleomenis Katevas",
+      "Lorenzo Minto",
+      "Hamed Haddadi"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Wei Li, William Bishop, Alice Li, Chris Rawles, Folawiyo Campbell-Ajala, Divya Tyamagundlu, and Oriana Riva. On the effects of data scale on computer control agents. arXiv preprint arXiv:2406.03679, 2024a.",
+    "title": "On the effects of data scale on computer control agents",
+    "authors": [
+      "Wei Li",
+      "William Bishop",
+      "Alice Li",
+      "Chris Rawles",
+      "Folawiyo Campbell-Ajala",
+      "Divya Tyamagundlu",
+      "Oriana Riva"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.03679"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Xiang Li, Zhenyan Lu, Dongqi Cai, Xiao Ma, and Mengwei Xu. Large language models on mobile devices: Measurements, analysis, and insights. In Proceedings of the Workshop on Edge and Mobile Foundation Models, pp. 1-6, 2024b.",
+    "title": "Large language models on mobile devices: Measurements, analysis, and insights",
+    "authors": [
+      "Xiang Li",
+      "Zhenyan Lu",
+      "Dongqi Cai",
+      "Xiao Ma",
+      "Mengwei Xu"
+    ],
+    "venue": "Proceedings of the Workshop on Edge and Mobile Foundation Models",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, and Jason Baldridge. Mapping natural language instructions to mobile ui action sequences. In 58th Annual Meeting of the Association for Computational Linguistics, 2020.",
+    "title": "Mapping natural language instructions to mobile ui action sequences",
+    "authors": [
+      "Yang Li",
+      "Jiacong He",
+      "Xin Zhou",
+      "Yuan Zhang",
+      "Jason Baldridge"
+    ],
+    "venue": "58th Annual Meeting of the Association for Computational Linguistics",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Evan Zheran Liu, Kelvin Guu, Panupong Pasupat, Tianlin Shi, and Percy Liang. Reinforcement learning on web interfaces using workflow-guided exploration. In International Conference on Learning Representations (ICLR), 2018.",
+    "title": "Reinforcement learning on web interfaces using workflow-guided exploration",
+    "authors": [
+      "Evan Zheran Liu",
+      "Kelvin Guu",
+      "Panupong Pasupat",
+      "Tianlin Shi",
+      "Percy Liang"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Ilya Loshchilov, Frank Hutter, et al. Fixing weight decay regularization in adam. arXiv preprint arXiv:1711.05101, 5, 2017.",
+    "title": "Fixing weight decay regularization in adam",
+    "authors": [
+      "Ilya Loshchilov",
+      "Frank Hutter"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1711.05101"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Aaron van den Oord, Yazhe Li, and Oriol Vinyals. Representation learning with contrastive predictive coding. arXiv preprint arXiv:1807.03748, 2018.",
+    "title": "Representation learning with contrastive predictive coding",
+    "authors": [
+      "Aaron Van Den Oord",
+      "Yazhe Li",
+      "Oriol Vinyals"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1807.03748"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, et al. Learning transferable visual models from natural language supervision. In International conference on machine learning, 2021.",
+    "title": "Learning transferable visual models from natural language supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "Aditya Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, and Timothy Lillicrap. Androidinthewild: A large-scale dataset for android device control. Advances in Neural Information Processing Systems, 36, 2023.",
+    "title": "Androidinthewild: A large-scale dataset for android device control",
+    "authors": [
+      "Christopher Rawles",
+      "Alice Li",
+      "Daniel Rodriguez",
+      "Oriana Riva",
+      "Timothy Lillicrap"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Christopher Rawles, Sarah Clinckemaillie, Yifan Chang, Jonathan Waltz, Gabrielle Lau, Marybeth Fair, Alice Li, William Bishop, Wei Li, Folawiyo Campbell-Ajala, et al. Androidworld: A dynamic benchmarking environment for autonomous agents. arXiv preprint arXiv:2405.14573, 2024.",
+    "title": "A dynamic benchmarking environment for autonomous agents",
+    "authors": [
+      "Christopher Rawles",
+      "Sarah Clinckemaillie",
+      "Yifan Chang",
+      "Jonathan Waltz",
+      "Gabrielle Lau",
+      "Marybeth Fair",
+      "Alice Li",
+      "William Bishop",
+      "Wei Li",
+      "Folawiyo Campbell-Ajala"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.14573"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, and Percy Liang. World of bits: An open-domain platform for web-based agents. In International Conference on Machine Learning, pp. 3135-3144. PMLR, 2017.",
+    "title": "World of bits: An open-domain platform for web-based agents",
+    "authors": [
+      "Tianlin Shi",
+      "Andrej Karpathy",
+      "Linxi Fan",
+      "Jonathan Hernandez",
+      "Percy Liang"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdinov. Dropout: a simple way to prevent neural networks from overfitting. The journal of machine learning research, 2014.",
+    "title": "Dropout: a simple way to prevent neural networks from overfitting",
+    "authors": [
+      "Nitish Srivastava",
+      "Geoffrey Hinton",
+      "Alex Krizhevsky",
+      "Ilya Sutskever",
+      "Ruslan Salakhutdinov"
+    ],
+    "venue": "The journal of machine learning research",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. Attention is all you need. Advances in Neural Information Processing Systems, 2017.",
+    "title": "Attention is all you need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N Gomez",
+      "Lukasz Kaiser",
+      "Illia Polosukhin"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Junyang Wang, Haiyang Xu, Haitao Jia, Xi Zhang, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, and Jitao Sang. Mobile-agent-v2: Mobile device operation assistant with effective navigation via multi-agent collaboration. arXiv preprint arXiv:2406.01014, 2024a.",
+    "title": "Mobile-agent-v2: Mobile device operation assistant with effective navigation via multi-agent collaboration",
+    "authors": [
+      "Junyang Wang",
+      "Haiyang Xu",
+      "Haitao Jia",
+      "Xi Zhang",
+      "Ming Yan",
+      "Weizhou Shen",
+      "Ji Zhang",
+      "Fei Huang",
+      "Jitao Sang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.01014"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Junyang Wang, Haiyang Xu, Jiabo Ye, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, and Jitao Sang. Mobile-agent: Autonomous multi-modal mobile device agent with visual perception. arXiv preprint arXiv:2401.16158, 2024b.",
+    "title": "Mobile-agent: Autonomous multi-modal mobile device agent with visual perception",
+    "authors": [
+      "Junyang Wang",
+      "Haiyang Xu",
+      "Jiabo Ye",
+      "Ming Yan",
+      "Weizhou Shen",
+      "Ji Zhang",
+      "Fei Huang",
+      "Jitao Sang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.16158"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Taiyi Wang, Zhihao Wu, Jianheng Liu, Jianye Hao, Jun Wang, and Kun Shao. Distrl: An asynchronous distributed reinforcement learning framework for on-device control agents. 2024c.",
+    "title": "Distrl: An asynchronous distributed reinforcement learning framework for on-device control agents",
+    "authors": [
+      "Taiyi Wang",
+      "Zhihao Wu",
+      "Jianheng Liu",
+      "Jianye Hao",
+      "Jun Wang",
+      "Kun Shao"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, Tao Yu, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, and Yunxin Liu. Autodroid: Llm-powered task automation in android. In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, pp. 543-557, 2023.",
+    "title": "Autodroid: Llm-powered task automation in android",
+    "authors": [
+      "Yuanchun Hao Wen",
+      "Guohong Li",
+      "Shanhui Liu",
+      "Tao Zhao",
+      "Toby Jia-Jun Yu",
+      "Shiqi Li",
+      "Yunhao Jiang",
+      "Yaqin Liu",
+      "Yunxin Zhang",
+      "Liu"
+    ],
+    "venue": "Proceedings of the 30th Annual International Conference on Mobile Computing and Networking",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Bin Xiao, Haiping Wu, Weijian Xu, Xiyang Dai, Houdong Hu, Yumao Lu, Michael Zeng, Ce Liu, and Lu Yuan. Florence-2: Advancing a unified representation for a variety of vision tasks. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4818-4829, 2024.",
+    "title": "Florence-2: Advancing a unified representation for a variety of vision tasks",
+    "authors": [
+      "Bin Xiao",
+      "Haiping Wu",
+      "Weijian Xu",
+      "Xiyang Dai",
+      "Houdong Hu",
+      "Yumao Lu",
+      "Michael Zeng",
+      "Ce Liu",
+      "Lu Yuan"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Zhao Yang, Jiaxuan Liu, Yucheng Han, Xin Chen, Zebiao Huang, Bin Fu, and Gang Yu. Appagent: Multimodal agents as smartphone users. arXiv preprint arXiv:2312.13771, 2023.",
+    "title": "Multimodal agents as smartphone users",
+    "authors": [
+      "Zhao Yang",
+      "Jiaxuan Liu",
+      "Yucheng Han",
+      "Xin Chen",
+      "Zebiao Huang",
+      "Bin Fu",
+      "Gang Yu",
+      "Appagent"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2312.13771"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Shunyu Yao, Howard Chen, John Yang, and Karthik Narasimhan. Webshop: Towards scalable real-world web interaction with grounded language agents. Advances in Neural Information Processing Systems, 35:20744-20757, 2022a.",
+    "title": "Webshop: Towards scalable real-world web interaction with grounded language agents",
+    "authors": [
+      "Shunyu Yao",
+      "Howard Chen",
+      "John Yang",
+      "Karthik Narasimhan"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, and Yuan Cao. React: Synergizing reasoning and acting in language models. arXiv preprint arXiv:2210.03629, 2022b.",
+    "title": "React: Synergizing reasoning and acting in language models",
+    "authors": [
+      "Shunyu Yao",
+      "Jeffrey Zhao",
+      "Dian Yu",
+      "Nan Du",
+      "Izhak Shafran",
+      "Karthik Narasimhan",
+      "Yuan Cao"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2210.03629"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, and Yu Su. Gpt-4v (ision) is a generalist web agent, if grounded. arXiv preprint arXiv:2401.01614, 2024.",
+    "title": "Gpt-4v (ision) is a generalist web agent, if grounded",
+    "authors": [
+      "Boyuan Zheng",
+      "Boyu Gou",
+      "Jihyung Kil",
+      "Huan Sun",
+      "Yu Su"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.01614"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

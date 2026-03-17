@@ -1,0 +1,618 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Julia Angwin, Jeff Larson, Surya Mattu, and Lauren Kirchner. Machine Bias: There's software used across the country to predict future criminals. And it's biased against blacks. 2016. URL https://www.propublica.org/article/ machine-bias-risk-assessments-in-criminal-sentencing.",
+    "title": "Machine Bias: There's software used across the country to predict future criminals. And it's biased against blacks",
+    "authors": [
+      "Julia Angwin",
+      "Jeff Larson",
+      "Surya Mattu",
+      "Lauren Kirchner"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "url": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Elias Bareinboim, Andrew Forney, and Judea Pearl. Bandits with unobserved confounders: A causal approach. In Advances in Neural Information Processing Systems, pp. 1342-1350, 2015.",
+    "title": "Bandits with unobserved confounders: A causal approach",
+    "authors": [
+      "Elias Bareinboim",
+      "Andrew Forney",
+      "Judea Pearl"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Elias Bareinboim, Juan D. Correa, Duligur Ibeling, and Thomas Icard. On Pearl's Hierarchy and the foundations of causal inference. In Probabilistic and Causal Inference: The Works of Judea Pearl, pp. 507-556. Association for Computing Machinery, New York, NY, USA, 1st edition, 2022.",
+    "title": "On Pearl's Hierarchy and the foundations of causal inference",
+    "authors": [
+      "Elias Bareinboim",
+      "Juan D Correa",
+      "Duligur Ibeling",
+      "Thomas Icard"
+    ],
+    "venue": "Probabilistic and Causal Inference: The Works of Judea Pearl",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Marianne Bertrand and Sendhil Mullainathan. Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market discrimination. Working Paper 9873, National Bureau of Economic Research, July 2003. URL http://www.nber.org/papers/w9873.",
+    "title": "Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market discrimination",
+    "authors": [
+      "Marianne Bertrand",
+      "Sendhil Mullainathan"
+    ],
+    "venue": "National Bureau of Economic Research",
+    "year": 2003,
+    "identifiers": {
+      "url": "http://www.nber.org/papers/w9873"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "J. Correa and E. Bareinboim. A calculus for stochastic interventions: Causal effect identification and surrogate experiments. In Proceedings of the 34th AAAI Conference on Artificial Intelligence, New York, NY, 2020. AAAI Press.",
+    "title": "A calculus for stochastic interventions: Causal effect identification and surrogate experiments",
+    "authors": [
+      "J Correa",
+      "E Bareinboim"
+    ],
+    "venue": "Proceedings of the 34th AAAI Conference on Artificial Intelligence",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Juan Correa, Sanghack Lee, and Elias Bareinboim. Nested counterfactual identification from arbitrary surrogate experiments. In M. Ranzato, A. Beygelzimer, Y. Dauphin, P.S. Liang, and J. Wortman Vaughan (eds.), Advances in Neural Information Processing Systems, volume 34, pp. 6856-6867. Curran Associates, Inc., 2021.",
+    "title": "Nested counterfactual identification from arbitrary surrogate experiments",
+    "authors": [
+      "Juan Correa",
+      "Sanghack Lee",
+      "Elias Bareinboim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "A Philip Dawid. Causal Inference Without Counterfactuals (with Comments and Rejoinder). Journal of the American Statistical Association, 95(450):407-448, 2000.",
+    "title": "Causal Inference Without Counterfactuals (with Comments and Rejoinder)",
+    "authors": [
+      "Dawid Philip"
+    ],
+    "venue": "Journal of the American Statistical Association",
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Amir Feder, Katherine A. Keith, Emaad Manzoor, Reid Pryzant, Dhanya Sridhar, Zach WoodDoughty, Jacob Eisenstein, Justin Grimmer, Roi Reichart, Margaret E. Roberts, Brandon M. Stewart, Victor Veitch, and Diyi Yang. Causal inference in natural language processing: Estimation, prediction, interpretation and beyond. Transactions of the Association for Computational Linguistics, 10:1138-1158, 2022. doi: 10.1162/tacl a 00511. URL https://aclanthology. org/2022.tacl-1.66.",
+    "title": "Causal inference in natural language processing: Estimation, prediction, interpretation and beyond",
+    "authors": [
+      "Amir Feder",
+      "Katherine A Keith",
+      "Emaad Manzoor",
+      "Reid Pryzant",
+      "Dhanya Sridhar",
+      "Zach Wooddoughty",
+      "Jacob Eisenstein",
+      "Justin Grimmer",
+      "Roi Reichart",
+      "Margaret E Roberts",
+      "Brandon M Stewart",
+      "Victor Veitch",
+      "Diyi Yang"
+    ],
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.1162/tacla00511",
+      "url": "https://aclanthology.org/2022.tacl-1.66"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Ronald A. Fisher. Statistical Methods for Research Workers. Oliver and Boyd, Edinburgh, 1925.",
+    "title": "Statistical Methods for Research Workers",
+    "authors": [
+      "Ronald A Fisher"
+    ],
+    "year": 1925,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Ronald A. Fisher. The Design of Experiments. Oliver and Boyd, Edinburgh, 1935.",
+    "title": "The Design of Experiments",
+    "authors": [
+      "Ronald A Fisher"
+    ],
+    "year": 1935,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Andrew Forney, Judea Pearl, and Elias Bareinboim. Counterfactual Data-Fusion for Online Reinforcement Learners. In Proceedings of the 34th International Conference on Machine Learning, 2017. ISBN 9781510855144. doi: http://dx.doi.org/10.1037/a0022750.",
+    "title": "Counterfactual Data-Fusion for Online Reinforcement Learners",
+    "authors": [
+      "Andrew Forney",
+      "Judea Pearl",
+      "Elias Bareinboim"
+    ],
+    "venue": "Proceedings of the 34th International Conference on Machine Learning, 2017. ISBN 9781510855144",
+    "year": 2017,
+    "identifiers": {
+      "doi": "10.1037/a0022750",
+      "url": "http://dx.doi.org/10.1037/a0022750"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Sara Geneletti and A. Philip Dawid. Defining and identifying the effect of treatment on the treated. In Causality in the Sciences. Oxford University Press, 03 2011.",
+    "title": "Defining and identifying the effect of treatment on the treated",
+    "authors": [
+      "Sara Geneletti",
+      "A Philip Dawid"
+    ],
+    "venue": "Causality in the Sciences",
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "James J. Heckman and Richard Robb Jr. Alternative Methods for Evaluating the Impact of Interventions. In J J Heckman and B Singer (eds.), Longitudinal Analysis of Labor Market Data. Cambridge University Press, New York, NY, 1985.",
+    "title": "Alternative Methods for Evaluating the Impact of Interventions",
+    "authors": [
+      "James J Heckman",
+      "Richard Robb"
+    ],
+    "venue": "Longitudinal Analysis of Labor Market Data",
+    "year": 1985,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "James J. Heckman and Richard Robb Jr. Alternative Methods for Solving the Problem of Selection Bias in Evaluating the Impact of Treatments on Outcomes. In H. Wainer (ed.), Drawing Inference From Self Selected Samples, pp. 63-107. Springer-Verlag, New York, NY, 1986.",
+    "title": "Alternative Methods for Solving the Problem of Selection Bias in Evaluating the Impact of Treatments on Outcomes",
+    "authors": [
+      "James J Heckman",
+      "Richard Robb"
+    ],
+    "venue": "Drawing Inference From Self Selected Samples",
+    "year": 1986,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "P W Holland. Statistics and Causal Inference. Journal of the American Statistical Association, 81 (396):945-960, 12 1986.",
+    "title": "Statistics and Causal Inference",
+    "authors": [
+      "P W Holland"
+    ],
+    "venue": "Journal of the American Statistical Association",
+    "year": 1986,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Duligur Ibeling and Thomas Icard. Probabilistic reasoning across the causal hierarchy. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 34, pp. 10170-10177, 2020.",
+    "title": "Probabilistic reasoning across the causal hierarchy",
+    "authors": [
+      "Duligur Ibeling",
+      "Thomas Icard"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Kosuke Imai and Zhichao Jiang. Principal Fairness for Human and Algorithmic Decision-Making. Statistical Science, 38(2):317 -328, 2023.",
+    "title": "Principal Fairness for Human and Algorithmic Decision-Making",
+    "authors": [
+      "Kosuke Imai",
+      "Zhichao Jiang"
+    ],
+    "venue": "Statistical Science",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Akhil Alfons Kodiyan. An overview of ethical issues in using ai systems in hiring with a case study of amazon's ai based hiring tool. ResearchGate preprint, pp. 1-19, 11 2019.",
+    "title": "An overview of ethical issues in using ai systems in hiring with a case study of amazon's ai based hiring tool",
+    "authors": [
+      "Akhil Alfons",
+      "Kodiyan"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Matt J Kusner, Joshua Loftus, Chris Russell, and Ricardo Silva. Counterfactual fairness. In I. Guyon, U. Von Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett (eds.), Advances in Neural Information Processing Systems, volume 30. Curran Associates, Inc., 2017.",
+    "title": "Counterfactual fairness",
+    "authors": [
+      "Matt J Kusner",
+      "Joshua Loftus",
+      "Chris Russell",
+      "Ricardo Silva"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Tor Lattimore and Csaba Szepesvári. Bandit Algorithms. Cambridge University Press, 2020.",
+    "title": "Bandit Algorithms",
+    "authors": [
+      "Tor Lattimore",
+      "Csaba Szepesvári"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Ang Li and Judea Pearl. Unit selection based on counterfactual logic. In Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI-19, pp. 1793-1799. International Joint Conferences on Artificial Intelligence Organization, 7 2019.",
+    "title": "Unit selection based on counterfactual logic",
+    "authors": [
+      "Ang Li",
+      "Judea Pearl"
+    ],
+    "venue": "Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI-19",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Scott Mueller and Judea Pearl. Personalized decision making -a conceptual introduction. Journal of Causal Inference, 11(1):20220050, 2023.",
+    "title": "Personalized decision making -a conceptual introduction",
+    "authors": [
+      "Scott Mueller",
+      "Judea Pearl"
+    ],
+    "venue": "Journal of Causal Inference",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Scott Mueller and Judea Pearl. Perspective on 'harm' in personalized medicine -an alternative perspective. Technical Report R-530, 2024. URL https://ftp.cs.ucla.edu/pub/stat_ ser/r530.pdf.",
+    "title": "Perspective on 'harm' in personalized medicine -an alternative perspective",
+    "authors": [
+      "Scott Mueller",
+      "Judea Pearl"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://ftp.cs.ucla.edu/pub/stat_ser/r530.pdf"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Judea Pearl. Probabilities of causation: Three counterfactual interpretations and their identification. Synthese, 121(1-2):93-149, 11 1999.",
+    "title": "Probabilities of causation: Three counterfactual interpretations and their identification",
+    "authors": [
+      "Judea Pearl"
+    ],
+    "venue": "Synthese",
+    "year": 1999,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Judea Pearl. Causality: Models, Reasoning, and Inference. Cambridge University Press, New York, NY, USA, 2nd edition, 2000. ISBN 978-0-521-89560-6.",
+    "title": "Causality: Models, Reasoning, and Inference",
+    "authors": [
+      "Judea Pearl"
+    ],
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Judea Pearl. Direct and indirect effects. In Proceedings of the Seventeenth Conference on Uncertainty in Artificial Intelligence, pp. 411-420. Morgan Kaufmann, San Francisco, CA, 2001.",
+    "title": "Direct and indirect effects",
+    "authors": [
+      "Judea Pearl"
+    ],
+    "venue": "Proceedings of the Seventeenth Conference on Uncertainty in Artificial Intelligence",
+    "year": 2001,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Judea Pearl and Dana Mackenzie. The Book of Why. Basic Books, New York, 2018. ISBN 978-0-465-09760-9.",
+    "title": "The Book of Why",
+    "authors": [
+      "Judea Pearl",
+      "Dana Mackenzie"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Judea Pearl, Madelyn Glymour, and Nicholas P Jewell. Causal inference in statistics: A Primer. John Wiley & Sons, 2016. ISBN 9781119186847.",
+    "title": "Causal inference in statistics: A Primer",
+    "authors": [
+      "Judea Pearl",
+      "Madelyn Glymour",
+      "Nicholas P Jewell"
+    ],
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Drago Plecko and Elias Bareinboim. Causal fairness analysis: A causal toolkit for fair machine learning. Foundations and Trends in Machine Learning, 17(3):304-589, Jan 2024.",
+    "title": "Causal fairness analysis: A causal toolkit for fair machine learning",
+    "authors": [
+      "Drago Plecko",
+      "Elias Bareinboim"
+    ],
+    "venue": "Foundations and Trends in Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Arvind Raghavan and Elias Bareinboim. Counterfactual realizability. Technical Report R-113, Causal Artificial Intelligence Lab, Columbia University, Mar 2025. URL https://causalai.net/ r113.pdf.",
+    "title": "Counterfactual realizability",
+    "authors": [
+      "Arvind Raghavan",
+      "Elias Bareinboim"
+    ],
+    "year": 2025,
+    "identifiers": {
+      "url": "https://causalai.net/r113.pdf"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Hans Reichenbach. The Direction of Time. University of California Press, Berkeley, 1956.",
+    "title": "The Direction of Time",
+    "authors": [
+      "Hans Reichenbach"
+    ],
+    "year": 1956,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Thomas S. Richardson and James M. Robins. Single world intervention graphs (SWIGs): A unification of the counterfactual and graphical approaches to causality. Working Paper 128, Center for the Statistics and the Social Sciences, 2013.",
+    "title": "Single world intervention graphs (SWIGs): A unification of the counterfactual and graphical approaches to causality",
+    "authors": [
+      "Thomas S Richardson",
+      "James M Robins"
+    ],
+    "venue": "Center for the Statistics and the Social Sciences",
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "James M Robins and Sander Greenland. Identifiability and Exchangeability for Direct and Indirect Effects. Epidemiology, 3(2):143-155, 1992.",
+    "title": "Identifiability and Exchangeability for Direct and Indirect Effects",
+    "authors": [
+      "M James",
+      "Sander Robins",
+      "Greenland"
+    ],
+    "venue": "Epidemiology",
+    "year": 1992,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Donald B Rubin. Direct and indirect causal effects via potential outcomes. Scandinavian Journal of Statistics, 31:161-170, 2004.",
+    "title": "Direct and indirect causal effects via potential outcomes",
+    "authors": [
+      "Donald B Rubin"
+    ],
+    "venue": "Scandinavian Journal of Statistics",
+    "year": 2004,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Babak Salimi, Luke Rodriguez, Bill Howe, and Dan Suciu. Interventional fairness: Causal database repair for algorithmic fairness. SIGMOD '19, pp. 793-810, New York, NY, USA, 2019. Association for Computing Machinery.",
+    "title": "Interventional fairness: Causal database repair for algorithmic fairness. SIGMOD '19",
+    "authors": [
+      "Babak Salimi",
+      "Luke Rodriguez",
+      "Bill Howe",
+      "Dan Suciu"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Ilya Shpitser. Complete Identification Methods for Causal Inference. PhD thesis, Computer Science Department, University of California, Los Angeles, CA, 4 2008.",
+    "title": "Complete Identification Methods for Causal Inference",
+    "authors": [
+      "Ilya Shpitser"
+    ],
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Ilya Shpitser and Judea Pearl. What Counterfactuals Can Be Tested. In Proceedings of the TwentyThird Conference on Uncertainty in Artificial Intelligence, pp. 352-359. AUAI Press, Vancouver, BC, Canada, 2007.",
+    "title": "What Counterfactuals Can Be Tested",
+    "authors": [
+      "Ilya Shpitser",
+      "Judea Pearl"
+    ],
+    "venue": "Proceedings of the TwentyThird Conference on Uncertainty in Artificial Intelligence",
+    "year": 2007,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Ilya Shpitser and Judea Pearl. Effects of Treatment on the Treated: Identification and Generalization. In Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence, Montreal, Quebec, 2009. AUAI Press.",
+    "title": "Effects of Treatment on the Treated: Identification and Generalization",
+    "authors": [
+      "Ilya Shpitser",
+      "Judea Pearl"
+    ],
+    "venue": "Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence",
+    "year": 2009,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Richard S Sutton and Andrew G Barto. Reinforcement learning: An introduction. MIT press, 1998.",
+    "title": "Reinforcement learning: An introduction",
+    "authors": [
+      "S Richard",
+      "Andrew G Sutton",
+      "Barto"
+    ],
+    "year": 1998,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Junzhe Zhang and Elias Bareinboim. Transfer learning in multi-armed bandits: A Causal approach. In IJCAI International Joint Conference on Artificial Intelligence, 2017. ISBN 9780999241103.",
+    "title": "Transfer learning in multi-armed bandits: A Causal approach",
+    "authors": [
+      "Junzhe Zhang",
+      "Elias Bareinboim"
+    ],
+    "venue": "IJCAI International Joint Conference on Artificial Intelligence",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Junzhe Zhang and Elias Bareinboim. Can humans be out of the loop? In Bernhard Schölkopf, Caroline Uhler, and Kun Zhang (eds.), Proceedings of the First Conference on Causal Learning and Reasoning, volume 177 of Proceedings of Machine Learning Research, pp. 1010-1025. PMLR, 11-13 Apr 2022.",
+    "title": "Can humans be out of the loop?",
+    "authors": [
+      "Junzhe Zhang",
+      "Elias Bareinboim"
+    ],
+    "venue": "Proceedings of the First Conference on Causal Learning and Reasoning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Junzhe Zhang, Jin Tian, and Elias Bareinboim. Partial counterfactual identification from observational and experimental data. In Kamalika Chaudhuri, Stefanie Jegelka, Le Song, Csaba Szepesvari, Gang Niu, and Sivan Sabato (eds.), Proceedings of the 39th International Conference on Machine Learning, volume 162 of Proceedings of Machine Learning Research, pp. 26548-26558. PMLR, 17-23 Jul 2022.",
+    "title": "Partial counterfactual identification from observational and experimental data",
+    "authors": [
+      "Junzhe Zhang",
+      "Jin Tian",
+      "Elias Bareinboim"
+    ],
+    "venue": "Proceedings of the 39th International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Shoshana Zuboff. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. 1st edition, 2018. ISBN 1610395697.",
+    "title": "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power",
+    "authors": [
+      "Shoshana Zuboff"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

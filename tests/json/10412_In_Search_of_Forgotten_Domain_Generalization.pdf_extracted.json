@@ -1,0 +1,1011 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Amro Abbas, Kushal Tirumala, Dániel Simig, Surya Ganguli, and Ari S Morcos. Semdedup: Data-efficient learning at web-scale through semantic deduplication. arXiv preprint, 2023. URL https://arxiv.org/abs/2303.09540.",
+    "title": "Semdedup: Data-efficient learning at web-scale through semantic deduplication",
+    "authors": [
+      "Amro Abbas",
+      "Kushal Tirumala",
+      "Dániel Simig",
+      "Surya Ganguli",
+      "Ari S Morcos"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2303.09540",
+      "url": "https://arxiv.org/abs/2303.09540"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Reza Abbasi, Mohammad Hossein Rohban, and Mahdieh Soleymani Baghshah. Deciphering the role of representation disentanglement: Investigating compositional generalization in clip models, 2024. URL https://arxiv.org/abs/2407.05897.",
+    "title": "Deciphering the role of representation disentanglement: Investigating compositional generalization in clip models",
+    "authors": [
+      "Reza Abbasi",
+      "Mohammad Hossein Rohban",
+      "Mahdieh Soleymani",
+      "Baghshah"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2407.05897",
+      "url": "https://arxiv.org/abs/2407.05897"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Martin Arjovsky. Out of Distribution Generalization in Machine Learning. arXiv preprint, 2021. URL https://arxiv.org/abs/2103.02667.",
+    "title": "Out of Distribution Generalization in Machine Learning",
+    "authors": [
+      "Martin Arjovsky"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "2103.02667",
+      "url": "https://arxiv.org/abs/2103.02667"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Martin Arjovsky, Léon Bottou, Ishaan Gulrajani, and David Lopez-Paz. Invariant Risk Minimization. arXiv preprint, 2019. URL https://arxiv.org/abs/1907.02893.",
+    "authors": [
+      "Martin Arjovsky",
+      "Léon Bottou",
+      "Ishaan Gulrajani",
+      "David Lopez-Paz"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "1907.02893",
+      "url": "https://arxiv.org/abs/1907.02893"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Zechen Bai, Yuta Nakashima, and Noa Garcia. Explain me the painting: Multi-topic knowledgeable art description generation. In CVPR, 2021.",
+    "title": "Explain me the painting: Multi-topic knowledgeable art description generation",
+    "authors": [
+      "Zechen Bai",
+      "Yuta Nakashima",
+      "Noa Garcia"
+    ],
+    "venue": "CVPR",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Andrei Barbu, David Mayo, Julian Alverio, William Luo, Christopher Wang, Dan Gutfreund, Josh Tenenbaum, and Boris Katz. Objectnet: A large-scale bias-controlled dataset for pushing the limits of object recognition models. Advances in neural information processing systems, 2019.",
+    "title": "Objectnet: A large-scale bias-controlled dataset for pushing the limits of object recognition models",
+    "authors": [
+      "Andrei Barbu",
+      "David Mayo",
+      "Julian Alverio",
+      "William Luo",
+      "Christopher Wang",
+      "Dan Gutfreund",
+      "Josh Tenenbaum",
+      "Boris Katz"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Shai Ben-David, Koby Crammer John Blitzer, Alex Kulesza, Fernando Pereira, and Jennifer Wortman Vaughan. theory of learning from different domains, 2010. URL https://doi.org/10. 1007/s10994-009-5152-4.",
+    "title": "theory of learning from different domains",
+    "authors": [
+      "Shai Ben-David",
+      "Koby Crammer",
+      "John Blitzer",
+      "Alex Kulesza",
+      "Fernando Pereira",
+      "Jennifer Wortman Vaughan"
+    ],
+    "year": 2010,
+    "identifiers": {
+      "url": "https://doi.org/10.1007/s"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Wei-Ta Chu and Yi-Ling Wu. Image style classification based on learnt deep correlation features. IEEE Transactions on Multimedia, 2018.",
+    "title": "Image style classification based on learnt deep correlation features",
+    "authors": [
+      "Wei-Ta Chu",
+      "Yi-Ling Wu"
+    ],
+    "venue": "IEEE Transactions on Multimedia",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Benjamin Cohen-Wang, Joshua Vendrow, and Aleksander Madry. Ask your distribution shift if pre-training is right for you. arXiv preprint, 2024a. URL https://arxiv.org/abs/2403. 00194. Benjamin Cohen-Wang, Joshua Vendrow, and Aleksander Madry. Ask your distribution shift if pre-training is right for you. arXiv preprint, 2024b. URL https://arxiv.org/abs/2403. 00194.",
+    "title": "Ask your distribution shift if pre-training is right for you",
+    "authors": [
+      "Benjamin Cohen-Wang",
+      "Joshua Vendrow",
+      "Aleksander Madry"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://arxiv.org/abs/2403.00194"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, et al. An image is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint, 2020. URL https://arxiv.org/abs/2010.11929.",
+    "title": "An image is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "Matthias Minderer",
+      "Georg Heigold",
+      "Sylvain Gelly"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "2010.11929",
+      "url": "https://arxiv.org/abs/2010.11929"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Alex Fang, Gabriel Ilharco, Mitchell Wortsman, Yuhao Wan, Vaishaal Shankar, Achal Dave, and Ludwig Schmidt. Data determines distributional robustness in contrastive language image pretraining (clip). In ICML, 2022.",
+    "title": "Data determines distributional robustness in contrastive language image pretraining (clip)",
+    "authors": [
+      "Alex Fang",
+      "Gabriel Ilharco",
+      "Mitchell Wortsman",
+      "Yuhao Wan",
+      "Vaishaal Shankar",
+      "Achal Dave",
+      "Ludwig Schmidt"
+    ],
+    "venue": "ICML",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Noa Garcia and George Vogiatzis. How to read paintings: semantic art understanding with multimodal retrieval. In ECCV, 2018.",
+    "title": "How to read paintings: semantic art understanding with multimodal retrieval",
+    "authors": [
+      "Noa Garcia",
+      "George Vogiatzis"
+    ],
+    "venue": "ECCV",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge. A neural algorithm of artistic style. ArXiv, 2015. URL https://api.semanticscholar.org/CorpusID:13914930.",
+    "title": "A neural algorithm of artistic style",
+    "authors": [
+      "Leon A Gatys",
+      "Alexander S Ecker",
+      "Matthias Bethge"
+    ],
+    "venue": "ArXiv",
+    "year": 2015,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Robert Geirhos, Carlos R. Medina Temme, Jonas Rauber, Heiko H. Schütt, Matthias Bethge, and Felix A. Wichmann. Generalisation in humans and deep neural networks. In NeurIPS, 2018.",
+    "title": "Generalisation in humans and deep neural networks",
+    "authors": [
+      "Robert Geirhos",
+      "Carlos R Medina Temme",
+      "Jonas Rauber",
+      "H Heiko",
+      "Matthias Schütt",
+      "Felix A Bethge",
+      "Wichmann"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Robert Geirhos, Patricia Rubisch, Claudio Michaelis, Matthias Bethge, Felix A. Wichmann, and Wieland Brendel. Imagenet-trained cnns are biased towards texture; increasing shape bias improves accuracy and robustness. In ICLR, 2019.",
+    "title": "Imagenet-trained cnns are biased towards texture; increasing shape bias improves accuracy and robustness",
+    "authors": [
+      "Robert Geirhos",
+      "Patricia Rubisch",
+      "Claudio Michaelis",
+      "Matthias Bethge",
+      "Felix A Wichmann",
+      "Wieland Brendel"
+    ],
+    "venue": "ICLR",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Robert Geirhos, Jörn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge, and Felix A. Wichmann. Shortcut learning in deep neural networks. Nature Machine Intelligence, 2(11):665-673, November 2020. ISSN 2522-5839. doi: 10.1038/s42256-020-00257-z. URL http://dx.doi.org/10.1038/s42256-020-00257-z.",
+    "title": "Shortcut learning in deep neural networks",
+    "authors": [
+      "Robert Geirhos",
+      "Jörn-Henrik Jacobsen",
+      "Claudio Michaelis",
+      "Richard Zemel",
+      "Wieland Brendel",
+      "Matthias Bethge",
+      "Felix A Wichmann"
+    ],
+    "venue": "Nature Machine Intelligence",
+    "year": 2020,
+    "identifiers": {
+      "doi": "10.1038/s42256-020-00257",
+      "url": "http://dx.doi.org/10.1038/s42256-020-00257-z"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Ishaan Gulrajani and David Lopez-Paz. In search of lost domain generalization. In ICLR, 2021.",
+    "title": "In search of lost domain generalization",
+    "authors": [
+      "Ishaan Gulrajani",
+      "David Lopez-Paz"
+    ],
+    "venue": "ICLR",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Dan Hendrycks, Steven Basart, Norman Mu, Saurav Kadavath, Frank Wang, Evan Dorundo, Rahul Desai, Tyler Zhu, Samyak Parajuli, Mike Guo, Dawn Song, Jacob Steinhardt, and Justin Gilmer. The many faces of robustness: A critical analysis of out-of-distribution generalization. In ICCV, 2021a.",
+    "title": "The many faces of robustness: A critical analysis of out-of-distribution generalization",
+    "authors": [
+      "Dan Hendrycks",
+      "Steven Basart",
+      "Norman Mu",
+      "Saurav Kadavath",
+      "Frank Wang",
+      "Evan Dorundo",
+      "Rahul Desai",
+      "Tyler Zhu",
+      "Samyak Parajuli",
+      "Mike Guo",
+      "Dawn Song",
+      "Jacob Steinhardt",
+      "Justin Gilmer"
+    ],
+    "venue": "ICCV",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Dan Hendrycks, Kevin Zhao, Steven Basart, Jacob Steinhardt, and Dawn Song. Natural adversarial examples. In CVPR, 2021b.",
+    "title": "Natural adversarial examples",
+    "authors": [
+      "Dan Hendrycks",
+      "Kevin Zhao",
+      "Steven Basart",
+      "Jacob Steinhardt",
+      "Dawn Song"
+    ],
+    "venue": "CVPR",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Gabriel Ilharco, Mitchell Wortsman, Ross Wightman, Cade Gordon, Nicholas Carlini, Rohan Taori, Achal Dave, Vaishaal Shankar, Hongseok Namkoong, John Miller, Hannaneh Hajishirzi, Ali Farhadi, and Ludwig Schmidt. Openclip, July 2021. URL https://doi.org/10.5281/ zenodo.5143773. If you use this software, please cite it as below.",
+    "authors": [
+      "Gabriel Ilharco",
+      "Mitchell Wortsman",
+      "Ross Wightman",
+      "Cade Gordon",
+      "Nicholas Carlini",
+      "Rohan Taori",
+      "Achal Dave",
+      "Vaishaal Shankar",
+      "Hongseok Namkoong",
+      "John Miller",
+      "Hannaneh Hajishirzi",
+      "Ali Farhadi",
+      "Ludwig Schmidt",
+      "Openclip"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.5281/zenodo.5143773",
+      "url": "https://doi.org/10.5281/zenodo.5143773"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Akshay Joshi, Ankit Agrawal, and Sushmita Nair. Art style classification with self-trained ensemble of autoencoding transformations. arXiv preprint, 2020. URL https://arxiv.org/abs/ 2012.03377.",
+    "title": "Art style classification with self-trained ensemble of autoencoding transformations",
+    "authors": [
+      "Akshay Joshi",
+      "Ankit Agrawal",
+      "Sushmita Nair"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "2012.03377",
+      "url": "https://arxiv.org/abs/2012.03377"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Pang Wei Koh, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard Lanas Phillips, Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, Sergey Levine, Chelsea Finn, and Percy Liang. Wilds: A benchmark of in-the-wild distribution shifts, 2021. URL https://arxiv.org/abs/2012.07421.",
+    "title": "Wilds: A benchmark of in-the-wild distribution shifts",
+    "authors": [
+      "Pang Wei Koh",
+      "Shiori Sagawa",
+      "Henrik Marklund",
+      "Sang Michael Xie",
+      "Marvin Zhang",
+      "Akshay Balsubramani",
+      "Weihua Hu",
+      "Michihiro Yasunaga",
+      "Richard Lanas Phillips",
+      "Irena Gao",
+      "Tony Lee",
+      "Etienne David",
+      "Ian Stavness",
+      "Wei Guo",
+      "Berton A Earnshaw",
+      "Imran S Haque",
+      "Sara Beery",
+      "Jure Leskovec",
+      "Anshul Kundaje",
+      "Emma Pierson",
+      "Sergey Levine",
+      "Chelsea Finn",
+      "Percy Liang"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "2012.07421",
+      "url": "https://arxiv.org/abs/2012.07421"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Xuanlin Li, Yunhao Fang, Minghua Liu, Zhan Ling, Zhuowen Tu, and Hao Su. Distilling large vision-language model with out-of-distribution generalizability, 2023. URL https://arxiv. org/abs/2307.03135.",
+    "title": "Distilling large vision-language model with out-of-distribution generalizability",
+    "authors": [
+      "Xuanlin Li",
+      "Yunhao Fang",
+      "Minghua Liu",
+      "Zhan Ling",
+      "Zhuowen Tu",
+      "Hao Su"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2307.03135",
+      "url": "https://arxiv.org/abs/2307.03135"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Haotian Liu, Chunyuan Li, Qingyang Wu, and Yong Jae Lee. Visual instruction tuning. In NeurIPS, 2023a.",
+    "title": "Visual instruction tuning",
+    "authors": [
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Qingyang Wu",
+      "Yong Jae Lee"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Jiashuo Liu, Zheyan Shen, Yue He, Xingxuan Zhang, Renzhe Xu, Han Yu, and Peng Cui. Towards out-of-distribution generalization: A survey, 2023b. URL https://arxiv.org/abs/2108. 13624. Zhuang Liu and Kaiming He. A decade's battle on dataset bias: Are we there yet? arXiv preprint, 2024. URL https://arxiv.org/abs/2403.08632.",
+    "title": "Towards out-of-distribution generalization: A survey",
+    "authors": [
+      "Jiashuo Liu",
+      "Zheyan Shen",
+      "Yue He",
+      "Xingxuan Zhang",
+      "Renzhe Xu",
+      "Han Yu",
+      "Peng Cui"
+    ],
+    "venue": "Zhuang Liu and Kaiming He. A decade's battle on dataset bias: Are we there yet? arXiv preprint",
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2403.08632",
+      "url": "https://arxiv.org/abs/2403.08632"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Spandan Madan, Timothy Henry, Jamell Dozier, Helen Ho, Nishchal Bhandari, Tomotake Sasaki, Frédo Durand, Hanspeter Pfister, and Xavier Boix. When and how cnns generalize to out-ofdistribution category-viewpoint combinations, 2021. URL https://arxiv.org/abs/2007. 08032.",
+    "title": "When and how cnns generalize to out-ofdistribution category-viewpoint combinations",
+    "authors": [
+      "Spandan Madan",
+      "Timothy Henry",
+      "Jamell Dozier",
+      "Helen Ho",
+      "Nishchal Bhandari",
+      "Tomotake Sasaki",
+      "Frédo Durand",
+      "Hanspeter Pfister",
+      "Xavier Boix"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "url": "https://arxiv.org/abs/2007.08032"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Spandan Madan, Li You, Mengmi Zhang, Hanspeter Pfister, and Gabriel Kreiman. What makes domain generalization hard? arXiv preprint arXiv:2206.07802, 2022.",
+    "title": "What makes domain generalization hard",
+    "authors": [
+      "Spandan Madan",
+      "Li You",
+      "Mengmi Zhang",
+      "Hanspeter Pfister",
+      "Gabriel Kreiman"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2206.07802"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Prasanna Mayilvahanan, Thaddäus Wiedemer, Evgenia Rusak, Matthias Bethge, and Wieland Brendel. Does clip's generalization performance mainly stem from high train-test similarity? arXiv preprint, 2023. URL https://arxiv.org/abs/2310.09562.",
+    "title": "Does clip's generalization performance mainly stem from high train-test similarity? arXiv preprint",
+    "authors": [
+      "Prasanna Mayilvahanan",
+      "Thaddäus Wiedemer",
+      "Evgenia Rusak",
+      "Matthias Bethge",
+      "Wieland Brendel"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2310.09562",
+      "url": "https://arxiv.org/abs/2310.09562"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Orfeas Menis-Mastromichalakis, Natasa Sofou, and Giorgos Stamou. Deep ensemble art style recognition. In 2020 International Joint Conference on Neural Networks (IJCNN), 2020.",
+    "title": "Deep ensemble art style recognition",
+    "authors": [
+      "Orfeas Menis-Mastromichalakis",
+      "Natasa Sofou",
+      "Giorgos Stamou"
+    ],
+    "venue": "2020 International Joint Conference on Neural Networks (IJCNN)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "John P Miller, Rohan Taori, Aditi Raghunathan, Shiori Sagawa, Pang Wei Koh, Vaishaal Shankar, Percy Liang, Yair Carmon, and Ludwig Schmidt. Accuracy on the line: on the strong correlation between out-of-distribution and in-distribution generalization. In ICML, 2021.",
+    "title": "Accuracy on the line: on the strong correlation between out-of-distribution and in-distribution generalization",
+    "authors": [
+      "Rohan John P Miller",
+      "Aditi Taori",
+      "Shiori Raghunathan",
+      "Pang Sagawa",
+      "Vaishaal Wei Koh",
+      "Percy Shankar",
+      "Yair Liang",
+      "Ludwig Carmon",
+      "Schmidt"
+    ],
+    "venue": "ICML",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Bac Nguyen, Stefan Uhlich, Fabien Cardinaux, Lukas Mauch, Marzieh Edraki, and Aaron Courville. Saft: Towards out-of-distribution generalization in fine-tuning, 2024. URL https://arxiv. org/abs/2407.03036.",
+    "title": "Saft: Towards out-of-distribution generalization in fine-tuning",
+    "authors": [
+      "Bac Nguyen",
+      "Stefan Uhlich",
+      "Fabien Cardinaux",
+      "Lukas Mauch",
+      "Marzieh Edraki",
+      "Aaron Courville"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2407.03036",
+      "url": "https://arxiv.org/abs/2407.03036"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Thao Nguyen, Gabriel Ilharco, Mitchell Wortsman, Sewoong Oh, and Ludwig Schmidt. Quality not quantity: On the interaction between dataset design and robustness of clip. NeurIPS, 2022.",
+    "title": "Quality not quantity: On the interaction between dataset design and robustness of clip",
+    "authors": [
+      "Thao Nguyen",
+      "Gabriel Ilharco",
+      "Mitchell Wortsman",
+      "Sewoong Oh",
+      "Ludwig Schmidt"
+    ],
+    "venue": "NeurIPS",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "OpenAI. Gpt-4 technical report. arXiv preprint, 2023. URL https://arxiv.org/abs/2303. 08774.",
+    "title": "OpenAI. Gpt-4 technical report",
+    "authors": [],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://arxiv.org/abs/2303.08774"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Xingchao Peng, Qinxun Bai, Xide Xia, Zijun Huang, Kate Saenko, and Bo Wang. Moment matching for multi-source domain adaptation. In ICCV, 2019.",
+    "title": "Moment matching for multi-source domain adaptation",
+    "authors": [
+      "Xingchao Peng",
+      "Qinxun Bai",
+      "Xide Xia",
+      "Zijun Huang",
+      "Kate Saenko",
+      "Bo Wang"
+    ],
+    "venue": "ICCV",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, et al. Learning transferable visual models from natural language supervision. In ICML, 2021.",
+    "title": "Learning transferable visual models from natural language supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "Aditya Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark"
+    ],
+    "venue": "ICML",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, and Mark Chen. Hierarchical textconditional image generation with clip latents. arXiv preprint, 2022. URL https://arxiv. org/abs/2204.06125.",
+    "title": "Hierarchical textconditional image generation with clip latents",
+    "authors": [
+      "Aditya Ramesh",
+      "Prafulla Dhariwal",
+      "Alex Nichol",
+      "Casey Chu",
+      "Mark Chen"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "2204.06125",
+      "url": "https://arxiv.org/abs/2204.06125"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, and Vaishaal Shankar. Do imagenet classifiers generalize to imagenet? In ICML, 2019.",
+    "title": "Do imagenet classifiers generalize to imagenet",
+    "authors": [
+      "Benjamin Recht",
+      "Rebecca Roelofs",
+      "Ludwig Schmidt",
+      "Vaishaal Shankar"
+    ],
+    "venue": "ICML",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Evgenia Rusak, Steffen Schneider, Peter Vincent Gehler, Oliver Bringmann, Wieland Brendel, and Matthias Bethge. Imagenet-d: A new challenging robustness dataset inspired by domain adaptation. In ICML 2022 Shift Happens Workshop, 2022. URL https://openreview.net/forum? id=LiC2vmzbpMO.",
+    "title": "Imagenet-d: A new challenging robustness dataset inspired by domain adaptation",
+    "authors": [
+      "Evgenia Rusak",
+      "Steffen Schneider",
+      "Peter Vincent Gehler",
+      "Oliver Bringmann",
+      "Wieland Brendel",
+      "Matthias Bethge"
+    ],
+    "venue": "ICML 2022 Shift Happens Workshop",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=LiC2vmzbpMO"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, et al. Imagenet large scale visual recognition challenge. International journal of computer vision, 2015.",
+    "title": "Imagenet large scale visual recognition challenge",
+    "authors": [
+      "Olga Russakovsky",
+      "Jia Deng",
+      "Hao Su",
+      "Jonathan Krause",
+      "Sanjeev Satheesh",
+      "Sean Ma",
+      "Zhiheng Huang",
+      "Andrej Karpathy",
+      "Aditya Khosla",
+      "Michael Bernstein"
+    ],
+    "venue": "International journal of computer vision",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Catherine Sandoval, Elena Pirogova, and Margaret Lech. Two-stage deep learning approach to the classification of fine-art paintings. IEEE Access, 2019.",
+    "title": "Two-stage deep learning approach to the classification of fine-art paintings",
+    "authors": [
+      "Catherine Sandoval",
+      "Elena Pirogova",
+      "Margaret Lech"
+    ],
+    "venue": "IEEE Access",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Catherine Sandoval Rodriguez, Margaret Lech, and Elena Pirogova. Classification of style in fineart paintings using transfer learning and weighted image patches. In 2018 12th International Conference on Signal Processing and Communication Systems (ICSPCS), 2018.",
+    "title": "Classification of style in fineart paintings using transfer learning and weighted image patches",
+    "authors": [
+      "Catherine Sandoval Rodriguez",
+      "Margaret Lech",
+      "Elena Pirogova"
+    ],
+    "venue": "2018 12th International Conference on Signal Processing and Communication Systems (ICSPCS)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Christoph Schuhmann, Richard Vencu, Romain Beaumont, Robert Kaczmarczyk, Clayton Mullis, Aarush Katta, Theo Coombes, Jenia Jitsev, and Aran Komatsuzaki. Laion-400m: Open dataset of clip-filtered 400 million image-text pairs. arXiv preprint, 2021. URL https://arxiv.org/ abs/2111.02114.",
+    "title": "Laion-400m: Open dataset of clip-filtered 400 million image-text pairs",
+    "authors": [
+      "Christoph Schuhmann",
+      "Richard Vencu",
+      "Romain Beaumont",
+      "Robert Kaczmarczyk",
+      "Clayton Mullis",
+      "Aarush Katta",
+      "Theo Coombes",
+      "Jenia Jitsev",
+      "Aran Komatsuzaki"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "2111.02114",
+      "url": "https://arxiv.org/abs/2111.02114"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "John Schulman, Barret Zoph, Christina Kim, Jacob Hilton, Jacob Menick, Jiayi Weng, Juan Felipe Ceron Uribe, Liam Fedus, Luke Metz, Michael Pokorny, Rapha Gontijo Lopes, Shengjia Zhao, Arun Vijayvergiya, Eric Sigler, Adam Perelman, Chelsea Voss, Mike Heaton, Joel Parish, Dave Cummings, Rajeev Nayak, Valerie Balcom, David Schnurr, Tomer Kaftan, Chris Hallacy, Nicholas Turley, Noah Deutsch, Vik Goel, Jonathan Ward, Aris Konstantinidis, Wojciech Zaremba, Long Ouyang, Leonard Bogdonoff, Joshua Gross, David Medina, Sarah Yoo, Teddy Lee, Ryan Lowe, Dan Mossing, Joost Huizinga, Roger Jiang, Carroll Wainwright, Diogo Almeida, Steph Lin, Marvin Zhang, Kai Xiao, Katarina Slama, Steven Bills, Alex Gray, Jan Leike, Jakub Pachocki, Phil Tillet, Shantanu Jain, Greg Brockman, Nick Ryder, Alex Paino, Qiming Yuan, Clemens Winter, Ben Wang, Mo Bavarian, Igor Babuschkin, Szymon Sidor, Ingmar Kanitscheider, Mikhail Pavlov, Matthias Plappert, Nik Tezak, Heewoo Jun, William Zhuk, Vitchyr Pong, Lukasz Kaiser, Jerry Tworek, Andrew Carr, Lilian Weng, Sandhini Agarwal, Karl Cobbe, Vineet Kosaraju, Alethea Power, Stanislas Polu, Jesse Han, Raul Puri, Shawn Jain, Benjamin Chess, Christian Gibson, Oleg Boiko, Emy Parparita, Amin Tootoonchian, Kyle Kosic, and Christopher Hesse. Chatgpt. https://openai.com/blog/chatgpt, 2022. Accessed: 2023-05-13.",
+    "authors": [
+      "John Schulman",
+      "Barret Zoph",
+      "Christina Kim",
+      "Jacob Hilton",
+      "Jacob Menick",
+      "Jiayi Weng",
+      "Juan Felipe Ceron Uribe",
+      "Liam Fedus",
+      "Luke Metz",
+      "Michael Pokorny",
+      "Rapha Gontijo Lopes",
+      "Shengjia Zhao",
+      "Arun Vijayvergiya",
+      "Eric Sigler",
+      "Adam Perelman",
+      "Chelsea Voss",
+      "Mike Heaton",
+      "Joel Parish",
+      "Dave Cummings",
+      "Rajeev Nayak",
+      "Valerie Balcom",
+      "David Schnurr",
+      "Tomer Kaftan",
+      "Chris Hallacy",
+      "Nicholas Turley",
+      "Noah Deutsch",
+      "Vik Goel",
+      "Jonathan Ward",
+      "Aris Konstantinidis",
+      "Wojciech Zaremba",
+      "Long Ouyang",
+      "Leonard Bogdonoff",
+      "Joshua Gross",
+      "David Medina",
+      "Sarah Yoo",
+      "Teddy Lee",
+      "Ryan Lowe",
+      "Dan Mossing",
+      "Joost Huizinga",
+      "Roger Jiang",
+      "Carroll Wainwright",
+      "Diogo Almeida",
+      "Steph Lin",
+      "Marvin Zhang",
+      "Kai Xiao",
+      "Katarina Slama",
+      "Steven Bills",
+      "Alex Gray",
+      "Jan Leike",
+      "Jakub Pachocki",
+      "Phil Tillet",
+      "Shantanu Jain",
+      "Greg Brockman",
+      "Nick Ryder",
+      "Alex Paino",
+      "Qiming Yuan",
+      "Clemens Winter",
+      "Ben Wang",
+      "Mo Bavarian",
+      "Igor Babuschkin",
+      "Szymon Sidor",
+      "Ingmar Kanitscheider",
+      "Mikhail Pavlov",
+      "Matthias Plappert",
+      "Nik Tezak",
+      "Heewoo Jun",
+      "William Zhuk",
+      "Vitchyr Pong",
+      "Lukasz Kaiser",
+      "Jerry Tworek",
+      "Andrew Carr",
+      "Lilian Weng",
+      "Sandhini Agarwal",
+      "Karl Cobbe",
+      "Vineet Kosaraju",
+      "Alethea Power",
+      "Stanislas Polu",
+      "Jesse Han",
+      "Raul Puri",
+      "Shawn Jain",
+      "Benjamin Chess",
+      "Christian Gibson",
+      "Oleg Boiko",
+      "Emy Parparita",
+      "Amin Tootoonchian",
+      "Kyle Kosic",
+      "Christopher Hesse"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "url": "https://openai.com/blog/chatgpt"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Yang Shu, Xingzhuo Guo, Jialong Wu, Ximei Wang, Jianmin Wang, and Mingsheng Long. Clipood: Generalizing clip to out-of-distributions, 2023. URL https://arxiv.org/abs/2302. 00864. Gowthami Somepalli, Anubhav Gupta, Kamal Gupta, Shramay Palta, Micah Goldblum, Jonas Geiping, Abhinav Shrivastava, and Tom Goldstein. Measuring style similarity in diffusion models. arXiv preprint, 2024. URL https://arxiv.org/abs/2404.01292.",
+    "title": "Clipood: Generalizing clip to out-of-distributions",
+    "authors": [
+      "Yang Shu",
+      "Xingzhuo Guo",
+      "Jialong Wu",
+      "Ximei Wang",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "venue": "Measuring style similarity in diffusion models",
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2404.01292",
+      "url": "https://arxiv.org/abs/2404.01292"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Rohan Taori, Achal Dave, Vaishaal Shankar, Nicholas Carlini, Benjamin Recht, and Ludwig Schmidt. Measuring robustness to natural distribution shifts in image classification. NeurIPS, 2020.",
+    "title": "Measuring robustness to natural distribution shifts in image classification",
+    "authors": [
+      "Rohan Taori",
+      "Achal Dave",
+      "Vaishaal Shankar",
+      "Nicholas Carlini",
+      "Benjamin Recht",
+      "Ludwig Schmidt"
+    ],
+    "venue": "NeurIPS",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Haohan Wang, Songwei Ge, Zachary C. Lipton, and Eric P. Xing. Learning robust global representations by penalizing local predictive power. In NeurIPS, 2019.",
+    "title": "Learning robust global representations by penalizing local predictive power",
+    "authors": [
+      "Haohan Wang",
+      "Songwei Ge",
+      "Zachary C Lipton",
+      "Eric P Xing"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Jindong Wang, Cuiling Lan, Chang Liu, Yidong Ouyang, and Tao Qin. Generalizing to unseen domains: A survey on domain generalization. In IJCAI, 2021.",
+    "title": "Generalizing to unseen domains: A survey on domain generalization",
+    "authors": [
+      "Jindong Wang",
+      "Cuiling Lan",
+      "Chang Liu",
+      "Yidong Ouyang",
+      "Tao Qin"
+    ],
+    "venue": "IJCAI",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Sheng-Yu Wang, Alexei A Efros, Jun-Yan Zhu, and Richard Zhang. Evaluating data attribution for text-to-image models. In CVPR, 2023.",
+    "title": "Evaluating data attribution for text-to-image models",
+    "authors": [
+      "Sheng-Yu Wang",
+      "Alexei A Efros",
+      "Jun-Yan Zhu",
+      "Richard Zhang"
+    ],
+    "venue": "CVPR",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Ross Wightman, Hugo Touvron, and Hervé Jégou. Resnet strikes back: An improved training procedure in timm. arXiv e-prints, 2021.",
+    "title": "Resnet strikes back: An improved training procedure in timm",
+    "authors": [
+      "Ross Wightman",
+      "Hugo Touvron",
+      "Hervé Jégou"
+    ],
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Yihao Xue, Siddharth Joshi, Dang Nguyen, and Baharan Mirzasoleiman. Understanding the robustness of multi-modal contrastive learning to distribution shift. In ICLR, 2024.",
+    "title": "Understanding the robustness of multi-modal contrastive learning to distribution shift",
+    "authors": [
+      "Yihao Xue",
+      "Siddharth Joshi",
+      "Dang Nguyen",
+      "Baharan Mirzasoleiman"
+    ],
+    "venue": "ICLR",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

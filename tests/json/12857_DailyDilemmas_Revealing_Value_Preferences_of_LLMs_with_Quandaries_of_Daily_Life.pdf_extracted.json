@@ -1,0 +1,904 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Anthropic. Claude's Constitution. https://www.anthropic.com/news/ claudes-constitution, 2024. Published: 2024-05-09; Accessed: 2024-05-19.",
+    "title": "Claude's Constitution",
+    "authors": [
+      "Anthropic"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://www.anthropic.com/news/claudes-constitution"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Arnav Arora, Lucie-aimée Kaffee, and Isabelle Augenstein. Probing pre-trained language models for cross-cultural differences in values. In Sunipa Dev, Vinodkumar Prabhakaran, David Adelani, Dirk Hovy, and Luciana Benotti (eds.), Proceedings of the First Workshop on CrossCultural Considerations in NLP (C3NLP), pp. 114-130, Dubrovnik, Croatia, May 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023.c3nlp-1.12. URL https: //aclanthology.org/2023.c3nlp-1.12.",
+    "title": "Probing pre-trained language models for cross-cultural differences in values",
+    "authors": [
+      "Arnav Arora",
+      "Lucie-Aimée Kaffee",
+      "Isabelle Augenstein"
+    ],
+    "venue": "Proceedings of the First Workshop on CrossCultural Considerations in NLP (C3NLP)",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.c3nlp-1.12",
+      "url": "https://aclanthology.org/2023.c3nlp-1.12"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Isaac Asimov. I, robot, volume 1. Spectra, 2004.",
+    "title": "I, Robot, Volume 1",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "year": 2004,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Amanda Askell. Pareto principles in infinite ethics. 2018.",
+    "title": "Pareto principles in infinite ethics",
+    "authors": [
+      "Amanda Askell"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Amanda Askell, Yuntao Bai, Anna Chen, Dawn Drain, Deep Ganguli, Tom Henighan, Andy Jones, Nicholas Joseph, Ben Mann, Nova DasSarma, et al. A general language assistant as a laboratory for alignment. arXiv preprint arXiv:2112.00861, 2021.",
+    "title": "A general language assistant as a laboratory for alignment",
+    "authors": [
+      "Amanda Askell",
+      "Yuntao Bai",
+      "Anna Chen",
+      "Dawn Drain",
+      "Deep Ganguli",
+      "Tom Henighan",
+      "Andy Jones",
+      "Nicholas Joseph",
+      "Ben Mann",
+      "Nova Dassarma"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2112.00861"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort, Deep Ganguli, Tom Henighan, Nicholas Joseph, Saurav Kadavath, Jackson Kernion, Tom Conerly, Sheer El-Showk, Nelson Elhage, Zac Hatfield-Dodds, Danny Hernandez, Tristan Hume, Scott Johnston, Shauna Kravec, Liane Lovitt, Neel Nanda, Catherine Olsson, Dario Amodei, Tom Brown, Jack Clark, Sam McCandlish, Chris Olah, Ben Mann, and Jared Kaplan. Training a helpful and harmless assistant with reinforcement learning from human feedback, 2022. Jeremy Bentham and John Stuart Mill. Utilitarianism and other essays. Penguin UK, 2004.",
+    "title": "Training a helpful and harmless assistant with reinforcement learning from human feedback",
+    "authors": [
+      "Yuntao Bai",
+      "Andy Jones",
+      "Kamal Ndousse",
+      "Amanda Askell",
+      "Anna Chen",
+      "Nova Dassarma",
+      "Dawn Drain",
+      "Stanislav Fort",
+      "Deep Ganguli",
+      "Tom Henighan",
+      "Nicholas Joseph",
+      "Saurav Kadavath",
+      "Jackson Kernion",
+      "Tom Conerly",
+      "Sheer El-Showk",
+      "Nelson Elhage",
+      "Zac Hatfield-Dodds",
+      "Danny Hernandez",
+      "Tristan Hume",
+      "Scott Johnston",
+      "Shauna Kravec",
+      "Liane Lovitt",
+      "Neel Nanda",
+      "Catherine Olsson",
+      "Dario Amodei",
+      "Tom Brown",
+      "Jack Clark",
+      "Sam Mccandlish",
+      "Chris Olah",
+      "Ben Mann",
+      "Jared Kaplan"
+    ],
+    "venue": "Jeremy Bentham and John Stuart Mill. Utilitarianism and other essays. Penguin UK",
+    "year": 2004,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Steven Bird, Ewan Klein, and Edward Loper. Natural language processing with Python: analyzing text with the natural language toolkit. \" O'Reilly Media, Inc.\", 2009.",
+    "title": "Natural language processing with Python: analyzing text with the natural language toolkit",
+    "authors": [
+      "Steven Bird",
+      "Ewan Klein",
+      "Edward Loper"
+    ],
+    "year": 2009,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Nick Bostrom. Infinite ethics. Analysis and Metaphysics, (10):9-59, 2011.",
+    "title": "Infinite ethics",
+    "authors": [
+      "Nick Bostrom"
+    ],
+    "venue": "Analysis and Metaphysics",
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Yong Cao, Li Zhou, Seolhwa Lee, Laura Cabello, Min Chen, and Daniel Hershcovich. Assessing cross-cultural alignment between ChatGPT and human societies: An empirical study. In Sunipa Dev, Vinodkumar Prabhakaran, David Adelani, Dirk Hovy, and Luciana Benotti (eds.), Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP), pp. 53-67, Dubrovnik, Croatia, May 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023.c3nlp-1.7. URL https://aclanthology.org/2023.c3nlp-1.7.",
+    "title": "Assessing cross-cultural alignment between ChatGPT and human societies: An empirical study",
+    "authors": [
+      "Yong Cao",
+      "Li Zhou",
+      "Seolhwa Lee",
+      "Laura Cabello",
+      "Min Chen",
+      "Daniel Hershcovich"
+    ],
+    "venue": "Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP)",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.c3nlp-1.7",
+      "url": "https://aclanthology.org/2023.c3nlp-1.7"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Lisa Dunlap, Krishna Mandal, Trevor Darrell, Jacob Steinhardt, and Joseph E Gonzalez. Vibecheck: Discover and quantify qualitative differences in large language models. arXiv preprint arXiv:2410.12851, 2024.",
+    "title": "Discover and quantify qualitative differences in large language models",
+    "authors": [
+      "Lisa Dunlap",
+      "Krishna Mandal",
+      "Trevor Darrell",
+      "Jacob Steinhardt",
+      "Joseph E Gonzalez",
+      "Vibecheck"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2410.12851"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Esin Durmus, Karina Nguyen, Thomas I Liao, Nicholas Schiefer, Amanda Askell, Anton Bakhtin, Carol Chen, Zac Hatfield-Dodds, Danny Hernandez, Nicholas Joseph, et al. Towards measuring the representation of subjective global opinions in language models. arXiv preprint arXiv:2306.16388, 2023.",
+    "title": "Towards measuring the representation of subjective global opinions in language models",
+    "authors": [
+      "Esin Durmus",
+      "Karina Nguyen",
+      "Thomas I Liao",
+      "Nicholas Schiefer",
+      "Amanda Askell",
+      "Anton Bakhtin",
+      "Carol Chen",
+      "Zac Hatfield-Dodds",
+      "Danny Hernandez",
+      "Nicholas Joseph"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.16388"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Kawin Ethayarajh, Yejin Choi, and Swabha Swayamdipta. Understanding dataset difficulty with v-usable information. In International Conference on Machine Learning, pp. 5988-6008. PMLR, 2022.",
+    "title": "Understanding dataset difficulty with v-usable information",
+    "authors": [
+      "Kawin Ethayarajh",
+      "Yejin Choi",
+      "Swabha Swayamdipta"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Maxwell Forbes, Jena D Hwang, Vered Shwartz, Maarten Sap, and Yejin Choi. Social chemistry 101: Learning to reason about social and moral norms. arXiv preprint arXiv:2011.00620, 2020.",
+    "title": "Learning to reason about social and moral norms",
+    "authors": [
+      "Maxwell Forbes",
+      "Jena D Hwang",
+      "Vered Shwartz",
+      "Maarten Sap",
+      "Yejin Choi"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2011.00620"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Jesse Graham, Jonathan Haidt, Sena Koleva, Matt Motyl, Ravi Iyer, Sean P Wojcik, and Peter H Ditto. Moral foundations theory: The pragmatic validity of moral pluralism. In Advances in experimental social psychology, volume 47, pp. 55-130. Elsevier, 2013.",
+    "title": "Moral foundations theory: The pragmatic validity of moral pluralism",
+    "authors": [
+      "Jesse Graham",
+      "Jonathan Haidt",
+      "Sena Koleva",
+      "Matt Motyl",
+      "Ravi Iyer",
+      "Sean P Wojcik",
+      "Peter H Ditto"
+    ],
+    "venue": "Advances in experimental social psychology",
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Dan Hendrycks, Collin Burns, Steven Basart, Andrew Critch, Jerry Li, Dawn Song, and Jacob Steinhardt. Aligning ai with shared human values. arXiv preprint arXiv:2008.02275, 2020.",
+    "title": "Aligning ai with shared human values",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Steven Basart",
+      "Andrew Critch",
+      "Jerry Li",
+      "Dawn Song",
+      "Jacob Steinhardt"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2008.02275"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Rosalind Hursthouse and Glen Pettigrove. Virtue Ethics. In Edward N. Zalta and Uri Nodelman (eds.), The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University, Winter 2018 edition, 2018.",
+    "title": "Virtue Ethics",
+    "authors": [
+      "Rosalind Hursthouse",
+      "Glen Pettigrove"
+    ],
+    "venue": "The Stanford Encyclopedia of Philosophy",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Liwei Jiang, Jena D Hwang, Chandra Bhagavatula, Ronan Le Bras, Jenny Liang, Jesse Dodge, Keisuke Sakaguchi, Maxwell Forbes, Jon Borchardt, Saadia Gabriel, et al. Can machines learn morality? the delphi experiment. arXiv preprint arXiv:2110.07574, 2021.",
+    "title": "Can machines learn morality? the delphi experiment",
+    "authors": [
+      "Liwei Jiang",
+      "Jena D Hwang",
+      "Chandra Bhagavatula",
+      "Le Ronan",
+      "Jenny Bras",
+      "Jesse Liang",
+      "Keisuke Dodge",
+      "Maxwell Sakaguchi",
+      "Jon Forbes",
+      "Saadia Borchardt",
+      "Gabriel"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2110.07574"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Liwei Jiang, Jena D. Hwang, Chandra Bhagavatula, Ronan Le Bras, Jenny Liang, Jesse Dodge, Keisuke Sakaguchi, Maxwell Forbes, Jon Borchardt, Saadia Gabriel, Yulia Tsvetkov, Oren Etzioni, Maarten Sap, Regina Rini, and Yejin Choi. Can machines learn morality? the delphi experiment, 2022.",
+    "authors": [
+      "Liwei Jiang",
+      "Jena D. Hwang",
+      "Chandra Bhagavatula",
+      "Ronan Le Bras",
+      "Jenny Liang",
+      "Jesse Dodge",
+      "Keisuke Sakaguchi",
+      "Maxwell Forbes",
+      "Jon Borchardt",
+      "Saadia Gabriel",
+      "Yulia Tsvetkov",
+      "Oren Etzioni",
+      "Maarten Sap",
+      "Regina Rini",
+      "Yejin Choi"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Zhijing Jin, Sydney Levine, Fernando Gonzalez, Ojasv Kamal, Maarten Sap, Mrinmaya Sachan, Rada Mihalcea, Josh Tenenbaum, and Bernhard Schölkopf. When to make exceptions: Exploring language models as accounts of human moral judgment, 2022.",
+    "title": "When to make exceptions: Exploring language models as accounts of human moral judgment",
+    "authors": [
+      "Zhijing Jin",
+      "Sydney Levine",
+      "Fernando Gonzalez",
+      "Ojasv Kamal",
+      "Maarten Sap",
+      "Mrinmaya Sachan",
+      "Rada Mihalcea",
+      "Josh Tenenbaum",
+      "Bernhard Schölkopf"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Daniel Kahneman and Amos Tversky. Prospect theory: An analysis of decision under risk. In Handbook of the fundamentals of financial decision making: Part I, pp. 99-127. World Scientific, 2013. Immanuel Kant. The categorical imperative. In Thinking about the Environment, pp. 96-102. Routledge, 2015.",
+    "title": "Prospect theory: An analysis of decision under risk",
+    "authors": [
+      "Daniel Kahneman",
+      "Amos Tversky"
+    ],
+    "venue": "Handbook of the fundamentals of financial decision making: Part I",
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Andreas Köpf, Yannic Kilcher, Dimitri von Rütte, Sotiris Anagnostidis, Zhi Rui Tam, Keith Stevens, Abdullah Barhoum, Duc Nguyen, Oliver Stanley, Richárd Nagyfi, et al. Openassistant conversations-democratizing large language model alignment. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Openassistant conversations-democratizing large language model alignment",
+    "authors": [
+      "Andreas Köpf",
+      "Yannic Kilcher",
+      "Sotiris Dimitri Von Rütte",
+      "Anagnostidis",
+      "Rui Zhi",
+      "Keith Tam",
+      "Abdullah Stevens",
+      "Duc Barhoum",
+      "Oliver Nguyen",
+      "Richárd Stanley",
+      "Nagyfi"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Ruibo Liu, Jerry Wei, Fangyu Liu, Chenglei Si, Yanzhe Zhang, Jinmeng Rao, Steven Zheng, Daiyi Peng, Diyi Yang, Denny Zhou, et al. Best practices and lessons learned on synthetic data. arXiv preprint arXiv:2404.07503, 2024a.",
+    "title": "Best practices and lessons learned on synthetic data",
+    "authors": [
+      "Ruibo Liu",
+      "Jerry Wei",
+      "Fangyu Liu",
+      "Chenglei Si",
+      "Yanzhe Zhang",
+      "Jinmeng Rao",
+      "Steven Zheng",
+      "Daiyi Peng",
+      "Diyi Yang",
+      "Denny Zhou"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.07503"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Yang Liu, Yuanshun Yao, Jean-Francois Ton, Xiaoying Zhang, Ruocheng Guo, Hao Cheng, Yegor Klochkov, Muhammad Faaiz Taufiq, and Hang Li. Trustworthy llms: a survey and guideline for evaluating large language models' alignment, 2024b.",
+    "title": "Trustworthy llms: a survey and guideline for evaluating large language models' alignment",
+    "authors": [
+      "Yang Liu",
+      "Yuanshun Yao",
+      "Jean-Francois Ton",
+      "Xiaoying Zhang",
+      "Ruocheng Guo",
+      "Hao Cheng",
+      "Yegor Klochkov",
+      "Muhammad Faaiz Taufiq",
+      "Hang Li"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Nicholas Lourie, Ronan Le Bras, and Yejin Choi. Scruples: A corpus of community ethical judgments on 32,000 real-life anecdotes. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 35, pp. 13470-13479, 2021.",
+    "title": "Scruples: A corpus of community ethical judgments on 32,000 real-life anecdotes",
+    "authors": [
+      "Nicholas Lourie",
+      "Ronan Le Bras",
+      "Yejin Choi"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Abraham H Maslow. A theory of human motivation. Classics of organization theory, pp. 167-178, 1969.",
+    "title": "A theory of human motivation. Classics of organization theory",
+    "authors": [
+      "H Abraham",
+      "Maslow"
+    ],
+    "year": 1969,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Terrance McConnell. Moral Dilemmas. In Edward N. Zalta and Uri Nodelman (eds.), The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University, Spring 2024 edition, 2024.",
+    "title": "Moral Dilemmas",
+    "authors": [
+      "Terrance Mcconnell"
+    ],
+    "venue": "The Stanford Encyclopedia of Philosophy",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "United Nations. Universal declaration of human rights. https://www.un.org/en/ about-us/universal-declaration-of-human-rights, 2024. Accessed: 202405-19. OpenAI. Model Spec. https://cdn.openai.com/spec/model-spec-2024-05-08. html#follow-the-chain-of-command, 2024. Published: 2024-05-08; Accessed: 202405-19.",
+    "title": "Model Spec",
+    "authors": [],
+    "venue": "OpenAI. Model Spec",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://cdn.openai.com/spec/model-spec-2024-05-08.html#follow-the-chain-of-command"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "OpenAI. Model Spec. https://model-spec.openai.com/2025-02-12.html, 2025. Published: 2025-02-12; Accessed: 2025-02-12.",
+    "title": "Model Spec",
+    "authors": [],
+    "year": 2025,
+    "identifiers": {
+      "url": "https://model-spec.openai.com/2025-02-12.html"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Alexander Pan, Jun Shern Chan, Andy Zou, Nathaniel Li, Steven Basart, Thomas Woodside, Hanlin Zhang, Scott Emmons, and Dan Hendrycks. Do the rewards justify the means? measuring trade-offs between rewards and ethical behavior in the machiavelli benchmark. In International conference on machine learning, pp. 26837-26867. PMLR, 2023.",
+    "title": "Do the rewards justify the means? measuring trade-offs between rewards and ethical behavior in the machiavelli benchmark",
+    "authors": [
+      "Alexander Pan",
+      "Jun Shern Chan",
+      "Andy Zou",
+      "Nathaniel Li",
+      "Steven Basart",
+      "Thomas Woodside",
+      "Hanlin Zhang",
+      "Scott Emmons",
+      "Dan Hendrycks"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Joon Sung Park, Joseph O'Brien, Carrie Jun Cai, Meredith Ringel Morris, Percy Liang, and Michael S Bernstein. Generative agents: Interactive simulacra of human behavior. In Proceedings of the 36th annual acm symposium on user interface software and technology, pp. 1-22, 2023.",
+    "title": "Generative agents: Interactive simulacra of human behavior",
+    "authors": [
+      "Sung Joon",
+      "Park",
+      "O' Joseph",
+      "Carrie Jun Brien",
+      "Meredith Ringel Cai",
+      "Percy Morris",
+      "Michael S Liang",
+      "Bernstein"
+    ],
+    "venue": "Proceedings of the 36th annual acm symposium on user interface software and technology",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Ethan Perez, Sam Ringer, Kamile Lukosiute, Karina Nguyen, Edwin Chen, Scott Heiner, Craig Pettit, Catherine Olsson, Sandipan Kundu, Saurav Kadavath, et al. Discovering language model behaviors with model-written evaluations. In Findings of the Association for Computational Linguistics: ACL 2023, pp. 13387-13434, 2023.",
+    "title": "Discovering language model behaviors with model-written evaluations",
+    "authors": [
+      "Ethan Perez",
+      "Sam Ringer",
+      "Kamile Lukosiute",
+      "Karina Nguyen",
+      "Edwin Chen",
+      "Scott Heiner",
+      "Craig Pettit",
+      "Catherine Olsson",
+      "Sandipan Kundu",
+      "Saurav Kadavath"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2023",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Jean Piaget. Child's Conception of Space: Selected Works vol 4. Routledge, 2013.",
+    "title": "Child's Conception of Space: Selected Works",
+    "authors": [
+      "Jean Piaget"
+    ],
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Robert Plutchik. A psychoevolutionary theory of emotions, 1982. r/AmItheAsshole. 2019 Subscriber Survey Data Dump! https://www.reddit.com/r/ AmItheAsshole/comments/dcae07/2019_subscriber_survey_data_dump/ ?rdt=38184, 2019. Published: 2019; Accessed: 2024-02-17.",
+    "title": "A psychoevolutionary theory of emotions, 1982. r/AmItheAsshole",
+    "authors": [
+      "Robert Plutchik"
+    ],
+    "venue": "Subscriber Survey Data Dump",
+    "year": 2019,
+    "identifiers": {
+      "url": "https://www.reddit.com/r/AmItheAsshole/comments/dcae07"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Sebastin Santy, Jenny T Liang, Ronan Le Bras, Katharina Reinecke, and Maarten Sap. Nlpositionality: Characterizing design biases of datasets and models. arXiv preprint arXiv:2306.01943, 2023.",
+    "title": "Nlpositionality: Characterizing design biases of datasets and models",
+    "authors": [
+      "Sebastin Santy",
+      "Jenny T Liang",
+      "Ronan Le Bras",
+      "Katharina Reinecke",
+      "Maarten Sap"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.01943"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Nino Scherrer, Claudia Shi, Amir Feder, and David Blei. Evaluating the moral beliefs encoded in llms. Advances in Neural Information Processing Systems, 36:51778-51809, 2023.",
+    "title": "Evaluating the moral beliefs encoded in llms",
+    "authors": [
+      "Nino Scherrer",
+      "Claudia Shi",
+      "Amir Feder",
+      "David Blei"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Yunfan Shao, Linyang Li, Junqi Dai, and Xipeng Qiu. Character-llm: A trainable agent for roleplaying. arXiv preprint arXiv:2310.10158, 2023.",
+    "title": "Character-llm: A trainable agent for roleplaying",
+    "authors": [
+      "Yunfan Shao",
+      "Linyang Li",
+      "Junqi Dai",
+      "Xipeng Qiu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.10158"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Mrinank Sharma, Meg Tong, Tomasz Korbak, David Duvenaud, Amanda Askell, Samuel R Bowman, Newton Cheng, Esin Durmus, Zac Hatfield-Dodds, Scott R Johnston, et al. Towards understanding sycophancy in language models. arXiv preprint arXiv:2310.13548, 2023.",
+    "title": "Towards understanding sycophancy in language models",
+    "authors": [
+      "Mrinank Sharma",
+      "Meg Tong",
+      "Tomasz Korbak",
+      "David Duvenaud",
+      "Amanda Askell",
+      "Newton Samuel R Bowman",
+      "Esin Cheng",
+      "Zac Durmus",
+      "Hatfield-Dodds",
+      "Scott R Johnston"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.13548"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Noah Shinn, Federico Cassano, Ashwin Gopinath, Karthik Narasimhan, and Shunyu Yao. Reflexion: Language agents with verbal reinforcement learning. Advances in Neural Information Processing Systems, 36:8634-8652, 2023.",
+    "title": "Reflexion: Language agents with verbal reinforcement learning",
+    "authors": [
+      "Noah Shinn",
+      "Federico Cassano",
+      "Ashwin Gopinath",
+      "Karthik Narasimhan",
+      "Shunyu Yao"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Taylor Sorensen, Liwei Jiang, Jena D Hwang, Sydney Levine, Valentina Pyatkin, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, et al. Value kaleidoscope: Engaging ai with pluralistic human values, rights, and duties. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 38, pp. 19937-19947, 2024.",
+    "title": "Value kaleidoscope: Engaging ai with pluralistic human values, rights, and duties",
+    "authors": [
+      "Taylor Sorensen",
+      "Liwei Jiang",
+      "Jena D Hwang",
+      "Sydney Levine",
+      "Valentina Pyatkin",
+      "Peter West",
+      "Nouha Dziri",
+      "Ximing Lu",
+      "Kavel Rao",
+      "Chandra Bhagavatula"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Aarohi Srivastava, Abhinav Rastogi, Abhishek Rao, Abu Awal Md Shoeb, Abubakar Abid, Adam Fisch, Adam R Brown, Adam Santoro, Aditya Gupta, Adrià Garriga-Alonso, et al. Beyond the imitation game: Quantifying and extrapolating the capabilities of language models. arXiv preprint arXiv:2206.04615, 2022.",
+    "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+    "authors": [
+      "Aarohi Srivastava",
+      "Abhinav Rastogi",
+      "Abhishek Rao",
+      "Abu Awal",
+      "Md Shoeb",
+      "Abubakar Abid",
+      "Adam Fisch",
+      "Adam Adam R Brown",
+      "Aditya Santoro",
+      "Adrià Gupta",
+      "Garriga-Alonso"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2206.04615"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "James Alexander Kerr Thomson. The ethics of aristotle. Philosophy, 31(119), 1956. Patrick von Platen. How to generate text: using different decoding methods for language generation with Transformers. https://huggingface.co/blog/how-to-generate# samplin, 2019. Published: 2020; Accessed: 2024-02-17.",
+    "title": "Patrick von Platen. How to generate text: using different decoding methods for language generation with Transformers",
+    "authors": [
+      "James Alexander",
+      "Kerr Thomson"
+    ],
+    "venue": "Philosophy",
+    "year": 1956,
+    "identifiers": {
+      "url": "https://huggingface.co/blog/how-to-generate#samplin"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Wendell Wallach and Colin Allen. Moral machines: Teaching robots right from wrong. Oxford University Press, 2008.",
+    "title": "Moral machines: Teaching robots right from wrong",
+    "authors": [
+      "Wendell Wallach",
+      "Colin Allen"
+    ],
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Isaac Waller and Ashton Anderson. Quantifying social organization and political polarization in online platforms. Nature, 600(7888):264-268, 2021.",
+    "title": "Quantifying social organization and political polarization in online platforms",
+    "authors": [
+      "Isaac Waller",
+      "Ashton Anderson"
+    ],
+    "venue": "Nature",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, and Anima Anandkumar. Voyager: An open-ended embodied agent with large language models. arXiv preprint arXiv:2305.16291, 2023.",
+    "title": "Voyager: An open-ended embodied agent with large language models",
+    "authors": [
+      "Guanzhi Wang",
+      "Yuqi Xie",
+      "Yunfan Jiang",
+      "Ajay Mandlekar",
+      "Chaowei Xiao",
+      "Yuke Zhu",
+      "Linxi Fan",
+      "Anima Anandkumar"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.16291"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Zhilin Wang, Alexander Bukharin, Olivier Delalleau, Daniel Egert, Gerald Shen, Jiaqi Zeng, Oleksii Kuchaiev, and Yi Dong. Helpsteer2-preference: Complementing ratings with preferences. arXiv preprint arXiv:2410.01257, 2024.",
+    "title": "Complementing ratings with preferences",
+    "authors": [
+      "Zhilin Wang",
+      "Alexander Bukharin",
+      "Olivier Delalleau",
+      "Daniel Egert",
+      "Gerald Shen",
+      "Jiaqi Zeng",
+      "Oleksii Kuchaiev",
+      "Yi Dong"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2410.01257"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Zhilin Wang, Yi Dong, Olivier Delalleau, Jiaqi Zeng, Gerald Shen, Daniel Egert, Jimmy Zhang, Makesh Narsimhan Sreedhar, and Oleksii Kuchaiev. Helpsteer 2: Open-source dataset for training top-performing reward models. Advances in Neural Information Processing Systems, 37:14741501, 2025.",
+    "title": "Helpsteer 2: Open-source dataset for training top-performing reward models",
+    "authors": [
+      "Zhilin Wang",
+      "Yi Dong",
+      "Olivier Delalleau",
+      "Jiaqi Zeng",
+      "Gerald Shen",
+      "Daniel Egert",
+      "Jimmy Zhang",
+      "Makesh Narsimhan Sreedhar",
+      "Oleksii Kuchaiev"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "WVS. WVS Cultural Map: 2023 Version Released. https://www.worldvaluessurvey. org/WVSNewsShow.jsp?ID=467, 2024. Published: 2023-02-17; Accessed: 2024-05-19.",
+    "title": "Cultural Map: 2023 Version Released",
+    "authors": [
+      "Wvs",
+      "Wvs"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://www.worldvaluessurvey.org/WVSNewsShow.jsp?ID=467"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Yian Zhang, Yifan Mai, Josselin Somerville Roberts, Rishi Bommasani, Yann Dubois, and Percy Liang. Helm instruct: A multidimensional instruction following evaluation framework with absolute ratings, February 2024. URL https://crfm.stanford.edu/2024/02/18/ helm-instruct.html.",
+    "title": "Helm instruct: A multidimensional instruction following evaluation framework with absolute ratings",
+    "authors": [
+      "Yian Zhang",
+      "Yifan Mai",
+      "Josselin Somerville Roberts",
+      "Rishi Bommasani",
+      "Yann Dubois",
+      "Percy Liang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://crfm.stanford.edu/2024/02/18/helm-instruct.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric Xing, et al. Judging llm-as-a-judge with mt-bench and chatbot arena. Advances in Neural Information Processing Systems, 36:46595-46623, 2023.",
+    "title": "Judging llm-as-a-judge with mt-bench and chatbot arena",
+    "authors": [
+      "Lianmin Zheng",
+      "Wei-Lin Chiang",
+      "Ying Sheng",
+      "Siyuan Zhuang",
+      "Zhanghao Wu",
+      "Yonghao Zhuang",
+      "Zi Lin",
+      "Zhuohan Li",
+      "Dacheng Li",
+      "Eric Xing"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

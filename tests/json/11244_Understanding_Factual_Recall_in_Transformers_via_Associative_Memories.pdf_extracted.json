@@ -1,0 +1,820 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Kwangjun Ahn, Xiang Cheng, Hadi Daneshmand, and Suvrit Sra. Transformers learn to implement preconditioned gradient descent for in-context learning. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Transformers learn to implement preconditioned gradient descent for in-context learning",
+    "authors": [
+      "Kwangjun Ahn",
+      "Xiang Cheng",
+      "Hadi Daneshmand",
+      "Suvrit Sra"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Zeyuan Allen-Zhu and Yuanzhi Li. Physics of language models: Part 3.3, knowledge capacity scaling laws. arXiv preprint arXiv:2404.05405, 2024.",
+    "title": "Physics of language models: Part 3.3, knowledge capacity scaling laws",
+    "authors": [
+      "Zeyuan Allen",
+      "-Zhu",
+      "Yuanzhi Li"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.05405"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "William Beckner. Inequalities in fourier analysis. Annals of Mathematics, 102(1):159-182, 1975. ISSN 0003486X, 19398980. URL http://www.jstor.org/stable/1970980.",
+    "title": "Inequalities in fourier analysis",
+    "authors": [
+      "William Beckner"
+    ],
+    "venue": "Annals of Mathematics",
+    "year": 1975,
+    "identifiers": {
+      "url": "http://www.jstor.org/stable/1970980"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "William Beckner. Sobolev inequalities, the poisson semigroup, and analysis on the sphere sn. Proceedings of the National Academy of Sciences of the United States of America, 89(11):4816-4819, 1992. ISSN 00278424, 10916490. URL http://www.jstor.org/stable/2359537.",
+    "title": "Sobolev inequalities, the poisson semigroup, and analysis on the sphere sn",
+    "authors": [
+      "William Beckner"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "year": 1992,
+    "identifiers": {
+      "url": "http://www.jstor.org/stable/2359537"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Alberto Bietti, Vivien Cabannes, Diane Bouchacourt, Herve Jegou, and Leon Bottou. Birth of a transformer: A memory viewpoint. In Advances in Neural Information Processing Systems (NeurIPS), 2023.",
+    "title": "Birth of a transformer: A memory viewpoint",
+    "authors": [
+      "Alberto Bietti",
+      "Vivien Cabannes",
+      "Diane Bouchacourt",
+      "Herve Jegou",
+      "Leon Bottou"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Sébastien Bubeck, Ronen Eldan, Yin Tat Lee, and Dan Mikulincer. Network size and size of the weights in memorization with two-layers neural networks. In Advances in Neural Information Processing Systems, 2020.",
+    "title": "Yin Tat Lee, and Dan Mikulincer. Network size and size of the weights in memorization with two-layers neural networks",
+    "authors": [
+      "Sébastien Bubeck",
+      "Ronen Eldan"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Vivien Cabannes, Elvis Dohmatob, and Alberto Bietti. Scaling laws for associative memories. In International Conference on Learning Representations (ICLR), 2024.",
+    "title": "Scaling laws for associative memories",
+    "authors": [
+      "Vivien Cabannes",
+      "Elvis Dohmatob",
+      "Alberto Bietti"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Mete Demircigil, Judith Heusel, Matthias Löwe, Sven Upgang, and Franck Vermet. On a model of associative memory with huge storage capacity. Journal of Statistical Physics, 168:288-299, 2017.",
+    "title": "On a model of associative memory with huge storage capacity",
+    "authors": [
+      "Mete Demircigil",
+      "Judith Heusel",
+      "Matthias Löwe",
+      "Sven Upgang",
+      "Franck Vermet"
+    ],
+    "venue": "Journal of Statistical Physics",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Tim Dettmers, Mike Lewis, Younes Belkada, and Luke Zettlemoyer. Gpt3. int8 (): 8-bit matrix multiplication for transformers at scale. Advances in Neural Information Processing Systems, 35: 30318-30332, 2022.",
+    "title": "8-bit matrix multiplication for transformers at scale",
+    "authors": [
+      "Tim Dettmers",
+      "Mike Lewis",
+      "Younes Belkada",
+      "Luke Zettlemoyer"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Nelson Elhage, Tristan Hume, Catherine Olsson, Nicholas Schiefer, Tom Henighan, Shauna Kravec, Zac Hatfield-Dodds, Robert Lasenby, Dawn Drain, Carol Chen, Roger Grosse, Sam McCandlish, Jared Kaplan, Dario Amodei, Martin Wattenberg, and Christopher Olah. Toy models of superposition. Transformer Circuits Thread, 2022. URL https://transformer-circuits. pub/2022/toy_model/index.html.",
+    "title": "Toy models of superposition",
+    "authors": [
+      "Nelson Elhage",
+      "Tristan Hume",
+      "Catherine Olsson",
+      "Nicholas Schiefer",
+      "Tom Henighan",
+      "Shauna Kravec",
+      "Zac Hatfield-Dodds",
+      "Robert Lasenby",
+      "Dawn Drain",
+      "Carol Chen",
+      "Roger Grosse",
+      "Sam Mccandlish",
+      "Jared Kaplan",
+      "Dario Amodei",
+      "Martin Wattenberg",
+      "Christopher Olah"
+    ],
+    "venue": "Transformer Circuits Thread",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://transformer-circuits.pub/2022/toy_model/index.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Mor Geva, Roei Schuster, Jonathan Berant, and Omer Levy. Transformer feed-forward layers are key-value memories. In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021.",
+    "title": "Transformer feed-forward layers are key-value memories",
+    "authors": [
+      "Mor Geva",
+      "Roei Schuster",
+      "Jonathan Berant",
+      "Omer Levy"
+    ],
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Mor Geva, Jasmijn Bastings, Katja Filippova, and Amir Globerson. Dissecting recall of factual associations in auto-regressive language models. In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.",
+    "title": "Dissecting recall of factual associations in auto-regressive language models",
+    "authors": [
+      "Mor Geva",
+      "Jasmijn Bastings",
+      "Katja Filippova",
+      "Amir Globerson"
+    ],
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Gaurav Ghosal, Tatsunori Hashimoto, and Aditi Raghunathan. Understanding finetuning for factual knowledge extraction. arXiv preprint arXiv:2406.14785, 2024.",
+    "title": "Understanding finetuning for factual knowledge extraction",
+    "authors": [
+      "Gaurav Ghosal",
+      "Tatsunori Hashimoto",
+      "Aditi Raghunathan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.14785"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, et al. Training compute-optimal large language models. arXiv preprint arXiv:2203.15556, 2022.",
+    "title": "Training compute-optimal large language models",
+    "authors": [
+      "Jordan Hoffmann",
+      "Sebastian Borgeaud",
+      "Arthur Mensch",
+      "Elena Buchatskaya",
+      "Trevor Cai",
+      "Eliza Rutherford",
+      "Diego De Las",
+      "Lisa Anne Casas",
+      "Johannes Hendricks",
+      "Aidan Welbl",
+      "Clark"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2203.15556"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Benjamin Hoover, Yuchen Liang, Bao Pham, Rameswar Panda, Hendrik Strobelt, Duen Horng Chau, Mohammed Zaki, and Dmitry Krotov. Energy transformer. Advances in Neural Information Processing Systems, 36, 2023.",
+    "authors": [
+      "Benjamin Hoover",
+      "Yuchen Liang",
+      "Bao Pham",
+      "Rameswar Panda",
+      "Hendrik Strobelt",
+      "Duen Horng Chau",
+      "Mohammed Zaki",
+      "Dmitry Krotov"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "John J Hopfield. Neural networks and physical systems with emergent collective computational abilities. Proceedings of the national academy of sciences, 79(8):2554-2558, 1982.",
+    "title": "Neural networks and physical systems with emergent collective computational abilities",
+    "authors": [
+      "J John",
+      "Hopfield"
+    ],
+    "venue": "Proceedings of the national academy of sciences",
+    "year": 1982,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Arthur Jacot, Franck Gabriel, and Clément Hongler. Neural tangent kernel: Convergence and generalization in neural networks. Advances in neural information processing systems, 31, 2018.",
+    "title": "Neural tangent kernel: Convergence and generalization in neural networks",
+    "authors": [
+      "Arthur Jacot",
+      "Franck Gabriel",
+      "Clément Hongler"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Samy Jelassi, Michael Sander, and Yuanzhi Li. Vision transformers provably learn spatial structure. In Advances in Neural Information Processing Systems (NeurIPS), 2022.",
+    "title": "Vision transformers provably learn spatial structure",
+    "authors": [
+      "Samy Jelassi",
+      "Michael Sander",
+      "Yuanzhi Li"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Samy Jelassi, Clara Mohri, David Brandfonbrener, Alex Gu, Nikhil Vyas, Nikhil Anand, David Alvarez-Melis, Yuanzhi Li, Sham M Kakade, and Eran Malach. Mixture of parrots: Experts improve memorization more than reasoning. arXiv preprint arXiv:2410.19034, 2024.",
+    "title": "Mixture of parrots: Experts improve memorization more than reasoning",
+    "authors": [
+      "Samy Jelassi",
+      "Clara Mohri",
+      "David Brandfonbrener",
+      "Alex Gu",
+      "Nikhil Vyas",
+      "Nikhil Anand",
+      "David Alvarez-Melis",
+      "Yuanzhi Li",
+      "Eran Sham M Kakade",
+      "Malach"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2410.19034"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Yibo Jiang, Goutham Rajendran, Pradeep Ravikumar, and Bryon Aragam. Do llms dream of elephants (when told not to)? latent concept association and associative memory in transformers. arXiv preprint arXiv:2406.18400, 2024.",
+    "title": "Do llms dream of elephants (when told not to)? latent concept association and associative memory in transformers",
+    "authors": [
+      "Yibo Jiang",
+      "Goutham Rajendran",
+      "Pradeep Ravikumar",
+      "Bryon Aragam"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.18400"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Zhengbao Jiang, Frank F Xu, Jun Araki, and Graham Neubig. How can we know what language models know? Transactions of the Association for Computational Linguistics, 8:423-438, 2020.",
+    "title": "How can we know what language models know?",
+    "authors": [
+      "Zhengbao Jiang",
+      "Frank F Xu",
+      "Jun Araki",
+      "Graham Neubig"
+    ],
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Tokio Kajitsuka and Issei Sato. Are transformers with one layer self-attention using low-rank weight matrices universal approximators? arXiv preprint arXiv:2307.14023, 2023.",
+    "title": "Are transformers with one layer self-attention using low-rank weight matrices universal approximators",
+    "authors": [
+      "Tokio Kajitsuka",
+      "Issei Sato"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.14023"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Tokio Kajitsuka and Issei Sato. Optimal memorization capacity of transformers. arXiv preprint arXiv:2409.17677, 2024.",
+    "title": "Optimal memorization capacity of transformers",
+    "authors": [
+      "Tokio Kajitsuka",
+      "Issei Sato"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2409.17677"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Teuvo Kohonen. Correlation matrix memories. IEEE Transactions on Computers, 1972. Dmitry Krotov and John J Hopfield. Dense associative memory for pattern recognition. Advances in neural information processing systems, 29, 2016.",
+    "title": "Dense associative memory for pattern recognition",
+    "authors": [
+      "; Teuvo Kohonen",
+      "Krotov Dmitry",
+      "John J Hopfield"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 1972,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Hung Le, Truyen Tran, and Svetha Venkatesh. Self-attentive associative memory. In International conference on machine learning, pp. 5682-5691. PMLR, 2020.",
+    "title": "Self-attentive associative memory",
+    "authors": [
+      "Hung Le",
+      "Truyen Tran",
+      "Svetha Venkatesh"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Yuchen Li, Yuanzhi Li, and Andrej Risteski. How do transformers learn topic structure: Towards a mechanistic understanding. In Proceedings of the International Conference on Machine Learning (ICML), 2023.",
+    "title": "How do transformers learn topic structure: Towards a mechanistic understanding",
+    "authors": [
+      "Yuchen Li",
+      "Yuanzhi Li",
+      "Andrej Risteski"
+    ],
+    "venue": "Proceedings of the International Conference on Machine Learning (ICML)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Carlo Lucibello and Marc Mézard. Exponential capacity of dense associative memories. Physical Review Letters, 132(7):077301, 2024.",
+    "title": "Exponential capacity of dense associative memories",
+    "authors": [
+      "Carlo Lucibello",
+      "Marc Mézard"
+    ],
+    "venue": "Physical Review Letters",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Ang Lv, Kaiyi Zhang, Yuhan Chen, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, and Rui Yan. Interpreting key mechanisms of factual recall in transformer-based language models. arXiv preprint arXiv:2403.19521, 2024.",
+    "title": "Interpreting key mechanisms of factual recall in transformer-based language models",
+    "authors": [
+      "Ang Lv",
+      "Kaiyi Zhang",
+      "Yuhan Chen",
+      "Yulong Wang",
+      "Lifeng Liu",
+      "Ji-Rong Wen",
+      "Jian Xie",
+      "Rui Yan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.19521"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Liam Madden and Christos Thrampoulidis. Memory capacity of two layer neural networks with smooth activations. SIAM Journal on Mathematics of Data Science, 6(3):679-702, 2024.",
+    "title": "Memory capacity of two layer neural networks with smooth activations",
+    "authors": [
+      "Liam Madden",
+      "Christos Thrampoulidis"
+    ],
+    "venue": "SIAM Journal on Mathematics of Data Science",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Liam Madden, Curtis Fox, and Christos Thrampoulidis. Upper and lower memory capacity bounds of transformers for next-token prediction. arXiv preprint arXiv:2405.13718, 2024.",
+    "title": "Upper and lower memory capacity bounds of transformers for next-token prediction",
+    "authors": [
+      "Liam Madden",
+      "Curtis Fox",
+      "Christos Thrampoulidis"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.13718"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Arvind Mahankali, Tatsunori B Hashimoto, and Tengyu Ma. One step of gradient descent is provably the optimal in-context learner with one layer of linear self-attention. In Proceedings of the International Conference on Learning Representations (ICLR), 2024.",
+    "title": "One step of gradient descent is provably the optimal in-context learner with one layer of linear self-attention",
+    "authors": [
+      "Arvind Mahankali",
+      "B Tatsunori",
+      "Tengyu Hashimoto",
+      "Ma"
+    ],
+    "venue": "Proceedings of the International Conference on Learning Representations (ICLR)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Sadegh Mahdavi, Renjie Liao, and Christos Thrampoulidis. Memorization capacity of multi-head attention in transformers. arXiv preprint arXiv:2306.02010, 2023.",
+    "title": "Memorization capacity of multi-head attention in transformers",
+    "authors": [
+      "Sadegh Mahdavi",
+      "Renjie Liao",
+      "Christos Thrampoulidis"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.02010"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "R. McEliece, E. Posner, E. Rodemich, and S. Venkatesh. The capacity of the hopfield associative memory. IEEE Transactions on Information Theory, 33(4):461-482, 1987. doi: 10.1109/TIT. 1987.1057328.",
+    "title": "The capacity of the hopfield associative memory",
+    "authors": [
+      "R Mceliece",
+      "E Posner",
+      "E Rodemich",
+      "S Venkatesh"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 1987,
+    "identifiers": {
+      "doi": "10.1109/TIT.1987.1057328",
+      "arxiv_id": "1987.10573"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Kevin Meng, David Bau, Alex Andonian, and Yonatan Belinkov. Locating and editing factual associations in gpt. In Advances in Neural Information Processing Systems (NeurIPS), 2022.",
+    "title": "Locating and editing factual associations in gpt",
+    "authors": [
+      "Kevin Meng",
+      "David Bau",
+      "Alex Andonian",
+      "Yonatan Belinkov"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Eric Michaud, Ziming Liu, Uzay Girit, and Max Tegmark. The quantization model of neural scaling. Advances in Neural Information Processing Systems, 36, 2023.",
+    "title": "The quantization model of neural scaling",
+    "authors": [
+      "Eric Michaud",
+      "Ziming Liu",
+      "Uzay Girit",
+      "Max Tegmark"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Ashley Montanaro. Some applications of hypercontractive inequalities in quantum information theory. Journal of Mathematical Physics, 53(12), 2012.",
+    "title": "Some applications of hypercontractive inequalities in quantum information theory",
+    "authors": [
+      "Ashley Montanaro"
+    ],
+    "venue": "Journal of Mathematical Physics",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Neel Nanda, S Rajamanoharan, J Kramár, and R Shah. Fact finding: Attempting to reverse-engineer factual recall on the neuron level. AI Alignment Forum, 2023. URL https://www.alignmentforum.org/posts/iGuwZTHWb6DFY3sKB/ fact-finding-attempting-to-reverse-engineer-factual-recall.",
+    "title": "Fact finding: Attempting to reverse-engineer factual recall on the neuron level",
+    "authors": [
+      "Neel Nanda",
+      "J Rajamanoharan",
+      "Kramár",
+      "Shah"
+    ],
+    "venue": "AI Alignment Forum",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://www.alignmentforum.org/posts/iGuwZTHWb6DFY3sKB/fact-finding-attempting-to-reverse-engineer-factual-recall"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Eshaan Nichani, Alex Damian, and Jason D Lee. How transformers learn causal structure with gradient descent. In Proceedings of the International Conference on Machine Learning (ICML), 2024.",
+    "title": "How transformers learn causal structure with gradient descent",
+    "authors": [
+      "Eshaan Nichani",
+      "Alex Damian",
+      "Jason D Lee"
+    ],
+    "venue": "Proceedings of the International Conference on Machine Learning (ICML)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Fabio Petroni, Tim Rocktäschel, Patrick Lewis, Anton Bakhtin, Yuxiang Wu, Alexander H Miller, and Sebastian Riedel. Language models as knowledge bases? In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019.",
+    "title": "Language models as knowledge bases?",
+    "authors": [
+      "Fabio Petroni",
+      "Tim Rocktäschel",
+      "Patrick Lewis",
+      "Anton Bakhtin",
+      "Yuxiang Wu",
+      "Alexander H Miller",
+      "Sebastian Riedel"
+    ],
+    "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Adityanarayanan Radhakrishnan, Mikhail Belkin, and Caroline Uhler. Overparameterized neural networks implement associative memory. Proceedings of the National Academy of Sciences, 117 (44):27162-27170, 2020.",
+    "title": "Overparameterized neural networks implement associative memory",
+    "authors": [
+      "Adityanarayanan Radhakrishnan",
+      "Mikhail Belkin",
+      "Caroline Uhler"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Hubert Ramsauer, Bernhard Schäfl, Johannes Lehner, Philipp Seidl, Michael Widrich, Thomas Adler, Lukas Gruber, Markus Holzleitner, Milena Pavlović, Geir Kjetil Sandve, et al. Hopfield networks is all you need. arXiv preprint arXiv:2008.02217, 2020.",
+    "title": "Hopfield networks is all you need",
+    "authors": [
+      "Hubert Ramsauer",
+      "Bernhard Schäfl",
+      "Johannes Lehner",
+      "Philipp Seidl",
+      "Michael Widrich",
+      "Thomas Adler",
+      "Lukas Gruber",
+      "Markus Holzleitner",
+      "Milena Pavlović",
+      "Geir Kjetil Sandve"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2008.02217"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Adam Roberts, Colin Raffel, and Noam Shazeer. How much knowledge can you pack into the parameters of a language model? In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.",
+    "title": "How much knowledge can you pack into the parameters of a language model?",
+    "authors": [
+      "Adam Roberts",
+      "Colin Raffel",
+      "Noam Shazeer"
+    ],
+    "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Imanol Schlag, Kazuki Irie, and Jürgen Schmidhuber. Linear transformers are secretly fast weight programmers. In Proceedings of the International Conference on Machine Learning (ICML), 2021.",
+    "title": "Linear transformers are secretly fast weight programmers",
+    "authors": [
+      "Imanol Schlag",
+      "Kazuki Irie",
+      "Jürgen Schmidhuber"
+    ],
+    "venue": "Proceedings of the International Conference on Machine Learning (ICML)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Charlie Snell, Ruiqi Zhong, Dan Klein, and Jacob Steinhardt. Approximating how single head attention learns. arXiv preprint arXiv:2103.07601, 2021.",
+    "title": "Approximating how single head attention learns",
+    "authors": [
+      "Charlie Snell",
+      "Ruiqi Zhong",
+      "Dan Klein",
+      "Jacob Steinhardt"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2103.07601"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Yuandong Tian, Yiping Wang, Beidi Chen, and Simon Du. Scan and snap: Understanding training dynamics and token composition in 1-layer transformer. In Advances in Neural Information Processing Systems (NeurIPS), 2023.",
+    "title": "Scan and snap: Understanding training dynamics and token composition in 1-layer transformer",
+    "authors": [
+      "Yuandong Tian",
+      "Yiping Wang",
+      "Beidi Chen",
+      "Simon Du"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Gal Vardi, Gilad Yehudai, and Ohad Shamir. On the optimal memorization power of relu neural networks. arXiv preprint arXiv:2110.03187, 2021.",
+    "title": "On the optimal memorization power of relu neural networks",
+    "authors": [
+      "Gal Vardi",
+      "Gilad Yehudai",
+      "Ohad Shamir"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2110.03187"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Johannes Von Oswald, Eyvind Niklasson, Ettore Randazzo, João Sacramento, Alexander Mordvintsev, Andrey Zhmoginov, and Max Vladymyrov. Transformers learn in-context by gradient descent. In International Conference on Machine Learning, pp. 35151-35174. PMLR, 2023.",
+    "title": "Transformers learn in-context by gradient descent",
+    "authors": [
+      "Johannes Von",
+      "Oswald",
+      "Eyvind Niklasson",
+      "Ettore Randazzo",
+      "João Sacramento",
+      "Alexander Mordvintsev",
+      "Andrey Zhmoginov",
+      "Max Vladymyrov"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "David J Willshaw, O Peter Buneman, and Hugh Christopher Longuet-Higgins. Non-holographic associative memory. Nature, 222(5197):960-962, 1969.",
+    "title": "Non-holographic associative memory",
+    "authors": [
+      "O David J Willshaw",
+      "Hugh Peter Buneman",
+      "Longuet- Christopher",
+      "Higgins"
+    ],
+    "venue": "Nature",
+    "year": 1969,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Ruiqi Zhang, Spencer Frei, and Peter L Bartlett. Trained transformers learn linear models in-context. Journal of Machine Learning Research, 25(49):1-55, 2024.",
+    "title": "Trained transformers learn linear models in-context",
+    "authors": [
+      "Ruiqi Zhang",
+      "Spencer Frei",
+      "Peter L Bartlett"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

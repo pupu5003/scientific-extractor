@@ -1,0 +1,723 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Joshua E Auerbach and Josh C Bongard. Environmental influence on the evolution of morphological complexity in machines. PLoS Computational Biology, 10(1):e1003399, 2014.",
+    "title": "Environmental influence on the evolution of morphological complexity in machines",
+    "authors": [
+      "Joshua E Auerbach",
+      "Josh C Bongard"
+    ],
+    "venue": "PLoS Computational Biology",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "David Baraff. Physically based modeling: Rigid body simulation. SIGGRAPH Course Notes, 2(1): 2-1, 2001.",
+    "title": "Physically based modeling: Rigid body simulation",
+    "authors": [
+      "David Baraff"
+    ],
+    "venue": "SIGGRAPH Course Notes",
+    "year": 2001,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Joachim Baumgarte. Stabilization of constraints and integrals of motion in dynamical systems. Computer Methods in Applied Mechanics and Engineering, 1(1):1-16, 1972.",
+    "title": "Stabilization of constraints and integrals of motion in dynamical systems",
+    "authors": [
+      "Joachim Baumgarte"
+    ],
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "year": 1972,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Javier Bonet and Richard D. Wood. Nonlinear Continuum Mechanics for Finite Element Analysis. Cambridge University Press, 2nd edition, 2008.",
+    "title": "Nonlinear Continuum Mechanics for Finite Element Analysis",
+    "authors": [
+      "Javier Bonet",
+      "Richard D Wood"
+    ],
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Andrew Brock, Theodore Lim, James M Ritchie, and Nick Weston. Generative and discriminative voxel modeling with convolutional neural networks. arXiv preprint arXiv:1608.04236, 2016.",
+    "title": "Generative and discriminative voxel modeling with convolutional neural networks",
+    "authors": [
+      "Andrew Brock",
+      "Theodore Lim",
+      "James M Ritchie",
+      "Nick Weston"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1608.04236"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Nick Cheney, Robert MacCurdy, Jeff Clune, and Hod Lipson. Unshackling evolution: Evolving soft robots with multiple materials and a powerful generative encoding. In Proceedings of the Conference on Genetic and Evolutionary Computation (GECCO), pp. 167-174. ACM, 2013.",
+    "title": "Unshackling evolution: Evolving soft robots with multiple materials and a powerful generative encoding",
+    "authors": [
+      "Nick Cheney",
+      "Robert Maccurdy",
+      "Jeff Clune",
+      "Hod Lipson"
+    ],
+    "venue": "Proceedings of the Conference on Genetic and Evolutionary Computation (GECCO)",
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Nick Cheney, Josh Bongard, Vytas SunSpiral, and Hod Lipson. Scalable co-optimization of morphology and control in embodied machines. Journal of The Royal Society Interface, 15(143): 20170937, 2018.",
+    "title": "Scalable co-optimization of morphology and control in embodied machines",
+    "authors": [
+      "Nick Cheney",
+      "Josh Bongard",
+      "Vytas Sunspiral",
+      "Hod Lipson"
+    ],
+    "venue": "Journal of The Royal Society Interface",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Franc ¸ois Cochevelou, David Bonner, and Martin-Pierre Schmidt. Differentiable soft-robot generation. In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO), pp. 129-137. ACM, 2023.",
+    "title": "Differentiable soft-robot generation",
+    "authors": [
+      "David Franc ¸ois Cochevelou",
+      "Martin-Pierre Bonner",
+      "Schmidt"
+    ],
+    "venue": "Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Cameron Darkes-Burkey and Robert F Shepherd. Volumetric 3D printing of endoskeletal soft robots. Advanced Materials, pp. 2402217, 2024.",
+    "title": "Volumetric 3D printing of endoskeletal soft robots",
+    "authors": [
+      "Cameron Darkes",
+      "- Burkey",
+      "Robert F Shepherd"
+    ],
+    "venue": "Advanced Materials",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Kenny Erleben. Numerical methods for linear complementarity problems in physics-based animation. In ACM SIGGRAPH 2013 Courses, pp. 1-42, 2013.",
+    "title": "Numerical methods for linear complementarity problems in physics-based animation",
+    "authors": [
+      "Kenny Erleben"
+    ],
+    "venue": "ACM SIGGRAPH 2013 Courses",
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Carlos F Guimarães, Luca Gasperini, Alexandra P Marques, and Rui L Reis. The stiffness of living tissues and its implications for tissue engineering. Nature Reviews Materials, 5(5):351-370, 2020.",
+    "title": "The stiffness of living tissues and its implications for tissue engineering",
+    "authors": [
+      "Luca Carlos F Guimarães",
+      "Alexandra P Gasperini",
+      "Rui L Marques",
+      "Reis"
+    ],
+    "venue": "Nature Reviews Materials",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Agrim Gupta, Silvio Savarese, Surya Ganguli, and Li Fei-Fei. Embodied intelligence via learning and evolution. Nature Communications, 12(1):1-12, 2021.",
+    "title": "Embodied intelligence via learning and evolution",
+    "authors": [
+      "Agrim Gupta",
+      "Silvio Savarese",
+      "Surya Ganguli",
+      "Li Fei-Fei"
+    ],
+    "venue": "Nature Communications",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Agrim Gupta, Linxi Fan, Surya Ganguli, and Li Fei-Fei. Metamorph: Learning universal controllers with transformers. In Proceedings of the International Conference on Learning Representations (ICLR), 2022.",
+    "title": "Learning universal controllers with transformers",
+    "authors": [
+      "Agrim Gupta",
+      "Linxi Fan",
+      "Surya Ganguli",
+      "Li Fei-Fei",
+      "Metamorph"
+    ],
+    "venue": "Proceedings of the International Conference on Learning Representations (ICLR)",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Nikolaus Hansen and Andreas Ostermeier. Completely derandomized self-adaptation in evolution strategies. Evolutionary Computation, 9(2):159-195, 2001.",
+    "title": "Completely derandomized self-adaptation in evolution strategies",
+    "authors": [
+      "Nikolaus Hansen",
+      "Andreas Ostermeier"
+    ],
+    "venue": "Evolutionary Computation",
+    "year": 2001,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Donald J Hejna, Pieter Abbeel, and Lerrel Pinto. Task-agnostic morphology evolution. In Proceedings of the International Conference on Learning Representations (ICLR), 2021.",
+    "title": "Task-agnostic morphology evolution",
+    "authors": [
+      "J Donald",
+      "Pieter Hejna",
+      "Lerrel Abbeel",
+      "Pinto"
+    ],
+    "venue": "Proceedings of the International Conference on Learning Representations (ICLR)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Jonathan Hiller and Hod Lipson. Evolving amorphous robots. In Proceedings of the Conference on Artificial Life (ALife), pp. 717-724, 2010.",
+    "title": "Evolving amorphous robots",
+    "authors": [
+      "Jonathan Hiller",
+      "Hod Lipson"
+    ],
+    "venue": "Proceedings of the Conference on Artificial Life (ALife)",
+    "year": 2010,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Jonathan Hiller and Hod Lipson. Automatic design and manufacture of soft robots. IEEE Transactions on Robotics, 28(2):457-466, 2012.",
+    "title": "Automatic design and manufacture of soft robots",
+    "authors": [
+      "Jonathan Hiller",
+      "Hod Lipson"
+    ],
+    "venue": "IEEE Transactions on Robotics",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Jonathan Hiller and Hod Lipson. Dynamic simulation of soft multimaterial 3D-printed objects. Soft Robotics, 1(1):88-101, 2014.",
+    "title": "Dynamic simulation of soft multimaterial 3D-printed objects",
+    "authors": [
+      "Jonathan Hiller",
+      "Hod Lipson"
+    ],
+    "venue": "Soft Robotics",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Jiaheng Hu, Julian Whitman, and Howie Choset. GLSO: Grammar-guided latent space optimization for sample-efficient robot design automation. In Proceedings of the Conference on Robot Learning (CoRL), pp. 1321-1331, 2023.",
+    "title": "GLSO: Grammar-guided latent space optimization for sample-efficient robot design automation",
+    "authors": [
+      "Jiaheng Hu",
+      "Julian Whitman",
+      "Howie Choset"
+    ],
+    "venue": "Proceedings of the Conference on Robot Learning (CoRL)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Suning Huang, Boyuan Chen, Huazhe Xu, and Vincent Sitzmann. Dittogym: Learning to control soft shape-shifting robots. In Proceedings of the International Conference on Learning Representations (ICLR), 2024.",
+    "title": "Dittogym: Learning to control soft shape-shifting robots",
+    "authors": [
+      "Suning Huang",
+      "Boyuan Chen",
+      "Huazhe Xu",
+      "Vincent Sitzmann"
+    ],
+    "venue": "Proceedings of the International Conference on Learning Representations (ICLR)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Nick Jakobi, Phil Husbands, and Inman Harvey. Noise and the reality gap: The use of simulation in evolutionary robotics. In Proceedings of the European Conference on Artificial Life (ECAL), pp. 704-720, 1995.",
+    "title": "Noise and the reality gap: The use of simulation in evolutionary robotics",
+    "authors": [
+      "Nick Jakobi",
+      "Phil Husbands",
+      "Inman Harvey"
+    ],
+    "venue": "Proceedings of the European Conference on Artificial Life (ECAL)",
+    "year": 1995,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Johan Jansson and Joris SM Vergeest. Combining deformable-and rigid-body mechanics simulation. The Visual Computer, 19:280-290, 2003.",
+    "title": "Combining deformable-and rigid-body mechanics simulation",
+    "authors": [
+      "Johan Jansson",
+      "S M Joris",
+      "Vergeest"
+    ],
+    "venue": "The Visual Computer",
+    "year": 2003,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Junggon Kim and Nancy S Pollard. Fast simulation of skeleton-driven deformable body characters. ACM Transactions on Graphics (TOG), 30(5):1-19, 2011.",
+    "title": "Fast simulation of skeleton-driven deformable body characters",
+    "authors": [
+      "Junggon Kim",
+      "Nancy S Pollard"
+    ],
+    "venue": "ACM Transactions on Graphics (TOG)",
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Diederik P Kingma and Max Welling. Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114, 2013.",
+    "title": "Auto-encoding variational bayes",
+    "authors": [
+      "P Diederik",
+      "Max Kingma",
+      "Welling"
+    ],
+    "year": 2013,
+    "identifiers": {
+      "arxiv_id": "arXiv:1312.6114"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Sam Kriegman, Douglas Blackiston, Michael Levin, and Josh Bongard. A scalable pipeline for designing reconfigurable organisms. Proceedings of the National Academy of Sciences, 117(4): 1853-1859, 2020a.",
+    "title": "A scalable pipeline for designing reconfigurable organisms",
+    "authors": [
+      "Sam Kriegman",
+      "Douglas Blackiston",
+      "Michael Levin",
+      "Josh Bongard"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Sam Kriegman, Amir Mohammadi Nasab, Dylan Shah, Hannah Steele, Gabrielle Branin, Michael Levin, Josh Bongard, and Rebecca Kramer-Bottiglio. Scalable sim-to-real transfer of soft robot designs. In Proceedings of the International Conference on Soft Robotics (RoboSoft), pp. 359366, 2020b.",
+    "title": "Scalable sim-to-real transfer of soft robot designs",
+    "authors": [
+      "Sam Kriegman",
+      "Mohammadi Amir",
+      "Dylan Nasab",
+      "Hannah Shah",
+      "Gabrielle Steele",
+      "Michael Branin",
+      "Josh Levin",
+      "Rebecca Bongard",
+      "Kramer-Bottiglio"
+    ],
+    "venue": "Proceedings of the International Conference on Soft Robotics",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Sam Kriegman, Douglas Blackiston, Michael Levin, and Josh Bongard. Kinematic self-replication in reconfigurable organisms. Proceedings of the National Academy of Sciences, 118(49): e2112672118, 2021.",
+    "title": "Kinematic self-replication in reconfigurable organisms",
+    "authors": [
+      "Sam Kriegman",
+      "Douglas Blackiston",
+      "Michael Levin",
+      "Josh Bongard"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Jing Li, Tiantian Liu, and Ladislav Kavan. Soft articulated characters in projective dynamics. IEEE Transactions on Visualization and Computer Graphics, 28(2):1385-1396, 2020.",
+    "title": "Soft articulated characters in projective dynamics",
+    "authors": [
+      "Jing Li",
+      "Tiantian Liu",
+      "Ladislav Kavan"
+    ],
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Muhan Li, David Matthews, and Sam Kriegman. Reinforcement learning for freeform robot design. In Proceedings of the International Conference on Robotics and Automation (ICRA), 2024.",
+    "title": "Reinforcement learning for freeform robot design",
+    "authors": [
+      "Muhan Li",
+      "David Matthews",
+      "Sam Kriegman"
+    ],
+    "venue": "Proceedings of the International Conference on Robotics and Automation (ICRA)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Hod Lipson and Jordan B Pollack. Automatic design and manufacture of robotic lifeforms. Nature, 406(6799):974, 2000.",
+    "title": "Automatic design and manufacture of robotic lifeforms",
+    "authors": [
+      "Hod Lipson",
+      "Jordan B Pollack"
+    ],
+    "venue": "Nature",
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Kendall Lowrey, Aravind Rajeswaran, Sham Kakade, Emanuel Todorov, and Igor Mordatch. Plan online, learn offline: Efficient learning and exploration via model-based control. In Proceedings of the International Conference on Learning Representations (ICLR), 2019.",
+    "title": "Plan online, learn offline: Efficient learning and exploration via model-based control",
+    "authors": [
+      "Kendall Lowrey",
+      "Aravind Rajeswaran",
+      "Sham Kakade",
+      "Emanuel Todorov",
+      "Igor Mordatch"
+    ],
+    "venue": "Proceedings of the International Conference on Learning Representations (ICLR)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "David Matthews, Andrew Spielberg, Daniela Rus, Sam Kriegman, and Josh Bongard. Efficient automatic design of robots. Proceedings of the National Academy of Sciences, 120(41):e2305180120, 2023.",
+    "title": "Efficient automatic design of robots",
+    "authors": [
+      "David Matthews",
+      "Andrew Spielberg",
+      "Daniela Rus",
+      "Sam Kriegman",
+      "Josh Bongard"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Songyou Peng, Michael Niemeyer, Lars Mescheder, Marc Pollefeys, and Andreas Geiger. Convolutional occupancy networks. In Proceedings of the European Conference on Computer Vision (ECCV), pp. 523-540, 2020.",
+    "title": "Convolutional occupancy networks",
+    "authors": [
+      "Songyou Peng",
+      "Michael Niemeyer",
+      "Lars Mescheder",
+      "Marc Pollefeys",
+      "Andreas Geiger"
+    ],
+    "venue": "Proceedings of the European Conference on Computer Vision (ECCV)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347, 2017.",
+    "title": "Proximal policy optimization algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1707.06347"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Yunsheng Shi, Zhengjie Huang, Shikun Feng, Hui Zhong, Wenjing Wang, and Yu Sun. Masked label prediction: Unified message passing model for semi-supervised classification. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), pp. 1548-1554, 2021.",
+    "title": "Masked label prediction: Unified message passing model for semi-supervised classification",
+    "authors": [
+      "Yunsheng Shi",
+      "Zhengjie Huang",
+      "Shikun Feng",
+      "Hui Zhong",
+      "Wenjing Wang",
+      "Yu Sun"
+    ],
+    "venue": "Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Tamar Shinar, Craig Schroeder, and Ronald Fedkiw. Two-way coupling of rigid and deformable bodies. In Proceedings of the Symposium on Computer Animation (SCA), pp. 95-103, 2008.",
+    "title": "Two-way coupling of rigid and deformable bodies",
+    "authors": [
+      "Tamar Shinar",
+      "Craig Schroeder",
+      "Ronald Fedkiw"
+    ],
+    "venue": "Proceedings of the Symposium on Computer Animation (SCA)",
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Karl Sims. Evolving 3D morphology and behavior by competition. Artificial Life, 1(4):353-372, 1994.",
+    "title": "Evolving 3D morphology and behavior by competition",
+    "authors": [
+      "Karl Sims"
+    ],
+    "venue": "Artificial Life",
+    "year": 1994,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Kenneth O Stanley. Compositional pattern producing networks: A novel abstraction of development. Genetic Programming and Evolvable Machines, 8:131-162, 2007.",
+    "title": "Compositional pattern producing networks: A novel abstraction of development",
+    "authors": [
+      "O Kenneth",
+      "Stanley"
+    ],
+    "venue": "Genetic Programming and Evolvable Machines",
+    "year": 2007,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Luke Strgar, David Matthews, Tyler Hummer, and Sam Kriegman. Evolution and learning in differentiable robots. In Robotics: Science and Systems (RSS), 2024.",
+    "title": "Evolution and learning in differentiable robots",
+    "authors": [
+      "Luke Strgar",
+      "David Matthews",
+      "Tyler Hummer",
+      "Sam Kriegman"
+    ],
+    "venue": "Robotics: Science and Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Jeffrey Ventrella. Explorations in the emergence of morphology and locomotion behavior in animated characters. In Proceedings of the International Workshop on the Synthesis and Simulation of Living Systems (ALife), pp. 436-441, 1994.",
+    "title": "Explorations in the emergence of morphology and locomotion behavior in animated characters",
+    "authors": [
+      "Jeffrey Ventrella"
+    ],
+    "venue": "Proceedings of the International Workshop on the Synthesis and Simulation of Living Systems (ALife)",
+    "year": 1994,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Tsun-Hsuan Wang, Pingchuan Ma, Andrew E. Spielberg, Zhou Xian, Hao Zhang, Joshua B. Tenenbaum, Daniela Rus, and Chuang Gan. Softzoo: A soft robot co-design benchmark for locomotion in diverse environments. In Proceedings of the International Conference on Learning Representations (ICLR), 2023a.",
+    "title": "Softzoo: A soft robot co-design benchmark for locomotion in diverse environments",
+    "authors": [
+      "Tsun-Hsuan Wang",
+      "Pingchuan Ma",
+      "Andrew E Spielberg",
+      "Hao Zhou Xian",
+      "Joshua B Zhang",
+      "Daniela Tenenbaum",
+      "Chuang Rus",
+      "Gan"
+    ],
+    "venue": "Proceedings of the International Conference on Learning Representations (ICLR)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Tsun-Hsuan Wang, Juntian Zheng, Pingchuan Ma, Yilun Du, Byungchul Kim, Andrew E. Spielberg, Joshua B. Tenenbaum, Chuang Gan, and Daniela Rus. Diffusebot: Breeding soft robots with physics-augmented generative diffusion models. In Advances in Neural Information Processing Systems (NeurIPS), 2023b.",
+    "title": "Diffusebot: Breeding soft robots with physics-augmented generative diffusion models",
+    "authors": [
+      "Tsun-Hsuan Wang",
+      "Juntian Zheng",
+      "Pingchuan Ma",
+      "Yilun Du",
+      "Byungchul Kim",
+      "Andrew E Spielberg",
+      "Joshua B Tenenbaum",
+      "Chuang Gan",
+      "Daniela Rus"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Uwe Windhorst, Thomas M. Hamm, and Douglas G. Stuart. On the function of muscle and reflex partitioning. Behavioral and Brain Sciences, 12(4):629-645, 1989.",
+    "title": "On the function of muscle and reflex partitioning",
+    "authors": [
+      "Uwe Windhorst",
+      "Thomas M Hamm",
+      "Douglas G Stuart"
+    ],
+    "venue": "Behavioral and Brain Sciences",
+    "year": 1989,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Ye Yuan, Yuda Song, Zhengyi Luo, Wen Sun, and Kris Kitani. Transform2Act: Learning a transform-and-control policy for efficient agent design. In Proceedings of the International Conference on Learning Representations (ICLR), 2022.",
+    "title": "Transform2Act: Learning a transform-and-control policy for efficient agent design",
+    "authors": [
+      "Ye Yuan",
+      "Yuda Song",
+      "Zhengyi Luo",
+      "Wen Sun",
+      "Kris Kitani"
+    ],
+    "venue": "Proceedings of the International Conference on Learning Representations (ICLR)",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Seongjun Yun, Minbyul Jeong, Raehyun Kim, Jaewoo Kang, and Hyunwoo J Kim. Graph transformer networks. In Advances in Neural Information Processing Systems (NeurIPS), volume 32, 2019.",
+    "title": "Graph transformer networks",
+    "authors": [
+      "Seongjun Yun",
+      "Minbyul Jeong",
+      "Raehyun Kim",
+      "Jaewoo Kang",
+      "Hyunwoo J Kim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Allan Zhao, Jie Xu, Mina Konaković-Luković, Josephine Hughes, Andrew Spielberg, Daniela Rus, and Wojciech Matusik. RoboGrammar: Graph grammar for terrain-optimized robot design. ACM Transactions on Graphics (TOG), 39(6):1-16, 2020.",
+    "title": "RoboGrammar: Graph grammar for terrain-optimized robot design",
+    "authors": [
+      "Allan Zhao",
+      "Jie Xu",
+      "Mina Konaković-Luković",
+      "Josephine Hughes",
+      "Andrew Spielberg",
+      "Daniela Rus",
+      "Wojciech Matusik"
+    ],
+    "venue": "ACM Transactions on Graphics (TOG)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

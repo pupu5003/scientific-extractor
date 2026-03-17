@@ -1,0 +1,776 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Lazar Atanackovic, Xi Zhang, Brandon Amos, Mathieu Blanchette, Leo J Lee, Yoshua Bengio, Alexander Tong, and Kirill Neklyudov. Meta flow matching: Integrating vector fields on the Wasserstein manifold. In ICML Workshop on Geometry-grounded Representation Learning and Generative Modeling, 2024.",
+    "title": "Meta flow matching: Integrating vector fields on the Wasserstein manifold",
+    "authors": [
+      "Lazar Atanackovic",
+      "Xi Zhang",
+      "Brandon Amos",
+      "Mathieu Blanchette",
+      "Leo J Lee",
+      "Yoshua Bengio",
+      "Alexander Tong",
+      "Kirill Neklyudov"
+    ],
+    "venue": "ICML Workshop on Geometry-grounded Representation Learning and Generative Modeling",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Volker Bergen, Marius Lange, Stefan Peidli, F Alexander Wolf, and Fabian J Theis. Generalizing RNA velocity to transient cell states through dynamical modeling. Nature Biotechnology, pp. 1408-1414, 2020.",
+    "title": "Generalizing RNA velocity to transient cell states through dynamical modeling",
+    "authors": [
+      "Marius Volker Bergen",
+      "Stefan Lange",
+      "Alexander Peidli",
+      "Fabian J Wolf",
+      "Theis"
+    ],
+    "venue": "Nature Biotechnology",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Charlotte Bunne, Andreas Krause, and Marco Cuturi. Supervised training of conditional Monge maps. In Advances in Neural Information Processing Systems, volume 35, 2022.",
+    "title": "Supervised training of conditional Monge maps",
+    "authors": [
+      "Charlotte Bunne",
+      "Andreas Krause",
+      "Marco Cuturi"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Charlotte Bunne, Stefan G Stark, Gabriele Gut, Jacobo Sarabia Del Castillo, Mitch Levesque, Kjong-Van Lehmann, Lucas Pelkmans, Andreas Krause, and Gunnar Rätsch. Learning singlecell perturbation responses using neural optimal transport. Nature Methods, 20(11):1759-1768, 2023.",
+    "title": "Learning singlecell perturbation responses using neural optimal transport",
+    "authors": [
+      "Charlotte Bunne",
+      "Stefan G Stark",
+      "Gabriele Gut",
+      "Jacobo Sarabia",
+      "Del Castillo",
+      "Mitch Levesque",
+      "Kjong-Van Lehmann",
+      "Lucas Pelkmans",
+      "Andreas Krause",
+      "Gunnar Rätsch"
+    ],
+    "venue": "Nature Methods",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Ricky TQ Chen, Yulia Rubanova, Jesse Bettencourt, and David K Duvenaud. Neural ordinary differential equations. Advances in Neural Information Processing Systems, 31, 2018.",
+    "title": "Neural ordinary differential equations",
+    "authors": [
+      "Yulia Ricky Tq Chen",
+      "Jesse Rubanova",
+      "David K Bettencourt",
+      "Duvenaud"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Song Chen. Beijing Multi-Site Air Quality. UCI Machine Learning Repository, 2017. DOI: https://doi.org/10.24432/C5RK5G.",
+    "title": "Beijing Multi-Site Air Quality. UCI Machine Learning Repository",
+    "authors": [
+      "Song Chen"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "doi": "10.24432/C5RK5G",
+      "url": "https://doi.org/10.24432/C5RK5G"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Tianrong Chen, Guan-horng Liu, Molei Tao, and Evangelos A Theodorou. Deep multi-marginal momentum Schrödinger bridge. In Advances in Neural Information Processing Systems, pp. 57058-57086, 2023.",
+    "title": "Deep multi-marginal momentum Schrödinger bridge",
+    "authors": [
+      "Tianrong Chen",
+      "Guan-Horng Liu",
+      "Molei Tao",
+      "Evangelos A Theodorou"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Sinho Chewi, Julien Clancy, Thibaut Le Gouic, Philippe Rigollet, George Stepaniants, and Austin Stromme. Fast and smooth interpolation on Wasserstein space. In International Conference on Artificial Intelligence and Statistics, pp. 3061-3069. PMLR, 2021.",
+    "title": "Fast and smooth interpolation on Wasserstein space",
+    "authors": [
+      "Sinho Chewi",
+      "Julien Clancy",
+      "Thibaut Le Gouic",
+      "Philippe Rigollet",
+      "George Stepaniants",
+      "Austin Stromme"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Quan Dao, Hao Phung, Binh Nguyen, and Anh Tran. Flow matching in latent space. arXiv, 2023.",
+    "title": "Flow matching in latent space",
+    "authors": [
+      "Quan Dao",
+      "Hao Phung",
+      "Binh Nguyen",
+      "Anh Tran"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Jun Ding, Nadav Sharon, and Ziv Bar-Joseph. Temporal modelling using single-cell transcriptomics. Nature Reviews Genetics, 23(6):355-368, 2022.",
+    "title": "Temporal modelling using single-cell transcriptomics",
+    "authors": [
+      "Jun Ding",
+      "Nadav Sharon",
+      "Ziv Bar",
+      "-Joseph"
+    ],
+    "venue": "Nature Reviews Genetics",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Pavel Dvurechensky, Alexander Gasnikov, and Alexey Kroshnin. Computational optimal transport: Complexity by accelerated gradient descent is better than by sinkhorn's algorithm. In International conference on machine learning, pp. 1367-1376. PMLR, 2018.",
+    "title": "Computational optimal transport: Complexity by accelerated gradient descent is better than by sinkhorn's algorithm",
+    "authors": [
+      "Pavel Dvurechensky",
+      "Alexander Gasnikov",
+      "Alexey Kroshnin"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Spencer Farrell, Madhav Mani, and Sidhartha Goyal. Inferring single-cell transcriptomic dynamics with structured latent gene expression dynamics. Cell Reports Methods, 3(9), 2023.",
+    "title": "Inferring single-cell transcriptomic dynamics with structured latent gene expression dynamics",
+    "authors": [
+      "Spencer Farrell",
+      "Madhav Mani",
+      "Sidhartha Goyal"
+    ],
+    "venue": "Cell Reports Methods",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Christian Franzke, Terence J O'Kane, Judith Berner, Paul D Williams, and Valerio Lucarini. Stochastic climate theory and modeling. Wiley Interdisciplinary Reviews: Climate Change, 6 (1):63-78, 2015.",
+    "title": "Stochastic climate theory and modeling",
+    "authors": [
+      "Christian Franzke",
+      "Terence J O'kane",
+      "Judith Berner",
+      "Paul D Williams",
+      "Valerio Lucarini"
+    ],
+    "venue": "Climate Change",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "V Gontis, J Ruseckas, and A Kononovičius. A long-range memory stochastic model of the return in financial markets. Physica A: Statistical Mechanics and its Applications, 389(1):100-106, 2010.",
+    "title": "A long-range memory stochastic model of the return in financial markets",
+    "authors": [
+      "Gontis",
+      "Ruseckas",
+      "Kononovičius"
+    ],
+    "venue": "Physica A: Statistical Mechanics and its Applications",
+    "year": 2010,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Isabel Haasler, Axel Ringh, Yongxin Chen, and Johan Karlsson. Multimarginal optimal transport with a tree-structured cost and the Schrödinger bridge problem. SIAM Journal on Control and Optimization, 59(4):2428-2453, 2021.",
+    "title": "Multimarginal optimal transport with a tree-structured cost and the Schrödinger bridge problem",
+    "authors": [
+      "Isabel Haasler",
+      "Axel Ringh",
+      "Yongxin Chen",
+      "Johan Karlsson"
+    ],
+    "venue": "SIAM Journal on Control and Optimization",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Jonathan Ho, Ajay Jain, and Pieter Abbeel. Denoising diffusion probabilistic models. Advances in neural information processing systems, 33:6840-6851, 2020.",
+    "title": "Denoising diffusion probabilistic models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "Pieter Abbeel"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "J. C. Holladay. A smoothest curve approximation. Mathematical Tables and Other Aids to Computation, 11(60):233-243, 1957.",
+    "title": "A smoothest curve approximation",
+    "authors": [
+      "J C Holladay"
+    ],
+    "venue": "Mathematical Tables and Other Aids to Computation",
+    "year": 1957,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Noboru Isobe, Masanori Koyama, Jinzhe Zhang, Kohei Hayashi, and Kenji Fukumizu. Extended flow matching: a method of conditional generation with generalized continuity equation. arXiv, 2024.",
+    "title": "Extended flow matching: a method of conditional generation with generalized continuity equation",
+    "authors": [
+      "Noboru Isobe",
+      "Masanori Koyama",
+      "Jinzhe Zhang",
+      "Kohei Hayashi",
+      "Kenji Fukumizu"
+    ],
+    "venue": "arXiv",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Kacper Kapusniak, Peter Potaptchik, Teodora Reu, Leo Zhang, Alexander Tong, Michael Bronstein, Avishek Joey Bose, and Francesco Di Giovanni. Metric flow matching for smooth interpolations on the data manifold. In Advances in Neural Information Processing Systems, 2024.",
+    "title": "Metric flow matching for smooth interpolations on the data manifold",
+    "authors": [
+      "Kacper Kapusniak",
+      "Peter Potaptchik",
+      "Teodora Reu",
+      "Leo Zhang",
+      "Alexander Tong",
+      "Michael Bronstein",
+      "Avishek",
+      "Joey Bose",
+      "Francesco Di",
+      "Giovanni"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Hyunjik Kim, Andriy Mnih, Jonathan Schwarz, Marta Garnelo, Ali Eslami, Dan Rosenbaum, Oriol Vinyals, and Yee Whye Teh. Attentive neural processes. In International Conference on Learning Representations, 2019.",
+    "title": "Attentive neural processes",
+    "authors": [
+      "Hyunjik Kim",
+      "Andriy Mnih",
+      "Jonathan Schwarz",
+      "Marta Garnelo",
+      "Ali Eslami",
+      "Dan Rosenbaum",
+      "Oriol Vinyals",
+      "Yee Whye Teh"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Diederik P Kingma and Jimmy Ba. Adam: A method for stochastic optimization. In International Conference on Learning Representations, 2015.",
+    "title": "Adam: A method for stochastic optimization",
+    "authors": [
+      "P Diederik",
+      "Jimmy Kingma",
+      "Ba"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Gioele La Manno, Ruslan Soldatov, Amit Zeisel, Emelie Braun, Hannah Hochgerner, Viktor Petukhov, Katja Lidschreiber, Maria E Kastriti, Peter Lönnerberg, Alessandro Furlan, et al. Rna velocity of single cells. Nature, 560(7719):494-498, 2018.",
+    "title": "Rna velocity of single cells",
+    "authors": [
+      "La Gioele",
+      "Ruslan Manno",
+      "Amit Soldatov",
+      "Emelie Zeisel",
+      "Hannah Braun",
+      "Viktor Hochgerner",
+      "Katja Petukhov",
+      "Maria E Lidschreiber",
+      "Peter Kastriti",
+      "Alessandro Lönnerberg",
+      "Furlan"
+    ],
+    "venue": "Nature",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Yaron Lipman, Ricky T. Q. Chen, Heli Ben-Hamu, Maximilian Nickel, and Matt Le. Flow matching for generative modeling. In International Conference on Learning Representations, 2023.",
+    "title": "Flow matching for generative modeling",
+    "authors": [
+      "Yaron Lipman",
+      "Ricky T Q Chen",
+      "Heli Ben-Hamu",
+      "Maximilian Nickel",
+      "Matt Le"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Romain Lopez, Jeffrey Regier, Michael B Cole, Michael I Jordan, and Nir Yosef. Deep generative modeling for single-cell transcriptomics. Nature Methods, 15(12):1053-1058, 2018.",
+    "title": "Deep generative modeling for single-cell transcriptomics",
+    "authors": [
+      "Romain Lopez",
+      "Jeffrey Regier",
+      "Michael I Michael B Cole",
+      "Nir Jordan",
+      "Yosef"
+    ],
+    "venue": "Nature Methods",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Mohammad Lotfollahi, Anna Klimovskaia Susmelj, Carlo De Donno, Leon Hetzel, Yuge Ji, Ignacio L Ibarra, Sanjay R Srivatsan, Mohsen Naghipourfar, Riza M Daza, Beth Martin, et al. Predicting cellular responses to complex perturbations in high-throughput screens. Molecular systems biology, 19(6):e11517, 2023.",
+    "title": "Predicting cellular responses to complex perturbations in high-throughput screens",
+    "authors": [
+      "Mohammad Lotfollahi",
+      "Anna Klimovskaia Susmelj",
+      "Carlo De Donno",
+      "Leon Hetzel",
+      "Yuge Ji",
+      "Ignacio L Ibarra",
+      "Mohsen Sanjay R Srivatsan",
+      "Naghipourfar",
+      "M Riza",
+      "Beth Daza",
+      "Martin"
+    ],
+    "venue": "Molecular systems biology",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Kenneth G Manton, XiLiang Gu, and Gene R Lowrimore. Cohort changes in active life expectancy in the us elderly population: Experience from the 1982-2004 national long-term care survey. The Journals of Gerontology Series B: Psychological Sciences and Social Sciences, 63(5):S269-S281, 2008.",
+    "title": "Cohort changes in active life expectancy in the us elderly population: Experience from the 1982-2004 national long-term care survey",
+    "authors": [
+      "Xiliang Kenneth G Manton",
+      "Gene R Gu",
+      "Lowrimore"
+    ],
+    "venue": "The Journals of Gerontology Series B: Psychological Sciences and Social Sciences",
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Brendan Pass. Multi-marginal optimal transport: theory and applications. ESAIM: Mathematical Modelling and Numerical Analysis, 49(6):1771-1790, 2015.",
+    "title": "Multi-marginal optimal transport: theory and applications",
+    "authors": [
+      "Brendan Pass"
+    ],
+    "venue": "ESAIM: Mathematical Modelling and Numerical Analysis",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Zoe Piran, Niv Cohen, Yedid Hoshen, and Mor Nitzan. Disentanglement of single-cell data with Biolord. Nature Biotechnology, pp. 1-6, 2024.",
+    "title": "Disentanglement of single-cell data with Biolord",
+    "authors": [
+      "Zoe Piran",
+      "Niv Cohen",
+      "Yedid Hoshen",
+      "Mor Nitzan"
+    ],
+    "venue": "Nature Biotechnology",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Xiaojie Qiu, Yan Zhang, Jorge D Martin-Rufino, Chen Weng, Shayan Hosseinzadeh, Dian Yang, Angela N Pogson, Marco Y Hein, Kyung Hoi Joseph Min, Li Wang, et al. Mapping transcriptomic vector fields of single cells. Cell, 185(4):690-711, 2022.",
+    "title": "Mapping transcriptomic vector fields of single cells",
+    "authors": [
+      "Xiaojie Qiu",
+      "Yan Zhang",
+      "Jorge D Martin-Rufino",
+      "Chen Weng",
+      "Shayan Hosseinzadeh",
+      "Dian Yang",
+      "Angela N Pogson",
+      "Marco Y Hein",
+      "Kyung Hoi",
+      "Joseph Min",
+      "Li Wang"
+    ],
+    "venue": "Cell",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Martin Rohbeck, Brian Clarke, Katharina Mikulik, Alexandra Pettet, Oliver Stegle, and Kai Ueltzhöffer. Bicycle: Intervention-based causal discovery with cycles. In Causal Learning and Reasoning, pp. 209-242. PMLR, 2024.",
+    "title": "Bicycle: Intervention-based causal discovery with cycles",
+    "authors": [
+      "Martin Rohbeck",
+      "Brian Clarke",
+      "Katharina Mikulik",
+      "Alexandra Pettet",
+      "Oliver Stegle",
+      "Kai Ueltzhöffer"
+    ],
+    "venue": "Causal Learning and Reasoning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Jennifer E. Rood, Anna Hupalowska, and Aviv Regev. Toward a foundation model of causal cell and tissue biology with a perturbation cell and tissue atlas. Cell, 187(17):4520-4545, 2024.",
+    "title": "Toward a foundation model of causal cell and tissue biology with a perturbation cell and tissue atlas",
+    "authors": [
+      "Jennifer E Rood",
+      "Anna Hupalowska",
+      "Aviv Regev"
+    ],
+    "venue": "Cell",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Geoffrey Schiebinger, Jian Shu, Marcin Tabaka, Brian Cleary, Vidya Subramanian, Aryeh Solomon, Joshua Gould, Siyan Liu, Stacie Lin, Peter Berube, et al. Optimal-transport analysis of single-cell gene expression identifies developmental trajectories in reprogramming. Cell, 176(4):928-943, 2019.",
+    "title": "Optimal-transport analysis of single-cell gene expression identifies developmental trajectories in reprogramming",
+    "authors": [
+      "Geoffrey Schiebinger",
+      "Jian Shu",
+      "Marcin Tabaka",
+      "Brian Cleary",
+      "Vidya Subramanian",
+      "Aryeh Solomon",
+      "Joshua Gould",
+      "Siyan Liu",
+      "Stacie Lin",
+      "Peter Berube"
+    ],
+    "venue": "Cell",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Marcel H Schulz, William E Devanny, Anthony Gitter, Shan Zhong, Jason Ernst, and Ziv BarJoseph. Drem 2.0: Improved reconstruction of dynamic regulatory networks from time-series expression data. BMC systems biology, 6:1-9, 2012.",
+    "title": "Drem 2.0: Improved reconstruction of dynamic regulatory networks from time-series expression data",
+    "authors": [
+      "H Marcel",
+      "William E Schulz",
+      "Anthony Devanny",
+      "Shan Gitter",
+      "Jason Zhong",
+      "Ziv Ernst",
+      "Barjoseph"
+    ],
+    "venue": "BMC systems biology",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Manu Setty, Vaidotas Kiseliovas, Jacob Levine, Adam Gayoso, Linas Mazutis, and Dana Pe'Er. Characterization of cell fate probabilities in single-cell data with Palantir. Nature Biotechnology, 37(4):451-460, 2019.",
+    "title": "Characterization of cell fate probabilities in single-cell data with Palantir",
+    "authors": [
+      "Manu Setty",
+      "Vaidotas Kiseliovas",
+      "Jacob Levine",
+      "Adam Gayoso",
+      "Linas Mazutis",
+      "Dana Pe",
+      "' Er"
+    ],
+    "venue": "Nature Biotechnology",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Vignesh Ram Somnath, Matteo Pariset, Ya-Ping Hsieh, Maria Rodriguez Martinez, Andreas Krause, and Charlotte Bunne. Aligned diffusion Schrödinger bridges. In Uncertainty in Artificial Intelligence, pp. 1985-1995. PMLR, 2023.",
+    "title": "Aligned diffusion Schrödinger bridges",
+    "authors": [
+      "Ram Vignesh",
+      "Matteo Somnath",
+      "Ya-Ping Pariset",
+      "Maria Rodriguez Hsieh",
+      "Andreas Martinez",
+      "Charlotte Krause",
+      "Bunne"
+    ],
+    "venue": "Uncertainty in Artificial Intelligence",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Alexander Tong, Jessie Huang, Guy Wolf, David van Dijk, and Smita Krishnaswamy. Trajectorynet: A dynamic optimal transport network for modeling cellular dynamics. In International Conference on Machine Learning, 2020.",
+    "title": "Trajectorynet: A dynamic optimal transport network for modeling cellular dynamics",
+    "authors": [
+      "Alexander Tong",
+      "Jessie Huang",
+      "Guy Wolf",
+      "David Van Dijk",
+      "Smita Krishnaswamy"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Alexander Tong, Kilian Fatras, Nikolay Malkin, Guillaume Huguet, Yanlei Zhang, Jarrid RectorBrooks, Guy Wolf, and Yoshua Bengio. Improving and generalizing flow-based generative models with minibatch optimal transport. Transactions on Machine Learning Research, 2024.",
+    "title": "Improving and generalizing flow-based generative models with minibatch optimal transport",
+    "authors": [
+      "Alexander Tong",
+      "Kilian Fatras",
+      "Nikolay Malkin",
+      "Guillaume Huguet",
+      "Yanlei Zhang",
+      "Jarrid Rectorbrooks",
+      "Guy Wolf",
+      "Yoshua Bengio"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Konstantin Tsiolkovsky. Reactive flying machines. Izdatel'stvo Akademii Nauk SSSR: Moscow, Russia, 1954.",
+    "title": "Reactive flying machines. Izdatel'stvo Akademii Nauk SSSR",
+    "authors": [
+      "Konstantin Tsiolkovsky"
+    ],
+    "year": 1954,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Lukasz Kaiser, and Illia Polosukhin. Attention is all you need. In Advances in Neural Information Processing Systems, pp. 5998-6008, 2017.",
+    "title": "Attention is all you need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N Gomez",
+      "Lukasz Kaiser",
+      "Illia Polosukhin"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Lingfei Wang, Nikolaos Trasanidis, Ting Wu, Guanlan Dong, Michael Hu, Daniel E Bauer, and Luca Pinello. Dictys: dynamic gene regulatory network dissects developmental continuum with single-cell multiomics. Nature Methods, 20(9):1368-1378, 2023.",
+    "title": "Dictys: dynamic gene regulatory network dissects developmental continuum with single-cell multiomics",
+    "authors": [
+      "Lingfei Wang",
+      "Nikolaos Trasanidis",
+      "Ting Wu",
+      "Guanlan Dong",
+      "Michael Hu",
+      "Daniel E Bauer",
+      "Luca Pinello"
+    ],
+    "venue": "Nature Methods",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Caleb Weinreb, Alejo Rodriguez-Fraticelli, Fernando D Camargo, and Allon M Klein. Lineage tracing on transcriptional landscapes links state to fate during differentiation. Science, 367(6479): eaaw3381, 2020.",
+    "title": "Lineage tracing on transcriptional landscapes links state to fate during differentiation",
+    "authors": [
+      "Caleb Weinreb",
+      "Alejo Rodriguez-Fraticelli",
+      "Fernando D Camargo",
+      "Allon M Klein"
+    ],
+    "venue": "Science",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Grace Hui Ting Yeo, Sachit D Saksena, and David K Gifford. Generative modeling of singlecell time series with prescient enables prediction of cell trajectories with interventions. Nature communications, 12(1):3222, 2021.",
+    "title": "Generative modeling of singlecell time series with prescient enables prediction of cell trajectories with interventions",
+    "authors": [
+      "Grace Hui",
+      "Ting Yeo",
+      "Sachit D Saksena",
+      "David K Gifford"
+    ],
+    "venue": "Nature communications",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Hengshi Yu and Joshua D Welch. Perturbnet predicts single-cell responses to unseen chemical and genetic perturbations. BioRxiv, pp. 2022-07, 2022.",
+    "title": "Perturbnet predicts single-cell responses to unseen chemical and genetic perturbations",
+    "authors": [
+      "Hengshi Yu",
+      "Joshua D Welch"
+    ],
+    "venue": "BioRxiv",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Jiaqi Zhang, Erica Larschan, Jeremy Bigness, and Ritambhara Singh. scnode: generative model for temporal single cell transcriptomic data prediction. Bioinformatics, 40:146-154, 2024.",
+    "title": "Jeremy Bigness, and Ritambhara Singh. scnode: generative model for temporal single cell transcriptomic data prediction",
+    "authors": [
+      "Jiaqi Zhang",
+      "Erica Larschan"
+    ],
+    "venue": "Bioinformatics",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Qinqing Zheng, Matt Le, Neta Shaul, Yaron Lipman, Aditya Grover, and Ricky T. Q. Chen. Guided flows for generative modeling and decision making. arXiv, 2023.",
+    "title": "Guided flows for generative modeling and decision making",
+    "authors": [
+      "Qinqing Zheng",
+      "Matt Le",
+      "Neta Shaul",
+      "Yaron Lipman",
+      "Aditya Grover",
+      "Ricky T Q Chen"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  }
+]

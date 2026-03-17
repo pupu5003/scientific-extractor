@@ -1,0 +1,1131 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Cabrera Alex and Neubig Graham. Zeno chatbot report, 2023. URL https: //github.com/zeno-ml/zeno-build/tree/main/examples/chatbot/ report#zeno-chatbot-report. 3",
+    "title": "Zeno chatbot report",
+    "authors": [
+      "Alex Cabrera",
+      "Neubig Graham"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://github.com/zeno-ml/zeno-build/tree/main/examples/chatbot/report#zeno-chatbot-report.3"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Yuvanesh Anand, Zach Nussbaum, Brandon Duderstadt, Benjamin Schmidt, and Andriy Mulyar. Gpt4all: Training an assistant-style chatbot with large scale data distillation from gpt-3.5-turbo. https://github.com/nomic-ai/gpt4all, 2023. 4, 15",
+    "title": "Gpt4all: Training an assistant-style chatbot with large scale data distillation from gpt-3.5-turbo",
+    "authors": [
+      "Yuvanesh Anand",
+      "Zach Nussbaum",
+      "Brandon Duderstadt",
+      "Benjamin Schmidt",
+      "Andriy Mulyar"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://github.com/nomic-ai/gpt4all"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Anas Awadalla, Irena Gao, Josh Gardner, Jack Hessel, Yusuf Hanafy, Wanrong Zhu, Kalyani Marathe, Yonatan Bitton, Samir Gadre, Shiori Sagawa, et al. Openflamingo: An opensource framework for training large autoregressive vision-language models. arXiv preprint arXiv:2308.01390, 2023. 3",
+    "title": "An opensource framework for training large autoregressive vision-language models",
+    "authors": [
+      "Anas Awadalla",
+      "Irena Gao",
+      "Josh Gardner",
+      "Jack Hessel",
+      "Yusuf Hanafy",
+      "Wanrong Zhu",
+      "Yonatan Kalyani Marathe",
+      "Samir Bitton",
+      "Shiori Gadre",
+      "Sagawa"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2308.01390"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Jinze Bai, Shuai Bai, Yunfei Chu, Zeyu Cui, Kai Dang, Xiaodong Deng, Yang Fan, Wenbin Ge, Yu Han, Fei Huang, et al. Qwen technical report. arXiv preprint arXiv:2309.16609, 2023. 15, 19, 20",
+    "title": "Qwen technical report",
+    "authors": [
+      "Jinze Bai",
+      "Shuai Bai",
+      "Yunfei Chu",
+      "Zeyu Cui",
+      "Kai Dang",
+      "Xiaodong Deng",
+      "Yang Fan",
+      "Wenbin Ge",
+      "Yu Han",
+      "Fei Huang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2309.16609"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Stella Biderman, Hailey Schoelkopf, Quentin Gregory Anthony, Herbie Bradley, Kyle O'Brien, Eric Hallahan, Mohammad Aflah Khan, Shivanshu Purohit, USVSN Sai Prashanth, Edward Raff, et al. Pythia: A suite for analyzing large language models across training and scaling. In International Conference on Machine Learning, pp. 2397-2430. PMLR, 2023. 1",
+    "title": "Pythia: A suite for analyzing large language models across training and scaling",
+    "authors": [
+      "Stella Biderman",
+      "Hailey Schoelkopf",
+      "Quentin Gregory Anthony",
+      "Herbie Bradley",
+      "O' Kyle",
+      "Eric Brien",
+      "Mohammad Hallahan",
+      "Shivanshu Aflah Khan",
+      "Purohit",
+      "Edward Usvsn Sai Prashanth",
+      "Raff"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Niels J Blunch. Position bias in multiple-choice questions. Journal of Marketing Research, 21(2): 216-220, 1984. 5",
+    "title": "Position bias in multiple-choice questions",
+    "authors": [
+      "Niels J Blunch"
+    ],
+    "venue": "Journal of Marketing Research",
+    "year": 1984,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et al. Language models are few-shot learners. Advances in neural information processing systems, 33:1877-1901, 2020. 3",
+    "title": "Language models are few-shot learners",
+    "authors": [
+      "Tom Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "Jared D Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Wei-Lin Chiang, Zhuohan Li, Zi Lin, Ying Sheng, Zhanghao Wu, Hao Zhang, Lianmin Zheng, Siyuan Zhuang, Yonghao Zhuang, Joseph E Gonzalez, et al. Vicuna: An open-source chatbot impressing gpt-4 with 90%* chatgpt quality. See https://vicuna. lmsys. org (accessed 14 April 2023), 2023. 1, 3, 4, 5",
+    "title": "Vicuna: An open-source chatbot impressing gpt-4 with 90%* chatgpt quality",
+    "authors": [
+      "Wei-Lin Chiang",
+      "Zhuohan Li",
+      "Zi Lin",
+      "Ying Sheng",
+      "Zhanghao Wu",
+      "Hao Zhang",
+      "Lianmin Zheng",
+      "Siyuan Zhuang",
+      "Yonghao Zhuang",
+      "Joseph E Gonzalez"
+    ],
+    "year": 2005,
+    "identifiers": {
+      "url": "https://vicuna.lmsys.org"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung, Charles Sutton, Sebastian Gehrmann, et al. Palm: Scaling language modeling with pathways. arXiv preprint arXiv:2204.02311, 2022. 3",
+    "title": "Scaling language modeling with pathways",
+    "authors": [
+      "Aakanksha Chowdhery",
+      "Sharan Narang",
+      "Jacob Devlin",
+      "Maarten Bosma",
+      "Gaurav Mishra",
+      "Adam Roberts",
+      "Paul Barham",
+      "Hyung Won Chung",
+      "Charles Sutton",
+      "Sebastian Gehrmann"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2204.02311"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, et al. Scaling instruction-finetuned language models. arXiv preprint arXiv:2210.11416, 2022. 1, 3",
+    "title": "Scaling instruction-finetuned language models",
+    "authors": [
+      "Chung Hyung Won",
+      "Le Hou",
+      "Shayne Longpre",
+      "Barret Zoph",
+      "Yi Tay",
+      "William Fedus",
+      "Eric Li",
+      "Xuezhi Wang",
+      "Mostafa Dehghani",
+      "Siddhartha Brahma"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2210.11416"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Mike Conover, Matt Hayes, Ankit Mathur, Jianwei Xie, Jun Wan, Sam Shah, Ali Ghodsi, Patrick Wendell, Matei Zaharia, and Reynold Xin. Free dolly: Introducing the world's first truly open instruction-tuned llm, 2023. URL https://www.databricks.com/blog/2023/04/ 12/dolly-first-open-commercially-viable-instruction-tuned-llm. 4, 15",
+    "title": "Free dolly: Introducing the world's first truly open instruction-tuned llm",
+    "authors": [
+      "Mike Conover",
+      "Matt Hayes",
+      "Ankit Mathur",
+      "Jianwei Xie",
+      "Jun Wan",
+      "Sam Shah",
+      "Ali Ghodsi",
+      "Patrick Wendell",
+      "Matei Zaharia",
+      "Reynold Xin"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Ganqu Cui, Lifan Yuan, Ning Ding, Guanming Yao, Wei Zhu, Yuan Ni, Guotong Xie, Zhiyuan Liu, and Maosong Sun. Ultrafeedback: Boosting language models with high-quality feedback. arXiv preprint arXiv:2310.01377, 2023. 10, 15, 19, 22",
+    "title": "Boosting language models with high-quality feedback",
+    "authors": [
+      "Ganqu Cui",
+      "Lifan Yuan",
+      "Ning Ding",
+      "Guanming Yao",
+      "Wei Zhu",
+      "Yuan Ni",
+      "Guotong Xie",
+      "Zhiyuan Liu",
+      "Maosong Sun",
+      "Ultrafeedback"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.01377"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Jianping Gou, Baosheng Yu, Stephen J Maybank, and Dacheng Tao. Knowledge distillation: A survey. International Journal of Computer Vision, 129(6):1789-1819, 2021. 10",
+    "title": "Knowledge distillation: A survey",
+    "authors": [
+      "Jianping Gou",
+      "Baosheng Yu",
+      "Stephen J Maybank",
+      "Dacheng Tao"
+    ],
+    "venue": "International Journal of Computer Vision",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt. Measuring massive multitask language understanding. arXiv preprint arXiv:2009.03300, 2020. 1",
+    "title": "Measuring massive multitask language understanding",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Steven Basart",
+      "Andy Zou",
+      "Mantas Mazeika",
+      "Dawn Song",
+      "Jacob Steinhardt"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2009.03300"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Shima Imani, Liang Du, and Harsh Shrivastava. Mathprompter: Mathematical reasoning using large language models. arXiv preprint arXiv:2303.05398, 2023. 16",
+    "title": "Mathematical reasoning using large language models",
+    "authors": [
+      "Shima Imani",
+      "Liang Du",
+      "Harsh Shrivastava",
+      "Mathprompter"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2303.05398"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Hamish Ivison, Yizhong Wang, Valentina Pyatkin, Nathan Lambert, Matthew Peters, Pradeep Dasigi, Joel Jang, David Wadden, Noah A Smith, Iz Beltagy, et al. Camels in a changing climate: Enhancing lm adaptation with tulu 2. arXiv preprint arXiv:2311.10702, 2023. 19, 20",
+    "title": "Camels in a changing climate: Enhancing lm adaptation with tulu 2",
+    "authors": [
+      "Hamish Ivison",
+      "Yizhong Wang",
+      "Valentina Pyatkin",
+      "Nathan Lambert",
+      "Matthew Peters",
+      "Pradeep Dasigi",
+      "Joel Jang",
+      "David Wadden",
+      "Noah A Smith",
+      "Iz Beltagy"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2311.10702"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Srinivasan Iyer, Xi Victoria Lin, Ramakanth Pasunuru, Todor Mihaylov, Daniel Simig, Ping Yu, Kurt Shuster, Tianlu Wang, Qing Liu, Punit Singh Koura, et al. Opt-iml: Scaling language model instruction meta learning through the lens of generalization. arXiv preprint arXiv:2212.12017, 2022. 3",
+    "title": "Opt-iml: Scaling language model instruction meta learning through the lens of generalization",
+    "authors": [
+      "Srinivasan Iyer",
+      "Xi Victoria Lin",
+      "Ramakanth Pasunuru",
+      "Todor Mihaylov",
+      "Daniel Simig",
+      "Ping Yu",
+      "Kurt Shuster",
+      "Tianlu Wang",
+      "Qing Liu",
+      "Punit Singh Koura"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2212.12017"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Dongfu Jiang, Yishan Li, Ge Zhang, Wenhao Huang, Bill Yuchen Lin, and Wenhu Chen. Tigerscore: Towards building explainable metric for all text generation tasks. Transactions on Machine Learning Research, 2023. 20, 22",
+    "title": "Tigerscore: Towards building explainable metric for all text generation tasks",
+    "authors": [
+      "Dongfu Jiang",
+      "Yishan Li",
+      "Ge Zhang",
+      "Wenhao Huang",
+      "Bill Yuchen Lin",
+      "Wenhu Chen"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Seungone Kim, Jamin Shin, Yejin Cho, Joel Jang, Shayne Longpre, Hwaran Lee, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, et al. Prometheus: Inducing fine-grained evaluation capability in language models. In The Twelfth International Conference on Learning Representations, 2023. 19, 22",
+    "title": "Prometheus: Inducing fine-grained evaluation capability in language models",
+    "authors": [
+      "Seungone Kim",
+      "Jamin Shin",
+      "Yejin Cho",
+      "Joel Jang",
+      "Shayne Longpre",
+      "Hwaran Lee",
+      "Sangdoo Yun",
+      "Seongjin Shin",
+      "Sungdong Kim",
+      "James Thorne"
+    ],
+    "venue": "The Twelfth International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Diederik P Kingma and Jimmy Ba. Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980, 2014. 17",
+    "title": "Adam: A method for stochastic optimization",
+    "authors": [
+      "P Diederik",
+      "Jimmy Kingma",
+      "Ba"
+    ],
+    "year": 2014,
+    "identifiers": {
+      "arxiv_id": "arXiv:1412.6980"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Miyoung Ko, Jinhyuk Lee, Hyunjae Kim, Gangwoo Kim, and Jaewoo Kang. Look at the first sentence: Position bias in question answering. In 2020 Conference on Empirical Methods in Natural Language Processing, EMNLP 2020, pp. 1109-1121. Association for Computational Linguistics (ACL), 2020. 5",
+    "title": "Look at the first sentence: Position bias in question answering",
+    "authors": [
+      "Miyoung Ko",
+      "Jinhyuk Lee",
+      "Hyunjae Kim",
+      "Gangwoo Kim",
+      "Jaewoo Kang"
+    ],
+    "venue": "2020 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Nathan Lambert, Valentina Pyatkin, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, et al. Rewardbench: Evaluating reward models for language modeling. arXiv preprint arXiv:2403.13787, 2024. 19, 22",
+    "title": "Evaluating reward models for language modeling",
+    "authors": [
+      "Nathan Lambert",
+      "Valentina Pyatkin",
+      "Jacob Morrison",
+      "L J Miranda",
+      "Bill Yuchen Lin",
+      "Khyathi Chandu",
+      "Nouha Dziri",
+      "Sachin Kumar",
+      "Tom Zick",
+      "Yejin Choi"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.13787"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Seongyun Lee, Seungone Kim, Sue Hyun Park, Geewook Kim, and Minjoon Seo. Prometheusvision: Vision-language model as a judge for fine-grained evaluation. arXiv preprint arXiv:2401.06591, 2024. 18",
+    "title": "Prometheusvision: Vision-language model as a judge for fine-grained evaluation",
+    "authors": [
+      "Seongyun Lee",
+      "Seungone Kim",
+      "Sue",
+      "Hyun Park",
+      "Geewook Kim",
+      "Minjoon Seo"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.06591"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Junlong Li, Shichao Sun, Weizhe Yuan, Run-Ze Fan, Hai Zhao, and Pengfei Liu. Generative judge for evaluating alignment. CoRR, abs/2310.05470, 2023a. URL https://doi.org/ 10.48550/arXiv.2310.05470. 3, 6, 22",
+    "title": "Generative judge for evaluating alignment",
+    "authors": [
+      "Junlong Li",
+      "Shichao Sun",
+      "Weizhe Yuan",
+      "Run-Ze Fan",
+      "Hai Zhao",
+      "Pengfei Liu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.48550/arXiv.2310.05470.3",
+      "arxiv_id": "2310.05470",
+      "url": "https://doi.org/10.48550/arXiv.2310.05470.3"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Zongjie Li, Chaozheng Wang, Pingchuan Ma, Daoyuan Wu, Shuai Wang, Cuiyun Gao, and Yang Liu. Split and merge: Aligning position biases in large language model based evaluators. arXiv preprint arXiv:2310.01432, 2023b. 5",
+    "title": "Split and merge: Aligning position biases in large language model based evaluators",
+    "authors": [
+      "Zongjie Li",
+      "Chaozheng Wang",
+      "Pingchuan Ma",
+      "Daoyuan Wu",
+      "Shuai Wang",
+      "Cuiyun Gao",
+      "Yang Liu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.01432"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihiro Yasunaga, Yian Zhang, Deepak Narayanan, Yuhuai Wu, Ananya Kumar, et al. Holistic evaluation of language models. arXiv preprint arXiv:2211.09110, 2022. 1",
+    "title": "Holistic evaluation of language models",
+    "authors": [
+      "Percy Liang",
+      "Rishi Bommasani",
+      "Tony Lee",
+      "Dimitris Tsipras",
+      "Dilara Soylu",
+      "Michihiro Yasunaga",
+      "Yian Zhang",
+      "Deepak Narayanan",
+      "Yuhuai Wu",
+      "Ananya Kumar"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2211.09110"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Chin-Yew Lin. Rouge: A package for automatic evaluation of summaries. In Text summarization branches out, pp. 74-81, 2004. 1",
+    "title": "Rouge: A package for automatic evaluation of summaries",
+    "authors": [
+      "Chin-Yew Lin"
+    ],
+    "venue": "Text summarization branches out",
+    "year": 2004,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Zi Lin, Zihan Wang, Yongqi Tong, Yangkun Wang, Yuxin Guo, Yujia Wang, and Jingbo Shang. Toxicchat: Unveiling hidden challenges of toxicity detection in real-world user-ai conversation. arXiv preprint arXiv:2310.17389, 2023. 18",
+    "title": "Toxicchat: Unveiling hidden challenges of toxicity detection in real-world user-ai conversation",
+    "authors": [
+      "Zi Lin",
+      "Zihan Wang",
+      "Yongqi Tong",
+      "Yangkun Wang",
+      "Yuxin Guo",
+      "Yujia Wang",
+      "Jingbo Shang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.17389"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Haotian Liu, Chunyuan Li, Qingyang Wu, and Yong Jae Lee. Visual instruction tuning. arXiv preprint arXiv:2304.08485, 2023. 18",
+    "title": "Visual instruction tuning",
+    "authors": [
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Qingyang Wu",
+      "Yong Jae Lee"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2304.08485"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Ilya Loshchilov and Frank Hutter. Decoupled weight decay regularization. In ICLR, 2019. 17",
+    "title": "Decoupled weight decay regularization",
+    "authors": [
+      "Ilya Loshchilov",
+      "Frank Hutter"
+    ],
+    "venue": "ICLR",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Haipeng Luo, Qingfeng Sun, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, and Dongmei Zhang. Wizardmath: Empowering mathematical reasoning for large language models via reinforced evol-instruct. arXiv preprint arXiv:2308.09583, 2023. 16",
+    "title": "Wizardmath: Empowering mathematical reasoning for large language models via reinforced evol-instruct",
+    "authors": [
+      "Haipeng Luo",
+      "Qingfeng Sun",
+      "Can Xu",
+      "Pu Zhao",
+      "Jianguang Lou",
+      "Chongyang Tao",
+      "Xiubo Geng",
+      "Qingwei Lin",
+      "Shifeng Chen",
+      "Dongmei Zhang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2308.09583"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Jinjie Ni, Yifan Song, Deepanway Ghosal, Bo Li, David Junhao Zhang, Xiang Yue, Fuzhao Xue, Zian Zheng, Kaichen Zhang, Mahir Shah, et al. Mixeval-x: Any-to-any evaluations from realworld data mixtures. arXiv preprint arXiv:2410.13754, 2024a. 23",
+    "title": "Mixeval-x: Any-to-any evaluations from realworld data mixtures",
+    "authors": [
+      "Jinjie Ni",
+      "Yifan Song",
+      "Deepanway Ghosal",
+      "Bo Li",
+      "David Junhao Zhang",
+      "Xiang Yue",
+      "Fuzhao Xue",
+      "Zian Zheng",
+      "Kaichen Zhang",
+      "Mahir Shah"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2410.13754"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Jinjie Ni, Fuzhao Xue, Xiang Yue, Yuntian Deng, Mahir Shah, Kabir Jain, Graham Neubig, and Yang You. Mixeval: Deriving wisdom of the crowd from llm benchmark mixtures. arXiv preprint arXiv:2406.06565, 2024b. 23",
+    "title": "Mixeval: Deriving wisdom of the crowd from llm benchmark mixtures",
+    "authors": [
+      "Jinjie Ni",
+      "Fuzhao Xue",
+      "Xiang Yue",
+      "Yuntian Deng",
+      "Mahir Shah",
+      "Kabir Jain",
+      "Graham Neubig",
+      "Yang You"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.06565"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "OpenAI. Chatgpt, 2022. URL https://openai.com/blog/chatgpt/. 3",
+    "authors": [
+      "OpenAI"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "url": "https://openai.com/blog/chatgpt/.3"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "OpenAI. Gpt-4 technical report, 2023. 3",
+    "title": "Gpt-4 technical report",
+    "authors": [],
+    "venue": "OpenAI. Gpt-4 technical report",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Long Ouyang, Jeffrey Wu, Xu Jiang, Diogo Almeida, Carroll Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, et al. Training language models to follow instructions with human feedback. Advances in Neural Information Processing Systems, 35: 27730-27744, 2022. 3, 5",
+    "title": "Training language models to follow instructions with human feedback",
+    "authors": [
+      "Long Ouyang",
+      "Jeffrey Wu",
+      "Xu Jiang",
+      "Diogo Almeida",
+      "Carroll Wainwright",
+      "Pamela Mishkin",
+      "Chong Zhang",
+      "Sandhini Agarwal",
+      "Katarina Slama",
+      "Alex Ray"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. Bleu: a method for automatic evaluation of machine translation. In Proceedings of the 40th annual meeting of the Association for Computational Linguistics, pp. 311-318, 2002. 1",
+    "title": "Bleu: a method for automatic evaluation of machine translation",
+    "authors": [
+      "Kishore Papineni",
+      "Salim Roukos",
+      "Todd Ward",
+      "Wei-Jing Zhu"
+    ],
+    "venue": "Proceedings of the 40th annual meeting of the Association for Computational Linguistics",
+    "year": 2002,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Baolin Peng, Chunyuan Li, Pengcheng He, Michel Galley, and Jianfeng Gao. Instruction tuning with gpt-4. arXiv preprint arXiv:2304.03277, 2023. 4, 15",
+    "title": "Instruction tuning with gpt-4",
+    "authors": [
+      "Baolin Peng",
+      "Chunyuan Li",
+      "Pengcheng He",
+      "Michel Galley",
+      "Jianfeng Gao"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2304.03277"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Maja Popović. chrF: character n-gram F-score for automatic MT evaluation. In Proceedings of the Tenth Workshop on Statistical Machine Translation, pp. 392-395, Lisbon, Portugal, September 2015. Association for Computational Linguistics. doi: 10.18653/v1/W15-3049. URL https: //aclanthology.org/W15-3049. 3",
+    "title": "chrF: character n-gram F-score for automatic MT evaluation",
+    "authors": [
+      "Maja Popović"
+    ],
+    "venue": "Proceedings of the Tenth Workshop on Statistical Machine Translation",
+    "year": 2015,
+    "identifiers": {
+      "doi": "10.18653/v1/W15-3049",
+      "url": "https://aclanthology.org/W15-3049.3"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, and Peter J Liu. Exploring the limits of transfer learning with a unified text-to-text transformer. The Journal of Machine Learning Research, 21(1):5485-5551, 2020. 3",
+    "title": "Exploring the limits of transfer learning with a unified text-to-text transformer",
+    "authors": [
+      "Colin Raffel",
+      "Noam Shazeer",
+      "Adam Roberts",
+      "Katherine Lee",
+      "Sharan Narang",
+      "Michael Matena",
+      "Yanqi Zhou",
+      "Wei Li",
+      "Peter J Liu"
+    ],
+    "venue": "The Journal of Machine Learning Research",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Priya Raghubir and Ana Valenzuela. Center-of-inattention: Position biases in decision-making. Organizational Behavior and Human Decision Processes, 99(1):66-80, 2006. 5",
+    "title": "Center-of-inattention: Position biases in decision-making. Organizational Behavior and Human Decision Processes",
+    "authors": [
+      "Priya Raghubir",
+      "Ana Valenzuela"
+    ],
+    "year": 2006,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, and Ilya Sutskever. Zero-shot text-to-image generation. arXiv preprint arXiv:2102.12092, 2021. 17",
+    "title": "Zero-shot text-to-image generation",
+    "authors": [
+      "Aditya Ramesh",
+      "Mikhail Pavlov",
+      "Gabriel Goh",
+      "Scott Gray",
+      "Chelsea Voss",
+      "Alec Radford",
+      "Mark Chen",
+      "Ilya Sutskever"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2102.12092"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Thibault Sellam, Dipanjan Das, and Ankur Parikh. Bleurt: Learning robust metrics for text generation. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 7881-7892, 2020. 1",
+    "title": "Learning robust metrics for text generation",
+    "authors": [
+      "Thibault Sellam",
+      "Dipanjan Das",
+      "Ankur Parikh",
+      "Bleurt"
+    ],
+    "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Quan Sun, Qiying Yu, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, and Xinlong Wang. Generative pretraining in multimodality. arXiv preprint arXiv:2307.05222, 2023. 3",
+    "title": "Generative pretraining in multimodality",
+    "authors": [
+      "Quan Sun",
+      "Qiying Yu",
+      "Yufeng Cui",
+      "Fan Zhang",
+      "Xiaosong Zhang",
+      "Yueze Wang",
+      "Hongcheng Gao",
+      "Jingjing Liu",
+      "Tiejun Huang",
+      "Xinlong Wang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.05222"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, et al. Llama: Open and efficient foundation language models. arXiv preprint arXiv:2302.13971, 2023a. 1, 3, 4, 5",
+    "title": "Llama: Open and efficient foundation language models",
+    "authors": [
+      "Hugo Touvron",
+      "Thibaut Lavril",
+      "Gautier Izacard",
+      "Xavier Martinet",
+      "Marie-Anne Lachaux",
+      "Timothée Lacroix",
+      "Baptiste Rozière",
+      "Naman Goyal",
+      "Eric Hambro",
+      "Faisal Azhar"
+    ],
+    "year": 2005,
+    "identifiers": {
+      "arxiv_id": "arXiv:2302.13971"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, et al. Llama 2: Open foundation and fine-tuned chat models. arXiv preprint arXiv:2307.09288, 2023b. 3, 19, 21",
+    "title": "Llama 2: Open foundation and fine-tuned chat models",
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Nikolay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.09288"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Xuanhui Wang, Nadav Golbandi, Michael Bendersky, Donald Metzler, and Marc Najork. Position bias estimation for unbiased learning to rank in personal search. In Proceedings of the eleventh ACM international conference on web search and data mining, pp. 610-618, 2018. 5",
+    "title": "Position bias estimation for unbiased learning to rank in personal search",
+    "authors": [
+      "Xuanhui Wang",
+      "Nadav Golbandi",
+      "Michael Bendersky",
+      "Donald Metzler",
+      "Marc Najork"
+    ],
+    "venue": "Proceedings of the eleventh ACM international conference on web search and data mining",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Yidong Wang, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, and Yue Zhang. Pandalm: An automatic evaluation benchmark for llm instruction tuning optimization. CoRR, abs/2306.05087, 2023. URL https://doi.org/10.48550/arXiv.2306.05087. 2, 3, 5, 6, 7, 19, 22",
+    "title": "Pandalm: An automatic evaluation benchmark for llm instruction tuning optimization",
+    "authors": [
+      "Yidong Wang",
+      "Zhuohao Yu",
+      "Zhengran Zeng",
+      "Linyi Yang",
+      "Cunxiang Wang",
+      "Hao Chen",
+      "Chaoya Jiang",
+      "Rui Xie",
+      "Jindong Wang",
+      "Xing Xie",
+      "Wei Ye",
+      "Shikun Zhang",
+      "Yue Zhang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.48550/arXiv.2306.05087.2",
+      "arxiv_id": "2306.05087",
+      "url": "https://doi.org/10.48550/arXiv.2306.05087.2"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Fei Xia, Ed Chi, Quoc V Le, Denny Zhou, et al. Chain-of-thought prompting elicits reasoning in large language models. Advances in Neural Information Processing Systems, 35:24824-24837, 2022. 9",
+    "title": "Chain-of-thought prompting elicits reasoning in large language models",
+    "authors": [
+      "Jason Wei",
+      "Xuezhi Wang",
+      "Dale Schuurmans",
+      "Maarten Bosma",
+      "Fei Xia",
+      "Ed Chi",
+      "V Quoc",
+      "Denny Le",
+      "Zhou"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Wenda Xu, Danqing Wang, Liangming Pan, Zhenqiao Song, Markus Freitag, William Yang Wang, and Lei Li. Instructscore: Explainable text generation evaluation with finegrained feedback. arXiv preprint arXiv:2305.14282, 2023. 6, 22",
+    "title": "Instructscore: Explainable text generation evaluation with finegrained feedback",
+    "authors": [
+      "Wenda Xu",
+      "Danqing Wang",
+      "Liangming Pan",
+      "Zhenqiao Song",
+      "Markus Freitag",
+      "William Yang",
+      "Wang",
+      "Lei Li"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.14282"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T Kwok, Zhenguo Li, Adrian Weller, and Weiyang Liu. Metamath: Bootstrap your own mathematical questions for large language models. arXiv preprint arXiv:2309.12284, 2023a. 16",
+    "title": "Bootstrap your own mathematical questions for large language models",
+    "authors": [
+      "Longhui Yu",
+      "Weisen Jiang",
+      "Han Shi",
+      "Jincheng Yu",
+      "Zhengying Liu",
+      "Yu Zhang",
+      "James T Kwok",
+      "Zhenguo Li",
+      "Adrian Weller",
+      "Weiyang Liu",
+      "Metamath"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2309.12284"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Weihao Yu, Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Zicheng Liu, Xinchao Wang, and Lijuan Wang. Mm-vet: Evaluating large multimodal models for integrated capabilities, 2023b. 18",
+    "title": "Mm-vet: Evaluating large multimodal models for integrated capabilities",
+    "authors": [
+      "Weihao Yu",
+      "Zhengyuan Yang",
+      "Linjie Li",
+      "Jianfeng Wang",
+      "Kevin Lin",
+      "Zicheng Liu",
+      "Xinchao Wang",
+      "Lijuan Wang"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Weizhe Yuan, Graham Neubig, and Pengfei Liu. Bartscore: Evaluating generated text as text generation. Advances in Neural Information Processing Systems, 34:27263-27277, 2021. 1",
+    "title": "Bartscore: Evaluating generated text as text generation",
+    "authors": [
+      "Weizhe Yuan",
+      "Graham Neubig",
+      "Pengfei Liu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Renrui Zhang, Jiaming Han, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Peng Gao, and Yu Qiao. Llama-adapter: Efficient fine-tuning of language models with zero-init attention. arXiv preprint arXiv:2303.16199, 2023. 3",
+    "title": "Llama-adapter: Efficient fine-tuning of language models with zero-init attention",
+    "authors": [
+      "Renrui Zhang",
+      "Jiaming Han",
+      "Aojun Zhou",
+      "Xiangfei Hu",
+      "Shilin Yan",
+      "Pan Lu",
+      "Hongsheng Li",
+      "Peng Gao",
+      "Yu Qiao"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2303.16199"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, et al. Opt: Open pre-trained transformer language models. arXiv preprint arXiv:2205.01068, 2022. 1, 3",
+    "title": "Opt: Open pre-trained transformer language models",
+    "authors": [
+      "Susan Zhang",
+      "Stephen Roller",
+      "Naman Goyal",
+      "Mikel Artetxe",
+      "Moya Chen",
+      "Shuohui Chen",
+      "Christopher Dewan",
+      "Mona Diab",
+      "Xian Li",
+      "Xi Victoria Lin"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2205.01068"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q Weinberger, and Yoav Artzi. Bertscore: Evaluating text generation with bert. arXiv preprint arXiv:1904.09675, 2019. 1, 3",
+    "title": "Evaluating text generation with bert",
+    "authors": [
+      "Tianyi Zhang",
+      "Varsha Kishore",
+      "Felix Wu",
+      "Kilian Q Weinberger",
+      "Yoav Artzi",
+      "Bertscore"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1904.09675"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric Xing, et al. Judging llm-as-a-judge with mt-bench and chatbot arena. arXiv preprint arXiv:2306.05685, 2023. 1, 2, 3, 5, 6, 22, 23",
+    "title": "Judging llm-as-a-judge with mt-bench and chatbot arena",
+    "authors": [
+      "Lianmin Zheng",
+      "Wei-Lin Chiang",
+      "Ying Sheng",
+      "Siyuan Zhuang",
+      "Zhanghao Wu",
+      "Yonghao Zhuang",
+      "Zi Lin",
+      "Zhuohan Li",
+      "Dacheng Li",
+      "Eric Xing"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.05685"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

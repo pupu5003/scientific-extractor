@@ -1,0 +1,1962 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Joshua Achiam, David Held, Aviv Tamar, and Pieter Abbeel. Constrained policy optimization, 2017.",
+    "title": "Constrained policy optimization",
+    "authors": [
+      "Joshua Achiam",
+      "David Held",
+      "Aviv Tamar",
+      "Pieter Abbeel"
+    ],
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Maruan Al-Shedivat, Trapit Bansal, Yuri Burda, Ilya Sutskever, Igor Mordatch, and Pieter Abbeel. Continuous adaptation via meta-learning in nonstationary and competitive environments, 2018.",
+    "title": "Continuous adaptation via meta-learning in nonstationary and competitive environments",
+    "authors": [
+      "Maruan Al-Shedivat",
+      "Trapit Bansal",
+      "Yuri Burda",
+      "Ilya Sutskever",
+      "Igor Mordatch",
+      "Pieter Abbeel"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Lucas N Alegre, Ana LC Bazzan, and Bruno C da Silva. Minimum-delay adaptation in non-stationary reinforcement learning via online high-confidence change-point detection. In Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems, pp. 97-105, 2021.",
+    "title": "Minimum-delay adaptation in non-stationary reinforcement learning via online high-confidence change-point detection",
+    "authors": [
+      "Ana Lucas N Alegre",
+      "Bruno C Da Lc Bazzan",
+      "Silva"
+    ],
+    "venue": "Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Rahaf Aljundi, Klaas Kelchtermans, and Tinne Tuytelaars. Task-free continual learning, 2019. Nishanth Anand and Doina Precup. Prediction and control in continual reinforcement learning, 2023. URL https://arxiv.org/abs/2312.11669.",
+    "title": "Nishanth Anand and Doina Precup. Prediction and control in continual reinforcement learning",
+    "authors": [
+      "Rahaf Aljundi",
+      "Klaas Kelchtermans",
+      "Tinne Tuytelaars"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "2312.11669",
+      "url": "https://arxiv.org/abs/2312.11669"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Craig Atkinson, Brendan McCane, Lech Szymanski, and Anthony Robins. Pseudo-rehearsal: Achieving deep reinforcement learning without catastrophic forgetting. Neurocomputing, 428:291-307, Mar 2021. ISSN 0925-2312. doi: 10.1016/j.neucom.2020.11.050. URL http://dx.doi.org/10.1016/j. neucom.2020.11.050.",
+    "title": "Pseudo-rehearsal: Achieving deep reinforcement learning without catastrophic forgetting",
+    "authors": [
+      "Craig Atkinson",
+      "Brendan Mccane",
+      "Lech Szymanski",
+      "Anthony Robins"
+    ],
+    "venue": "Neurocomputing",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.1016/j.neucom.2020.11.050",
+      "url": "http://dx.doi.org/10.1016/j.neucom.2020.11.050"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Emmanuel Bengio, Joelle Pineau, and Doina Precup. Interference and generalization in temporal difference learning, 2020. URL https://arxiv.org/abs/2003.06350.",
+    "title": "Interference and generalization in temporal difference learning",
+    "authors": [
+      "Emmanuel Bengio",
+      "Joelle Pineau",
+      "Doina Precup"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "2003.06350",
+      "url": "https://arxiv.org/abs/2003.06350"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Zhenshan Bing, Lukas Knak, Fabrice Oliver Robin, Kai Huang, and Alois Knoll. Meta-reinforcement learning in broad and non-parametric environments, 2022.",
+    "title": "Meta-reinforcement learning in broad and non-parametric environments",
+    "authors": [
+      "Zhenshan Bing",
+      "Lukas Knak",
+      "Fabrice Oliver Robin",
+      "Kai Huang",
+      "Alois Knoll"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Massimo Caccia, Pau Rodriguez, Oleksiy Ostapenko, Fabrice Normandin, Min Lin, Lucas Page-Caccia, Issam Hadj Laradji, Irina Rish, Alexandre Lacoste, David Vázquez, et al. Online fast adaptation and knowledge accumulation (osaka): a new approach to continual learning. Advances in Neural Information Processing Systems, 33:16532-16545, 2020.",
+    "title": "Online fast adaptation and knowledge accumulation (osaka): a new approach to continual learning",
+    "authors": [
+      "Massimo Caccia",
+      "Pau Rodriguez",
+      "Oleksiy Ostapenko",
+      "Fabrice Normandin",
+      "Min Lin",
+      "Lucas Page-Caccia",
+      "Issam Hadj Laradji",
+      "Irina Rish",
+      "Alexandre Lacoste",
+      "David Vázquez"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Rich Caruana. Multitask learning. Machine learning, 28:41-75, 1997.",
+    "title": "Multitask learning",
+    "authors": [
+      "Rich Caruana"
+    ],
+    "venue": "Machine learning",
+    "year": 1997,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Yash Chandak, Georgios Theocharous, Shiv Shankar, Martha White, Sridhar Mahadevan, and Philip S. Thomas. Optimizing for the future in non-stationary mdps, 2020.",
+    "title": "Optimizing for the future in non-stationary mdps",
+    "authors": [
+      "Yash Chandak",
+      "Georgios Theocharous",
+      "Shiv Shankar",
+      "Martha White",
+      "Philip S Sridhar Mahadevan",
+      "Thomas"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Arslan Chaudhry, Puneet K. Dokania, Thalaiyasingam Ajanthan, and Philip H. S. Torr. Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence, pp. 556-572. Springer International Publishing, 2018. ISBN 9783030012526. doi: 10.1007/978-3-030-01252-6 33. URL http://dx.doi.org/10.1007/978-3-030-01252-6_33.",
+    "title": "Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence",
+    "authors": [
+      "Arslan Chaudhry",
+      "Puneet K Dokania",
+      "Thalaiyasingam Ajanthan",
+      "Philip H S Torr"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "doi": "10.1007/978-3-030-01252-633",
+      "url": "http://dx.doi.org/10.1007/978-3-030-01252-6_33"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Xiaoyu Chen, Xiangming Zhu, Yufeng Zheng, Pushi Zhang, Li Zhao, Wenxue Cheng, Peng Cheng, Yongqiang Xiong, Tao Qin, Jianyu Chen, et al. An adaptive deep rl method for non-stationary environments with piecewise stable context. Advances in Neural Information Processing Systems, 35: 35449-35461, 2022.",
+    "title": "An adaptive deep rl method for non-stationary environments with piecewise stable context",
+    "authors": [
+      "Xiaoyu Chen",
+      "Xiangming Zhu",
+      "Yufeng Zheng",
+      "Pushi Zhang",
+      "Li Zhao",
+      "Wenxue Cheng",
+      "Peng Cheng",
+      "Yongqiang Xiong",
+      "Tao Qin",
+      "Jianyu Chen"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Bruno C. da Silva, Eduardo W. Basso, Ana L. C. Bazzan, and Paulo M. Engel. Dealing with nonstationary environments using context detection. In Proceedings of the 23rd International Conference on Machine Learning, ICML '06, pp. 217-224, New York, NY, USA, 2006. Association for Computing Machinery. ISBN 1595933832. doi: 10.1145/1143844.1143872. URL https://doi.org/10. 1145/1143844.1143872.",
+    "title": "Dealing with nonstationary environments using context detection",
+    "authors": [
+      "C Bruno",
+      "Eduardo W Da Silva",
+      "Ana L C Basso",
+      "Paulo M Bazzan",
+      "Engel"
+    ],
+    "venue": "Proceedings of the 23rd International Conference on Machine Learning, ICML '06",
+    "year": 2006,
+    "identifiers": {
+      "doi": "10.1145/1143844.1143872",
+      "arxiv_id": "3844.11438",
+      "url": "https://doi.org/10.1145/1143844.1143872"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Thomas G. Dietterich, George Trimponias, and Zhitang Chen. Discovering and removing exogenous state variables and rewards for reinforcement learning. In International Conference on Machine Learning, 2018. URL https://api.semanticscholar.org/CorpusID:46938244.",
+    "title": "Discovering and removing exogenous state variables and rewards for reinforcement learning",
+    "authors": [
+      "G Thomas",
+      "George Dietterich",
+      "Zhitang Trimponias",
+      "Chen"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2018,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Kenji Doya, Kazuyuki Samejima, Ken-ichi Katagiri, and Mitsuo Kawato. Multiple model-based reinforcement learning. Neural computation, 14(6):1347-1369, 2002.",
+    "title": "Multiple model-based reinforcement learning",
+    "authors": [
+      "Kenji Doya",
+      "Kazuyuki Samejima",
+      "Ken-Ichi Katagiri",
+      "Mitsuo Kawato"
+    ],
+    "venue": "Neural computation",
+    "year": 2002,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Yan Duan, Xi Chen, Rein Houthooft, John Schulman, and Pieter Abbeel. Benchmarking deep reinforcement learning for continuous control. In International conference on machine learning, pp. 1329-1338. PMLR, 2016.",
+    "title": "Benchmarking deep reinforcement learning for continuous control",
+    "authors": [
+      "Yan Duan",
+      "Xi Chen",
+      "Rein Houthooft",
+      "John Schulman",
+      "Pieter Abbeel"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Lasse Espeholt, Hubert Soyer, Remi Munos, Karen Simonyan, Volodymir Mnih, Tom Ward, Yotam Doron, Vlad Firoiu, Tim Harley, Iain Dunning, Shane Legg, and Koray Kavukcuoglu. Impala: Scalable distributed deep-rl with importance weighted actor-learner architectures, 2018.",
+    "title": "Impala: Scalable distributed deep-rl with importance weighted actor-learner architectures",
+    "authors": [
+      "Lasse Espeholt",
+      "Hubert Soyer",
+      "Remi Munos",
+      "Karen Simonyan",
+      "Volodymir Mnih",
+      "Tom Ward",
+      "Yotam Doron",
+      "Vlad Firoiu",
+      "Tim Harley",
+      "Iain Dunning",
+      "Shane Legg",
+      "Koray Kavukcuoglu"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Mehrdad Farajtabar, Navid Azizan, Alex Mott, and Ang Li. Orthogonal gradient descent for continual learning, 2019. URL https://arxiv.org/abs/1910.07104.",
+    "title": "Orthogonal gradient descent for continual learning",
+    "authors": [
+      "Mehrdad Farajtabar",
+      "Navid Azizan",
+      "Alex Mott",
+      "Ang Li"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "1910.07104",
+      "url": "https://arxiv.org/abs/1910.07104"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Fan Feng, Biwei Huang, Kun Zhang, and Sara Magliacane. Factored adaptation for non-stationary reinforcement learning. Advances in Neural Information Processing Systems, 35:31957-31971, 2022.",
+    "title": "Factored adaptation for non-stationary reinforcement learning",
+    "authors": [
+      "Fan Feng",
+      "Biwei Huang",
+      "Kun Zhang",
+      "Sara Magliacane"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Chelsea Finn, Aravind Rajeswaran, Sham Kakade, and Sergey Levine. Online meta-learning, 2019.",
+    "authors": [
+      "Chelsea Finn",
+      "Aravind Rajeswaran",
+      "Sham Kakade",
+      "Sergey Levine"
+    ],
+    "venue": "Online meta-learning",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E Turner, and Sergey Levine. Q-prop: Sample-efficient policy gradient with an off-policy critic. arXiv preprint arXiv:1611.02247, 2016.",
+    "title": "Sample-efficient policy gradient with an off-policy critic",
+    "authors": [
+      "Shixiang Gu",
+      "Timothy Lillicrap",
+      "Zoubin Ghahramani",
+      "Richard E Turner",
+      "Sergey Levine"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1611.02247"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Zhouyou Gu, Changyang She, Wibowo Hardjawana, Simon Lumb, David McKechnie, Todd Essery, and Branka Vucetic. Knowledge-assisted deep reinforcement learning in 5g scheduler design: From theoretical framework to implementation. IEEE Journal on Selected Areas in Communications, 39(7): 2014-2028, 2021.",
+    "title": "Knowledge-assisted deep reinforcement learning in 5g scheduler design: From theoretical framework to implementation",
+    "authors": [
+      "Zhouyou Gu",
+      "Changyang She",
+      "Wibowo Hardjawana",
+      "Simon Lumb",
+      "David Mckechnie",
+      "Todd Essery",
+      "Branka Vucetic"
+    ],
+    "venue": "IEEE Journal on Selected Areas in Communications",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Tuomas Haarnoja, Vitchyr Pong, Aurick Zhou, Murtaza Dalal, Pieter Abbeel, and Sergey Levine. Composable deep reinforcement learning for robotic manipulation. In 2018 IEEE International Conference on Robotics and Automation (ICRA), pp. 6244-6251, 2018a. doi: 10.1109/ICRA.2018.8460756.",
+    "title": "Composable deep reinforcement learning for robotic manipulation",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Vitchyr Pong",
+      "Aurick Zhou",
+      "Murtaza Dalal",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "venue": "2018 IEEE International Conference on Robotics and Automation (ICRA)",
+    "year": 2018,
+    "identifiers": {
+      "doi": "10.1109/ICRA.2018.8460756",
+      "arxiv_id": "2018.84607"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, and Sergey Levine. Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor. In International conference on machine learning, pp. 1861-1870. PMLR, 2018b.",
+    "title": "Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Aurick Zhou",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar, Henry Zhu, Abhishek Gupta, Pieter Abbeel, and Sergey Levine. Soft actor-critic algorithms and applications, 2018c. URL https://arxiv.org/abs/1812.05905.",
+    "title": "Soft actor-critic algorithms and applications",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Aurick Zhou",
+      "Kristian Hartikainen",
+      "George Tucker",
+      "Sehoon Ha",
+      "Jie Tan",
+      "Vikash Kumar",
+      "Henry Zhu",
+      "Abhishek Gupta",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "1812.05905",
+      "url": "https://arxiv.org/abs/1812.05905"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Assaf Hallak, Dotan Di Castro, and Shie Mannor. Contextual markov decision processes, 2015. URL https://arxiv.org/abs/1502.02259.",
+    "title": "Contextual markov decision processes",
+    "authors": [
+      "Assaf Hallak",
+      "Dotan Di Castro",
+      "Shie Mannor"
+    ],
+    "year": 2015,
+    "identifiers": {
+      "arxiv_id": "1502.02259",
+      "url": "https://arxiv.org/abs/1502.02259"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Pouya Hamadanian, Malte Schwarzkopf, Siddartha Sen, and Mohammad Alizadeh. Demystifying reinforcement learning in time-varying systems. arXiv preprint arXiv:2201.05560, 2022. doi: 10.48550/ARXIV.2201.05560. URL https://arxiv.org/abs/2201.05560.",
+    "title": "Demystifying reinforcement learning in time-varying systems",
+    "authors": [
+      "Pouya Hamadanian",
+      "Malte Schwarzkopf",
+      "Siddartha Sen",
+      "Mohammad Alizadeh"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2201.05560",
+      "arxiv_id": "arXiv:2201.05560",
+      "url": "https://arxiv.org/abs/2201.05560"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Hado van Hasselt, Arthur Guez, and David Silver. Deep reinforcement learning with double q-learning. In Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence, AAAI'16, pp. 2094-2100. AAAI Press, 2016.",
+    "title": "Deep reinforcement learning with double q-learning",
+    "authors": [
+      "Arthur Hado Van Hasselt",
+      "David Guez",
+      "Silver"
+    ],
+    "venue": "Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence, AAAI'16",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Ammar Haydari and Yasin Yılmaz. Deep reinforcement learning for intelligent transportation systems: A survey. IEEE Transactions on Intelligent Transportation Systems, 23(1):11-32, 2022. doi: 10.1109/ TITS.2020.3008612.",
+    "title": "Deep reinforcement learning for intelligent transportation systems: A survey",
+    "authors": [
+      "Ammar Haydari",
+      "Yasin Yılmaz"
+    ],
+    "venue": "IEEE Transactions on Intelligent Transportation Systems",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.1109/TITS.2020.3008612",
+      "arxiv_id": "2020.30086"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Xu He, Jakub Sygnowski, Alexandre Galashov, Andrei Alex Rusu, Yee Whye Teh, and Razvan Pascanu. Task agnostic continual learning via meta learning. In 4th Lifelong Machine Learning Workshop at ICML 2020, 2020. URL https://openreview.net/forum?id=AeIzVxdJgeb.",
+    "title": "Task agnostic continual learning via meta learning",
+    "authors": [
+      "Jakub Xu He",
+      "Alexandre Sygnowski",
+      "Andrei Alex Galashov",
+      "Yee Whye Rusu",
+      "Razvan Teh",
+      "Pascanu"
+    ],
+    "venue": "4th Lifelong Machine Learning Workshop at ICML 2020",
+    "year": 2020,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=AeIzVxdJgeb"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, S. M. Ali Eslami, Martin Riedmiller, and David Silver. Emergence of locomotion behaviours in rich environments, 2017a.",
+    "title": "Emergence of locomotion behaviours in rich environments",
+    "authors": [
+      "Nicolas Heess",
+      "T B Dhruva",
+      "Srinivasan Sriram",
+      "Jay Lemmon",
+      "Josh Merel",
+      "Greg Wayne",
+      "Yuval Tassa",
+      "Tom Erez",
+      "Ziyu Wang",
+      "S M Ali Eslami",
+      "Martin Riedmiller",
+      "David Silver"
+    ],
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, S. M. Ali Eslami, Martin Riedmiller, and David Silver. Emergence of locomotion behaviours in rich environments, 2017b. URL https://arxiv.org/abs/1707.02286.",
+    "title": "Emergence of locomotion behaviours in rich environments",
+    "authors": [
+      "Nicolas Heess",
+      "T B Dhruva",
+      "Srinivasan Sriram",
+      "Jay Lemmon",
+      "Josh Merel",
+      "Greg Wayne",
+      "Yuval Tassa",
+      "Tom Erez",
+      "Ziyu Wang",
+      "S M Ali Eslami",
+      "Martin Riedmiller",
+      "David Silver"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "1707.02286",
+      "url": "https://arxiv.org/abs/1707.02286"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Biwei Huang, Fan Feng, Chaochao Lu, Sara Magliacane, and Kun Zhang. Adarl: What, where, and how to adapt in transfer reinforcement learning, 2022.",
+    "title": "Adarl: What, where, and how to adapt in transfer reinforcement learning",
+    "authors": [
+      "Biwei Huang",
+      "Fan Feng",
+      "Chaochao Lu",
+      "Sara Magliacane",
+      "Kun Zhang"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Yizhou Huang, Kevin Xie, Homanga Bharadhwaj, and Florian Shkurti. Continual model-based reinforcement learning with hypernetworks, 2021.",
+    "title": "Continual model-based reinforcement learning with hypernetworks",
+    "authors": [
+      "Yizhou Huang",
+      "Kevin Xie",
+      "Homanga Bharadhwaj",
+      "Florian Shkurti"
+    ],
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "David Isele and Akansel Cosgun. Selective experience replay for lifelong learning, 2018.",
+    "title": "Selective experience replay for lifelong learning",
+    "authors": [
+      "David Isele",
+      "Akansel Cosgun"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Michael Janner, Justin Fu, Marvin Zhang, and Sergey Levine. When to trust your model: Model-based policy optimization, 2021.",
+    "title": "When to trust your model: Model-based policy optimization",
+    "authors": [
+      "Michael Janner",
+      "Justin Fu",
+      "Marvin Zhang",
+      "Sergey Levine"
+    ],
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Christos Kaplanis, Murray Shanahan, and Claudia Clopath. Continual reinforcement learning with complex synapses, 2018.",
+    "title": "Continual reinforcement learning with complex synapses",
+    "authors": [
+      "Christos Kaplanis",
+      "Murray Shanahan",
+      "Claudia Clopath"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Khimya Khetarpal, Matthew Riemer, Irina Rish, and Doina Precup. Towards continual reinforcement learning: A review and perspectives. arXiv preprint arXiv:2012.13490, 2020.",
+    "title": "Towards continual reinforcement learning: A review and perspectives",
+    "authors": [
+      "Khimya Khetarpal",
+      "Matthew Riemer",
+      "Irina Rish",
+      "Doina Precup"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2012.13490"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Diederik P. Kingma and Jimmy Ba. Adam: A method for stochastic optimization, 2017.",
+    "title": "Adam: A method for stochastic optimization",
+    "authors": [
+      "P Diederik",
+      "Jimmy Kingma",
+      "Ba"
+    ],
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "James Kirkpatrick, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desjardins, Andrei A Rusu, Kieran Milan, John Quan, Tiago Ramalho, Agnieszka Grabska-Barwinska, et al. Overcoming catastrophic forgetting in neural networks. Proceedings of the national academy of sciences, 114(13): 3521-3526, 2017.",
+    "title": "Overcoming catastrophic forgetting in neural networks",
+    "authors": [
+      "James Kirkpatrick",
+      "Razvan Pascanu",
+      "Neil Rabinowitz",
+      "Joel Veness",
+      "Guillaume Desjardins",
+      "Andrei A Rusu",
+      "Kieran Milan",
+      "John Quan",
+      "Tiago Ramalho",
+      "Agnieszka Grabska-Barwinska"
+    ],
+    "venue": "Proceedings of the national academy of sciences",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Qingfeng Lan and A. Rupam Mahmood. Elephant neural networks: Born to be a continual learner, 2023. URL https://arxiv.org/abs/2310.01365.",
+    "title": "Elephant neural networks: Born to be a continual learner",
+    "authors": [
+      "Qingfeng Lan",
+      "A Rupam Mahmood"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2310.01365",
+      "url": "https://arxiv.org/abs/2310.01365"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Qingfeng Lan, Yangchen Pan, Jun Luo, and A. Rupam Mahmood. Memory-efficient reinforcement learning with value-based knowledge consolidation, 2023. URL https://arxiv.org/abs/ 2205.10868.",
+    "title": "Memory-efficient reinforcement learning with value-based knowledge consolidation",
+    "authors": [
+      "Qingfeng Lan",
+      "Yangchen Pan",
+      "Jun Luo",
+      "A Rupam Mahmood"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2205.10868",
+      "url": "https://arxiv.org/abs/2205.10868"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Hyunin Lee, Yuhao Ding, Jongmin Lee, Ming Jin, Javad Lavaei, and Somayeh Sojoudi. Tempo adaptation in non-stationary reinforcement learning, 2023.",
+    "title": "Tempo adaptation in non-stationary reinforcement learning",
+    "authors": [
+      "Hyunin Lee",
+      "Yuhao Ding",
+      "Jongmin Lee",
+      "Ming Jin",
+      "Javad Lavaei",
+      "Somayeh Sojoudi"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Kimin Lee, Kibok Lee, Honglak Lee, and Jinwoo Shin. A simple unified framework for detecting out-of-distribution samples and adversarial attacks, 2018. URL https://arxiv.org/abs/1807. 03888.",
+    "title": "A simple unified framework for detecting out-of-distribution samples and adversarial attacks",
+    "authors": [
+      "Kimin Lee",
+      "Kibok Lee",
+      "Honglak Lee",
+      "Jinwoo Shin"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "url": "https://arxiv.org/abs/1807.03888"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Kimin Lee, Younggyo Seo, Seunghyun Lee, Honglak Lee, and Jinwoo Shin. Context-aware dynamics model for generalization in model-based reinforcement learning, 2020.",
+    "title": "Context-aware dynamics model for generalization in model-based reinforcement learning",
+    "authors": [
+      "Kimin Lee",
+      "Younggyo Seo",
+      "Seunghyun Lee",
+      "Honglak Lee",
+      "Jinwoo Shin"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Xilai Li, Yingbo Zhou, Tianfu Wu, Richard Socher, and Caiming Xiong. Learn to grow: A continual structure learning framework for overcoming catastrophic forgetting, 2019.",
+    "title": "Learn to grow: A continual structure learning framework for overcoming catastrophic forgetting",
+    "authors": [
+      "Xilai Li",
+      "Yingbo Zhou",
+      "Tianfu Wu",
+      "Richard Socher",
+      "Caiming Xiong"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Vincent Liu, Raksha Kumaraswamy, Lei Le, and Martha White. The utility of sparse representations for control in reinforcement learning, 2018. URL https://arxiv.org/abs/1811.06626.",
+    "title": "The utility of sparse representations for control in reinforcement learning",
+    "authors": [
+      "Vincent Liu",
+      "Raksha Kumaraswamy",
+      "Lei Le",
+      "Martha White"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "1811.06626",
+      "url": "https://arxiv.org/abs/1811.06626"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Vincent Liu, Han Wang, Ruo Yu Tao, Khurram Javed, Adam White, and Martha White. Measuring and mitigating interference in reinforcement learning, 2023. URL https://arxiv.org/abs/2307. 04887.",
+    "title": "Measuring and mitigating interference in reinforcement learning",
+    "authors": [
+      "Vincent Liu",
+      "Han Wang",
+      "Ruo Yu Tao",
+      "Khurram Javed",
+      "Adam White",
+      "Martha White"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://arxiv.org/abs/2307.04887"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "David Lopez-Paz and Marc'Aurelio Ranzato. Gradient episodic memory for continual learning, 2022.",
+    "title": "Gradient episodic memory for continual learning",
+    "authors": [
+      "David Lopez",
+      "- Paz",
+      "Marc'aurelio Ranzato"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Fan-Ming Luo, Shengyi Jiang, Yang Yu, ZongZhang Zhang, and Yi-Feng Zhang. Adapt to environment sudden changes by learning a context sensitive policy. Proceedings of the AAAI Conference on Artificial Intelligence, 36(7):7637-7646, Jun. 2022. doi: 10.1609/aaai.v36i7.20730. URL https://ojs. aaai.org/index.php/AAAI/article/view/20730.",
+    "title": "Adapt to environment sudden changes by learning a context sensitive policy",
+    "authors": [
+      "Fan-Ming Luo",
+      "Shengyi Jiang",
+      "Yang Yu",
+      "Zongzhang Zhang",
+      "Yi-Feng Zhang"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.1609/aaai.v36i7.20730",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/20730"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Prasanta Chandra Mahalanobis. On the generalized distance in statistics. Sankhyā: The Indian Journal of Statistics, Series A (2008-), 80:S1-S7, 2018.",
+    "title": "On the generalized distance in statistics",
+    "authors": [
+      "Prasanta Chandra",
+      "Mahalanobis"
+    ],
+    "venue": "Sankhyā: The Indian Journal of Statistics, Series A",
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Hongzi Mao, Ravi Netravali, and Mohammad Alizadeh. Neural adaptive video streaming with pensieve. In Proceedings of the Conference of the ACM Special Interest Group on Data Communication, pp. 197-210, 2017.",
+    "title": "Neural adaptive video streaming with pensieve",
+    "authors": [
+      "Hongzi Mao",
+      "Ravi Netravali",
+      "Mohammad Alizadeh"
+    ],
+    "venue": "Proceedings of the Conference of the ACM Special Interest Group on Data Communication",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Hongzi Mao, Malte Schwarzkopf, Shaileshh Bojja Venkatakrishnan, Zili Meng, and Mohammad Alizadeh. Learning scheduling algorithms for data processing clusters, 2018. URL https://arxiv.org/ abs/1810.01963.",
+    "title": "Learning scheduling algorithms for data processing clusters",
+    "authors": [
+      "Hongzi Mao",
+      "Malte Schwarzkopf",
+      "Shaileshh Bojja Venkatakrishnan",
+      "Zili Meng",
+      "Mohammad Alizadeh"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "1810.01963",
+      "url": "https://arxiv.org/abs/1810.01963"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Hongzi Mao, Malte Schwarzkopf, Hao He, and Mohammad Alizadeh. Towards safe online reinforcement learning in computer systems. In NeurIPS Machine Learning for Systems Workshop. Curran Associates New York, NY, 2019a.",
+    "title": "Towards safe online reinforcement learning in computer systems",
+    "authors": [
+      "Hongzi Mao",
+      "Malte Schwarzkopf",
+      "Hao He",
+      "Mohammad Alizadeh"
+    ],
+    "venue": "NeurIPS Machine Learning for Systems Workshop",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Hongzi Mao, Malte Schwarzkopf, Shaileshh Bojja Venkatakrishnan, Zili Meng, and Mohammad Alizadeh. Learning scheduling algorithms for data processing clusters. In Proceedings of the ACM Special Interest Group on Data Communication, SIGCOMM '19, pp. 270-288, New York, NY, USA, 2019b. Association for Computing Machinery. ISBN 9781450359566. doi: 10.1145/3341302.3342080. URL https://doi.org/10.1145/3341302.3342080.",
+    "title": "Learning scheduling algorithms for data processing clusters",
+    "authors": [
+      "Hongzi Mao",
+      "Malte Schwarzkopf",
+      "Shaileshh Bojja Venkatakrishnan",
+      "Zili Meng",
+      "Mohammad Alizadeh"
+    ],
+    "venue": "Proceedings of the ACM Special Interest Group on Data Communication, SIGCOMM '19",
+    "year": 2019,
+    "identifiers": {
+      "doi": "10.1145/3341302.3342080",
+      "arxiv_id": "1302.33420",
+      "url": "https://doi.org/10.1145/3341302.3342080"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Hongzi Mao, Shannon Chen, Drew Dimmery, Shaun Singh, Drew Blaisdell, Yuandong Tian, Mohammad Alizadeh, and Eytan Bakshy. Real-world video adaptation with reinforcement learning, 2020.",
+    "title": "Real-world video adaptation with reinforcement learning",
+    "authors": [
+      "Hongzi Mao",
+      "Shannon Chen",
+      "Drew Dimmery",
+      "Shaun Singh",
+      "Drew Blaisdell",
+      "Yuandong Tian",
+      "Mohammad Alizadeh",
+      "Eytan Bakshy"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Ryan Marcus, Parimarjan Negi, Hongzi Mao, Chi Zhang, Mohammad Alizadeh, Tim Kraska, Olga Papaemmanouil, and Nesime Tatbul. Neo: A learned query optimizer. arXiv preprint arXiv:1904.03711, 2019.",
+    "title": "Neo: A learned query optimizer",
+    "authors": [
+      "Ryan Marcus",
+      "Parimarjan Negi",
+      "Hongzi Mao",
+      "Chi Zhang",
+      "Mohammad Alizadeh",
+      "Tim Kraska",
+      "Olga Papaemmanouil",
+      "Nesime Tatbul"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1904.03711"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "Michael McCloskey and Neal J. Cohen. Catastrophic interference in connectionist networks: The sequential learning problem. Psychology of Learning and Motivation, 24:109-165, 1989. ISSN 0079-7421. doi: https://doi.org/10.1016/S0079-7421(08)60536-8. URL https://www.sciencedirect.com/ science/article/pii/S0079742108605368.",
+    "title": "Catastrophic interference in connectionist networks: The sequential learning problem",
+    "authors": [
+      "Michael Mccloskey",
+      "Neal J Cohen"
+    ],
+    "venue": "Psychology of Learning and Motivation",
+    "year": 1989,
+    "identifiers": {
+      "doi": "10.1016/S0079-7421(08)60536-8",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0079742108605368"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin Riedmiller. Playing atari with deep reinforcement learning. arXiv preprint arXiv:1312.5602, 2013.",
+    "title": "Playing atari with deep reinforcement learning",
+    "authors": [
+      "Volodymyr Mnih",
+      "Koray Kavukcuoglu",
+      "David Silver",
+      "Alex Graves",
+      "Ioannis Antonoglou",
+      "Daan Wierstra",
+      "Martin Riedmiller"
+    ],
+    "year": 2013,
+    "identifiers": {
+      "arxiv_id": "arXiv:1312.5602"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu. Asynchronous methods for deep reinforcement learning. In International conference on machine learning, pp. 1928-1937. PMLR, 2016.",
+    "title": "Asynchronous methods for deep reinforcement learning",
+    "authors": [
+      "Volodymyr Mnih",
+      "Adria Puigdomenech Badia",
+      "Mehdi Mirza",
+      "Alex Graves",
+      "Timothy Lillicrap",
+      "Tim Harley",
+      "David Silver",
+      "Koray Kavukcuoglu"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Anusha Nagabandi, Ignasi Clavera, Simin Liu, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, and Chelsea Finn. Learning to adapt in dynamic, real-world environments through meta-reinforcement learning, 2019a.",
+    "title": "Learning to adapt in dynamic, real-world environments through meta-reinforcement learning",
+    "authors": [
+      "Anusha Nagabandi",
+      "Ignasi Clavera",
+      "Simin Liu",
+      "Ronald S Fearing",
+      "Pieter Abbeel",
+      "Sergey Levine",
+      "Chelsea Finn"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Anusha Nagabandi, Chelsea Finn, and Sergey Levine. Deep online learning via meta-learning: Continual adaptation for model-based rl, 2019b.",
+    "title": "Deep online learning via meta-learning: Continual adaptation for model-based rl",
+    "authors": [
+      "Anusha Nagabandi",
+      "Chelsea Finn",
+      "Sergey Levine"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Sindhu Padakandla, Prabuchandran K. J., and Shalabh Bhatnagar. Reinforcement learning algorithm for non-stationary environments. Applied Intelligence, 50(11):3590-3606, jun 2020. doi: 10.1007/s10489020-01758-5. URL https://doi.org/10.1007%2Fs10489-020-01758-5.",
+    "title": "Reinforcement learning algorithm for non-stationary environments",
+    "authors": [
+      "Sindhu Padakandla",
+      "K J Prabuchandran",
+      "Shalabh Bhatnagar"
+    ],
+    "venue": "Applied Intelligence",
+    "year": 2020,
+    "identifiers": {
+      "doi": "10.1007/s10489020-01758-5",
+      "url": "https://doi.org/10.1007%2Fs10489-020-01758-5"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "E. S. PAGE. CONTINUOUS INSPECTION SCHEMES. Biometrika, 41(1-2):100-115, 06 1954. ISSN 0006-3444. doi: 10.1093/biomet/41.1-2.100. URL https://doi.org/10.1093/biomet/41. 1-2.100.",
+    "title": "CONTINUOUS INSPECTION SCHEMES",
+    "authors": [
+      "E S Page"
+    ],
+    "venue": "Biometrika",
+    "year": 1954,
+    "identifiers": {
+      "doi": "10.1093/biomet/41.1-2.100",
+      "url": "https://doi.org/10.1093/biomet/41.1-2.100"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "Minting Pan, Xiangming Zhu, Yunbo Wang, and Xiaokang Yang. Iso-dream: Isolating noncontrollable visual dynamics in world models. In Alice H. Oh, Alekh Agarwal, Danielle Belgrave, and Kyunghyun Cho (eds.), Advances in Neural Information Processing Systems, 2022. URL https://openreview. net/forum?id=6LBfSduVg0N.",
+    "title": "Iso-dream: Isolating noncontrollable visual dynamics in world models",
+    "authors": [
+      "Minting Pan",
+      "Xiangming Zhu",
+      "Yunbo Wang",
+      "Xiaokang Yang"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=6LBfSduVg0N"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R66",
+    "raw_text": "Yangchen Pan, Kirby Banman, and Martha White. Fuzzy tiling activations: A simple approach to learning sparse representations online, 2021. URL https://arxiv.org/abs/1911.08068.",
+    "title": "Fuzzy tiling activations: A simple approach to learning sparse representations online",
+    "authors": [
+      "Yangchen Pan",
+      "Kirby Banman",
+      "Martha White"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "1911.08068",
+      "url": "https://arxiv.org/abs/1911.08068"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R67",
+    "raw_text": "German I. Parisi, Ronald Kemker, Jose L. Part, Christopher Kanan, and Stefan Wermter. Continual lifelong learning with neural networks: A review. Neural Networks, 113:54-71, 2019. ISSN 0893-6080. doi: https://doi.org/10.1016/j.neunet.2019.01.012. URL https://www.sciencedirect.com/ science/article/pii/S0893608019300231.",
+    "title": "Continual lifelong learning with neural networks: A review",
+    "authors": [
+      "German I Parisi",
+      "Ronald Kemker",
+      "Jose L Part",
+      "Christopher Kanan",
+      "Stefan Wermter"
+    ],
+    "venue": "Neural Networks",
+    "year": 2019,
+    "identifiers": {
+      "doi": "10.1016/j.neunet.2019.01.012",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0893608019300231"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R68",
+    "raw_text": "Adam Paszke, Sam Gross, Francisco Massa, Adam Lerer, James Bradbury, Gregory Chanan, Trevor Killeen, Zeming Lin, Natalia Gimelshein, Luca Antiga, Alban Desmaison, Andreas Kopf, Edward Yang, Zachary DeVito, Martin Raison, Alykhan Tejani, Sasank Chilamkurthy, Benoit Steiner, Lu Fang, Junjie Bai, and Soumith Chintala. Pytorch: An imperative style, high-performance deep learning library. In H. Wallach, H. Larochelle, A. Beygelzimer, F. d'Alché-Buc, E. Fox, and R. Garnett (eds.), Advances in Neural Information Processing Systems 32, pp. 8024-8035. Curran Associates, Inc., 2019. URL http://papers.neurips.cc/paper/9015-pytorch-an-imperativestyle-high-performance-deep-learning-library.pdf.",
+    "title": "Pytorch: An imperative style, high-performance deep learning library",
+    "authors": [
+      "Adam Paszke",
+      "Sam Gross",
+      "Francisco Massa",
+      "Adam Lerer",
+      "James Bradbury",
+      "Gregory Chanan",
+      "Trevor Killeen",
+      "Zeming Lin",
+      "Natalia Gimelshein",
+      "Luca Antiga",
+      "Alban Desmaison",
+      "Andreas Kopf",
+      "Edward Yang",
+      "Zachary Devito",
+      "Martin Raison",
+      "Alykhan Tejani",
+      "Sasank Chilamkurthy",
+      "Benoit Steiner",
+      "Lu Fang",
+      "Junjie Bai",
+      "Soumith Chintala"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2019,
+    "identifiers": {
+      "url": "http://papers.neurips.cc/paper/9015-pytorch-an-imperativestyle-high-performance-deep-learning-library.pdf"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R69",
+    "raw_text": "Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. Curiosity-driven exploration by self-supervised prediction, 2017. URL https://arxiv.org/abs/1705.05363.",
+    "title": "Curiosity-driven exploration by self-supervised prediction",
+    "authors": [
+      "Deepak Pathak",
+      "Pulkit Agrawal",
+      "Alexei A Efros",
+      "Trevor Darrell"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "1705.05363",
+      "url": "https://arxiv.org/abs/1705.05363"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R70",
+    "raw_text": "Lerrel Pinto, James Davidson, Rahul Sukthankar, and Abhinav Gupta. Robust adversarial reinforcement learning, 2017. URL https://arxiv.org/abs/1703.02702.",
+    "title": "Robust adversarial reinforcement learning",
+    "authors": [
+      "Lerrel Pinto",
+      "James Davidson",
+      "Rahul Sukthankar",
+      "Abhinav Gupta"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "1703.02702",
+      "url": "https://arxiv.org/abs/1703.02702"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R71",
+    "raw_text": "Alexander Podolskiy, Dmitry Lipin, Andrey Bout, Ekaterina Artemova, and Irina Piontkovskaya. Revisiting mahalanobis distance for transformer-based out-of-domain detection, 2021. URL https://arxiv. org/abs/2101.03778.",
+    "title": "Revisiting mahalanobis distance for transformer-based out-of-domain detection",
+    "authors": [
+      "Alexander Podolskiy",
+      "Dmitry Lipin",
+      "Andrey Bout",
+      "Ekaterina Artemova",
+      "Irina Piontkovskaya"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "2101.03778",
+      "url": "https://arxiv.org/abs/2101.03778"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R72",
+    "raw_text": "R Poiani, A Tirinzoni, M Restelli, et al. Meta-reinforcement learning by tracking task non-stationarity. In IJCAI, pp. 2899-2905. International Joint Conferences on Artificial Intelligence, 2021.",
+    "title": "Meta-reinforcement learning by tracking task non-stationarity",
+    "authors": [
+      "Poiani",
+      "M Tirinzoni",
+      "Restelli"
+    ],
+    "venue": "IJCAI",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R73",
+    "raw_text": "Vitchyr Pong, Shixiang Gu, Murtaza Dalal, and Sergey Levine. Temporal difference models: Model-free deep rl for model-based control, 2020.",
+    "title": "Temporal difference models: Model-free deep rl for model-based control",
+    "authors": [
+      "Vitchyr Pong",
+      "Shixiang Gu",
+      "Murtaza Dalal",
+      "Sergey Levine"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R74",
+    "raw_text": "Antonin Raffin. Rl baselines3 zoo. https://github.com/DLR-RM/rl-baselines3-zoo, 2020.",
+    "title": "Rl baselines3 zoo",
+    "authors": [
+      "Antonin Raffin"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "url": "https://github.com/DLR-RM/rl-baselines3-zoo"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R75",
+    "raw_text": "Antonin Raffin, Ashley Hill, Adam Gleave, Anssi Kanervisto, Maximilian Ernestus, and Noah Dormann. Stable-baselines3: Reliable reinforcement learning implementations. Journal of Machine Learning Research, 22(268):1-8, 2021. URL http://jmlr.org/papers/v22/20-1364.html.",
+    "title": "Stable-baselines3: Reliable reinforcement learning implementations",
+    "authors": [
+      "Antonin Raffin",
+      "Ashley Hill",
+      "Adam Gleave",
+      "Anssi Kanervisto",
+      "Maximilian Ernestus",
+      "Noah Dormann"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2021,
+    "identifiers": {
+      "url": "http://jmlr.org/papers/v22/20-1364.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R76",
+    "raw_text": "Kate Rakelly, Aurick Zhou, Deirdre Quillen, Chelsea Finn, and Sergey Levine. Efficient off-policy meta-reinforcement learning via probabilistic context variables, 2019.",
+    "title": "Efficient off-policy meta-reinforcement learning via probabilistic context variables",
+    "authors": [
+      "Kate Rakelly",
+      "Aurick Zhou",
+      "Deirdre Quillen",
+      "Chelsea Finn",
+      "Sergey Levine"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R77",
+    "raw_text": "Hang Ren, Aivar Sootla, Taher Jafferjee, Junxiao Shen, Jun Wang, and Haitham Bou Ammar. Reinforcement learning in presence of discrete markovian context evolution, 02 2022.",
+    "title": "Reinforcement learning in presence of discrete markovian context evolution",
+    "authors": [
+      "Hang Ren",
+      "Aivar Sootla",
+      "Taher Jafferjee",
+      "Junxiao Shen",
+      "Jun Wang",
+      "Haitham Bou",
+      "Ammar"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R78",
+    "raw_text": "David Rolnick, Arun Ahuja, Jonathan Schwarz, Timothy P. Lillicrap, and Greg Wayne. Experience replay for continual learning, 2019.",
+    "title": "Experience replay for continual learning",
+    "authors": [
+      "David Rolnick",
+      "Arun Ahuja",
+      "Jonathan Schwarz",
+      "Timothy P Lillicrap",
+      "Greg Wayne"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R79",
+    "raw_text": "Andrei A Rusu, Neil C Rabinowitz, Guillaume Desjardins, Hubert Soyer, James Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, and Raia Hadsell. Progressive neural networks. arXiv preprint arXiv:1606.04671, 2016.",
+    "title": "Razvan Pascanu, and Raia Hadsell. Progressive neural networks",
+    "authors": [
+      "Andrei A Rusu",
+      "Neil C Rabinowitz",
+      "Guillaume Desjardins",
+      "Hubert Soyer",
+      "James Kirkpatrick",
+      "Koray Kavukcuoglu"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1606.04671"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R80",
+    "raw_text": "John Schulman, Sergey Levine, Philipp Moritz, Michael I. Jordan, and Pieter Abbeel. Trust region policy optimization, 2015. URL https://arxiv.org/abs/1502.05477.",
+    "title": "Trust region policy optimization",
+    "authors": [
+      "John Schulman",
+      "Sergey Levine",
+      "Philipp Moritz",
+      "Michael I Jordan",
+      "Pieter Abbeel"
+    ],
+    "year": 2015,
+    "identifiers": {
+      "arxiv_id": "1502.05477",
+      "url": "https://arxiv.org/abs/1502.05477"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R81",
+    "raw_text": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. Proximal policy optimization algorithms, 2017. URL https://arxiv.org/abs/1707.06347.",
+    "title": "Proximal policy optimization algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "1707.06347",
+      "url": "https://arxiv.org/abs/1707.06347"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R82",
+    "raw_text": "John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, and Pieter Abbeel. High-dimensional continuous control using generalized advantage estimation, 2018.",
+    "title": "High-dimensional continuous control using generalized advantage estimation",
+    "authors": [
+      "John Schulman",
+      "Philipp Moritz",
+      "Sergey Levine",
+      "Michael Jordan",
+      "Pieter Abbeel"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R83",
+    "raw_text": "Jonathan Schwarz, Jelena Luketina, Wojciech M. Czarnecki, Agnieszka Grabska-Barwinska, Yee Whye Teh, Razvan Pascanu, and Raia Hadsell. Progress & compress: A scalable framework for continual learning, 2018.",
+    "title": "Progress & compress: A scalable framework for continual learning",
+    "authors": [
+      "Jonathan Schwarz",
+      "Jelena Luketina",
+      "Wojciech M Czarnecki",
+      "Agnieszka Grabska-Barwinska",
+      "Yee Whye Teh",
+      "Razvan Pascanu",
+      "Raia Hadsell"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R84",
+    "raw_text": "Hanul Shin, Jung Kwon Lee, Jaehong Kim, and Jiwon Kim. Continual learning with deep generative replay, 2017.",
+    "title": "Continual learning with deep generative replay",
+    "authors": [
+      "Hanul Shin",
+      "Jung Kwon Lee",
+      "Jaehong Kim",
+      "Jiwon Kim"
+    ],
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R85",
+    "raw_text": "Konstantin Shmelkov, Cordelia Schmid, and Karteek Alahari. Incremental learning of object detectors without catastrophic forgetting, 2017.",
+    "title": "Incremental learning of object detectors without catastrophic forgetting",
+    "authors": [
+      "Konstantin Shmelkov",
+      "Cordelia Schmid",
+      "Karteek Alahari"
+    ],
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R86",
+    "raw_text": "Sean R. Sinclair, Felipe Frujeri, Ching-An Cheng, Luke Marshall, Hugo Barbalho, Jingling Li, Jennifer Neville, Ishai Menache, and Adith Swaminathan. Hindsight learning for mdps with exogenous inputs. In Proceedings of the 40th International Conference on Machine Learning, ICML'23. JMLR.org, 2023.",
+    "title": "Hindsight learning for mdps with exogenous inputs",
+    "authors": [
+      "Sean R Sinclair",
+      "Felipe Frujeri",
+      "Ching-An Cheng",
+      "Luke Marshall",
+      "Hugo Barbalho",
+      "Jingling Li",
+      "Jennifer Neville",
+      "Ishai Menache",
+      "Adith Swaminathan"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning, ICML'23. JMLR.org",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R87",
+    "raw_text": "Shagun Sodhani, Amy Zhang, and Joelle Pineau. Multi-task reinforcement learning with context-based representations, 2021.",
+    "title": "Multi-task reinforcement learning with context-based representations",
+    "authors": [
+      "Shagun Sodhani",
+      "Amy Zhang",
+      "Joelle Pineau"
+    ],
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R88",
+    "raw_text": "Richard S. Sutton and Andrew G. Barto. Reinforcement Learning: An Introduction. A Bradford Book, Cambridge, MA, USA, 2018. ISBN 0262039249.",
+    "title": "Reinforcement Learning: An Introduction",
+    "authors": [
+      "Richard S Sutton",
+      "Andrew G Barto"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R89",
+    "raw_text": "Richard S. Sutton, Anna Koop, and David Silver. On the role of tracking in stationary environments. In Proceedings of the 24th International Conference on Machine Learning, ICML '07, pp. 871-878, New York, NY, USA, 2007. Association for Computing Machinery. ISBN 9781595937933. doi: 10.1145/1273496.1273606. URL https://doi.org/10.1145/1273496.1273606.",
+    "title": "On the role of tracking in stationary environments",
+    "authors": [
+      "Richard S Sutton",
+      "Anna Koop",
+      "David Silver"
+    ],
+    "venue": "Proceedings of the 24th International Conference on Machine Learning, ICML '07",
+    "year": 2007,
+    "identifiers": {
+      "doi": "10.1145/1273496.1273606",
+      "arxiv_id": "3496.12736",
+      "url": "https://doi.org/10.1145/1273496.1273606"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R90",
+    "raw_text": "Yunhao Tang and Shipra Agrawal. Discretizing continuous action space for on-policy optimization, 2019. URL https://arxiv.org/abs/1901.10500.",
+    "title": "Discretizing continuous action space for on-policy optimization",
+    "authors": [
+      "Yunhao Tang",
+      "Shipra Agrawal"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "1901.10500",
+      "url": "https://arxiv.org/abs/1901.10500"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R91",
+    "raw_text": "Yee Whye Teh, Victor Bapst, Wojciech Marian Czarnecki, John Quan, James Kirkpatrick, Raia Hadsell, Nicolas Heess, and Razvan Pascanu. Distral: Robust multitask reinforcement learning, 2017. URL https://arxiv.org/abs/1707.04175.",
+    "title": "Distral: Robust multitask reinforcement learning",
+    "authors": [
+      "Yee Whye Teh",
+      "Victor Bapst",
+      "Wojciech",
+      "Marian Czarnecki",
+      "John Quan",
+      "James Kirkpatrick",
+      "Raia Hadsell",
+      "Nicolas Heess",
+      "Razvan Pascanu"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "1707.04175",
+      "url": "https://arxiv.org/abs/1707.04175"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R92",
+    "raw_text": "Mark Towers, Jordan K. Terry, Ariel Kwiatkowski, John U. Balis, Gianluca de Cola, Tristan Deleu, Manuel Goulão, Andreas Kallinteris, Arjun KG, Markus Krimmel, Rodrigo Perez-Vicente, Andrea Pierré, Sander Schulhoff, Jun Jet Tai, Andrew Tan Jin Shen, and Omar G. Younis. Gymnasium, March 2023. URL https://zenodo.org/record/8127025.",
+    "authors": [
+      "Mark Towers",
+      "Jordan K. Terry",
+      "Ariel Kwiatkowski",
+      "John U. Balis",
+      "Gianluca de Cola",
+      "Tristan Deleu",
+      "Manuel Goulão",
+      "Andreas Kallinteris",
+      "Arjun KG",
+      "Markus Krimmel",
+      "Rodrigo Perez-Vicente",
+      "Andrea Pierré",
+      "Sander Schulhoff",
+      "Jun Jet Tai",
+      "Andrew Tan Jin Shen",
+      "Omar G. Younis"
+    ],
+    "venue": "Gymnasium",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://zenodo.org/record/8127025"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R93",
+    "raw_text": "G. E. Uhlenbeck and L. S. Ornstein. On the theory of the brownian motion. Phys. Rev., 36:823841, Sep 1930. doi: 10.1103/PhysRev.36.823. URL https://link.aps.org/doi/10.1103/ PhysRev.36.823.",
+    "title": "On the theory of the brownian motion",
+    "authors": [
+      "G E Uhlenbeck",
+      "L S Ornstein"
+    ],
+    "venue": "Phys. Rev",
+    "year": 1930,
+    "identifiers": {
+      "doi": "10.1103/PhysRev.36.823",
+      "url": "https://link.aps.org/doi/10.1103/PhysRev.36.823"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R94",
+    "raw_text": "Hado van Hasselt, Arthur Guez, Matteo Hessel, Volodymyr Mnih, and David Silver. Learning values across many orders of magnitude, 2016.",
+    "title": "Learning values across many orders of magnitude",
+    "authors": [
+      "Arthur Hado Van Hasselt",
+      "Matteo Guez",
+      "Volodymyr Hessel",
+      "David Mnih",
+      "Silver"
+    ],
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R95",
+    "raw_text": "Jeffrey S Vitter. Random sampling with a reservoir. ACM Transactions on Mathematical Software (TOMS), 11(1):37-57, 1985.",
+    "title": "Random sampling with a reservoir",
+    "authors": [
+      "S Jeffrey",
+      "Vitter"
+    ],
+    "venue": "ACM Transactions on Mathematical Software (TOMS)",
+    "year": 1985,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R96",
+    "raw_text": "Christopher JCH Watkins and Peter Dayan. Q-learning. Machine learning, 8:279-292, 1992.",
+    "title": "Q-learning",
+    "authors": [
+      "Jch Christopher",
+      "Peter Watkins",
+      "Dayan"
+    ],
+    "venue": "Machine learning",
+    "year": 1992,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R97",
+    "raw_text": "Chen-Yu Wei and Haipeng Luo. Non-stationary reinforcement learning without prior knowledge: An optimal black-box approach, 2021.",
+    "title": "Non-stationary reinforcement learning without prior knowledge: An optimal black-box approach",
+    "authors": [
+      "Chen-Yu Wei",
+      "Haipeng Luo"
+    ],
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R98",
+    "raw_text": "Keith Winstein and Hari Balakrishnan. Tcp ex machina: computer-generated congestion control. In Proceedings of the ACM SIGCOMM 2013 Conference on SIGCOMM, SIGCOMM '13, pp. 123-134, New York, NY, USA, 2013. Association for Computing Machinery. ISBN 9781450320566. doi: 10.1145/2486001.2486020. URL https://doi.org/10.1145/2486001.2486020.",
+    "title": "Tcp ex machina: computer-generated congestion control",
+    "authors": [
+      "Keith Winstein",
+      "Hari Balakrishnan"
+    ],
+    "venue": "Proceedings of the ACM SIGCOMM 2013 Conference on SIGCOMM, SIGCOMM '13",
+    "year": 2013,
+    "identifiers": {
+      "doi": "10.1145/2486001.2486020",
+      "arxiv_id": "6001.24860",
+      "url": "https://doi.org/10.1145/2486001.2486020"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R99",
+    "raw_text": "Honguk Woo, Gwangpyo Yoo, and Minjong Yoo. Structure learning-based task decomposition for reinforcement learning in non-stationary environments. Proceedings of the AAAI Conference on Artificial Intelligence, 36(8):8657-8665, Jun. 2022. doi: 10.1609/aaai.v36i8.20844. URL https: //ojs.aaai.org/index.php/AAAI/article/view/20844.",
+    "title": "Structure learning-based task decomposition for reinforcement learning in non-stationary environments",
+    "authors": [
+      "Honguk Woo",
+      "Gwangpyo Yoo",
+      "Minjong Yoo"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.1609/aaai.v36i8.20844",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/20844"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R100",
+    "raw_text": "Cathy Wu, Aboudy Kreidieh, Kanaad Parvate, Eugene Vinitsky, and Alexandre M Bayen. Flow: Architecture and benchmarking for reinforcement learning in traffic control. arXiv preprint arXiv:1710.05465, 10, 2017.",
+    "title": "Flow: Architecture and benchmarking for reinforcement learning in traffic control",
+    "authors": [
+      "Cathy Wu",
+      "Aboudy Kreidieh",
+      "Kanaad Parvate",
+      "Eugene Vinitsky",
+      "Alexandre M Bayen"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1710.05465"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R101",
+    "raw_text": "Annie Xie, James Harrison, and Chelsea Finn. Deep reinforcement learning amidst lifelong non-stationarity, 2020.",
+    "title": "Deep reinforcement learning amidst lifelong non-stationarity",
+    "authors": [
+      "Annie Xie",
+      "James Harrison",
+      "Chelsea Finn"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R102",
+    "raw_text": "Mengdi Xu, Wenhao Ding, Jiacheng Zhu, Zuxin Liu, Baiming Chen, and Ding Zhao. Task-agnostic online reinforcement learning with an infinite mixture of gaussian processes, 2020.",
+    "title": "Task-agnostic online reinforcement learning with an infinite mixture of gaussian processes",
+    "authors": [
+      "Mengdi Xu",
+      "Wenhao Ding",
+      "Jiacheng Zhu",
+      "Zuxin Liu",
+      "Baiming Chen",
+      "Ding Zhao"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R103",
+    "raw_text": "Zhenghai Xue, Qingpeng Cai, Shuchang Liu, Dong Zheng, Peng Jiang, Kun Gai, and Bo An. State regularized policy optimization on data with dynamics shift, 2024. URL https://arxiv.org/ abs/2306.03552.",
+    "title": "State regularized policy optimization on data with dynamics shift",
+    "authors": [
+      "Zhenghai Xue",
+      "Qingpeng Cai",
+      "Shuchang Liu",
+      "Dong Zheng",
+      "Peng Jiang",
+      "Kun Gai",
+      "Bo An"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2306.03552",
+      "url": "https://arxiv.org/abs/2306.03552"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R104",
+    "raw_text": "Ruihan Yang, Huazhe Xu, Yi Wu, and Xiaolong Wang. Multi-task reinforcement learning with soft modularization, 2020.",
+    "title": "Multi-task reinforcement learning with soft modularization",
+    "authors": [
+      "Ruihan Yang",
+      "Huazhe Xu",
+      "Yi Wu",
+      "Xiaolong Wang"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R105",
+    "raw_text": "Guanxiong Zeng, Yang Chen, Bo Cui, and Shan Yu. Continual learning of context-dependent processing in neural networks. Nature Machine Intelligence, 1(8):364-372, 2019.",
+    "title": "Continual learning of context-dependent processing in neural networks",
+    "authors": [
+      "Guanxiong Zeng",
+      "Yang Chen",
+      "Bo Cui",
+      "Shan Yu"
+    ],
+    "venue": "Nature Machine Intelligence",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R106",
+    "raw_text": "Friedemann Zenke, Ben Poole, and Surya Ganguli. Continual learning through synaptic intelligence, 2017.",
+    "title": "Continual learning through synaptic intelligence",
+    "authors": [
+      "Friedemann Zenke",
+      "Ben Poole",
+      "Surya Ganguli"
+    ],
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R107",
+    "raw_text": "Huanhuan Zhang, Anfu Zhou, Yuhan Hu, Chaoyue Li, Guangping Wang, Xinyu Zhang, Huadong Ma, Leilei Wu, Aiyun Chen, and Changhui Wu. Loki: Improving long tail performance of learning-based real-time video adaptation by fusing rule-based models. In Proceedings of the 27th Annual International Conference on Mobile Computing and Networking, MobiCom '21, pp. 775-788, New York, NY, USA, 2021. Association for Computing Machinery. ISBN 9781450383424. doi: 10.1145/3447993.3483259. URL https://doi.org/10.1145/3447993.3483259.",
+    "title": "Improving long tail performance of learning-based real-time video adaptation by fusing rule-based models",
+    "authors": [
+      "Huanhuan Zhang",
+      "Anfu Zhou",
+      "Yuhan Hu",
+      "Chaoyue Li",
+      "Guangping Wang",
+      "Xinyu Zhang",
+      "Huadong Ma",
+      "Leilei Wu",
+      "Aiyun Chen",
+      "Changhui Wu",
+      "Loki"
+    ],
+    "venue": "Proceedings of the 27th Annual International Conference on Mobile Computing and Networking, MobiCom '21",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.1145/3447993.3483259",
+      "arxiv_id": "7993.34832",
+      "url": "https://doi.org/10.1145/3447993.3483259"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R108",
+    "raw_text": "Jinpeng Zhang, Yufeng Zheng, Chuheng Zhang, Li Zhao, Lei Song, Yuan Zhou, and Jiang Bian. Robust situational reinforcement learning in face of context disturbances. In Proceedings of the 40th International Conference on Machine Learning (ICML), September 2023. URL https: //www.microsoft.com/en-us/research/publication/robust-situationalreinforcement-learning-in-face-of-context-disturbances/.",
+    "title": "Robust situational reinforcement learning in face of context disturbances",
+    "authors": [
+      "Jinpeng Zhang",
+      "Yufeng Zheng",
+      "Chuheng Zhang",
+      "Li Zhao",
+      "Lei Song",
+      "Yuan Zhou",
+      "Jiang Bian"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning (ICML)",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://www.microsoft.com/en-us/research/publication/robust-situationalreinforcement-learning-in-face-of-context-disturbances/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R109",
+    "raw_text": "Henry Zhu, Justin Yu, Abhishek Gupta, Dhruv Shah, Kristian Hartikainen, Avi Singh, Vikash Kumar, and Sergey Levine. The ingredients of real-world robotic reinforcement learning, 2020. URL https: //arxiv.org/abs/2004.12570.",
+    "title": "The ingredients of real-world robotic reinforcement learning",
+    "authors": [
+      "Henry Zhu",
+      "Justin Yu",
+      "Abhishek Gupta",
+      "Dhruv Shah",
+      "Kristian Hartikainen",
+      "Avi Singh",
+      "Vikash Kumar",
+      "Sergey Levine"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "2004.12570",
+      "url": "https://arxiv.org/abs/2004.12570"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R110",
+    "raw_text": "Luisa Zintgraf, Kyriacos Shiarli, Vitaly Kurin, Katja Hofmann, and Shimon Whiteson. Fast context adaptation via meta-learning. In International Conference on Machine Learning, pp. 7693-7702. PMLR, 2019. 500 1000 1500 2000 2500 2000 4000",
+    "title": "Fast context adaptation via meta-learning",
+    "authors": [
+      "Luisa Zintgraf",
+      "Kyriacos Shiarli",
+      "Katja Vitaly Kurin",
+      "Shimon Hofmann",
+      "Whiteson"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

@@ -1,0 +1,1173 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Ben Adlam, Jaehoon Lee, Lechao Xiao, Jeffrey Pennington, and Jasper Snoek. Exploring the uncertainty properties of neural networks' implicit priors in the infinite-width limit. International Conference on Learning Representations (ICLR), 2021.",
+    "title": "Exploring the uncertainty properties of neural networks' implicit priors in the infinite-width limit",
+    "authors": [
+      "Ben Adlam",
+      "Jaehoon Lee",
+      "Lechao Xiao",
+      "Jeffrey Pennington",
+      "Jasper Snoek"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Ben Adlam, Jaehoon Lee, Shreyas Padhy, Zachary Nado, and Jasper Snoek. Kernel regression with infinite-width neural networks on millions of examples. arXiv:2303.05420, 2023.",
+    "title": "Kernel regression with infinite-width neural networks on millions of examples",
+    "authors": [
+      "Ben Adlam",
+      "Jaehoon Lee",
+      "Shreyas Padhy",
+      "Zachary Nado",
+      "Jasper Snoek"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2303.05420"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Sebastian Ament, Samuel Daulton, David Eriksson, Maximilian Balandat, and Eytan Bakshy. Unexpected improvements to expected improvement for Bayesian optimization. Neural Information Processing Systems (NeurIPS), 36, 2024.",
+    "title": "Unexpected improvements to expected improvement for Bayesian optimization",
+    "authors": [
+      "Sebastian Ament",
+      "Samuel Daulton",
+      "David Eriksson",
+      "Maximilian Balandat",
+      "Eytan Bakshy"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Kamyar Azizzadenesheli, Emma Brunskill, and Animashree Anandkumar. Efficient exploration through Bayesian deep q-networks. arXiv:1802.04412, 2018.",
+    "title": "Efficient exploration through Bayesian deep q-networks",
+    "authors": [
+      "Kamyar Azizzadenesheli",
+      "Emma Brunskill",
+      "Animashree Anandkumar"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1802.04412"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Maximilian Balandat, Brian Karrer, Daniel R. Jiang, Samuel Daulton, Benjamin Letham, Andrew Gordon Wilson, and Eytan Bakshy. BoTorch: A Framework for Efficient Monte-Carlo Bayesian Optimization. In Neural Information Processing Systems (NeurIPS), 2020.",
+    "title": "BoTorch: A Framework for Efficient Monte-Carlo Bayesian Optimization",
+    "authors": [
+      "Maximilian Balandat",
+      "Brian Karrer",
+      "Daniel R Jiang",
+      "Samuel Daulton",
+      "Benjamin Letham",
+      "Andrew Gordon Wilson",
+      "Eytan Bakshy"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Syrine Belakaria, Aryan Deshwal, and Janardhan Rao Doppa. Max-value entropy search for multiobjective Bayesian optimization. Neural Information Processing Systems (NeurIPS), 32, 2019.",
+    "title": "Max-value entropy search for multiobjective Bayesian optimization",
+    "authors": [
+      "Syrine Belakaria",
+      "Aryan Deshwal",
+      "Janardhan Rao",
+      "Doppa"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Felix Berkenkamp, Matteo Turchetta, Angela Schoellig, and Andreas Krause. Safe model-based reinforcement learning with stability guarantees. Neural Information Processing Systems (NeurIPS), 2017.",
+    "title": "Safe model-based reinforcement learning with stability guarantees",
+    "authors": [
+      "Felix Berkenkamp",
+      "Matteo Turchetta",
+      "Angela Schoellig",
+      "Andreas Krause"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Julian Blank and Kalyanmoy Deb. Pymoo: Multi-objective optimization in python. IEEE Access, 8: 89497-89509, 2020.",
+    "title": "Pymoo: Multi-objective optimization in python",
+    "authors": [
+      "Julian Blank",
+      "Kalyanmoy Deb"
+    ],
+    "venue": "IEEE Access",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Eric Bradford, Artur M Schweidtmann, and Alexei Lapkin. Efficient multiobjective optimization employing Gaussian processes, spectral sampling and a genetic algorithm. Journal of Global Optimization, 71(2):407-438, 2018.",
+    "title": "Efficient multiobjective optimization employing Gaussian processes, spectral sampling and a genetic algorithm",
+    "authors": [
+      "Eric Bradford",
+      "Artur M Schweidtmann",
+      "Alexei Lapkin"
+    ],
+    "venue": "Journal of Global Optimization",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Roberto Calandra, André Seyfarth, Jan Peters, and Marc Peter Deisenroth. Bayesian optimization for learning gaits under uncertainty: An experimental comparison on a dynamic bipedal walker. Annals of Mathematics and Artificial Intelligence, 76:5-23, 2016.",
+    "title": "Bayesian optimization for learning gaits under uncertainty: An experimental comparison on a dynamic bipedal walker",
+    "authors": [
+      "Roberto Calandra",
+      "André Seyfarth",
+      "Jan Peters",
+      "Marc Peter",
+      "Deisenroth"
+    ],
+    "venue": "Annals of Mathematics and Artificial Intelligence",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Yutian Chen, Aja Huang, Ziyu Wang, Ioannis Antonoglou, Julian Schrittwieser, David Silver, and Nando de Freitas. Bayesian optimization in alphago. arXiv:1812.06855, 2018.",
+    "title": "Bayesian optimization in alphago",
+    "authors": [
+      "Yutian Chen",
+      "Aja Huang",
+      "Ziyu Wang",
+      "Ioannis Antonoglou",
+      "Julian Schrittwieser",
+      "David Silver",
+      "Nando De Freitas"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1812.06855"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Lionel Colliandre and Christophe Muller. Bayesian optimization in drug discovery. High Performance Computing for Drug Discovery and Biomedicine, 2023.",
+    "title": "Bayesian optimization in drug discovery. High Performance Computing for Drug Discovery and",
+    "authors": [
+      "Lionel Colliandre",
+      "Christophe Muller"
+    ],
+    "venue": "Biomedicine",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Samuel Daulton, Maximilian Balandat, and Eytan Bakshy. Differentiable expected hypervolume improvement for parallel multi-objective Bayesian optimization. Neural Information Processing Systems (NeurIPS), 33:9851-9864, 2020.",
+    "title": "Differentiable expected hypervolume improvement for parallel multi-objective Bayesian optimization",
+    "authors": [
+      "Maximilian Samuel Daulton",
+      "Eytan Balandat",
+      "Bakshy"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Erik Daxberger, Agustinus Kristiadi, Alexander Immer, Runa Eschenhagen, Matthias Bauer, and Philipp Hennig. Laplace redux-effortless Bayesian deep learning. Neural Information Processing Systems (NeurIPS), 2021.",
+    "title": "Laplace redux-effortless Bayesian deep learning",
+    "authors": [
+      "Erik Daxberger",
+      "Agustinus Kristiadi",
+      "Alexander Immer",
+      "Runa Eschenhagen",
+      "Matthias Bauer",
+      "Philipp Hennig"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Kalyanmoy Deb, Amrit Pratap, Sameer Agarwal, and TAMT Meyarivan. A fast and elitist multiobjective genetic algorithm: NSGA-II. IEEE Transactions on Evolutionary Computation, 6(2): 182-197, 2002.",
+    "title": "A fast and elitist multiobjective genetic algorithm: NSGA-II",
+    "authors": [
+      "Kalyanmoy Deb",
+      "Amrit Pratap",
+      "Sameer Agarwal",
+      "Meyarivan"
+    ],
+    "venue": "IEEE Transactions on Evolutionary Computation",
+    "year": 2002,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "David Eriksson, Michael Pearce, Jacob Gardner, Ryan D Turner, and Matthias Poloczek. Scalable global optimization via local Bayesian optimization. In Neural Information Processing Systems (NeurIPS), 2019.",
+    "title": "Scalable global optimization via local Bayesian optimization",
+    "authors": [
+      "David Eriksson",
+      "Michael Pearce",
+      "Jacob Gardner",
+      "Ryan D Turner",
+      "Matthias Poloczek"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Felix Fiedler and Sergio Lucia. Improved uncertainty quantification for neural networks with Bayesian last layer. IEEE Access, 2023.",
+    "title": "Improved uncertainty quantification for neural networks with Bayesian last layer",
+    "authors": [
+      "Felix Fiedler",
+      "Sergio Lucia"
+    ],
+    "venue": "IEEE Access",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Jonathan Foldager, Mikkel Jordahn, Lars Kai Hansen, and Michael Riis Andersen. On the role of model uncertainties in Bayesian optimization. In Uncertainty in Artificial Intelligence (UAI), 2023.",
+    "title": "On the role of model uncertainties in Bayesian optimization",
+    "authors": [
+      "Jonathan Foldager",
+      "Mikkel Jordahn",
+      "Lars Kai Hansen",
+      "Michael Riis Andersen"
+    ],
+    "venue": "Uncertainty in Artificial Intelligence (UAI)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Peter I Frazier and Jialei Wang. Bayesian optimization for materials design. Information science for materials discovery and design, 2016.",
+    "title": "Bayesian optimization for materials design. Information science for materials discovery and design",
+    "authors": [
+      "I Peter",
+      "Jialei Frazier",
+      "Wang"
+    ],
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Jacob R Gardner, Geoff Pleiss, David Bindel, Kilian Q Weinberger, and Andrew Gordon Wilson. Gpytorch: Blackbox matrix-matrix gaussian process inference with gpu acceleration. In Neural Information Processing Systems (NeurIPS), 2018.",
+    "title": "Gpytorch: Blackbox matrix-matrix gaussian process inference with gpu acceleration",
+    "authors": [
+      "Geoff Jacob R Gardner",
+      "David Pleiss",
+      "Kilian Q Bindel",
+      "Andrew Weinberger",
+      "Wilson Gordon"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Roman Garnett, Michael A Osborne, and Stephen J Roberts. Bayesian optimization for sensor set selection. International conference on information processing in sensor networks, 2010.",
+    "title": "Bayesian optimization for sensor set selection",
+    "authors": [
+      "Roman Garnett",
+      "Michael A Osborne",
+      "Stephen J Roberts"
+    ],
+    "venue": "International conference on information processing in sensor networks",
+    "year": 2010,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Ryan-Rhys Griffiths and José Miguel Hernández-Lobato. Constrained Bayesian optimization for automatic chemical design using variational autoencoders. Chemical science, 11(2):577-586, 2020.",
+    "title": "Constrained Bayesian optimization for automatic chemical design using variational autoencoders",
+    "authors": [
+      "Ryan-Rhys Griffiths",
+      "José Miguel Hernández-Lobato"
+    ],
+    "venue": "Chemical science",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Raia Hadsell, Dushyant Rao, Andrei A Rusu, and Razvan Pascanu. Embracing change: Continual learning in deep neural networks. Trends in cognitive sciences, 2020.",
+    "title": "Embracing change: Continual learning in deep neural networks",
+    "authors": [
+      "Raia Hadsell",
+      "Dushyant Rao",
+      "Andrei A Rusu",
+      "Razvan Pascanu"
+    ],
+    "venue": "Trends in cognitive sciences",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "L.K. Hansen and P. Salamon. Neural network ensembles. IEEE Transactions on Pattern Analysis and Machine Intelligence, 12(10):993-1001, 1990. doi: 10.1109/34.58871.",
+    "title": "Neural network ensembles",
+    "authors": [
+      "L K Hansen",
+      "P Salamon"
+    ],
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "year": 1990,
+    "identifiers": {
+      "doi": "10.1109/34.58871"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "James Harrison, Apoorva Sharma, and Marco Pavone. Meta-learning priors for efficient online Bayesian regression. Workshop on the Algorithmic Foundations of Robotics (WAFR), 2018.",
+    "title": "Meta-learning priors for efficient online Bayesian regression",
+    "authors": [
+      "James Harrison",
+      "Apoorva Sharma",
+      "Marco Pavone"
+    ],
+    "venue": "Workshop on the Algorithmic Foundations of Robotics (WAFR)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "James Harrison, John Willes, and Jasper Snoek. Variational Bayesian last layers. International Conference on Learning Representations (ICLR), 2024.",
+    "title": "Variational Bayesian last layers",
+    "authors": [
+      "James Harrison",
+      "John Willes",
+      "Jasper Snoek"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Michael F Hutchinson. A stochastic estimator of the trace of the influence matrix for laplacian smoothing splines. Communications in Statistics-Simulation and Computation, 1989.",
+    "title": "A stochastic estimator of the trace of the influence matrix for laplacian smoothing splines",
+    "authors": [
+      "Michael F Hutchinson"
+    ],
+    "venue": "Communications in Statistics-Simulation and Computation",
+    "year": 1989,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Carl Hvarfner, Erik Orm Hellsten, and Luigi Nardi. Vanilla bayesian optimization performs great in high dimensions. In International Conference on Machine Learning (ICML), 2024.",
+    "title": "Vanilla bayesian optimization performs great in high dimensions",
+    "authors": [
+      "Carl Hvarfner",
+      "Erik Orm Hellsten",
+      "Luigi Nardi"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Pavel Izmailov, Sharad Vikram, Matthew D Hoffman, and Andrew Gordon Gordon Wilson. What are bayesian neural network posteriors really like? In International Conference on Machine Learning (ICML), 2021.",
+    "title": "What are bayesian neural network posteriors really like?",
+    "authors": [
+      "Pavel Izmailov",
+      "Sharad Vikram",
+      "Matthew D Hoffman",
+      "Andrew Gordon",
+      "Gordon Wilson"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Samuel Kim, Peter Y Lu, Charlotte Loh, Jamie Smith, Jasper Snoek, and Marin Soljačić. Deep learning for Bayesian optimization of scientific problems with high-dimensional structure. arXiv:2104.11667, 2021.",
+    "title": "Deep learning for Bayesian optimization of scientific problems with high-dimensional structure",
+    "authors": [
+      "Samuel Kim",
+      "Peter Y Lu",
+      "Charlotte Loh",
+      "Jamie Smith",
+      "Jasper Snoek",
+      "Marin Soljačić"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2104.11667"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Diederik P Kingma and Jimmy Ba. Adam: A method for stochastic optimization. International Conference on Learning Representations (ICLR), 2015.",
+    "title": "Adam: A method for stochastic optimization",
+    "authors": [
+      "P Diederik",
+      "Jimmy Kingma",
+      "Ba"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Jeremias Knoblauch, Jack Jewson, and Theodoros Damoulas. Generalized variational inference: Three arguments for deriving new posteriors. arXiv preprint arXiv:1904.02063, 2019.",
+    "title": "Generalized variational inference: Three arguments for deriving new posteriors",
+    "authors": [
+      "Jeremias Knoblauch",
+      "Jack Jewson",
+      "Theodoros Damoulas"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1904.02063"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Oswin Krause and Christian Igel. A more efficient rank-one covariance matrix update for evolution strategies. In ACM Conference on Foundations of Genetic Algorithms, 2015.",
+    "title": "A more efficient rank-one covariance matrix update for evolution strategies",
+    "authors": [
+      "Oswin Krause",
+      "Christian Igel"
+    ],
+    "venue": "ACM Conference on Foundations of Genetic Algorithms",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Agustinus Kristiadi, Alexander Immer, Runa Eschenhagen, and Vincent Fortuin. Promises and pitfalls of the linearized laplace in Bayesian optimization. In Fifth Symposium on Advances in Approximate Bayesian Inference.",
+    "title": "Promises and pitfalls of the linearized laplace in Bayesian optimization",
+    "authors": [
+      "Agustinus Kristiadi",
+      "Alexander Immer",
+      "Runa Eschenhagen",
+      "Vincent Fortuin"
+    ],
+    "venue": "Fifth Symposium on Advances in Approximate Bayesian Inference",
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Agustinus Kristiadi, Matthias Hein, and Philipp Hennig. Learnable uncertainty under laplace approximations. In Uncertainty in Artificial Intelligence (UAI), 2021.",
+    "title": "Learnable uncertainty under laplace approximations",
+    "authors": [
+      "Agustinus Kristiadi",
+      "Matthias Hein",
+      "Philipp Hennig"
+    ],
+    "venue": "Uncertainty in Artificial Intelligence (UAI)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Balaji Lakshminarayanan, Alexander Pritzel, and Charles Blundell. Simple and scalable predictive uncertainty estimation using deep ensembles. Neural Information Processing Systems (NeurIPS), 2017.",
+    "title": "Simple and scalable predictive uncertainty estimation using deep ensembles",
+    "authors": [
+      "Alexander Balaji Lakshminarayanan",
+      "Charles Pritzel",
+      "Blundell"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Neil David Lawrence. Variational inference in probabilistic models. PhD thesis, Citeseer, 2001.",
+    "title": "Variational inference in probabilistic models",
+    "authors": [
+      "Neil David",
+      "Lawrence"
+    ],
+    "year": 2001,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Gilwoo Lee, Siddhartha S Srinivasa, and Matthew T Mason. GP-iLQG: Data-driven robust optimal control for uncertain nonlinear dynamical systems. arXiv:1705.05344, 2017.",
+    "title": "GP-iLQG: Data-driven robust optimal control for uncertain nonlinear dynamical systems",
+    "authors": [
+      "Gilwoo Lee",
+      "Siddhartha S Srinivasa",
+      "Matthew T Mason"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1705.05344"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Jaehoon Lee, Yasaman Bahri, Roman Novak, Samuel S Schoenholz, Jeffrey Pennington, and Jascha Sohl-Dickstein. Deep neural networks as Gaussian processes. International Conference on Learning Representations (ICLR), 2018.",
+    "title": "Deep neural networks as Gaussian processes. International Conference on Learning Representations (ICLR)",
+    "authors": [
+      "Jaehoon Lee",
+      "Yasaman Bahri",
+      "Roman Novak",
+      "S Samuel",
+      "Jeffrey Schoenholz",
+      "Jascha Pennington",
+      "Sohl-Dickstein"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Yucen Lily Li, Tim G. J. Rudner, and Andrew Gordon Wilson. A study of Bayesian neural network surrogates for Bayesian optimization. In International Conference on Learning Representations (ICLR), 2024.",
+    "title": "A study of Bayesian neural network surrogates for Bayesian optimization",
+    "authors": [
+      "Lily Yucen",
+      "Tim G J Li",
+      "Andrew Rudner",
+      "Wilson Gordon"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Ilya Loshchilov and Frank Hutter. Decoupled weight decay regularization. arXiv:1711.05101, 2017.",
+    "title": "Decoupled weight decay regularization",
+    "authors": [
+      "Ilya Loshchilov",
+      "Frank Hutter"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1711.05101"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "David JC MacKay. A practical bayesian framework for backpropagation networks. Neural Computation, 1992.",
+    "title": "A practical bayesian framework for backpropagation networks",
+    "authors": [
+      "J C David",
+      "Mackay"
+    ],
+    "venue": "Neural Computation",
+    "year": 1992,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Alonso Marco, Philipp Hennig, Jeannette Bohg, Stefan Schaal, and Sebastian Trimpe. Automatic lqr tuning based on gaussian process global optimization. IEEE International Conference on Robotics and Automation (ICRA), 2016.",
+    "title": "Automatic lqr tuning based on gaussian process global optimization",
+    "authors": [
+      "Alonso Marco",
+      "Philipp Hennig",
+      "Jeannette Bohg",
+      "Stefan Schaal",
+      "Sebastian Trimpe"
+    ],
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Raphael A Meyer, Cameron Musco, Christopher Musco, and David P Woodruff. Hutch++: Optimal stochastic trace estimation. In SIAM Symposium on Simplicity in Algorithms (SOSA), 2021.",
+    "title": "Hutch++: Optimal stochastic trace estimation",
+    "authors": [
+      "Cameron Raphael A Meyer",
+      "Christopher Musco",
+      "David P Musco",
+      "Woodruff"
+    ],
+    "venue": "SIAM Symposium on Simplicity in Algorithms",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Matthias Neumann-Brosig, Alonso Marco, Dieter Schwarzmann, and Sebastian Trimpe. Dataefficient autotuning with Bayesian optimization: An industrial control study. IEEE Transactions on Control Systems Technology, 28(3):730-740, 2019.",
+    "title": "Dataefficient autotuning with Bayesian optimization: An industrial control study",
+    "authors": [
+      "Matthias Neumann-Brosig",
+      "Alonso Marco",
+      "Dieter Schwarzmann",
+      "Sebastian Trimpe"
+    ],
+    "venue": "IEEE Transactions on Control Systems Technology",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Cuong V Nguyen, Yingzhen Li, Thang D Bui, and Richard E Turner. Variational continual learning. In International Conference on Learning Representations (ICLR), 2018.",
+    "title": "Variational continual learning",
+    "authors": [
+      "Yingzhen Cuong V Nguyen",
+      "Thang D Li",
+      "Richard E Bui",
+      "Turner"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Sebastian W Ober and Carl Edward Rasmussen. Benchmarking the neural linear model for regression. arXiv preprint arXiv:1912.08416, 2019.",
+    "title": "Benchmarking the neural linear model for regression",
+    "authors": [
+      "W Sebastian",
+      "Carl Edward Ober",
+      "Rasmussen"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1912.08416"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Sebastian W Ober, Carl E Rasmussen, and Mark van der Wilk. The promises and pitfalls of deep kernel learning. In Uncertainty in Artificial Intelligence (UAI), 2021.",
+    "title": "The promises and pitfalls of deep kernel learning",
+    "authors": [
+      "Sebastian W Ober",
+      "Carl E Rasmussen",
+      "Mark Van Der Wilk"
+    ],
+    "venue": "Uncertainty in Artificial Intelligence (UAI)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Changyong Oh, Jakub Tomczak, Efstratios Gavves, and Max Welling. Combinatorial bayesian optimization using the graph cartesian product. Neural Information Processing Systems (NeurIPS), 32, 2019.",
+    "title": "Combinatorial bayesian optimization using the graph cartesian product",
+    "authors": [
+      "Changyong Oh",
+      "Jakub Tomczak",
+      "Efstratios Gavves",
+      "Max Welling"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Yaniv Ovadia, Emily Fertig, Jie Ren, Zachary Nado, Sebastian Nowozin, Joshua Dillon, Balaji Lakshminarayanan, and Jasper Snoek. Can you trust your model's uncertainty? evaluating predictive uncertainty under dataset shift. In Neural Information Processing Systems (NeurIPS), 2019.",
+    "title": "Can you trust your model's uncertainty? evaluating predictive uncertainty under dataset shift",
+    "authors": [
+      "Yaniv Ovadia",
+      "Emily Fertig",
+      "Jie Ren",
+      "Zachary Nado",
+      "Sebastian Nowozin",
+      "Joshua Dillon",
+      "Balaji Lakshminarayanan",
+      "Jasper Snoek"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Biswajit Paria, Kirthevasan Kandasamy, and Barnabás Póczos. A flexible framework for multiobjective Bayesian optimization using random scalarizations. In Uncertainty in Artificial Intelligence, pp. 766-776. PMLR, 2020.",
+    "title": "A flexible framework for multiobjective Bayesian optimization using random scalarizations",
+    "authors": [
+      "Biswajit Paria",
+      "Kirthevasan Kandasamy",
+      "Barnabás Póczos"
+    ],
+    "venue": "Uncertainty in Artificial Intelligence",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Carlos Riquelme, George Tucker, and Jasper Snoek. Deep Bayesian bandits showdown. In International Conference on Learning Representations (ICLR), 2018.",
+    "title": "Deep Bayesian bandits showdown",
+    "authors": [
+      "Carlos Riquelme",
+      "George Tucker",
+      "Jasper Snoek"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Hrittik Roy, Marco Miani, Carl Henrik Ek, Philipp Hennig, Marvin Pförtner, Lukas Tatzel, and Søren Hauberg. Reparameterization invariance in approximate Bayesian inference, 2024.",
+    "title": "Reparameterization invariance in approximate Bayesian inference",
+    "authors": [
+      "Hrittik Roy",
+      "Marco Miani",
+      "Carl Henrik Ek",
+      "Philipp Hennig",
+      "Marvin Pförtner",
+      "Lukas Tatzel",
+      "Søren Hauberg"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Daniel J Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, Zheng Wen, et al. A tutorial on Thompson sampling. Foundations and Trends in Machine Learning, 2018.",
+    "title": "A tutorial on Thompson sampling",
+    "authors": [
+      "J Daniel",
+      "Benjamin Russo",
+      "Abbas Van Roy",
+      "Ian Kazerouni",
+      "Zheng Osband",
+      "Wen"
+    ],
+    "venue": "Foundations and Trends in Machine Learning",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Jasper Snoek, Hugo Larochelle, and Ryan P Adams. Practical Bayesian optimization of machine learning algorithms. Neural Information Processing Systems (NeurIPS), 2012.",
+    "title": "Practical Bayesian optimization of machine learning algorithms",
+    "authors": [
+      "Jasper Snoek",
+      "Hugo Larochelle",
+      "Ryan P Adams"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Jasper Snoek, Oren Rippel, Kevin Swersky, Ryan Kiros, Nadathur Satish, Narayanan Sundaram, Mostofa Patwary, Prabhat, and Ryan Adams. Scalable Bayesian optimization using deep neural networks. International Conference on Machine Learning (ICML), 2015.",
+    "title": "Scalable Bayesian optimization using deep neural networks",
+    "authors": [
+      "Jasper Snoek",
+      "Oren Rippel",
+      "Kevin Swersky",
+      "Ryan Kiros",
+      "Nadathur Satish",
+      "Narayanan Sundaram",
+      "Mostofa Patwary",
+      "Ryan Prabhat",
+      "Adams"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Jost Tobias Springenberg, Aaron Klein, Stefan Falkner, and Frank Hutter. Bayesian optimization with robust bayesian neural networks. Neural Information Processing Systems (NeurIPS), 2016.",
+    "title": "Bayesian optimization with robust bayesian neural networks",
+    "authors": [
+      "Jost Tobias Springenberg",
+      "Aaron Klein",
+      "Stefan Falkner",
+      "Frank Hutter"
+    ],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "Kevin Swersky, Jasper Snoek, and Ryan P. Adams. Multi-task bayesian optimization. 2013.",
+    "title": "Multi-task bayesian optimization",
+    "authors": [
+      "Kevin Swersky",
+      "Jasper Snoek",
+      "Ryan P Adams"
+    ],
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Sujay Thakur, Cooper Lorsung, Yaniv Yacoby, Finale Doshi-Velez, and Weiwei Pan. Uncertaintyaware (una) bases for Bayesian regression using multi-headed auxiliary networks. arXiv preprint arXiv:2006.11695, 2020.",
+    "title": "Uncertaintyaware (una) bases for Bayesian regression using multi-headed auxiliary networks",
+    "authors": [
+      "Sujay Thakur",
+      "Cooper Lorsung",
+      "Yaniv Yacoby",
+      "Finale Doshi-Velez",
+      "Weiwei Pan"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2006.11695"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "William R Thompson. On the likelihood that one unknown probability exceeds another in view of the evidence of two samples. Biometrika, 1933.",
+    "title": "On the likelihood that one unknown probability exceeds another in view of the evidence of two samples",
+    "authors": [
+      "William R Thompson"
+    ],
+    "venue": "Biometrika",
+    "year": 1933,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Boqian Wang, Jiacheng Cai, Chuangui Liu, Jian Yang, and Xianting Ding. Harnessing a novel machine-learning-assisted evolutionary algorithm to co-optimize three characteristics of an electrospun oil sorbent. ACS Applied Materials & Interfaces, 12(38):42842-42849, 2020.",
+    "title": "Harnessing a novel machine-learning-assisted evolutionary algorithm to co-optimize three characteristics of an electrospun oil sorbent",
+    "authors": [
+      "Boqian Wang",
+      "Jiacheng Cai",
+      "Chuangui Liu",
+      "Jian Yang",
+      "Xianting Ding"
+    ],
+    "venue": "ACS Applied Materials & Interfaces",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Zi Wang and Stefanie Jegelka. Max-value entropy search for efficient Bayesian optimization. In International Conference on Machine Learning (ICML), pp. 3627-3635. PMLR, 2017.",
+    "title": "Max-value entropy search for efficient Bayesian optimization",
+    "authors": [
+      "Zi Wang",
+      "Stefanie Jegelka"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Joe Watson, Jihao Andreas Lin, Pascal Klink, Joni Pajarinen, and Jan Peters. Latent derivative Bayesian last layer networks. In Artificial Intelligence and Statistics (AISTATS), 2021.",
+    "title": "Latent derivative Bayesian last layer networks",
+    "authors": [
+      "Joe Watson",
+      "Andreas Jihao",
+      "Pascal Lin",
+      "Joni Klink",
+      "Jan Pajarinen",
+      "Peters"
+    ],
+    "venue": "In Artificial Intelligence and Statistics",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "Noah Weber, Janez Starc, Arpit Mittal, Roi Blanco, and Lluís Màrquez. Optimizing over a Bayesian last layer. In NeurIPS workshop on Bayesian Deep Learning, 2018.",
+    "title": "Optimizing over a Bayesian last layer",
+    "authors": [
+      "Noah Weber",
+      "Janez Starc",
+      "Arpit Mittal",
+      "Roi Blanco",
+      "Lluís Màrquez"
+    ],
+    "venue": "NeurIPS workshop on Bayesian Deep Learning",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "Florian Wenzel, Kevin Roth, Bastiaan S Veeling, Jakub Swiatkowski, Linh Tran, Stephan Mandt, Jasper Snoek, Tim Salimans, Rodolphe Jenatton, and Sebastian Nowozin. How good is the bayes posterior in deep neural networks really? In International Conference on Machine Learning (ICML), 2020.",
+    "title": "How good is the bayes posterior in deep neural networks really",
+    "authors": [
+      "Florian Wenzel",
+      "Kevin Roth",
+      "S Bastiaan",
+      "Jakub Veeling",
+      "Linh Swiatkowski",
+      "Stephan Tran",
+      "Jasper Mandt",
+      "Tim Snoek",
+      "Rodolphe Salimans",
+      "Sebastian Jenatton",
+      "Nowozin"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R66",
+    "raw_text": "Andrew Gordon Wilson, Zhiting Hu, Ruslan Salakhutdinov, and Eric P Xing. Deep kernel learning. In Artificial Intelligence and Statistics (AISTATS), 2016.",
+    "title": "Deep kernel learning",
+    "authors": [
+      "Andrew Gordon Wilson",
+      "Zhiting Hu",
+      "Ruslan Salakhutdinov",
+      "Eric P Xing"
+    ],
+    "venue": "In Artificial Intelligence and Statistics",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R67",
+    "raw_text": "James Wilson, Viacheslav Borovitskiy, Alexander Terenin, Peter Mostowsky, and Marc Deisenroth. Efficiently sampling functions from Gaussian process posteriors. In International Conference on Machine Learning (ICML). PMLR, 2020.",
+    "title": "Efficiently sampling functions from Gaussian process posteriors",
+    "authors": [
+      "James Wilson",
+      "Viacheslav Borovitskiy",
+      "Alexander Terenin",
+      "Peter Mostowsky",
+      "Marc Deisenroth"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R68",
+    "raw_text": "James T Wilson, Viacheslav Borovitskiy, Alexander Terenin, Peter Mostowsky, and Marc Peter Deisenroth. Pathwise conditioning of Gaussian processes. Journal of Machine Learning Research, 22(105):1-47, 2021.",
+    "title": "Pathwise conditioning of Gaussian processes",
+    "authors": [
+      "Viacheslav James T Wilson",
+      "Alexander Borovitskiy",
+      "Peter Terenin",
+      "Marc Mostowsky",
+      "Deisenroth Peter"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R69",
+    "raw_text": "Friedemann Zenke, Ben Poole, and Surya Ganguli. Continual learning through synaptic intelligence. International Conference on Machine Learning (ICML), 2017.",
+    "title": "Continual learning through synaptic intelligence",
+    "authors": [
+      "Friedemann Zenke",
+      "Ben Poole",
+      "Surya Ganguli"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R70",
+    "raw_text": "Ciyou Zhu, Richard H Byrd, Peihuang Lu, and Jorge Nocedal. Algorithm 778: L-bfgs-b: Fortran subroutines for large-scale bound-constrained optimization. ACM Transactions on mathematical software (TOMS), 23(4):550-560, 1997.",
+    "title": "Algorithm 778: L-bfgs-b: Fortran subroutines for large-scale bound-constrained optimization",
+    "authors": [
+      "Ciyou Zhu",
+      "Richard H Byrd",
+      "Peihuang Lu",
+      "Jorge Nocedal"
+    ],
+    "venue": "ACM Transactions on mathematical software (TOMS)",
+    "year": 1997,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R71",
+    "raw_text": "Eckart Zitzler, Lothar Thiele, Marco Laumanns, Carlos M Fonseca, and Viviane Grunert Da Fonseca. Performance assessment of multiobjective optimizers: An analysis and review. IEEE Transactions on Evolutionary Computation, 7(2):117-132, 2003.",
+    "title": "Performance assessment of multiobjective optimizers: An analysis and review",
+    "authors": [
+      "Eckart Zitzler",
+      "Lothar Thiele",
+      "Marco Laumanns",
+      "Carlos M Fonseca",
+      "Viviane Grunert",
+      "Da Fonseca"
+    ],
+    "venue": "IEEE Transactions on Evolutionary Computation",
+    "year": 2003,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R72",
+    "raw_text": "D.2 EXPERIMENTS Branin: A standard two dimensional optimization benchmark with three global optima. Ackley: A standard optimization benchmark with various local optima (depending on the dimensionality) and one global optimum. In out experiments, we compare the surrogates on a 2D and 5D version and set the feasible set to the hypercube X = [-5, 10] d as in Eriksson et al. (2019). Hartmann: A standard six dimensional benchmark with six local optima and one global optimum. NN draw: In this optimization problem, our goal is to find the global optimum of a function defined by a sample from a neural network within the hypercube X = [0, 1] d . This benchmark was also employed in Li et al. (2024). We use a fully connected neural network with two hidden layers, each containing 50 nodes, and ReLU activation functions. The input size corresponds to the dimensionality of the optimization problem (in our case, 200), and the output size is one. To generate a function, we sample all weights from the standard normal distribution N (0, 1). For a fair comparison, we use the same fixed seed across all baselines ensuring that the same objective function is used. Pest control: This optimization problem was also in Li et al. (2024) and aims to minimizing the spread of pests while minimizing the prevention costs of treatment and was introduced in Oh et al. (2019). In this experiment, we define the setting as a categorical optimization problem with 25 categorical variables corresponding to stages of intervention, with 5 different values at each stage. As mentioned in Oh et al. (2019), dynamics behind this problem are highly complex resulting in involved correlations between the inputs. Lunar lander: Lunar lander is an environment from OpenAI gym. The objective is to maximize the average final reward over 50 randomly generated environments. For this, 12 continuous parameters of a controller have to be tuned as in Eriksson et al. (2019).",
+    "title": "We use a fully connected neural network with two hidden layers, each containing 50 nodes, and ReLU activation functions. The input size corresponds to the dimensionality of the optimization problem (in our case, 200), and the output size is one. To generate a function, we sample all weights from the standard normal distribution N (0, 1)",
+    "authors": [
+      "D"
+    ],
+    "venue": "out experiments, we compare the surrogates on a 2D and 5D version and set the feasible set to the hypercube X =",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R73",
+    "raw_text": "Branin Currin: A standard two dimensional benchmark with two objectives. DTLZ1: A standard benchmark of which we choose a five dimensional version with two objectives. DTLZ2: A standard benchmark of which we choose a five dimensional version with two objectives. Oil Sorbent: Building on the implemention by Li et al. (2024), we optimize the properties of a material to maximize its performance as a sorbent for marine oil spills as introduced by Wang et al. (2020). The problem consists of five ordinal parameters and two continuous parameters which control",
+    "title": "A standard two dimensional benchmark with two objectives. DTLZ1: A standard benchmark of which we choose a five dimensional version with two objectives. DTLZ2: A standard benchmark of which we choose a five dimensional version with two objectives. Oil Sorbent: Building on the implemention by Li et al. (2024), we optimize the properties of a material to maximize its performance as a sorbent for marine oil spills",
+    "authors": [
+      "Branin Currin"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

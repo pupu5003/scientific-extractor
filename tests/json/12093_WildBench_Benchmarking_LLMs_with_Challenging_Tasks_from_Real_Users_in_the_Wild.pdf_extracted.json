@@ -1,0 +1,929 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "AI, :, Alex Young, Bei Chen, Chao Li, Chengen Huang, Ge Zhang, Guanwei Zhang, Heng Li, Jiangcheng Zhu, Jianqun Chen, Jing Chang, Kaidong Yu, Peng Liu, Qiang Liu, Shawn Yue, Senbin Yang, Shiming Yang, Tao Yu, Wen Xie, Wenhao Huang, Xiaohui Hu, Xiaoyi Ren, Xinyao Niu, Pengcheng Nie, Yuchi Xu, Yudong Liu, Yue Wang, Yuxuan Cai, Zhenyu Gu, Zhiyuan Liu, and Zonghong Dai. Yi: Open foundation models by 01.ai, 2024.",
+    "authors": [
+      ": AI",
+      "Alex Young",
+      "Bei Chen",
+      "Chao Li",
+      "Chengen Huang",
+      "Ge Zhang",
+      "Guanwei Zhang",
+      "Heng Li",
+      "Jiangcheng Zhu",
+      "Jianqun Chen",
+      "Jing Chang",
+      "Kaidong Yu",
+      "Peng Liu",
+      "Qiang Liu",
+      "Shawn Yue",
+      "Senbin Yang",
+      "Shiming Yang",
+      "Tao Yu",
+      "Wen Xie",
+      "Wenhao Huang",
+      "Xiaohui Hu",
+      "Xiaoyi Ren",
+      "Xinyao Niu",
+      "Pengcheng Nie",
+      "Yuchi Xu",
+      "Yudong Liu",
+      "Yue Wang",
+      "Yuxuan Cai",
+      "Zhenyu Gu",
+      "Zhiyuan Liu",
+      "Zonghong Dai"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Anthropic. The claude 3 model family: Opus, sonnet, haiku. https://www-cdn.anthropic. com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3. pdf, 2024.",
+    "title": "The claude 3 model family: Opus, sonnet, haiku",
+    "authors": [
+      "Anthropic"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://www-cdn.anthropic.com/de"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "The BigBench authors. Beyond the imitation game: Quantifying and extrapolating the capabilities of language models. ArXiv, abs/2206.04615, 2022. URL https://api.semanticscholar. org/CorpusID:263625818.",
+    "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+    "authors": [],
+    "venue": "ArXiv",
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "2206.04615",
+      "url": "https://api.semanticscholar.org/CorpusID:263625818"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Wei-Lin Chiang, Lianmin Zheng, Ying Sheng, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Hao Zhang, Banghua Zhu, Michael Jordan, Joseph E. Gonzalez, and Ion Stoica. Chatbot arena: An open platform for evaluating llms by human preference, 2024.",
+    "title": "Chatbot arena: An open platform for evaluating llms by human preference",
+    "authors": [
+      "Wei-Lin Chiang",
+      "Lianmin Zheng",
+      "Ying Sheng",
+      "Anastasios Nikolas Angelopoulos",
+      "Tianle Li",
+      "Dacheng Li",
+      "Hao Zhang",
+      "Banghua Zhu",
+      "Michael Jordan",
+      "Joseph E Gonzalez",
+      "Ion Stoica"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, and John Schulman. Training verifiers to solve math word problems. arXiv preprint arXiv:2110.14168, 2021.",
+    "title": "Training verifiers to solve math word problems",
+    "authors": [
+      "Karl Cobbe",
+      "Vineet Kosaraju",
+      "Mohammad Bavarian",
+      "Jacob Hilton",
+      "Reiichiro Nakano",
+      "Christopher Hesse",
+      "John Schulman"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2110.14168"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Yann Dubois, Xuechen Li, Rohan Taori, Tianyi Zhang, Ishaan Gulrajani, Jimmy Ba, Carlos Guestrin, Percy Liang, and Tatsunori B Hashimoto. Alpacafarm: A simulation framework for methods that learn from human feedback. arXiv preprint arXiv:2305.14387, 2023.",
+    "title": "Alpacafarm: A simulation framework for methods that learn from human feedback",
+    "authors": [
+      "Yann Dubois",
+      "Xuechen Li",
+      "Rohan Taori",
+      "Tianyi Zhang",
+      "Ishaan Gulrajani",
+      "Jimmy Ba",
+      "Carlos Guestrin",
+      "Percy Liang",
+      "Tatsunori B Hashimoto"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.14387"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Yann Dubois, Balázs Galambosi, Percy Liang, and Tatsunori B. Hashimoto. Length-controlled alpacaeval: A simple way to debias automatic evaluators, 2024.",
+    "title": "Length-controlled alpacaeval: A simple way to debias automatic evaluators",
+    "authors": [
+      "Yann Dubois",
+      "Balázs Galambosi",
+      "Percy Liang",
+      "Tatsunori B Hashimoto"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Isabel O. Gallegos, Ryan A. Rossi, Joe Barrow, Md Mehrab Tanjim, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, and Nesreen K. Ahmed. Bias and fairness in large language models: A survey, 2024.",
+    "title": "Bias and fairness in large language models: A survey",
+    "authors": [
+      "Isabel O Gallegos",
+      "Ryan A Rossi",
+      "Joe Barrow",
+      "Md Mehrab Tanjim",
+      "Sungchul Kim",
+      "Franck Dernoncourt",
+      "Tong Yu",
+      "Ruiyi Zhang",
+      "Nesreen K Ahmed"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt. Measuring massive multitask language understanding. arXiv preprint arXiv:2009.03300, 2020.",
+    "title": "Measuring massive multitask language understanding",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Steven Basart",
+      "Andy Zou",
+      "Mantas Mazeika",
+      "Dawn Song",
+      "Jacob Steinhardt"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2009.03300"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, and Jacob Steinhardt. Measuring mathematical problem solving with the math dataset. arXiv preprint arXiv:2103.03874, 2021.",
+    "title": "Measuring mathematical problem solving with the math dataset",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Saurav Kadavath",
+      "Akul Arora",
+      "Steven Basart",
+      "Eric Tang",
+      "Dawn Song",
+      "Jacob Steinhardt"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2103.03874"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Giwon Hong, Aryo Pradipta Gema, Rohit Saxena, Xiaotang Du, Ping Nie, Yu Zhao, Laura PerezBeltrachini, Max Ryabinin, Xuanli He, Clémentine Fourrier, and Pasquale Minervini. The hallucinations leaderboard -an open effort to measure hallucinations in large language models, 2024.",
+    "title": "The hallucinations leaderboard -an open effort to measure hallucinations in large language models",
+    "authors": [
+      "Giwon Hong",
+      "Aryo Pradipta Gema",
+      "Rohit Saxena",
+      "Xiaotang Du",
+      "Ping Nie",
+      "Yu Zhao",
+      "Laura Perezbeltrachini",
+      "Max Ryabinin",
+      "Xuanli He",
+      "Clémentine Fourrier",
+      "Pasquale Minervini"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Dongfu Jiang, Yishan Li, Ge Zhang, Wenhao Huang, Bill Yuchen Lin, and Wenhu Chen. Tigerscore: Towards building explainable metric for all text generation tasks. Transactions on Machine Learning Research, 2023.",
+    "title": "Tigerscore: Towards building explainable metric for all text generation tasks",
+    "authors": [
+      "Dongfu Jiang",
+      "Yishan Li",
+      "Ge Zhang",
+      "Wenhao Huang",
+      "Bill Yuchen Lin",
+      "Wenhu Chen"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Liwei Jiang, Kavel Rao, Seungju Han, Allyson Ettinger, Faeze Brahman, Sachin Kumar, Niloofar Mireshghallah, Ximing Lu, Maarten Sap, Yejin Choi, and Nouha Dziri. Wildteaming at scale: From in-the-wild jailbreaks to (adversarially) safer language models. ArXiv, abs/2406.18510, 2024. URL https://api.semanticscholar.org/CorpusID:270738096.",
+    "title": "Wildteaming at scale: From in-the-wild jailbreaks to (adversarially) safer language models",
+    "authors": [
+      "Liwei Jiang",
+      "Kavel Rao",
+      "Seungju Han",
+      "Allyson Ettinger",
+      "Faeze Brahman",
+      "Sachin Kumar",
+      "Niloofar Mireshghallah",
+      "Ximing Lu",
+      "Maarten Sap",
+      "Yejin Choi",
+      "Nouha Dziri"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2406.18510",
+      "url": "https://api.semanticscholar.org/CorpusID:270738096"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Seungone Kim, Juyoung Suk, Shayne Longpre, Bill Yuchen Lin, Jamin Shin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, and Minjoon Seo. Prometheus 2: An open source language model specialized in evaluating other language models. arXiv preprint arXiv:2405.01535, 2024.",
+    "title": "Prometheus 2: An open source language model specialized in evaluating other language models",
+    "authors": [
+      "Seungone Kim",
+      "Juyoung Suk",
+      "Shayne Longpre",
+      "Bill Yuchen Lin",
+      "Jamin Shin",
+      "Sean Welleck",
+      "Graham Neubig",
+      "Moontae Lee",
+      "Kyungjae Lee",
+      "Minjoon Seo"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.01535"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, and Yusuke Iwasawa. Large language models are zero-shot reasoners. ArXiv, abs/2205.11916, 2022. URL https://api. semanticscholar.org/CorpusID:249017743.",
+    "title": "Large language models are zero-shot reasoners",
+    "authors": [
+      "Takeshi Kojima",
+      "Shane Shixiang",
+      "Machel Gu",
+      "Yutaka Reid",
+      "Yusuke Matsuo",
+      "Iwasawa"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "2205.11916",
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Haonan Li, Yixuan Zhang, Fajri Koto, Yifei Yang, Hai Zhao, Yeyun Gong, Nan Duan, and Timothy Baldwin. Cmmlu: Measuring massive multitask language understanding in chinese. arXiv preprint arXiv:2306.09212, 2023a.",
+    "title": "Measuring massive multitask language understanding in chinese",
+    "authors": [
+      "Haonan Li",
+      "Yixuan Zhang",
+      "Fajri Koto",
+      "Yifei Yang",
+      "Hai Zhao",
+      "Yeyun Gong",
+      "Nan Duan",
+      "Timothy Baldwin",
+      "Cmmlu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.09212"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Tianle Li, Wei-Lin Chiang, Evan Frick, Lisa Dunlap, Banghua Zhu, Joseph E. Gonzalez, and Ion Stoica. From live data to high-quality benchmarks: The arena-hard pipeline, April 2024. URL https://lmsys.org/blog/2024-04-19-arena-hard/.",
+    "title": "From live data to high-quality benchmarks: The arena-hard pipeline",
+    "authors": [
+      "Tianle Li",
+      "Wei-Lin Chiang",
+      "Evan Frick",
+      "Lisa Dunlap",
+      "Banghua Zhu",
+      "Joseph E Gonzalez",
+      "Ion Stoica"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://lmsys.org/blog/2024-04-19-arena-hard/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Xuechen Li, Tianyi Zhang, Yann Dubois, Rohan Taori, Ishaan Gulrajani, Carlos Guestrin, Percy Liang, and Tatsunori B. Hashimoto. Alpacaeval: An automatic evaluator of instruction-following models. https://github.com/tatsu-lab/alpaca_eval, 2023b.",
+    "title": "Alpacaeval: An automatic evaluator of instruction-following models",
+    "authors": [
+      "Xuechen Li",
+      "Tianyi Zhang",
+      "Yann Dubois",
+      "Rohan Taori",
+      "Ishaan Gulrajani",
+      "Carlos Guestrin",
+      "Percy Liang",
+      "Tatsunori B Hashimoto"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://github.com/tatsu-lab/alpaca_eval"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Bill Yuchen Lin, Chengsong Huang, Qian Liu, Wenda Gu, Sam Sommerer, and Xiang Ren. On grounded planning for embodied tasks with language models. ArXiv, abs/2209.00465, 2022. URL https://api.semanticscholar.org/CorpusID:251979509.",
+    "title": "On grounded planning for embodied tasks with language models",
+    "authors": [
+      "Chengsong Bill Yuchen Lin",
+      "Qian Huang",
+      "Wenda Liu",
+      "Sam Gu",
+      "Xiang Sommerer",
+      "Ren"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "2209.00465",
+      "url": "https://api.semanticscholar.org/CorpusID:251979509"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Bill Yuchen Lin, Abhilasha Ravichander, Ximing Lu, Nouha Dziri, Melanie Sclar, Khyathi Raghavi Chandu, Chandra Bhagavatula, and Yejin Choi. The unlocking spell on base llms: Rethinking alignment via in-context learning. ArXiv, abs/2312.01552, 2023. URL https://api. semanticscholar.org/CorpusID:265608902.",
+    "title": "The unlocking spell on base llms: Rethinking alignment via in-context learning",
+    "authors": [
+      "Abhilasha Bill Yuchen Lin",
+      "Ximing Ravichander",
+      "Nouha Lu",
+      "Melanie Dziri",
+      "Sclar",
+      "Raghavi Khyathi",
+      "Chandra Chandu",
+      "Yejin Bhagavatula",
+      "Choi"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2312.01552",
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Bill Yuchen Lin, Ronan Le Bras, and Yejin Choi. Zebralogic: Benchmarking the logical reasoning ability of language models, 2024. URL https://hf.co/spaces/allenai/ ZebraLogicBench-Leaderboard.",
+    "title": "Zebralogic: Benchmarking the logical reasoning ability of language models",
+    "authors": [
+      "Ronan Bill Yuchen Lin",
+      "Yejin Le Bras",
+      "Choi"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://hf.co/spaces/allenai/ZebraLogicBench-Leaderboard"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Yuxian Gu, Hangliang Ding, Kai Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Shengqi Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, and Jie Tang. Agentbench: Evaluating llms as agents. ArXiv, abs/2308.03688, 2023. URL https: //api.semanticscholar.org/CorpusID:260682249.",
+    "title": "Agentbench: Evaluating llms as agents",
+    "authors": [
+      "Xiao Liu",
+      "Hao Yu",
+      "Hanchen Zhang",
+      "Yifan Xu",
+      "Xuanyu Lei",
+      "Hanyu Lai",
+      "Yu Gu",
+      "Yuxian Gu",
+      "Hangliang Ding",
+      "Kai Men",
+      "Kejuan Yang",
+      "Shudan Zhang",
+      "Xiang Deng",
+      "Aohan Zeng",
+      "Zhengxiao Du",
+      "Chenhui Zhang",
+      "Shengqi Shen",
+      "Tianjun Zhang",
+      "Yu Su",
+      "Huan Sun",
+      "Minlie Huang",
+      "Yuxiao Dong",
+      "Jie Tang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2308.03688",
+      "url": "https://api.semanticscholar.org/CorpusID:260682249"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Yujie Lu, Dongfu Jiang, Wenhu Chen, William Yang Wang, Yejin Choi, and Bill Yuchen Lin. Wildvision: Evaluating vision-language models in the wild with human preferences. arXiv preprint arXiv:2406.11069, 2024.",
+    "title": "Wildvision: Evaluating vision-language models in the wild with human preferences",
+    "authors": [
+      "Yujie Lu",
+      "Dongfu Jiang",
+      "Wenhu Chen",
+      "William Yang Wang",
+      "Yejin Choi",
+      "Bill Yuchen",
+      "Lin"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.11069"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Mantas Mazeika, Long Phan, Xuwang Yin, Andy Zou, Zifan Wang, Norman Mu, Elham Sakhaee, Nathaniel Li, Steven Basart, Bo Li, David Forsyth, and Dan Hendrycks. Harmbench: A standardized evaluation framework for automated red teaming and robust refusal, 2024.",
+    "title": "Harmbench: A standardized evaluation framework for automated red teaming and robust refusal",
+    "authors": [
+      "Mantas Mazeika",
+      "Long Phan",
+      "Xuwang Yin",
+      "Andy Zou",
+      "Zifan Wang",
+      "Norman Mu",
+      "Elham Sakhaee",
+      "Nathaniel Li",
+      "Steven Basart",
+      "Bo Li",
+      "David Forsyth",
+      "Dan Hendrycks"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Yu Meng, Mengzhou Xia, and Danqi Chen. Simpo: Simple preference optimization with a reference-free reward. 2024a. URL https://api.semanticscholar.org/CorpusID: 269983560.",
+    "title": "Simpo: Simple preference optimization with a reference-free reward",
+    "authors": [
+      "Yu Meng",
+      "Mengzhou Xia",
+      "Danqi Chen"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Yu Meng, Mengzhou Xia, and Danqi Chen. Simpo: Simple preference optimization with a referencefree reward, 2024b.",
+    "title": "Simpo: Simple preference optimization with a referencefree reward",
+    "authors": [
+      "Yu Meng",
+      "Mengzhou Xia",
+      "Danqi Chen"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Meta. Introducing Meta Llama 3: The most capable openly available LLM to date. https: //ai.meta.com/blog/meta-llama-3/, 2023.",
+    "title": "Introducing Meta Llama 3: The most capable openly available LLM to date",
+    "authors": [],
+    "venue": "Meta",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://ai.meta.com/blog/meta-llama-3/"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann André LeCun, and Thomas Scialom. Gaia: a benchmark for general ai assistants. ArXiv, abs/2311.12983, 2023. URL https://api.semanticscholar.org/CorpusID:265351664.",
+    "title": "Gaia: a benchmark for general ai assistants",
+    "authors": [
+      "Grégoire Mialon",
+      "Clémentine Fourrier",
+      "Craig Swift",
+      "Thomas Wolf",
+      "Yann André Lecun",
+      "Thomas Scialom"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2311.12983",
+      "url": "https://api.semanticscholar.org/CorpusID:265351664"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, and Hannaneh Hajishirzi. Factscore: Fine-grained atomic evaluation of factual precision in long form text generation. arXiv preprint arXiv:2305.14251, 2023.",
+    "title": "Factscore: Fine-grained atomic evaluation of factual precision in long form text generation",
+    "authors": [
+      "Sewon Min",
+      "Kalpesh Krishna",
+      "Xinxi Lyu",
+      "Mike Lewis",
+      "Wen-Tau Yih",
+      "Pang Wei Koh",
+      "Mohit Iyyer",
+      "Luke Zettlemoyer",
+      "Hannaneh Hajishirzi"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.14251"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Abhika Mishra, Akari Asai, Vidhisha Balachandran, Yizhong Wang, Graham Neubig, Yulia Tsvetkov, and Hannaneh Hajishirzi. Fine-grained hallucination detection and editing for language models, 2024. OpenAI. Gpt-4 technical report, 2023.",
+    "title": "Fine-grained hallucination detection and editing for language models",
+    "authors": [
+      "Abhika Mishra",
+      "Akari Asai",
+      "Vidhisha Balachandran",
+      "Yizhong Wang",
+      "Graham Neubig",
+      "Yulia Tsvetkov",
+      "Hannaneh Hajishirzi"
+    ],
+    "venue": "OpenAI. Gpt-4 technical report",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Siru Ouyang, Shuohang Wang, Yang Liu, Ming Zhong, Yizhu Jiao, Dan Iter, Reid Pryzant, Chenguang Zhu, Heng Ji, and Jiawei Han. The shifted and the overlooked: A task-oriented investigation of user-GPT interactions. In The 2023 Conference on Empirical Methods in Natural Language Processing, 2023. URL https://openreview.net/forum?id=qS1ip2dGH0.",
+    "title": "The shifted and the overlooked: A task-oriented investigation of user-GPT interactions",
+    "authors": [
+      "Siru Ouyang",
+      "Shuohang Wang",
+      "Yang Liu",
+      "Ming Zhong",
+      "Yizhu Jiao",
+      "Dan Iter",
+      "Reid Pryzant",
+      "Chenguang Zhu",
+      "Ji Heng",
+      "Jiawei Han"
+    ],
+    "venue": "The 2023 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=qS"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Arjun Panickssery, Samuel R. Bowman, and Shi Feng. Llm evaluators recognize and favor their own generations, 2024.",
+    "title": "Llm evaluators recognize and favor their own generations",
+    "authors": [
+      "Arjun Panickssery",
+      "R Samuel",
+      "Shi Bowman",
+      "Feng"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Yiwei Qin, Kaiqiang Song, Yebowen Hu, Wenlin Yao, Sangwoo Cho, Xiaoyang Wang, Xuansheng Wu, Fei Liu, Pengfei Liu, and Dong Yu. Infobench: Evaluating instruction following ability in large language models, 2024.",
+    "title": "Infobench: Evaluating instruction following ability in large language models",
+    "authors": [
+      "Yiwei Qin",
+      "Kaiqiang Song",
+      "Yebowen Hu",
+      "Wenlin Yao",
+      "Sangwoo Cho",
+      "Xiaoyang Wang",
+      "Xuansheng Wu",
+      "Fei Liu",
+      "Pengfei Liu",
+      "Dong Yu"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Nils Reimers and Iryna Gurevych. Sentence-bert: Sentence embeddings using siamese bert-networks, 2019.",
+    "title": "Sentence-bert: Sentence embeddings using siamese bert-networks",
+    "authors": [
+      "Nils Reimers",
+      "Iryna Gurevych"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "David Rein, Betty Li Hou, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, Julien Dirani, Julian Michael, and Samuel R. Bowman. Gpqa: A graduate-level google-proof q&a benchmark, 2023.",
+    "title": "Gpqa: A graduate-level google-proof q&a benchmark",
+    "authors": [
+      "David Rein",
+      "Betty Li Hou",
+      "Asa Cooper Stickland",
+      "Jackson Petty",
+      "Richard Yuanzhe Pang",
+      "Julien Dirani",
+      "Julian Michael",
+      "Samuel R Bowman"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Guijin Son, Hanwool Lee, Sungdong Kim, Seungone Kim, Niklas Muennighoff, Taekyoon Choi, Cheonbok Park, Kang Min Yoo, and Stella Biderman. Kmmlu: Measuring massive multitask language understanding in korean. arXiv preprint arXiv:2402.11548, 2024.",
+    "title": "Measuring massive multitask language understanding in korean",
+    "authors": [
+      "Guijin Son",
+      "Hanwool Lee",
+      "Sungdong Kim",
+      "Seungone Kim",
+      "Niklas Muennighoff",
+      "Taekyoon Choi",
+      "Cheonbok Park",
+      "Min Kang",
+      "Stella Yoo",
+      "Biderman",
+      "Kmmlu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.11548"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Rohan Taori, Ishaan Gulrajani, Tianyi Zhang, Yann Dubois, Xuechen Li, Carlos Guestrin, Percy Liang, and Tatsunori B. Hashimoto. Stanford alpaca: An instruction-following llama model. https://github.com/tatsu-lab/stanford_alpaca, 2023.",
+    "title": "Stanford alpaca: An instruction-following llama model",
+    "authors": [
+      "Rohan Taori",
+      "Ishaan Gulrajani",
+      "Tianyi Zhang",
+      "Yann Dubois",
+      "Xuechen Li",
+      "Carlos Guestrin",
+      "Percy Liang",
+      "Tatsunori B Hashimoto"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://github.com/tatsu-lab/stanford_alpaca"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, Dan Bikel, Lukas Blecher, Cristian Canton Ferrer, Moya Chen, Guillem Cucurull, David Esiobu, Jude Fernandes, Jeremy Fu, Wenyin Fu, Brian Fuller, Cynthia Gao, Vedanuj Goswami, Naman Goyal, Anthony Hartshorn, Saghar Hosseini, Rui Hou, Hakan Inan, Marcin Kardas, Viktor Kerkez, Madian Khabsa, Isabel Kloumann, Artem Korenev, Punit Singh Koura, Marie-Anne Lachaux, Thibaut Lavril, Jenya Lee, Diana Liskovich, Yinghai Lu, Yuning Mao, Xavier Martinet, Todor Mihaylov, Pushkar Mishra, Igor Molybog, Yixin Nie, Andrew Poulton, Jeremy Reizenstein, Rashi Rungta, Kalyan Saladi, Alan Schelten, Ruan Silva, Eric Michael Smith, Ranjan Subramanian, Xiaoqing Ellen Tan, Binh Tang, Ross Taylor, Adina Williams, Jian Xiang Kuan, Puxin Xu, Zheng Yan, Iliyan Zarov, Yuchen Zhang, Angela Fan, Melanie Kambadur, Sharan Narang, Aurelien Rodriguez, Robert Stojnic, Sergey Edunov, and Thomas Scialom. Llama 2: Open foundation and fine-tuned chat models, 2023.",
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Nikolay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale",
+      "Dan Bikel",
+      "Lukas Blecher",
+      "Cristian Canton Ferrer",
+      "Moya Chen",
+      "Guillem Cucurull",
+      "David Esiobu",
+      "Jude Fernandes",
+      "Jeremy Fu",
+      "Wenyin Fu",
+      "Brian Fuller",
+      "Cynthia Gao",
+      "Vedanuj Goswami",
+      "Naman Goyal",
+      "Anthony Hartshorn",
+      "Saghar Hosseini",
+      "Rui Hou",
+      "Hakan Inan",
+      "Marcin Kardas",
+      "Viktor Kerkez",
+      "Madian Khabsa",
+      "Isabel Kloumann",
+      "Artem Korenev",
+      "Punit Singh Koura",
+      "Marie-Anne Lachaux",
+      "Thibaut Lavril",
+      "Jenya Lee",
+      "Diana Liskovich",
+      "Yinghai Lu",
+      "Yuning Mao",
+      "Xavier Martinet",
+      "Todor Mihaylov",
+      "Pushkar Mishra",
+      "Igor Molybog",
+      "Yixin Nie",
+      "Andrew Poulton",
+      "Jeremy Reizenstein",
+      "Rashi Rungta",
+      "Kalyan Saladi",
+      "Alan Schelten",
+      "Ruan Silva",
+      "Eric Michael Smith",
+      "Ranjan Subramanian",
+      "Xiaoqing Ellen Tan",
+      "Binh Tang",
+      "Ross Taylor",
+      "Adina Williams",
+      "Jian Xiang Kuan",
+      "Puxin Xu",
+      "Zheng Yan",
+      "Iliyan Zarov",
+      "Yuchen Zhang",
+      "Angela Fan",
+      "Melanie Kambadur",
+      "Sharan Narang",
+      "Aurelien Rodriguez",
+      "Robert Stojnic",
+      "Sergey Edunov",
+      "Thomas Scialom"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A Smith, Daniel Khashabi, and Hannaneh Hajishirzi. Self-instruct: Aligning language model with self generated instructions. arXiv preprint arXiv:2212.10560, 2022.",
+    "title": "Self-instruct: Aligning language model with self generated instructions",
+    "authors": [
+      "Yizhong Wang",
+      "Yeganeh Kordi",
+      "Swaroop Mishra",
+      "Alisa Liu",
+      "Noah A Smith",
+      "Daniel Khashabi",
+      "Hannaneh Hajishirzi"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2212.10560"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, Ziyan Jiang, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, and Wenhu Chen. Mmlu-pro: A more robust and challenging multi-task language understanding benchmark, 2024.",
+    "title": "Mmlu-pro: A more robust and challenging multi-task language understanding benchmark",
+    "authors": [
+      "Yubo Wang",
+      "Xueguang Ma",
+      "Ge Zhang",
+      "Yuansheng Ni",
+      "Abhranil Chandra",
+      "Shiguang Guo",
+      "Weiming Ren",
+      "Aaran Arulraj",
+      "Xuan He",
+      "Ziyan Jiang",
+      "Tianle Li",
+      "Max Ku",
+      "Kai Wang",
+      "Alex Zhuang",
+      "Rongqi Fan",
+      "Xiang Yue",
+      "Wenhu Chen"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Wenting Zhao, Xiang Ren, John Frederick Hessel, Claire Cardie, Yejin Choi, and Yuntian Deng. Wildchat: 1m chatgpt interaction logs in the wild. 2024. URL https://api.semanticscholar. org/CorpusID:269390491.",
+    "title": "Wildchat: 1m chatgpt interaction logs in the wild",
+    "authors": [
+      "Wenting Zhao",
+      "Xiang Ren",
+      "John Frederick Hessel",
+      "Claire Cardie",
+      "Yejin Choi",
+      "Yuntian Deng"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric Xing, et al. Judging llm-as-a-judge with mt-bench and chatbot arena. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Judging llm-as-a-judge with mt-bench and chatbot arena",
+    "authors": [
+      "Lianmin Zheng",
+      "Wei-Lin Chiang",
+      "Ying Sheng",
+      "Siyuan Zhuang",
+      "Zhanghao Wu",
+      "Yonghao Zhuang",
+      "Zi Lin",
+      "Zhuohan Li",
+      "Dacheng Li",
+      "Eric Xing"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

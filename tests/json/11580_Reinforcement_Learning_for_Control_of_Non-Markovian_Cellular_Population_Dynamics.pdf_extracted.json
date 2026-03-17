@@ -1,0 +1,928 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Murat Acar, Attila Becskei, and Alexander van Oudenaarden. Enhancement of cellular memory by reducing stochastic transitions. Nature, 435(7039):228-232, 2005.",
+    "title": "Enhancement of cellular memory by reducing stochastic transitions",
+    "authors": [
+      "Attila Murat Acar",
+      "Alexander Becskei",
+      "Van Oudenaarden"
+    ],
+    "venue": "Nature",
+    "year": 2005,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Jacob Adamczyk, Argenis Arriojas, Stas Tiomkin, and Rahul V Kulkarni. Utilizing prior solutions for reward shaping and composition in entropy-regularized reinforcement learning. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 37, pp. 6658-6665, 2023.",
+    "title": "Utilizing prior solutions for reward shaping and composition in entropy-regularized reinforcement learning",
+    "authors": [
+      "Jacob Adamczyk",
+      "Argenis Arriojas",
+      "Stas Tiomkin",
+      "Rahul V Kulkarni"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron C Courville, and Marc Bellemare. Reincarnating reinforcement learning: Reusing prior computation to accelerate progress. Advances in neural information processing systems, 35:28955-28971, 2022.",
+    "title": "Reincarnating reinforcement learning: Reusing prior computation to accelerate progress",
+    "authors": [
+      "Rishabh Agarwal",
+      "Max Schwarzer",
+      "Pablo Samuel Castro",
+      "Aaron C Courville",
+      "Marc Bellemare"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Sang Hee Ahn, EunSook Kim, Chankyu Kim, Wonjoong Cheon, Myeongsoo Kim, Se Byeong Lee, Young Kyung Lim, Haksoo Kim, Dongho Shin, Dae Yong Kim, et al. Deep learning method for prediction of patient-specific dose distribution in breast cancer. Radiation Oncology, 16:1-13, 2021.",
+    "title": "Deep learning method for prediction of patient-specific dose distribution in breast cancer",
+    "authors": [
+      "Sang Hee Ahn",
+      "Eunsook Kim",
+      "Chankyu Kim",
+      "Wonjoong Cheon",
+      "Myeongsoo Kim",
+      "Se Byeong Lee",
+      "Young",
+      "Kyung Lim",
+      "Haksoo Kim",
+      "Dongho Shin",
+      "Dae Yong Kim"
+    ],
+    "venue": "Radiation Oncology",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Ilge Akkaya, Marcin Andrychowicz, Maciek Chociej, Mateusz Litwin, Bob McGrew, Arthur Petron, Alex Paino, Matthias Plappert, Glenn Powell, Raphael Ribas, et al. Solving rubik's cube with a robot hand. arXiv preprint arXiv:1910.07113, 2019.",
+    "title": "Solving rubik's cube with a robot hand",
+    "authors": [
+      "Ilge Akkaya",
+      "Marcin Andrychowicz",
+      "Maciek Chociej",
+      "Mateusz Litwin",
+      "Bob Mcgrew",
+      "Arthur Petron",
+      "Alex Paino",
+      "Matthias Plappert",
+      "Glenn Powell",
+      "Raphael Ribas"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1910.07113"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Nathalie Q. Balaban, Jack Merrin, Remy Chait, Lukasz Kowalik, and Stanislas Leibler. Bacterial persistence as a phenotypic switch. Science, 305(5690):1622-1625, 9 2004. ISSN 00368075.",
+    "title": "Bacterial persistence as a phenotypic switch",
+    "authors": [
+      "Nathalie Q Balaban",
+      "Jack Merrin",
+      "Remy Chait",
+      "Lukasz Kowalik",
+      "Stanislas Leibler"
+    ],
+    "venue": "Science",
+    "year": 2004,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Shiladitya Banerjee, Klevin Lo, Nikola Ojkic, Roisin Stephens, Norbert F. Scherer, and Aaron R. Dinner. Mechanical feedback promotes bacterial adaptation to antibiotics. Nature Physics, 17(3): 403-409, 1 2021. ISSN 1745-2481.",
+    "title": "Mechanical feedback promotes bacterial adaptation to antibiotics",
+    "authors": [
+      "Shiladitya Banerjee",
+      "Klevin Lo",
+      "Nikola Ojkic",
+      "Roisin Stephens",
+      "Norbert F Scherer",
+      "Aaron R Dinner"
+    ],
+    "venue": "Nature Physics",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Jessica M.A. Blair, Mark A. Webber, Alison J. Baylay, David O. Ogbolu, and Laura J.V. Piddock. Molecular mechanisms of antibiotic resistance. Nature Reviews Microbiology, 13(1):42-51, 2015. ISSN 17401534.",
+    "title": "Molecular mechanisms of antibiotic resistance",
+    "authors": [
+      "M A Jessica",
+      "Mark A Blair",
+      "Alison J Webber",
+      "David O Baylay",
+      "Laura J V Ogbolu",
+      "Piddock"
+    ],
+    "venue": "Nature Reviews Microbiology",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Alessandra Bonfanti, Jonathan Louis Kaplan, Guillaume Charras, and Alexandre Kabla. Fractional viscoelastic models for power-law materials. Soft Matter, 16(26):6002-6020, 2020.",
+    "title": "Fractional viscoelastic models for power-law materials",
+    "authors": [
+      "Alessandra Bonfanti",
+      "Jonathan Louis Kaplan",
+      "Guillaume Charras",
+      "Alexandre Kabla"
+    ],
+    "venue": "Soft Matter",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Meghna Das Thakur, Fernando Salangsang, Allison S. Landman, William R. Sellers, Nancy K. Pryer, Mitchell P. Levesque, Reinhard Dummer, Martin McMahon, and Darrin D. Stuart. Modelling vemurafenib resistance in melanoma reveals a strategy to forestall drug resistance. Nature, 494(7436):251-255, 1 2013. ISSN 1476-4687.",
+    "title": "Modelling vemurafenib resistance in melanoma reveals a strategy to forestall drug resistance",
+    "authors": [
+      "Meghna Das Thakur",
+      "Fernando Salangsang",
+      "Allison S Landman",
+      "William R Sellers",
+      "Nancy K Pryer",
+      "Mitchell P Levesque",
+      "Reinhard Dummer",
+      "Martin Mcmahon",
+      "Darrin D Stuart"
+    ],
+    "venue": "Nature",
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Andrew J Dooley, Avinash Gupta, and Mark R Middleton. Ongoing Response in BRAF V600EMutant Melanoma After Cessation of Intermittent Vemurafenib Therapy: A Case Report. Targeted Oncology, 11:557-563, 2016.",
+    "title": "Ongoing Response in BRAF V600EMutant Melanoma After Cessation of Intermittent Vemurafenib Therapy: A Case Report",
+    "authors": [
+      "J Andrew",
+      "Avinash Dooley",
+      "Gupta",
+      "Mark R Middleton"
+    ],
+    "venue": "Targeted Oncology",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Dalit Engelhardt. Dynamic control of stochastic evolution: a deep reinforcement learning approach to adaptively targeting emergent drug resistance. Journal of Machine Learning Research, 21 (203):1-30, 2020.",
+    "title": "Dynamic control of stochastic evolution: a deep reinforcement learning approach to adaptively targeting emergent drug resistance",
+    "authors": [
+      "Dalit Engelhardt"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Matthias M Fischer and Nils Bluethgen. On minimising tumoural growth under treatment resistance. Journal of Theoretical Biology, 579:111716, 2024.",
+    "title": "On minimising tumoural growth under treatment resistance",
+    "authors": [
+      "M Matthias",
+      "Nils Fischer",
+      "Bluethgen"
+    ],
+    "venue": "Journal of Theoretical Biology",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Meire Fortunato, Mohammad Gheshlaghi Azar, Bilal Piot, Jacob Menick, Matteo Hessel, Ian Osband, Alex Graves, Volodymyr Mnih, Remi Munos, Demis Hassabis, Olivier Pietquin, Charles Blundell, and Shane Legg. Noisy networks for exploration. In International Conference on Learning Representations, 2018.",
+    "title": "Noisy networks for exploration",
+    "authors": [
+      "Meire Fortunato",
+      "Mohammad Gheshlaghi Azar",
+      "Bilal Piot",
+      "Jacob Menick",
+      "Matteo Hessel",
+      "Ian Osband",
+      "Alex Graves",
+      "Volodymyr Mnih",
+      "Remi Munos",
+      "Demis Hassabis",
+      "Olivier Pietquin",
+      "Charles Blundell",
+      "Shane Legg"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Kit Gallagher, Maximilian A.R. Strobl, Derek S. Park, Fabian C. Spoendlin, Robert A. Gatenby, Philip K. Maini, and Alexander R.A. Anderson. Mathematical Model-Driven Deep Learning Enables Personalized Adaptive Therapy. Cancer Research, 84(11):1929-1941, 2024. ISSN 15387445.",
+    "title": "Mathematical Model-Driven Deep Learning Enables Personalized Adaptive Therapy",
+    "authors": [
+      "Kit Gallagher",
+      "Maximilian A R Strobl",
+      "Derek S Park",
+      "Fabian C Spoendlin",
+      "Robert A Gatenby",
+      "Philip K Maini",
+      "Alexander R A Anderson"
+    ],
+    "venue": "Cancer Research",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Roberto Garrappa. Numerical solution of fractional differential equations: A survey and a software tutorial. Mathematics, 6(2):16, 2018.",
+    "title": "Numerical solution of fractional differential equations: A survey and a software tutorial",
+    "authors": [
+      "Roberto Garrappa"
+    ],
+    "venue": "Mathematics",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "M. I. Gomoyunov. On the Relationship Between the Pontryagin Maximum Principle and the Hamilton-Jacobi-Bellman Equation in Optimal Control Problems for Fractional-Order Systems. Differential Equations, 59(11):1520-1526, 2023. ISSN 16083083.",
+    "title": "On the Relationship Between the Pontryagin Maximum Principle and the Hamilton-Jacobi-Bellman Equation in Optimal Control Problems for Fractional-Order Systems",
+    "authors": [
+      "M I Gomoyunov"
+    ],
+    "venue": "Differential Equations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar, Henry Zhu, Abhishek Gupta, Pieter Abbeel, et al. Soft actor-critic algorithms and applications. arXiv preprint arXiv:1812.05905, 2018.",
+    "title": "Pieter Abbeel, et al. Soft actor-critic algorithms and applications",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Aurick Zhou",
+      "Kristian Hartikainen",
+      "George Tucker",
+      "Sehoon Ha",
+      "Jie Tan",
+      "Vikash Kumar",
+      "Henry Zhu",
+      "Abhishek Gupta"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1812.05905"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Tuomas Haarnoja, Ben Moran, Guy Lever, Sandy H Huang, Dhruva Tirumala, Jan Humplik, Markus Wulfmeier, Saran Tunyasuvunakool, Noah Y Siegel, Roland Hafner, et al. Learning agile soccer skills for a bipedal robot with deep reinforcement learning. Science Robotics, 9(89):eadi8022, 2024.",
+    "title": "Learning agile soccer skills for a bipedal robot with deep reinforcement learning",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Ben Moran",
+      "Guy Lever",
+      "Sandy H Huang",
+      "Dhruva Tirumala",
+      "Jan Humplik",
+      "Markus Wulfmeier",
+      "Saran Tunyasuvunakool",
+      "Noah Y Siegel",
+      "Roland Hafner"
+    ],
+    "venue": "Science Robotics",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Assaf Hallak, Dotan Di Castro, and Shie Mannor. Contextual markov decision processes. arXiv preprint arXiv:1502.02259, 2015.",
+    "title": "Contextual markov decision processes",
+    "authors": [
+      "Assaf Hallak",
+      "Dotan Di Castro",
+      "Shie Mannor"
+    ],
+    "year": 2015,
+    "identifiers": {
+      "arxiv_id": "arXiv:1502.02259"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Guillaume Harmange, Raúl A Reyes Hueros, Dylan L Schaff, Benjamin Emert, Michael SaintAntoine, Laura C Kim, Zijian Niu, Shivani Nellore, Mitchell E Fane, Gretchen M Alicea, Ashani T Weeraratna, M Celeste Simon, Abhyudai Singh, and Sydney M Shaffer. Disrupting cellular memory to overcome drug resistance. Nature Communications, 14, 2023.",
+    "title": "Disrupting cellular memory to overcome drug resistance",
+    "authors": [
+      "Guillaume Harmange",
+      "Raúl A Reyes Hueros",
+      "Dylan L Schaff",
+      "Benjamin Emert",
+      "Michael Saintantoine",
+      "Laura C Kim",
+      "Zijian Niu",
+      "Shivani Nellore",
+      "Gretchen M Mitchell E Fane",
+      "Ashani T Alicea",
+      "Celeste Weeraratna",
+      "Abhyudai Simon",
+      "Sydney M Singh",
+      "Shaffer"
+    ],
+    "venue": "Nature Communications",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Matteo Hessel, Joseph Modayil, Hado Van Hasselt, Tom Schaul, Georg Ostrovski, Will Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, and David Silver. Rainbow: Combining improvements in deep reinforcement learning. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 32, 2018.",
+    "title": "Rainbow: Combining improvements in deep reinforcement learning",
+    "authors": [
+      "Matteo Hessel",
+      "Joseph Modayil",
+      "Hado Van Hasselt",
+      "Tom Schaul",
+      "Georg Ostrovski",
+      "Will Dabney",
+      "Dan Horgan",
+      "Bilal Piot",
+      "Mohammad Azar",
+      "David Silver"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Moein Khalighi, Guilhem Sommeria-Klein, Didier Gonze, Karoline Faust, and Leo Lahti. Quantifying the impact of ecological memory on the dynamics of interacting communities. PLoS Computational Biology, 18(6):1-21, 2022. ISSN 15537358.",
+    "title": "Quantifying the impact of ecological memory on the dynamics of interacting communities",
+    "authors": [
+      "Moein Khalighi",
+      "Guilhem Sommeria-Klein",
+      "Didier Gonze",
+      "Karoline Faust",
+      "Leo Lahti"
+    ],
+    "venue": "PLoS Computational Biology",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Josiah C Kratz and Shiladitya Banerjee. Gene Expression Tradeoffs Determine Bacterial Survival and Adaptation to Antibiotic Stress. PRX Life, 2:1-15, 2024.",
+    "title": "Gene Expression Tradeoffs Determine Bacterial Survival and Adaptation to Antibiotic Stress",
+    "authors": [
+      "C Josiah",
+      "Shiladitya Kratz",
+      "Banerjee"
+    ],
+    "venue": "PRX Life",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Niraj Kumar, Gwendolyn M Cramer, Seyed Alireza Zamani Dahaj, Bala Sundaram, Jonathan P Celli, and Rahul V Kulkarni. Stochastic modeling of phenotypic switching and chemoresistance in cancer cell populations. Scientific reports, 9(1):10845, 2019.",
+    "title": "Stochastic modeling of phenotypic switching and chemoresistance in cancer cell populations",
+    "authors": [
+      "Niraj Kumar",
+      "Gwendolyn M Cramer",
+      "Seyed Alireza",
+      "Zamani Dahaj",
+      "Bala Sundaram",
+      "Jonathan P Celli",
+      "Rahul V Kulkarni"
+    ],
+    "venue": "Scientific reports",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Ajay Larkin, Colin Kunze, Melissa Seman, Alexander Levashkevich, Justin Curran, Dionysus Morris-Evans, Sophia Lemieux, Ahmad S Khalil, and Kaushik Ragunathan. Mapping the dynamics of epigenetic adaptation in s. pombe during heterochromatin misregulation. Developmental cell, 59(16):2222-2238, 2024.",
+    "title": "Mapping the dynamics of epigenetic adaptation in s. pombe during heterochromatin misregulation",
+    "authors": [
+      "Ajay Larkin",
+      "Colin Kunze",
+      "Melissa Seman",
+      "Alexander Levashkevich",
+      "Justin Curran",
+      "Dionysus Morris-Evans",
+      "Sophia Lemieux",
+      "Ahmad S Khalil",
+      "Kaushik Ragunathan"
+    ],
+    "venue": "Developmental cell",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. Offline reinforcement learning: Tutorial, review, and perspectives on open problems. arXiv preprint arXiv:2005.01643, 2020.",
+    "title": "Offline reinforcement learning: Tutorial, review, and perspectives on open problems",
+    "authors": [
+      "Sergey Levine",
+      "Aviral Kumar",
+      "George Tucker",
+      "Justin Fu"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2005.01643"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Brian N. Lundstrom, Matthew H. Higgs, William J. Spain, and Adrienne L. Fairhall. Fractional differentiation by neocortical pyramidal neurons. Nature Neuroscience, 11(11):1335-1342, 2008. ISSN 15461726.",
+    "title": "Fractional differentiation by neocortical pyramidal neurons",
+    "authors": [
+      "Brian N Lundstrom",
+      "Matthew H Higgs",
+      "William J Spain",
+      "Adrienne L Fairhall"
+    ],
+    "venue": "Nature Neuroscience",
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Roland Mathis and Martin Ackermann. Asymmetric cellular memory in bacteria exposed to antibiotics. BMC Evolutionary Biology, 17(1):1-14, 2017. ISSN 14712148.",
+    "title": "Asymmetric cellular memory in bacteria exposed to antibiotics",
+    "authors": [
+      "Roland Mathis",
+      "Martin Ackermann"
+    ],
+    "venue": "BMC Evolutionary Biology",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Riccardo Miotto, Li Li, Brian A Kidd, and Joel T Dudley. Deep patient: an unsupervised representation to predict the future of patients from the electronic health records. Scientific reports, 6(1): 1-10, 2016.",
+    "title": "Deep patient: an unsupervised representation to predict the future of patients from the electronic health records",
+    "authors": [
+      "Riccardo Miotto",
+      "Li Li",
+      "Brian A Kidd",
+      "Joel T Dudley"
+    ],
+    "venue": "Scientific reports",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A Rusu, Joel Veness, Marc G Bellemare, Alex Graves, Martin Riedmiller, Andreas K Fidjeland, Georg Ostrovski, et al. Human-level control through deep reinforcement learning. Nature, 518(7540):529-533, 2015.",
+    "title": "Human-level control through deep reinforcement learning",
+    "authors": [
+      "Volodymyr Mnih",
+      "Koray Kavukcuoglu",
+      "David Silver",
+      "Andrei A Rusu",
+      "Joel Veness",
+      "Marc G Bellemare",
+      "Alex Graves",
+      "Martin Riedmiller",
+      "Andreas K Fidjeland",
+      "Georg Ostrovski"
+    ],
+    "venue": "Nature",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Gatien Moriceau, Willy Hugo, Aayoung Hong, Hubing Shi, Xiangju Kong, Clarissa C. Yu, Richard C. Koya, Ahmed A. Samatar, Negar Khanlou, Jonathan Braun, Kathleen Ruchalski, Heike Seifert, James Larkin, Kimberly B. Dahlman, Douglas B. Johnson, Alain Algazi, Jeffrey A. Sosman, Antoni Ribas, and Roger S. Lo. Tunable-Combinatorial Mechanisms of Acquired Resistance Limit the Efficacy of BRAF/MEK Cotargeting but Result in Melanoma Drug Addiction. Cancer Cell, 27(2):240-256, 2 2015. ISSN 1535-6108.",
+    "title": "Tunable-Combinatorial Mechanisms of Acquired Resistance Limit the Efficacy of BRAF/MEK Cotargeting but Result in Melanoma Drug Addiction",
+    "authors": [
+      "Gatien Moriceau",
+      "Willy Hugo",
+      "Aayoung Hong",
+      "Hubing Shi",
+      "Xiangju Kong",
+      "Clarissa C Yu",
+      "Richard C Koya",
+      "Ahmed A Samatar",
+      "Negar Khanlou",
+      "Jonathan Braun",
+      "Kathleen Ruchalski",
+      "Heike Seifert",
+      "James Larkin",
+      "Kimberly B Dahlman",
+      "Douglas B Johnson",
+      "Alain Algazi",
+      "Jeffrey A Sosman",
+      "Antoni Ribas",
+      "Roger S Lo"
+    ],
+    "venue": "Cancer Cell",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Andrew Y Ng, Daishi Harada, and Stuart Russell. Policy invariance under reward transformations: Theory and application to reward shaping. In International Conference on Machine Learning, volume 99, pp. 278-287, 1999.",
+    "title": "Policy invariance under reward transformations: Theory and application to reward shaping",
+    "authors": [
+      "Daishi Andrew Y Ng",
+      "Stuart Harada",
+      "Russell"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 1999,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Regina Padmanabhan, Nader Meskin, and Wassim M Haddad. Reinforcement learning-based control of drug dosing for cancer chemotherapy treatment. Mathematical biosciences, 293:11-20, 2017.",
+    "title": "Reinforcement learning-based control of drug dosing for cancer chemotherapy treatment",
+    "authors": [
+      "Regina Padmanabhan",
+      "Nader Meskin",
+      "Wassim M Haddad"
+    ],
+    "venue": "Mathematical biosciences",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Antonin Raffin, Ashley Hill, Adam Gleave, Anssi Kanervisto, Maximilian Ernestus, and Noah Dormann. Stable-baselines3: Reliable reinforcement learning implementations. Journal of Machine Learning Research, 22(268):1-8, 2021.",
+    "title": "Stable-baselines3: Reliable reinforcement learning implementations",
+    "authors": [
+      "Antonin Raffin",
+      "Ashley Hill",
+      "Adam Gleave",
+      "Anssi Kanervisto",
+      "Maximilian Ernestus",
+      "Noah Dormann"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Leonie Ringrose and Renato Paro. Epigenetic regulation of cellular memory by the polycomb and trithorax group proteins. Annual Review of Genetics, 38:412-443, 2004.",
+    "title": "Epigenetic regulation of cellular memory by the polycomb and trithorax group proteins",
+    "authors": [
+      "Leonie Ringrose",
+      "Renato Paro"
+    ],
+    "venue": "Annual Review of Genetics",
+    "year": 2004,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347, 2017.",
+    "title": "Proximal policy optimization algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1707.06347"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Heike Seifert, Rosalie Fisher, Juan Martin-Liberal, Kim Edmonds, Peta Hughes, Komel Khabra, Martin Gore, and James Larkin. Prognostic markers and tumour growth kinetics in melanoma patients progressing on vemurafenib. Melanoma Research, 26(2):138 -144, 2016.",
+    "title": "Prognostic markers and tumour growth kinetics in melanoma patients progressing on vemurafenib",
+    "authors": [
+      "Heike Seifert",
+      "Rosalie Fisher",
+      "Juan Martin-Liberal",
+      "Kim Edmonds",
+      "Peta Hughes",
+      "Komel Khabra",
+      "Martin Gore",
+      "James Larkin"
+    ],
+    "venue": "Melanoma Research",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Sydney M. Shaffer, Benjamin L. Emert, Raúl A. Reyes Hueros, Christopher Cote, Guillaume Harmange, Dylan L. Schaff, Ann E. Sizemore, Rohit Gupte, Eduardo Torre, Abhyudai Singh, Danielle S. Bassett, and Arjun Raj. Memory Sequencing Reveals Heritable Single-Cell Gene Expression Programs Associated with Distinct Cellular Behaviors. Cell, 182(4):947-959, 2020. ISSN 10974172.",
+    "authors": [
+      "Sydney M. Shaffer",
+      "Benjamin L. Emert",
+      "Raúl A. Reyes Hueros",
+      "Christopher Cote",
+      "Guillaume Harmange",
+      "Dylan L. Schaff",
+      "Ann E. Sizemore",
+      "Rohit Gupte",
+      "Eduardo Torre",
+      "Abhyudai Singh",
+      "Danielle S. Bassett",
+      "Arjun Raj"
+    ],
+    "venue": "Cell, 182(4):947-959",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Shagun Sodhani, Franziska Meier, Joelle Pineau, and Amy Zhang. Block contextual mdps for continual learning. In Learning for Dynamics and Control Conference, pp. 608-623. PMLR, 2022.",
+    "title": "Block contextual mdps for continual learning",
+    "authors": [
+      "Shagun Sodhani",
+      "Franziska Meier",
+      "Joelle Pineau",
+      "Amy Zhang"
+    ],
+    "venue": "Learning for Dynamics and Control Conference",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Kenichi Suda, Kenji Tomizawa, Hirotaka Osada, Yoshihiko Maehara, Yasushi Yatabe, Yoshitaka Sekido, and Tetsuya Mitsudomi. Conversion from the \"oncogene addiction\" to \"drug addiction\" by intensive inhibition of the egfr and met in lung cancer with activating egfr mutation. Lung Cancer, 76(3):292-299, 2012. ISSN 0169-5002.",
+    "title": "Conversion from the \"oncogene addiction\" to \"drug addiction\" by intensive inhibition of the egfr and met in lung cancer with activating egfr mutation",
+    "authors": [
+      "Kenichi Suda",
+      "Kenji Tomizawa",
+      "Hirotaka Osada",
+      "Yoshihiko Maehara",
+      "Yasushi Yatabe",
+      "Yoshitaka Sekido",
+      "Tetsuya Mitsudomi"
+    ],
+    "venue": "Lung Cancer",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Chong Sun, Liqin Wang, Sidong Huang, Guus J.J.E. Heynen, Anirudh Prahallad, Caroline Robert, John Haanen, Christian Blank, Jelle Wesseling, Stefan M. Willems, Davide Zecchin, Sebastijan Hobor, Prashanth K. Bajpe, Cor Lieftink, Christina Mateus, Stephan Vagner, Wipawadee Grernrum, Ingrid Hofland, Andreas Schlicker, Lodewyk F.A. Wessels, Roderick L. Beijersbergen, Alberto Bardelli, Federica Di Nicolantonio, Alexander M.M. Eggermont, and Rene Bernards. Reversible and adaptive resistance to BRAF(V600E) inhibition in melanoma. Nature, 508(7494): 118-122, 3 2014. ISSN 1476-4687.",
+    "title": "Reversible and adaptive resistance to BRAF(V600E) inhibition in melanoma",
+    "authors": [
+      "Chong Sun",
+      "Liqin Wang",
+      "Sidong Huang",
+      "J J E Guus",
+      "Anirudh Heynen",
+      "Caroline Prahallad",
+      "John Robert",
+      "Christian Haanen",
+      "Jelle Blank",
+      "Stefan M Wesseling",
+      "Davide Willems",
+      "Sebastijan Zecchin",
+      "Hobor",
+      "K Prashanth",
+      "Cor Bajpe",
+      "Christina Lieftink",
+      "Stephan Mateus",
+      "Wipawadee Vagner",
+      "Ingrid Grernrum",
+      "Andreas Hofland",
+      "Schlicker",
+      "F A Lodewyk",
+      "Roderick L Wessels",
+      "Alberto Beijersbergen",
+      "Federica Bardelli",
+      "Di Nicolantonio",
+      "M M Alexander",
+      "Rene Eggermont",
+      "Bernards"
+    ],
+    "venue": "Nature",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Richard S Sutton and Andrew G Barto. Reinforcement learning: An introduction. MIT press, 2018.",
+    "title": "Reinforcement learning: An introduction",
+    "authors": [
+      "S Richard",
+      "Andrew G Sutton",
+      "Barto"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, and Pieter Abbeel. Domain randomization for transferring deep neural networks from simulation to the real world. In 2017 IEEE/RSJ international conference on intelligent robots and systems (IROS), pp. 23-30. IEEE, 2017.",
+    "title": "Domain randomization for transferring deep neural networks from simulation to the real world",
+    "authors": [
+      "Josh Tobin",
+      "Rachel Fong",
+      "Alex Ray",
+      "Jonas Schneider",
+      "Wojciech Zaremba",
+      "Pieter Abbeel"
+    ],
+    "venue": "2017 IEEE/RSJ international conference on intelligent robots and systems (IROS)",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Ikechukwu Uchendu, Ted Xiao, Yao Lu, Banghua Zhu, Mengyuan Yan, Joséphine Simon, Matthew Bennice, Chuyuan Fu, Cong Ma, Jiantao Jiao, Sergey Levine, and Karol Hausman. Jump-start reinforcement learning. In Proceedings of the 40th International Conference on Machine Learning, volume 202 of Proceedings of Machine Learning Research, pp. 34556-34583. PMLR, 23-29 Jul 2023.",
+    "title": "Jump-start reinforcement learning",
+    "authors": [
+      "Ikechukwu Uchendu",
+      "Ted Xiao",
+      "Yao Lu",
+      "Banghua Zhu",
+      "Mengyuan Yan",
+      "Joséphine Simon",
+      "Matthew Bennice",
+      "Chuyuan Fu",
+      "Cong Ma",
+      "Jiantao Jiao",
+      "Sergey Levine",
+      "Karol Hausman"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Hado Van Hasselt, Arthur Guez, and David Silver. Deep reinforcement learning with double qlearning. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 30, 2016.",
+    "title": "Deep reinforcement learning with double qlearning",
+    "authors": [
+      "Hado Van Hasselt",
+      "Arthur Guez",
+      "David Silver"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Neil Vasan, José Baselga, and David M. Hyman. A view on drug resistance in cancer. Nature, 575 (7782):299-309, 2019. ISSN 14764687.",
+    "title": "A view on drug resistance in cancer",
+    "authors": [
+      "Neil Vasan",
+      "José Baselga",
+      "David M Hyman"
+    ],
+    "venue": "Nature",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Eric Wiewiora. Potential-based shaping and Q-value initialization are equivalent. Journal of Artificial Intelligence Research, 19:205-208, 2003.",
+    "title": "Potential-based shaping and Q-value initialization are equivalent",
+    "authors": [
+      "Eric Wiewiora"
+    ],
+    "venue": "Journal of Artificial Intelligence Research",
+    "year": 2003,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Christopher Witzany, Jens Rolff, Roland Regoes, and Claudia Igler. The pharmacokineticpharmacodynamic modeling framework as a tool to predict drug resistance evolution. Microbiology, pp. 1-37, 2023.",
+    "title": "The pharmacokineticpharmacodynamic modeling framework as a tool to predict drug resistance evolution",
+    "authors": [
+      "Christopher Witzany",
+      "Jens Rolff",
+      "Roland Regoes",
+      "Claudia Igler"
+    ],
+    "venue": "Microbiology",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Denise M. Wolf, Lisa Fontaine-Bodin, Ilka Bischofs, Gavin Price, Jay Keasling, and Adam P. Arkin. Memory in microbes: Quantifying history-dependent behavior in a bacterium. PLoS ONE, 3(2), 2008. ISSN 19326203.",
+    "title": "Memory in microbes: Quantifying history-dependent behavior in a bacterium",
+    "authors": [
+      "Denise M Wolf",
+      "Lisa Fontaine-Bodin",
+      "Ilka Bischofs",
+      "Gavin Price",
+      "Jay Keasling",
+      "Adam P Arkin"
+    ],
+    "venue": "PLoS ONE",
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

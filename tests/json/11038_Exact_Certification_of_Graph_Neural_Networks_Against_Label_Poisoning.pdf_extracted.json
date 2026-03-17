@@ -1,0 +1,850 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Lada A Adamic and Natalie Glance. The political blogosphere and the 2004 us election: divided they blog. In Proceedings of the 3rd international workshop on Link discovery, 2005.",
+    "title": "The political blogosphere and the 2004 us election: divided they blog",
+    "authors": [
+      "A Lada",
+      "Natalie Adamic",
+      "Glance"
+    ],
+    "venue": "Proceedings of the 3rd international workshop on Link discovery",
+    "year": 2005,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Sanjeev Arora, Simon S Du, Wei Hu, Zhiyuan Li, Russ R Salakhutdinov, and Ruosong Wang. On exact computation with an infinitely wide neural net. Advances in Neural Information Processing Systems (NeurIPS), 2019.",
+    "title": "On exact computation with an infinitely wide neural net",
+    "authors": [
+      "Sanjeev Arora",
+      "Simon S Du",
+      "Wei Hu",
+      "Zhiyuan Li",
+      "Russ R Salakhutdinov",
+      "Ruosong Wang"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Battista Biggio, Blaine Nelson, and Pavel Laskov. Support vector machines under adversarial label noise. In Proceedings of the Asian Conference on Machine Learning. PMLR, 2011.",
+    "title": "Support vector machines under adversarial label noise",
+    "authors": [
+      "Battista Biggio",
+      "Blaine Nelson",
+      "Pavel Laskov"
+    ],
+    "venue": "Proceedings of the Asian Conference on Machine Learning",
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Battista Biggio, Blaine Nelson, and Pavel Laskov. Poisoning attacks against support vector machines. In International Conference on Machine Learning (ICML), 2012.",
+    "title": "Poisoning attacks against support vector machines",
+    "authors": [
+      "Battista Biggio",
+      "Blaine Nelson",
+      "Pavel Laskov"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Aleksandar Bojchevski and Stephan Günnemann. Deep gaussian embedding of graphs: Unsupervised inductive learning via ranking. In International Conference on Learning Representations, 2018.",
+    "title": "Deep gaussian embedding of graphs: Unsupervised inductive learning via ranking",
+    "authors": [
+      "Aleksandar Bojchevski",
+      "Stephan Günnemann"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "N. Carlini, M. Jagielski, C. A. Choquette-Choo, D. Paleka, W. Pearce, H. Anderson, A. Terzis, K. Thomas, and F. Tramer. Poisoning web-scale training datasets is practical. In 2024 IEEE Symposium on Security and Privacy (SP), 2024.",
+    "title": "Poisoning web-scale training datasets is practical",
+    "authors": [
+      "N Carlini",
+      "M Jagielski",
+      "C A Choquette-Choo",
+      "D Paleka",
+      "W Pearce",
+      "H Anderson",
+      "A Terzis",
+      "K Thomas",
+      "F Tramer"
+    ],
+    "venue": "2024 IEEE Symposium on Security and Privacy (SP)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Ming Chen, Zhewei Wei, Zengfeng Huang, Bolin Ding, and Yaliang Li. Simple and deep graph convolutional networks. In International Conference on Machine Learning (ICML), 2020.",
+    "title": "Simple and deep graph convolutional networks",
+    "authors": [
+      "Ming Chen",
+      "Zhewei Wei",
+      "Zengfeng Huang",
+      "Bolin Ding",
+      "Yaliang Li"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Yilan Chen, Wei Huang, Lam Nguyen, and Tsui-Wei Weng. On the equivalence between neural network and support vector machine. Advances in Neural Information Processing Systems (NeurIPS), 2021.",
+    "title": "On the equivalence between neural network and support vector machine",
+    "authors": [
+      "Yilan Chen",
+      "Wei Huang",
+      "Lam Nguyen",
+      "Tsui-Wei Weng"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Antonio Emanuele Cinà, Kathrin Grosse, Ambra Demontis, Battista Biggio, Fabio Roli, and Marcello Pelillo. Machine learning security against data poisoning: Are we there yet? Computer, 2024.",
+    "title": "Machine learning security against data poisoning: Are we there yet?",
+    "authors": [
+      "Antonio Emanuele",
+      "Cinà",
+      "Kathrin Grosse",
+      "Ambra Demontis",
+      "Battista Biggio",
+      "Fabio Roli",
+      "Marcello Pelillo"
+    ],
+    "venue": "Computer",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "S. Dempe and J. Dutta. Is bilevel programming a special case of a mathematical program with complementarity constraints? Mathematical Programming, 2012.",
+    "title": "Is bilevel programming a special case of a mathematical program with complementarity constraints?",
+    "authors": [
+      "S Dempe",
+      "J Dutta"
+    ],
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Yash Deshpande, Subhabrata Sen, Andrea Montanari, and Elchanan Mossel. Contextual stochastic block models. Advances in Neural Information Processing Systems (NeurIPS), 31, 2018.",
+    "title": "Contextual stochastic block models",
+    "authors": [
+      "Yash Deshpande",
+      "Subhabrata Sen",
+      "Andrea Montanari",
+      "Elchanan Mossel"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Johannes Gasteiger, Aleksandar Bojchevski, and Stephan Günnemann. Predict then propagate: Graph neural networks meet personalized pagerank. In International Conference on Learning Representations (ICLR), 2019.",
+    "title": "Predict then propagate: Graph neural networks meet personalized pagerank",
+    "authors": [
+      "Johannes Gasteiger",
+      "Aleksandar Bojchevski",
+      "Stephan Günnemann"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "C Lee Giles, Kurt D Bollacker, and Steve Lawrence. Citeseer: An automatic citation indexing system. In Proceedings of the third ACM conference on Digital libraries, 1998.",
+    "title": "Citeseer: An automatic citation indexing system",
+    "authors": [
+      "Lee Giles",
+      "Kurt D Bollacker",
+      "Steve Lawrence"
+    ],
+    "venue": "Proceedings of the third ACM conference on Digital libraries",
+    "year": 1998,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "M. Goldblum, D. Tsipras, C. Xie, X. Chen, A. Schwarzschild, D. Song, A. Madry, B. Li, and T. Goldstein. Dataset security for machine learning: Data poisoning, backdoor attacks, and defenses. IEEE Transactions on Pattern Analysis & Machine Intelligence, 2023.",
+    "title": "Dataset security for machine learning: Data poisoning, backdoor attacks, and defenses",
+    "authors": [
+      "M Goldblum",
+      "D Tsipras",
+      "C Xie",
+      "X Chen",
+      "A Schwarzschild",
+      "D Song",
+      "A Madry",
+      "B Li",
+      "T Goldstein"
+    ],
+    "venue": "IEEE Transactions on Pattern Analysis & Machine Intelligence",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Lukas Gosch, Daniel Sturm, Simon Geisler, and Stephan Günnemann. Revisiting robustness in graph machine learning. In International Conference on Learning Representations (ICLR), 2023.",
+    "title": "Revisiting robustness in graph machine learning",
+    "authors": [
+      "Lukas Gosch",
+      "Daniel Sturm",
+      "Simon Geisler",
+      "Stephan Günnemann"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Lukas Gosch, Mahalakshmi Sabanayagam, Debarghya Ghoshdastidar, and Stephan Günnemann. Provable robustness of (graph) neural networks against data poisoning and backdoor attacks. arXiv preprint arXiv:2407.10867, 2024.",
+    "title": "Provable robustness of (graph) neural networks against data poisoning and backdoor attacks",
+    "authors": [
+      "Lukas Gosch",
+      "Mahalakshmi Sabanayagam",
+      "Debarghya Ghoshdastidar",
+      "Stephan Günnemann"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2407.10867"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Kathrin Grosse, Lukas Bieringer, Tarek R. Besold, Battista Biggio, and Katharina Krombholz. Machine learning security in industry: A quantitative survey. IEEE Transactions on Information Forensics and Security, 18:1749-1762, 2023.",
+    "title": "Machine learning security in industry: A quantitative survey",
+    "authors": [
+      "Kathrin Grosse",
+      "Lukas Bieringer",
+      "R Tarek",
+      "Battista Besold",
+      "Katharina Biggio",
+      "Krombholz"
+    ],
+    "venue": "IEEE Transactions on Information Forensics and Security",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Gurobi Optimization, LLC. Gurobi Optimizer Reference Manual, 2023.",
+    "title": "Gurobi Optimization, LLC. Gurobi Optimizer Reference Manual",
+    "authors": [],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Will Hamilton, Zhitao Ying, and Jure Leskovec. Inductive representation learning on large graphs. Advances in neural information processing systems (NeurIPS), 2017.",
+    "title": "Inductive representation learning on large graphs",
+    "authors": [
+      "Will Hamilton",
+      "Zhitao Ying",
+      "Jure Leskovec"
+    ],
+    "venue": "Advances in neural information processing systems (NeurIPS)",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Christopher Hojny, Shiqiang Zhang, Juan S. Campos, and Ruth Misener. Verifying message-passing neural networks via topology-based bounds tightening. In Proceedings of the 41st International Conference On Machine Learning, Vienna, Austria, PMLR 235, 2024.",
+    "title": "Verifying message-passing neural networks via topology-based bounds tightening",
+    "authors": [
+      "Christopher Hojny",
+      "Shiqiang Zhang",
+      "Juan S Campos",
+      "Ruth Misener"
+    ],
+    "venue": "Proceedings of the 41st International Conference On Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Arthur Jacot, Franck Gabriel, and Clément Hongler. Neural tangent kernel: Convergence and generalization in neural networks. Advances in Neural Information Processing Systems (NeurIPS), 2018.",
+    "title": "Neural tangent kernel: Convergence and generalization in neural networks",
+    "authors": [
+      "Arthur Jacot",
+      "Franck Gabriel",
+      "Clément Hongler"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Rishi Dev Jha, Jonathan Hayase, and Sewoong Oh. Label poisoning is all you need. In Thirtyseventh Conference on Neural Information Processing Systems (NeurIPS), 2023.",
+    "title": "Label poisoning is all you need",
+    "authors": [
+      "Rishi Dev",
+      "Jha",
+      "Jonathan Hayase",
+      "Sewoong Oh"
+    ],
+    "venue": "Thirtyseventh Conference on Neural Information Processing Systems (NeurIPS)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Guy Katz, Clark W. Barrett, David L. Dill, Kyle D. Julian, and Mykel J. Kochenderfer. Reluplex: An efficient smt solver for verifying deep neural networks. International Conference on Computer Aided Verification, 2017.",
+    "title": "Reluplex: An efficient smt solver for verifying deep neural networks",
+    "authors": [
+      "Guy Katz",
+      "Clark W Barrett",
+      "David L Dill",
+      "Kyle D Julian",
+      "Mykel J Kochenderfer"
+    ],
+    "venue": "International Conference on Computer Aided Verification",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, and Pascal Poupart. Representation learning for dynamic graphs: A survey. Journal of Machine Learning Research (JMLR), 2020.",
+    "title": "Representation learning for dynamic graphs: A survey",
+    "authors": [
+      "Rishab Seyed Mehran Kazemi",
+      "Kshitij Goel",
+      "Ivan Jain",
+      "Akshay Kobyzev",
+      "Peter Sethi",
+      "Pascal Forsyth",
+      "Poupart"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Thomas N. Kipf and Max Welling. Semi-supervised classification with graph convolutional networks. In International Conference on Learning Representations (ICLR), 2017.",
+    "title": "Semi-supervised classification with graph convolutional networks",
+    "authors": [
+      "Thomas N Kipf",
+      "Max Welling"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Thomas Kleinert, Martin Labbé, Fränk Plein, and Martin Schmidt. There's no free lunch: On the hardness of choosing a correct big-m in bilevel optimization. Operations Research, 68 (6):17161721, 2020. doi: https://doi.org/10.1287/opre.2019.1944.",
+    "title": "There's no free lunch: On the hardness of choosing a correct big-m in bilevel optimization",
+    "authors": [
+      "Thomas Kleinert",
+      "Martin Labbé",
+      "Fränk Plein",
+      "Martin Schmidt"
+    ],
+    "venue": "Operations Research",
+    "year": 2020,
+    "identifiers": {
+      "doi": "10.1287/opre.2019.1944",
+      "arxiv_id": "2019.1944",
+      "url": "https://doi.org/10.1287/opre.2019.1944"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Pang Wei Koh, Jacob Steinhardt, and Percy Liang. Stronger data poisoning attacks break data sanitization defenses. Machine Learning, 2022.",
+    "title": "Stronger data poisoning attacks break data sanitization defenses",
+    "authors": [
+      "Pang Wei Koh",
+      "Jacob Steinhardt",
+      "Percy Liang"
+    ],
+    "venue": "Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Ram Shankar Siva Kumar, Magnus Nyström, John Lambert, Andrew Marshall, Mario Goertzel, Andi Comissoneru, Matt Swann, and Sharon Xia. Adversarial machine learning-industry perspectives. In 2020 IEEE security and privacy workshops (SPW). IEEE, 2020.",
+    "title": "Adversarial machine learning-industry perspectives",
+    "authors": [
+      "Ram Shankar",
+      "Siva Kumar",
+      "Magnus Nyström",
+      "John Lambert",
+      "Andrew Marshall",
+      "Mario Goertzel",
+      "Andi Comissoneru",
+      "Matt Swann",
+      "Sharon Xia"
+    ],
+    "venue": "2020 IEEE security and privacy workshops (SPW)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Yuni Lai, Yulin Zhu, Bailin Pan, and Kai Zhou. Node-aware bi-smoothing: Certified robustness against graph injection attacks. In IEEE Symposium on Security and Privacy (SP), 2024.",
+    "title": "Node-aware bi-smoothing: Certified robustness against graph injection attacks",
+    "authors": [
+      "Yuni Lai",
+      "Yulin Zhu",
+      "Bailin Pan",
+      "Kai Zhou"
+    ],
+    "venue": "IEEE Symposium on Security and Privacy (SP)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Alexander Levine and Soheil Feizi. Deep partition aggregation: Provable defenses against general poisoning attacks. In International Conference on Learning Representations (ICLR), 2021.",
+    "title": "Deep partition aggregation: Provable defenses against general poisoning attacks",
+    "authors": [
+      "Alexander Levine",
+      "Soheil Feizi"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Linyi Li, Tao Xie, and Bo Li. Sok: Certified robustness for deep neural networks. In IEEE Symposium on Security and Privacy (IEEE S&P), 2023.",
+    "title": "Sok: Certified robustness for deep neural networks",
+    "authors": [
+      "Linyi Li",
+      "Tao Xie",
+      "Bo Li"
+    ],
+    "venue": "IEEE Symposium on Security and Privacy",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Vijay Lingam, Mohammad Sadegh Akhondzadeh, and Aleksandar Bojchevski. Rethinking label poisoning for GNNs: Pitfalls and attacks. In International Conference on Learning Representations (ICLR), 2024.",
+    "title": "Rethinking label poisoning for GNNs: Pitfalls and attacks",
+    "authors": [
+      "Vijay Lingam",
+      "Mohammad Sadegh Akhondzadeh",
+      "Aleksandar Bojchevski"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Chaoyue Liu, Libin Zhu, and Misha Belkin. On the linearity of large non-linear models: when and why the tangent kernel is constant. Advances in Neural Information Processing Systems (NeurIPS), 2020.",
+    "title": "On the linearity of large non-linear models: when and why the tangent kernel is constant",
+    "authors": [
+      "Chaoyue Liu",
+      "Libin Zhu",
+      "Misha Belkin"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Xuanqing Liu, Si Si, Xiaojin Zhu, Yang Li, and Cho-Jui Hsieh. A unified framework for data poisoning attack to graph-based semi-supervised learning. Conference on Neural Information Processing Systems (NeurIPS), 2019.",
+    "title": "A unified framework for data poisoning attack to graph-based semi-supervised learning",
+    "authors": [
+      "Xuanqing Liu",
+      "Si Si",
+      "Xiaojin Zhu",
+      "Yang Li",
+      "Cho-Jui Hsieh"
+    ],
+    "venue": "Conference on Neural Information Processing Systems (NeurIPS)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Yuzhe Ma, Xiaojin Zhu, and Justin Hsu. Data poisoning against differentially-private learners: Attacks and defenses. In International Joint Conference on Artificial Intelligence (IJCAI), 2019.",
+    "title": "Data poisoning against differentially-private learners: Attacks and defenses",
+    "authors": [
+      "Yuzhe Ma",
+      "Xiaojin Zhu",
+      "Justin Hsu"
+    ],
+    "venue": "International Joint Conference on Artificial Intelligence (IJCAI)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Andrew Kachites McCallum, Kamal Nigam, Jason Rennie, and Kristie Seymore. Automating the construction of internet portals with machine learning. Information Retrieval, 2000.",
+    "title": "Automating the construction of internet portals with machine learning",
+    "authors": [
+      "Andrew Kachites Mccallum",
+      "Kamal Nigam",
+      "Jason Rennie",
+      "Kristie Seymore"
+    ],
+    "venue": "Information Retrieval",
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Shike Mei and Xiaojin Zhu. Using machine teaching to identify optimal training-set attacks on machine learners. In Association for the Advancement of Artificial Intelligence (AAAI), 2015.",
+    "title": "Using machine teaching to identify optimal training-set attacks on machine learners",
+    "authors": [
+      "Shike Mei",
+      "Xiaojin Zhu"
+    ],
+    "venue": "Association for the Advancement of Artificial Intelligence (AAAI)",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Péter Mernyei and Cȃtȃlina Cangea. Wiki-cs: A wikipedia-based benchmark for graph neural networks. Graph Representations and Beyond Workshop @ ICML, 2020.",
+    "title": "Wiki-cs: A wikipedia-based benchmark for graph neural networks",
+    "authors": [
+      "Péter Mernyei",
+      "Cȃtȃlina Cangea"
+    ],
+    "venue": "Graph Representations and Beyond Workshop @ ICML",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Luis Muñoz-González, Battista Biggio, Ambra Demontis, Andrea Paudice, Vasin Wongrassamee, Emil C Lupu, and Fabio Roli. Towards poisoning of deep learning algorithms with back-gradient optimization. In Proceedings of the 10th ACM workshop on artificial intelligence and security, 2017.",
+    "title": "Towards poisoning of deep learning algorithms with back-gradient optimization",
+    "authors": [
+      "Luis Muñoz-González",
+      "Battista Biggio",
+      "Ambra Demontis",
+      "Andrea Paudice",
+      "Vasin Wongrassamee",
+      "Emil C Lupu",
+      "Fabio Roli"
+    ],
+    "venue": "Proceedings of the 10th ACM workshop on artificial intelligence and security",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Andrea Paudice, Luis Muñoz-González, and Emil C Lupu. Label sanitization against label flipping poisoning attacks. In ECML PKDD 2018 Workshops: Nemesis 2018, UrbReas 2018, SoGood 2018, IWAISe 2018, and Green Data Mining 2018, Dublin, Ireland, September 10-14, 2018, Proceedings 18, 2019.",
+    "title": "Label sanitization against label flipping poisoning attacks",
+    "authors": [
+      "Andrea Paudice",
+      "Luis Muñoz-González",
+      "Emil C Lupu"
+    ],
+    "venue": "ECML PKDD 2018 Workshops: Nemesis 2018, UrbReas 2018, SoGood 2018, IWAISe 2018, and Green Data Mining",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Elan Rosenfeld, Ezra Winston, Pradeep Ravikumar, and Zico Kolter. Certified robustness to labelflipping attacks via randomized smoothing. In International Conference on Machine Learning (ICML), 2020.",
+    "title": "Certified robustness to labelflipping attacks via randomized smoothing",
+    "authors": [
+      "Elan Rosenfeld",
+      "Ezra Winston",
+      "Pradeep Ravikumar",
+      "Zico Kolter"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Benedek Rozemberczki, Carl Allen, and Rik Sarkar. Multi-scale attributed node embedding. Journal of Complex Networks, 2021.",
+    "title": "Multi-scale attributed node embedding",
+    "authors": [
+      "Carl Benedek Rozemberczki",
+      "Rik Allen",
+      "Sarkar"
+    ],
+    "venue": "Journal of Complex Networks",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Mahalakshmi Sabanayagam, Pascal Esser, and Debarghya Ghoshdastidar. Analysis of convolutions, non-linearity and depth in graph neural networks using neural tangent kernel. Transactions on Machine Learning Research (TMLR), 2023.",
+    "title": "Analysis of convolutions, non-linearity and depth in graph neural networks using neural tangent kernel",
+    "authors": [
+      "Mahalakshmi Sabanayagam",
+      "Pascal Esser",
+      "Debarghya Ghoshdastidar"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Martin Schmidt and Yasmine Beck. A gentle and incomplete introduction to bilevel optimization. In Lecture Notes, Trier University, 2023.",
+    "title": "A gentle and incomplete introduction to bilevel optimization",
+    "authors": [
+      "Martin Schmidt",
+      "Yasmine Beck"
+    ],
+    "venue": "Lecture Notes",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Prithviraj Sen, Galileo Namata, Mustafa Bilgic, Lise Getoor, Brian Galligher, and Tina Eliassi-Rad. Collective classification in network data. AI Magazine, 29(3):93, Sep. 2008.",
+    "title": "Collective classification in network data",
+    "authors": [
+      "Prithviraj Sen",
+      "Galileo Namata",
+      "Mustafa Bilgic",
+      "Lise Getoor",
+      "Brian Galligher",
+      "Tina Eliassi-Rad"
+    ],
+    "venue": "AI Magazine",
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein. Poisoning language models during instruction tuning. In International Conference on Machine Learning (ICML), 2023.",
+    "title": "Poisoning language models during instruction tuning",
+    "authors": [
+      "Alexander Wan",
+      "Eric Wallace",
+      "Sheng Shen",
+      "Dan Klein"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Xiaoyun Wang, Minhao Cheng, Joe Eaton, Cho-Jui Hsieh, and Felix Wu. Attack graph convolutional networks by adding fake nodes. arXiv preprint arXiv:1810.10751, 2018.",
+    "title": "Attack graph convolutional networks by adding fake nodes",
+    "authors": [
+      "Xiaoyun Wang",
+      "Minhao Cheng",
+      "Joe Eaton",
+      "Cho-Jui Hsieh",
+      "Felix Wu"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1810.10751"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Felix Wu, Amauri Souza, Tianyi Zhang, Christopher Fifty, Tao Yu, and Kilian Weinberger. Simplifying graph convolutional networks. In International Conference on Machine Learning (ICML), 2019.",
+    "title": "Simplifying graph convolutional networks",
+    "authors": [
+      "Felix Wu",
+      "Amauri Souza",
+      "Tianyi Zhang",
+      "Christopher Fifty",
+      "Tao Yu",
+      "Kilian Weinberger"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Han Xiao, Huang Xiao, and Claudia Eckert. Adversarial label flips attack on support vector machines. In ECAI 2012. 2012.",
+    "title": "Adversarial label flips attack on support vector machines",
+    "authors": [
+      "Han Xiao",
+      "Xiao Huang",
+      "Claudia Eckert"
+    ],
+    "venue": "ECAI 2012",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Keyulu Xu, Weihua Hu, Jure Leskovec, and Stefanie Jegelka. How powerful are graph neural networks? In International Conference on Learning Representations (ICLR), 2019.",
+    "title": "How powerful are graph neural networks?",
+    "authors": [
+      "Keyulu Xu",
+      "Weihua Hu",
+      "Jure Leskovec",
+      "Stefanie Jegelka"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Wayne W Zachary. An information flow model for conflict and fission in small groups. Journal of anthropological research, 1977.",
+    "title": "An information flow model for conflict and fission in small groups",
+    "authors": [
+      "Zachary Wayne"
+    ],
+    "venue": "Journal of anthropological research",
+    "year": 1977,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Mengmei Zhang, Linmei Hu, Chuan Shi, and Xiao Wang. Adversarial label-flipping attack and defense for graph neural networks. In 2020 IEEE International Conference on Data Mining (ICDM). IEEE, 2020.",
+    "title": "Adversarial label-flipping attack and defense for graph neural networks",
+    "authors": [
+      "Mengmei Zhang",
+      "Linmei Hu",
+      "Chuan Shi",
+      "Xiao Wang"
+    ],
+    "venue": "2020 IEEE International Conference on Data Mining (ICDM)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Daniel Zügner and Stephan Günnemann. Adversarial attacks on graph neural networks via meta learning. In International Conference on Learning Representations (ICLR), 2019.",
+    "title": "Adversarial attacks on graph neural networks via meta learning",
+    "authors": [
+      "Daniel Zügner",
+      "Stephan Günnemann"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

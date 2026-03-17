@@ -1,0 +1,1145 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Ekin Akyürek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, and Denny Zhou. What learning algorithm is in-context learning? investigations with linear models, 2023. URL https:// arxiv.org/abs/2211.15661.",
+    "title": "What learning algorithm is in-context learning? investigations with linear models",
+    "authors": [
+      "Ekin Akyürek",
+      "Dale Schuurmans",
+      "Jacob Andreas",
+      "Tengyu Ma",
+      "Denny Zhou"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2211.15661",
+      "url": "https://arxiv.org/abs/2211.15661"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Ekin Akyürek, Bailin Wang, Yoon Kim, and Jacob Andreas. In-context language learning: Architectures and algorithms, 2024. URL https://arxiv.org/abs/2401.12973.",
+    "title": "-context language learning: Architectures and algorithms",
+    "authors": [
+      "Ekin Akyürek",
+      "Bailin Wang",
+      "Yoon Kim",
+      "Jacob Andreas"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2401.12973",
+      "url": "https://arxiv.org/abs/2401.12973"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Suraj Anand, Michael A Lepori, Jack Merullo, and Ellie Pavlick. Dual process learning: Controlling use of in-context vs. in-weights strategies with weight forgetting. arXiv preprint arXiv:2406.00053, 2024.",
+    "title": "Dual process learning: Controlling use of in-context vs",
+    "authors": [
+      "Suraj Anand",
+      "A Michael",
+      "Jack Lepori",
+      "Ellie Merullo",
+      "Pavlick"
+    ],
+    "venue": "-weights strategies with weight forgetting",
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.00053"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Yu Bai, Fan Chen, Huan Wang, Caiming Xiong, and Song Mei. Transformers as statisticians: Provable in-context learning with in-context algorithm selection. Advances in neural information processing systems, 36, 2024.",
+    "title": "Transformers as statisticians: Provable in-context learning with in-context algorithm selection",
+    "authors": [
+      "Yu Bai",
+      "Fan Chen",
+      "Huan Wang",
+      "Caiming Xiong",
+      "Song Mei"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, Jackson Kernion, Andy Jones, Anna Chen, Anna Goldie, Azalia Mirhoseini, Cameron McKinnon, et al. Constitutional ai: Harmlessness from ai feedback. arXiv preprint arXiv:2212.08073, 2022.",
+    "title": "Constitutional ai: Harmlessness from ai feedback",
+    "authors": [
+      "Yuntao Bai",
+      "Saurav Kadavath",
+      "Sandipan Kundu",
+      "Amanda Askell",
+      "Jackson Kernion",
+      "Andy Jones",
+      "Anna Chen",
+      "Anna Goldie",
+      "Azalia Mirhoseini",
+      "Cameron Mckinnon"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2212.08073"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Eric J Bigelow, Ekdeep Singh Lubana, Robert P Dick, Hidenori Tanaka, and Tomer D Ullman. In-context learning dynamics with random binary sequences. arXiv preprint arXiv:2310.17639, 2023.",
+    "title": "-context learning dynamics with random binary sequences",
+    "authors": [
+      "Eric J Bigelow",
+      "Ekdeep Singh Lubana",
+      "Robert P Dick",
+      "Hidenori Tanaka",
+      "Tomer D Ullman"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.17639"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Blake Bordelon, Alexander Atanasov, and Cengiz Pehlevan. A dynamical model of neural scaling laws, 2024. URL https://arxiv.org/abs/2402.01092.",
+    "title": "A dynamical model of neural scaling laws",
+    "authors": [
+      "Blake Bordelon",
+      "Alexander Atanasov",
+      "Cengiz Pehlevan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2402.01092",
+      "url": "https://arxiv.org/abs/2402.01092"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et al. Language models are few-shot learners. Advances in neural information processing systems, 33:1877-1901, 2020.",
+    "title": "Language models are few-shot learners",
+    "authors": [
+      "Tom Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "Jared D Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Stephanie Chan, Adam Santoro, Andrew Lampinen, Jane Wang, Aaditya Singh, Pierre Richemond, James McClelland, and Felix Hill. Data distributional properties drive emergent in-context learning in transformers. Advances in Neural Information Processing Systems, 35:18878-18891, 2022a.",
+    "title": "Data distributional properties drive emergent in-context learning in transformers",
+    "authors": [
+      "Stephanie Chan",
+      "Adam Santoro",
+      "Andrew Lampinen",
+      "Jane Wang",
+      "Aaditya Singh",
+      "Pierre Richemond",
+      "James Mcclelland",
+      "Felix Hill"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Stephanie CY Chan, Ishita Dasgupta, Junkyung Kim, Dharshan Kumaran, Andrew K Lampinen, and Felix Hill. Transformers generalize differently from information stored in context vs in weights. arXiv preprint arXiv:2210.05675, 2022b.",
+    "title": "Transformers generalize differently from information stored in context vs in weights",
+    "authors": [
+      "C Y Stephanie",
+      "Ishita Chan",
+      "Junkyung Dasgupta",
+      "Dharshan Kim",
+      "Kumaran",
+      "Felix Andrew K Lampinen",
+      "Hill"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2210.05675"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, and more. The llama 3 herd of models, 2024. URL https://arxiv.org/abs/2407.21783.",
+    "title": "Abhishek Kadian, and more. The llama 3 herd of models",
+    "authors": [
+      "Abhimanyu Dubey",
+      "Abhinav Jauhri",
+      "Abhinav Pandey"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2407.21783",
+      "url": "https://arxiv.org/abs/2407.21783"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Benjamin L. Edelman, Ezra Edelman, Surbhi Goel, Eran Malach, and Nikolaos Tsilivis. The evolution of statistical induction heads: In-context learning markov chains, 2024. URL https: //arxiv.org/abs/2402.11004.",
+    "title": "The evolution of statistical induction heads: In-context learning markov chains",
+    "authors": [
+      "L Benjamin",
+      "Ezra Edelman",
+      "Surbhi Edelman",
+      "Eran Goel",
+      "Nikolaos Malach",
+      "Tsilivis"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2402.11004",
+      "url": "https://arxiv.org/abs/2402.11004"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Nelson Elhage, Neel Nanda, Catherine Olsson, Tom Henighan, Nicholas Joseph, Ben Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, Nova DasSarma, Dawn Drain, Deep Ganguli, Zac Hatfield-Dodds, Danny Hernandez, Andy Jones, Jackson Kernion, Liane Lovitt, Kamal Ndousse, Dario Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Chris Olah. A mathematical framework for transformer circuits. Transformer Circuits Thread, 2021. https://transformer-circuits.pub/2021/framework/index.html.",
+    "title": "A mathematical framework for transformer circuits",
+    "authors": [
+      "Nelson Elhage",
+      "Neel Nanda",
+      "Catherine Olsson",
+      "Tom Henighan",
+      "Nicholas Joseph",
+      "Ben Mann",
+      "Amanda Askell",
+      "Yuntao Bai",
+      "Anna Chen",
+      "Tom Conerly",
+      "Nova Dassarma",
+      "Dawn Drain",
+      "Deep Ganguli",
+      "Zac Hatfield-Dodds",
+      "Danny Hernandez",
+      "Andy Jones",
+      "Jackson Kernion",
+      "Liane Lovitt",
+      "Kamal Ndousse",
+      "Dario Amodei",
+      "Tom Brown",
+      "Jack Clark",
+      "Jared Kaplan",
+      "Sam Mccandlish",
+      "Chris Olah"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "url": "https://transformer-circuits.pub/2021/framework/index.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Nelson Elhage, Tristan Hume, Catherine Olsson, Nicholas Schiefer, Tom Henighan, Shauna Kravec, Zac Hatfield-Dodds, Robert Lasenby, Dawn Drain, Carol Chen, et al. Toy models of superposition. arXiv preprint arXiv:2209.10652, 2022.",
+    "title": "Toy models of superposition",
+    "authors": [
+      "Nelson Elhage",
+      "Tristan Hume",
+      "Catherine Olsson",
+      "Nicholas Schiefer",
+      "Tom Henighan",
+      "Shauna Kravec",
+      "Zac Hatfield-Dodds",
+      "Robert Lasenby",
+      "Dawn Drain",
+      "Carol Chen"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2209.10652"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Jaden Fiotto-Kaufman, Alexander R Loftus, Eric Todd, Jannik Brinkmann, Caden Juang, Koyena Pal, Can Rager, Aaron Mueller, Samuel Marks, Arnab Sen Sharma, Francesca Lucchetti, Michael Ripa, Adam Belfki, Nikhil Prakash, Sumeet Multani, Carla Brodley, Arjun Guha, Jonathan Bell, Byron Wallace, and David Bau. Nnsight and ndif: Democratizing access to foundation model internals, 2024. URL https://arxiv.org/abs/2407.14561.",
+    "title": "Nnsight and ndif: Democratizing access to foundation model internals",
+    "authors": [
+      "Jaden Fiotto-Kaufman",
+      "Alexander R Loftus",
+      "Eric Todd",
+      "Jannik Brinkmann",
+      "Caden Juang",
+      "Koyena Pal",
+      "Can Rager",
+      "Aaron Mueller",
+      "Samuel Marks",
+      "Sen Arnab",
+      "Francesca Sharma",
+      "Michael Lucchetti",
+      "Adam Ripa",
+      "Nikhil Belfki",
+      "Sumeet Prakash",
+      "Carla Multani",
+      "Arjun Brodley",
+      "Jonathan Guha",
+      "Byron Bell",
+      "David Wallace",
+      "Bau"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2407.14561",
+      "url": "https://arxiv.org/abs/2407.14561"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Shivam Garg, Dimitris Tsipras, Percy Liang, and Gregory Valiant. What can transformers learn in-context? a case study of simple function classes, 2023. URL https://arxiv.org/abs/ 2208.01066.",
+    "title": "What can transformers learn in-context? a case study of simple function classes",
+    "authors": [
+      "Shivam Garg",
+      "Dimitris Tsipras",
+      "Percy Liang",
+      "Gregory Valiant"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2208.01066",
+      "url": "https://arxiv.org/abs/2208.01066"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Gemini Team. Gemini: a family of highly capable multimodal models. arXiv preprint arXiv:2312.11805, 2023.",
+    "title": "Gemini: a family of highly capable multimodal models",
+    "authors": [
+      "Gemini Team"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2312.11805"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Mor Geva, Roei Schuster, Jonathan Berant, and Omer Levy. Transformer feed-forward layers are key-value memories, 2021. URL https://arxiv.org/abs/2012.14913.",
+    "title": "Transformer feed-forward layers are key-value memories",
+    "authors": [
+      "Mor Geva",
+      "Roei Schuster",
+      "Jonathan Berant",
+      "Omer Levy"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "2012.14913",
+      "url": "https://arxiv.org/abs/2012.14913"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Akhilesh Gotmare, Nitish Shirish Keskar, Caiming Xiong, and Richard Socher. A closer look at deep learning heuristics: Learning rate restarts, warmup and distillation, 2018. URL https: //arxiv.org/abs/1810.13243.",
+    "title": "A closer look at deep learning heuristics: Learning rate restarts, warmup and distillation",
+    "authors": [
+      "Akhilesh Gotmare",
+      "Nitish Shirish Keskar",
+      "Caiming Xiong",
+      "Richard Socher"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "1810.13243",
+      "url": "https://arxiv.org/abs/1810.13243"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Dean S. Hazineh, Zechen Zhang, and Jeffery Chiu. Linear latent world models in simple transformers: A case study on othello-gpt, 2023. URL https://arxiv.org/abs/2310.07582.",
+    "title": "Linear latent world models in simple transformers: A case study on othello-gpt",
+    "authors": [
+      "Dean S Hazineh",
+      "Zechen Zhang",
+      "Jeffery Chiu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2310.07582",
+      "url": "https://arxiv.org/abs/2310.07582"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Tom Henighan, Shan Carter, Tristan Hume, Nelson Elhage, Robert Lasenby, Stanislav Fort, Nicholas Schiefer, and Christopher Olah. Superposition, memorization, and double descent. Transformer Circuits Thread, 6:24, 2023.",
+    "title": "Superposition, memorization, and double descent",
+    "authors": [
+      "Tom Henighan",
+      "Shan Carter",
+      "Tristan Hume",
+      "Nelson Elhage",
+      "Robert Lasenby",
+      "Stanislav Fort",
+      "Nicholas Schiefer",
+      "Christopher Olah"
+    ],
+    "venue": "Transformer Circuits Thread",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, et al. Training compute-optimal large language models. arXiv preprint arXiv:2203.15556, 2022.",
+    "title": "Training compute-optimal large language models",
+    "authors": [
+      "Jordan Hoffmann",
+      "Sebastian Borgeaud",
+      "Arthur Mensch",
+      "Elena Buchatskaya",
+      "Trevor Cai",
+      "Eliza Rutherford",
+      "Diego De Las",
+      "Lisa Anne Casas",
+      "Johannes Hendricks",
+      "Aidan Welbl",
+      "Clark"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2203.15556"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Jesse Hoogland, George Wang, Matthew Farrugia-Roberts, Liam Carroll, Susan Wei, and Daniel Murfet. The developmental landscape of in-context learning, 2024. URL https://arxiv. org/abs/2402.02364.",
+    "title": "The developmental landscape of in-context learning",
+    "authors": [
+      "Jesse Hoogland",
+      "George Wang",
+      "Matthew Farrugia-Roberts",
+      "Liam Carroll",
+      "Susan Wei",
+      "Daniel Murfet"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2402.02364",
+      "url": "https://arxiv.org/abs/2402.02364"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Wenlong Huang, Fei Xia, Ted Xiao, Harris Chan, Jacky Liang, Pete Florence, Andy Zeng, Jonathan Tompson, Igor Mordatch, Yevgen Chebotar, et al. Inner monologue: Embodied reasoning through planning with language models. arXiv preprint arXiv:2207.05608, 2022.",
+    "title": "Inner monologue: Embodied reasoning through planning with language models",
+    "authors": [
+      "Wenlong Huang",
+      "Fei Xia",
+      "Ted Xiao",
+      "Harris Chan",
+      "Jacky Liang",
+      "Pete Florence",
+      "Andy Zeng",
+      "Jonathan Tompson",
+      "Igor Mordatch",
+      "Yevgen Chebotar"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2207.05608"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. Scaling laws for neural language models. arXiv preprint arXiv:2001.08361, 2020.",
+    "title": "Scaling laws for neural language models",
+    "authors": [
+      "Jared Kaplan",
+      "Sam Mccandlish",
+      "Tom Henighan",
+      "Tom B Brown",
+      "Benjamin Chess",
+      "Rewon Child",
+      "Scott Gray",
+      "Alec Radford",
+      "Jeffrey Wu",
+      "Dario Amodei"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2001.08361"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Andrej Karpathy. nanogpt. https://github.com/karpathy/nanoGPT, 2022.",
+    "title": "nanogpt",
+    "authors": [
+      "Andrej Karpathy"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "url": "https://github.com/karpathy/nanoGPT"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Louis Kirsch, James Harrison, Jascha Sohl-Dickstein, and Luke Metz. General-purpose in-context learning by meta-learning transformers. arXiv preprint arXiv:2212.04458, 2022.",
+    "title": "General-purpose in-context learning by meta-learning transformers",
+    "authors": [
+      "Louis Kirsch",
+      "James Harrison",
+      "Jascha Sohl-Dickstein",
+      "Luke Metz"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2212.04458"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Solomon Kullback and Richard A Leibler. On information and sufficiency. The annals of mathematical statistics, 22(1):79-86, 1951.",
+    "title": "On information and sufficiency. The annals of mathematical statistics",
+    "authors": [
+      "Solomon Kullback",
+      "Richard A Leibler"
+    ],
+    "year": 1951,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Kenneth Li, Aspen K Hopkins, David Bau, Fernanda Viégas, Hanspeter Pfister, and Martin Wattenberg. Emergent world representations: Exploring a sequence model trained on a synthetic task. In The Eleventh International Conference on Learning Representations, 2023a. URL https://openreview.net/forum?id=DeG07_TcZvT.",
+    "title": "Emergent world representations: Exploring a sequence model trained on a synthetic task",
+    "authors": [
+      "Kenneth Li",
+      "K Aspen",
+      "David Hopkins",
+      "Fernanda Bau",
+      "Hanspeter Viégas",
+      "Martin Pfister",
+      "Wattenberg"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations, 2023a",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=DeG07_TcZvT"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Shuai Li, Zhao Song, Yu Xia, Tong Yu, and Tianyi Zhou. The closeness of in-context learning and weight shifting for softmax regression, 2023b. URL https://arxiv.org/abs/2304. 13276.",
+    "title": "The closeness of in-context learning and weight shifting for softmax regression",
+    "authors": [
+      "Shuai Li",
+      "Zhao Song",
+      "Yu Xia",
+      "Tong Yu",
+      "Tianyi Zhou"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://arxiv.org/abs/2304.13276"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Yingcong Li, M Emrullah Ildiz, Dimitris Papailiopoulos, and Samet Oymak. Transformers as algorithms: Generalization and implicit model selection in in-context learning. arXiv preprint arXiv:2301.07067, 2023c.",
+    "title": "Transformers as algorithms: Generalization and implicit model selection in in-context learning",
+    "authors": [
+      "Yingcong Li",
+      "M Emrullah Ildiz",
+      "Dimitris Papailiopoulos",
+      "Samet Oymak"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2301.07067"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Ziqian Lin and Kangwook Lee. Dual operating modes of in-context learning, 2024. URL https: //arxiv.org/abs/2402.18819.",
+    "title": "Dual operating modes of in-context learning",
+    "authors": [
+      "Ziqian Lin",
+      "Kangwook Lee"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2402.18819",
+      "url": "https://arxiv.org/abs/2402.18819"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Liyuan Liu, Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao, and Jiawei Han. On the variance of the adaptive learning rate and beyond. arXiv preprint arXiv:1908.03265, 2019. Ilya Loshchilov and Frank Hutter. Decoupled weight decay regularization, 2019.",
+    "title": "On the variance of the adaptive learning rate and beyond",
+    "authors": [
+      "Liyuan Liu",
+      "Haoming Jiang",
+      "Pengcheng He",
+      "Weizhu Chen",
+      "Xiaodong Liu",
+      "Jianfeng Gao",
+      "Jiawei Han"
+    ],
+    "venue": "Ilya Loshchilov and Frank Hutter. Decoupled weight decay regularization",
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1908.03265"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, and Pontus Stenetorp. Fantastically ordered prompts and where to find them: Overcoming few-shot prompt order sensitivity. arXiv preprint arXiv:2104.08786, 2021.",
+    "title": "Fantastically ordered prompts and where to find them: Overcoming few-shot prompt order sensitivity",
+    "authors": [
+      "Yao Lu",
+      "Max Bartolo",
+      "Alastair Moore",
+      "Sebastian Riedel",
+      "Pontus Stenetorp"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2104.08786"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Yue M Lu, Mary I Letey, Jacob A Zavatone-Veth, Anindita Maiti, and Cengiz Pehlevan. Asymptotic theory of in-context learning by linear attention. arXiv preprint arXiv:2405.11751, 2024.",
+    "title": "Asymptotic theory of in-context learning by linear attention",
+    "authors": [
+      "Mary I Yue M Lu",
+      "Jacob A Letey",
+      "Anindita Zavatone-Veth",
+      "Cengiz Maiti",
+      "Pehlevan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.11751"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Arvind Mahankali, Tatsunori B. Hashimoto, and Tengyu Ma. One step of gradient descent is provably the optimal in-context learner with one layer of linear self-attention, 2023. URL https://arxiv.org/abs/2307.03576.",
+    "title": "One step of gradient descent is provably the optimal in-context learner with one layer of linear self-attention",
+    "authors": [
+      "Arvind Mahankali",
+      "B Tatsunori",
+      "Tengyu Hashimoto",
+      "Ma"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2307.03576",
+      "url": "https://arxiv.org/abs/2307.03576"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, and Luke Zettlemoyer. Rethinking the role of demonstrations: What makes in-context learning work? arXiv preprint arXiv:2202.12837, 2022.",
+    "title": "Rethinking the role of demonstrations: What makes in-context learning work? arXiv preprint",
+    "authors": [
+      "Sewon Min",
+      "Xinxi Lyu",
+      "Ari Holtzman",
+      "Mikel Artetxe",
+      "Mike Lewis",
+      "Hannaneh Hajishirzi",
+      "Luke Zettlemoyer"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2202.12837"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Neel Nanda, Andrew Lee, and Martin Wattenberg. Emergent linear representations in world models of self-supervised sequence models, 2023. URL https://arxiv.org/abs/2309.00941.",
+    "title": "Emergent linear representations in world models of self-supervised sequence models",
+    "authors": [
+      "Neel Nanda",
+      "Andrew Lee",
+      "Martin Wattenberg"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2309.00941",
+      "url": "https://arxiv.org/abs/2309.00941"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Catherine Olsson, Nelson Elhage, Neel Nanda, Nicholas Joseph, Nova DasSarma, Tom Henighan, Ben Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, Dawn Drain, Deep Ganguli, Zac Hatfield-Dodds, Danny Hernandez, Scott Johnston, Andy Jones, Jackson Kernion, Liane Lovitt, Kamal Ndousse, Dario Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Chris Olah. In-context learning and induction heads, 2022. URL https://arxiv.org/ abs/2209.11895.",
+    "title": "-context learning and induction heads",
+    "authors": [
+      "Catherine Olsson",
+      "Nelson Elhage",
+      "Neel Nanda",
+      "Nicholas Joseph",
+      "Nova Dassarma",
+      "Tom Henighan",
+      "Ben Mann",
+      "Amanda Askell",
+      "Yuntao Bai",
+      "Anna Chen",
+      "Tom Conerly",
+      "Dawn Drain",
+      "Deep Ganguli",
+      "Zac Hatfield-Dodds",
+      "Danny Hernandez",
+      "Scott Johnston",
+      "Andy Jones",
+      "Jackson Kernion",
+      "Liane Lovitt",
+      "Kamal Ndousse",
+      "Dario Amodei",
+      "Tom Brown",
+      "Jack Clark",
+      "Jared Kaplan",
+      "Sam Mccandlish",
+      "Chris Olah"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "2209.11895",
+      "url": "https://arxiv.org/abs/2209.11895"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "OpenAI. Gpt-4 technical report, 2024. URL https://arxiv.org/abs/2303.08774.",
+    "title": "OpenAI. Gpt-4 technical report",
+    "authors": [],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2303.08774",
+      "url": "https://arxiv.org/abs/2303.08774"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Jane Pan, Tianyu Gao, Howard Chen, and Danqi Chen. What in-context learning \"learns\" in-context: Disentangling task recognition and task learning, 2023. URL https://arxiv.org/abs/ 2305.09731.",
+    "title": "What in-context learning \"learns\" in-context: Disentangling task recognition and task learning",
+    "authors": [
+      "Jane Pan",
+      "Tianyu Gao",
+      "Howard Chen",
+      "Danqi Chen"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2305.09731",
+      "url": "https://arxiv.org/abs/2305.09731"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Madhur Panwar, Kabir Ahuja, and Navin Goyal. In-context learning through the bayesian prism, 2024. URL https://arxiv.org/abs/2306.04891.",
+    "title": "In-context learning through the bayesian prism",
+    "authors": [
+      "Madhur Panwar",
+      "Kabir Ahuja",
+      "Navin Goyal"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2306.04891",
+      "url": "https://arxiv.org/abs/2306.04891"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Adam Paszke, Sam Gross, Francisco Massa, Adam Lerer, James Bradbury, Gregory Chanan, Trevor Killeen, Zeming Lin, Natalia Gimelshein, Luca Antiga, Alban Desmaison, Andreas Köpf, Edward Yang, Zach DeVito, Martin Raison, Alykhan Tejani, Sasank Chilamkurthy, Benoit Steiner, Lu Fang, Junjie Bai, and Soumith Chintala. Pytorch: An imperative style, high-performance deep learning library, 2019.",
+    "authors": [
+      "Adam Paszke",
+      "Sam Gross",
+      "Francisco Massa",
+      "Adam Lerer",
+      "James Bradbury",
+      "Gregory Chanan",
+      "Trevor Killeen",
+      "Zeming Lin",
+      "Natalia Gimelshein",
+      "Luca Antiga",
+      "Alban Desmaison",
+      "Andreas Köpf",
+      "Edward Yang",
+      "Zach DeVito",
+      "Martin Raison",
+      "Alykhan Tejani",
+      "Sasank Chilamkurthy",
+      "Benoit Steiner",
+      "Lu Fang",
+      "Junjie Bai",
+      "Soumith Chintala"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, et al. Toolllm: Facilitating large language models to master 16000+ real-world apis. arXiv preprint arXiv:2307.16789, 2023.",
+    "title": "Facilitating large language models to master 16000+ real-world apis",
+    "authors": [
+      "Yujia Qin",
+      "Shihao Liang",
+      "Yining Ye",
+      "Kunlun Zhu",
+      "Lan Yan",
+      "Yaxi Lu",
+      "Yankai Lin",
+      "Xin Cong",
+      "Xiangru Tang",
+      "Bill Qian"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.16789"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Allan Raventós, Mansheej Paul, Feng Chen, and Surya Ganguli. Pretraining task diversity and the emergence of non-bayesian in-context learning for regression, 2023. URL https://arxiv. org/abs/2306.15063.",
+    "title": "Pretraining task diversity and the emergence of non-bayesian in-context learning for regression",
+    "authors": [
+      "Allan Raventós",
+      "Mansheej Paul",
+      "Feng Chen",
+      "Surya Ganguli"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2306.15063",
+      "url": "https://arxiv.org/abs/2306.15063"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Gautam Reddy. The mechanistic basis of data dependence and abrupt learning in an in-context classification task, 2023. URL https://arxiv.org/abs/2312.03002.",
+    "title": "The mechanistic basis of data dependence and abrupt learning in an in-context classification task",
+    "authors": [
+      "Gautam Reddy"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2312.03002",
+      "url": "https://arxiv.org/abs/2312.03002"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Melanie Sclar, Yejin Choi, Yulia Tsvetkov, and Alane Suhr. Quantifying language models' sensitivity to spurious features in prompt design or: How i learned to start worrying about prompt formatting, 2024. URL https://arxiv.org/abs/2310.11324.",
+    "title": "Quantifying language models' sensitivity to spurious features in prompt design or: How i learned to start worrying about prompt formatting",
+    "authors": [
+      "Melanie Sclar",
+      "Yejin Choi",
+      "Yulia Tsvetkov",
+      "Alane Suhr"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2310.11324",
+      "url": "https://arxiv.org/abs/2310.11324"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Aaditya K. Singh, Stephanie C. Y. Chan, Ted Moskovitz, Erin Grant, Andrew M. Saxe, and Felix Hill. The transient nature of emergent in-context learning in transformers, 2023. URL https: //arxiv.org/abs/2311.08360.",
+    "title": "The transient nature of emergent in-context learning in transformers",
+    "authors": [
+      "K Aaditya",
+      "Stephanie C Y Singh",
+      "Ted Chan",
+      "Erin Moskovitz",
+      "Andrew M Grant",
+      "Felix Saxe",
+      "Hill"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2311.08360",
+      "url": "https://arxiv.org/abs/2311.08360"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Aaditya K. Singh, Ted Moskovitz, Felix Hill, Stephanie C. Y. Chan, and Andrew M. Saxe. What needs to go right for an induction head? a mechanistic study of in-context learning circuits and their formation, 2024. URL https://arxiv.org/abs/2404.07129.",
+    "title": "What needs to go right for an induction head? a mechanistic study of in-context learning circuits and their formation",
+    "authors": [
+      "K Aaditya",
+      "Ted Singh",
+      "Felix Moskovitz",
+      "Hill",
+      "C Y Stephanie",
+      "Andrew M Chan",
+      "Saxe"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2404.07129",
+      "url": "https://arxiv.org/abs/2404.07129"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, and Yunfeng Liu. Roformer: Enhanced transformer with rotary position embedding, 2023. URL https://arxiv.org/abs/ 2104.09864.",
+    "title": "Roformer: Enhanced transformer with rotary position embedding",
+    "authors": [
+      "Jianlin Su",
+      "Yu Lu",
+      "Shengfeng Pan",
+      "Ahmed Murtadha",
+      "Bo Wen",
+      "Yunfeng Liu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2104.09864",
+      "url": "https://arxiv.org/abs/2104.09864"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "William L. Tong and Cengiz Pehlevan. Mlps learn in-context on regression and classification tasks, 2024. URL https://arxiv.org/abs/2405.15618.",
+    "title": "Mlps learn in-context on regression and classification tasks",
+    "authors": [
+      "William L Tong",
+      "Cengiz Pehlevan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2405.15618",
+      "url": "https://arxiv.org/abs/2405.15618"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, et al. Llama: Open and efficient foundation language models. arXiv preprint arXiv:2302.13971, 2023.",
+    "title": "Open and efficient foundation language models",
+    "authors": [
+      "Hugo Touvron",
+      "Thibaut Lavril",
+      "Gautier Izacard",
+      "Xavier Martinet",
+      "Marie-Anne Lachaux",
+      "Timothée Lacroix",
+      "Baptiste Rozière",
+      "Naman Goyal",
+      "Eric Hambro",
+      "Faisal Azhar"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2302.13971"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. Attention is all you need, 2023.",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N Gomez",
+      "Lukasz Kaiser",
+      "Illia Polosukhin"
+    ],
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Johannes Von Oswald, Eyvind Niklasson, Ettore Randazzo, João Sacramento, Alexander Mordvintsev, Andrey Zhmoginov, and Max Vladymyrov. Transformers learn in-context by gradient descent. In International Conference on Machine Learning, pp. 35151-35174. PMLR, 2023.",
+    "title": "Transformers learn in-context by gradient descent",
+    "authors": [
+      "Johannes Von",
+      "Oswald",
+      "Eyvind Niklasson",
+      "Ettore Randazzo",
+      "João Sacramento",
+      "Alexander Mordvintsev",
+      "Andrey Zhmoginov",
+      "Max Vladymyrov"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, and Denny Zhou. Chain of thought prompting elicits reasoning in large language models. arXiv preprint arXiv:2201.11903, 2022.",
+    "title": "Chain of thought prompting elicits reasoning in large language models",
+    "authors": [
+      "Jason Wei",
+      "Xuezhi Wang",
+      "Dale Schuurmans",
+      "Maarten Bosma",
+      "Ed Chi",
+      "Quoc Le",
+      "Denny Zhou"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2201.11903"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Jerry Wei, Jason Wei, Yi Tay, Dustin Tran, Albert Webson, Yifeng Lu, Xinyun Chen, Hanxiao Liu, Da Huang, Denny Zhou, and Tengyu Ma. Larger language models do in-context learning differently, 2023. URL https://arxiv.org/abs/2303.03846.",
+    "title": "Larger language models do in-context learning differently",
+    "authors": [
+      "Jerry Wei",
+      "Jason Wei",
+      "Yi Tay",
+      "Dustin Tran",
+      "Albert Webson",
+      "Yifeng Lu",
+      "Xinyun Chen",
+      "Hanxiao Liu",
+      "Da Huang",
+      "Denny Zhou",
+      "Tengyu Ma"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2303.03846",
+      "url": "https://arxiv.org/abs/2303.03846"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Sang Michael Xie, Aditi Raghunathan, Percy Liang, and Tengyu Ma. An explanation of in-context learning as implicit bayesian inference. arXiv preprint arXiv:2111.02080, 2021.",
+    "title": "An explanation of in-context learning as implicit bayesian inference",
+    "authors": [
+      "Sang Michael Xie",
+      "Aditi Raghunathan",
+      "Percy Liang",
+      "Tengyu Ma"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2111.02080"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

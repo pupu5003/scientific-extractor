@@ -1,0 +1,734 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Erik Agrell and Bruce Allen. On the best lattice quantizers. IEEE Transactions on Information Theory, 69(12):7650-7658, 2023. doi: 10.1109/TIT.2023.3291313.",
+    "title": "On the best lattice quantizers",
+    "authors": [
+      "Erik Agrell",
+      "Bruce Allen"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.1109/TIT.2023.3291313",
+      "arxiv_id": "2023.32913"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Erik Agrell, Daniel Pook-Kolb, and Bruce Allen. Gradient-based optimization of lattice quantizers. arXiv preprint arXiv:2401.01799, 2024.",
+    "title": "Gradient-based optimization of lattice quantizers",
+    "authors": [
+      "Erik Agrell",
+      "Daniel Pook-Kolb",
+      "Bruce Allen"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.01799"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "S. Arimoto. An algorithm for computing the capacity of arbitrary discrete memoryless channels. IEEE Transactions on Information Theory, 18(1):14-20, 1972. doi: 10.1109/TIT.1972.1054753.",
+    "title": "An algorithm for computing the capacity of arbitrary discrete memoryless channels",
+    "authors": [
+      "S Arimoto"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 1972,
+    "identifiers": {
+      "doi": "10.1109/TIT.1972.1054753",
+      "arxiv_id": "1972.10547"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Johannes Ballé, David Minnen, Saurabh Singh, Sung Jin Hwang, and Nick Johnston. Variational image compression with a scale hyperprior. In International Conference on Learning Representations, 2018. URL https://openreview.net/forum?id=rkcQFMZRb.",
+    "title": "Variational image compression with a scale hyperprior",
+    "authors": [
+      "Johannes Ballé",
+      "David Minnen",
+      "Saurabh Singh",
+      "Sung",
+      "Jin Hwang",
+      "Nick Johnston"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2018,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=rkcQFMZRb"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Johannes Ballé, Philip A. Chou, David Minnen, Saurabh Singh, Nick Johnston, Eirikur Agustsson, Sung Jin Hwang, and George Toderici. Nonlinear transform coding. IEEE Journal of Selected Topics in Signal Processing, 15(2):339-353, 2021. doi: 10.1109/JSTSP.2020.3034501.",
+    "title": "Nonlinear transform coding",
+    "authors": [
+      "Johannes Ballé",
+      "Philip A Chou",
+      "David Minnen",
+      "Saurabh Singh",
+      "Nick Johnston",
+      "Eirikur Agustsson",
+      "Sung",
+      "Jin Hwang",
+      "George Toderici"
+    ],
+    "venue": "IEEE Journal of Selected Topics in Signal Processing",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.1109/JSTSP.2020.3034501",
+      "arxiv_id": "2020.30345"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Johannes Ballé, Sung Jin Hwang, and Eirikur Agustsson. TensorFlow Compression: Learned data compression, 2024. URL http://github.com/tensorflow/compression.",
+    "title": "TensorFlow Compression: Learned data compression",
+    "authors": [
+      "Johannes Ballé",
+      "Sung",
+      "Jin Hwang",
+      "Eirikur Agustsson"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "http://github.com/tensorflow/compression"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Jean Bégaint, Fabien Racapé, Simon Feltman, and Akshay Pushparaja. Compressai: a pytorch library and evaluation platform for end-to-end compression research. arXiv preprint arXiv:2011.03029, 2020.",
+    "title": "Compressai: a pytorch library and evaluation platform for end-to-end compression research",
+    "authors": [
+      "Jean Bégaint",
+      "Fabien Racapé",
+      "Simon Feltman",
+      "Akshay Pushparaja"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2011.03029"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "W. R. Bennett. Spectra of quantized signals. The Bell System Technical Journal, 27(3):446-472, 1948. doi: 10.1002/j.1538-7305.1948.tb01340.x.",
+    "title": "Spectra of quantized signals",
+    "authors": [
+      "W R Bennett"
+    ],
+    "venue": "The Bell System Technical Journal",
+    "year": 1948,
+    "identifiers": {
+      "doi": "10.1002/j.1538-7305.1948.tb01340.x",
+      "arxiv_id": "7305.1948"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Sourbh Bhadane, Aaron B Wagner, and Jayadev Acharya. Principal bit analysis: Autoencoding with schur-concave loss. In International Conference on Machine Learning, pp. 852-862. PMLR, 2021.",
+    "title": "Principal bit analysis: Autoencoding with schur-concave loss",
+    "authors": [
+      "Sourbh Bhadane",
+      "Aaron B Wagner",
+      "Jayadev Acharya"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Sourbh Bhadane, Aaron B. Wagner, and Johannes Ballé. Do neural networks compress manifolds optimally? In 2022 IEEE Information Theory Workshop (ITW), pp. 582-587, 2022. doi: 10.1109/ ITW54588.2022.9965938.",
+    "title": "Do neural networks compress manifolds optimally?",
+    "authors": [
+      "Sourbh Bhadane",
+      "Aaron B Wagner",
+      "Johannes Ballé"
+    ],
+    "venue": "2022 IEEE Information Theory Workshop (ITW)",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.1109/ITW54588.2022.9965938",
+      "arxiv_id": "4588.2022"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "R. Blahut. Computation of channel capacity and rate-distortion functions. IEEE Transactions on Information Theory, 18(4):460-473, 1972. doi: 10.1109/TIT.1972.1054855.",
+    "title": "Computation of channel capacity and rate-distortion functions",
+    "authors": [
+      "R Blahut"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 1972,
+    "identifiers": {
+      "doi": "10.1109/TIT.1972.1054855",
+      "arxiv_id": "1972.10548"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Benjamin Bross, Ye-Kui Wang, Yan Ye, Shan Liu, Jianle Chen, Gary J. Sullivan, and Jens-Rainer Ohm. Overview of the versatile video coding (vvc) standard and its applications. IEEE Transactions on Circuits and Systems for Video Technology, 31(10):3736-3764, 2021. doi: 10.1109/TCSVT. 2021.3101953.",
+    "title": "Overview of the versatile video coding (vvc) standard and its applications",
+    "authors": [
+      "Benjamin Bross",
+      "Ye-Kui Wang",
+      "Yan Ye",
+      "Shan Liu",
+      "Jianle Chen",
+      "Gary J Sullivan",
+      "Jens-Rainer Ohm"
+    ],
+    "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.1109/TCSVT.2021.3101953",
+      "arxiv_id": "2021.31019"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "J. Bucklew. Companding and random quantization in several dimensions. IEEE Transactions on Information Theory, 27(2):207-211, 1981. doi: 10.1109/TIT.1981.1056319.",
+    "title": "Companding and random quantization in several dimensions",
+    "authors": [
+      "J Bucklew"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 1981,
+    "identifiers": {
+      "doi": "10.1109/TIT.1981.1056319",
+      "arxiv_id": "1981.10563"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "J. Bucklew. A note on optimal multidimensional companders (corresp.). IEEE Transactions on Information Theory, 29(2):279-279, 1983. doi: 10.1109/TIT.1983.1056643.",
+    "title": "A note on optimal multidimensional companders (corresp.)",
+    "authors": [
+      "J Bucklew"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 1983,
+    "identifiers": {
+      "doi": "10.1109/TIT.1983.1056643",
+      "arxiv_id": "1983.10566"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Maida Cao, Wenrui Dai, Shaohui Li, Han Li, Chenglin Li, Junni Zou, and Hongkai Xiong. Entropy relaxed lattice vector quantization for learned image compression. In 2024 Data Compression Conference (DCC), pp. 548-548, 2024. doi: 10.1109/DCC58796.2024.00065.",
+    "title": "Entropy relaxed lattice vector quantization for learned image compression",
+    "authors": [
+      "Maida Cao",
+      "Wenrui Dai",
+      "Shaohui Li",
+      "Han Li",
+      "Chenglin Li",
+      "Junni Zou",
+      "Hongkai Xiong"
+    ],
+    "venue": "2024 Data Compression Conference (DCC)",
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.1109/DCC58796.2024.00065",
+      "arxiv_id": "8796.2024"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Zhengxue Cheng, Heming Sun, Masaru Takeuchi, and Jiro Katto. Learned image compression with discretized gaussian mixture likelihoods and attention modules. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 7939-7948, 2020.",
+    "title": "Learned image compression with discretized gaussian mixture likelihoods and attention modules",
+    "authors": [
+      "Zhengxue Cheng",
+      "Heming Sun",
+      "Masaru Takeuchi",
+      "Jiro Katto"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "P.A. Chou, T. Lookabaugh, and R.M. Gray. Entropy-constrained vector quantization. IEEE Transactions on Acoustics, Speech, and Signal Processing, 37(1):31-42, 1989. doi: 10.1109/29.17498.",
+    "title": "Entropy-constrained vector quantization",
+    "authors": [
+      "P A Chou",
+      "T Lookabaugh",
+      "R M Gray"
+    ],
+    "venue": "IEEE Transactions on Acoustics, Speech, and Signal Processing",
+    "year": 1989,
+    "identifiers": {
+      "doi": "10.1109/29.17498"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "J. Conway and N. Sloane. Soft decoding techniques for codes and lattices, including the golay code and the leech lattice. IEEE Transactions on Information Theory, 32(1):41-50, 1986. doi: 10.1109/TIT.1986.1057135.",
+    "title": "Soft decoding techniques for codes and lattices, including the golay code and the leech lattice",
+    "authors": [
+      "J Conway",
+      "N Sloane"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 1986,
+    "identifiers": {
+      "doi": "10.1109/TIT.1986.1057135",
+      "arxiv_id": "1986.10571"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "J. H. Conway and N. J. A. Sloane. On the voronoi regions of certain lattices. SIAM Journal on Algebraic Discrete Methods, 5(3):294-305, 1984. doi: 10.1137/0605031. URL https: //doi.org/10.1137/0605031.",
+    "title": "On the voronoi regions of certain lattices",
+    "authors": [
+      "J H Conway",
+      "N J A Sloane"
+    ],
+    "venue": "SIAM Journal on Algebraic Discrete Methods",
+    "year": 1984,
+    "identifiers": {
+      "doi": "10.1137/0605031",
+      "url": "https://doi.org/10.1137/0605031"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "J. H. Conway and N. J. A. Sloane. Sphere Packings, Lattices, and Groups. Grundlehren der mathematischen Wissenschaften. Springer, New York, NY, 1999. ISBN 978-0-387-98585-5.",
+    "title": "Sphere Packings, Lattices, and Groups. Grundlehren der mathematischen Wissenschaften",
+    "authors": [
+      "J H Conway",
+      "N J A Sloane"
+    ],
+    "year": 1999,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Thomas M. Cover and Joy A. Thomas. Elements of Information Theory (Wiley Series in Telecommunications and Signal Processing). Wiley-Interscience, USA, 2006. ISBN 0471241954.",
+    "title": "Elements of Information Theory",
+    "authors": [
+      "Thomas M Cover",
+      "Joy A Thomas"
+    ],
+    "year": 2006,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Laurent Dinh, Jascha Sohl-Dickstein, and Samy Bengio. Density estimation using real NVP. In International Conference on Learning Representations, 2017. URL https://openreview. net/forum?id=HkpbnH9lx.",
+    "title": "Density estimation using real NVP",
+    "authors": [
+      "Laurent Dinh",
+      "Jascha Sohl-Dickstein",
+      "Samy Bengio"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2017,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=HkpbnH9lx"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Alaaeldin El-Nouby, Matthew J. Muckley, Karen Ullrich, Ivan Laptev, Jakob Verbeek, and Herve Jegou. Image compression with product quantized masked image modeling. Transactions on Machine Learning Research, 2023. ISSN 2835-8856. URL https://openreview.net/ forum?id=Z2L5d9ay4B.",
+    "title": "Image compression with product quantized masked image modeling",
+    "authors": [
+      "Alaaeldin El-Nouby",
+      "Matthew J Muckley",
+      "Karen Ullrich",
+      "Ivan Laptev",
+      "Jakob Verbeek",
+      "Herve Jegou"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "W.H.R. Equitz and T.M. Cover. Successive refinement of information. IEEE Transactions on Information Theory, 37(2):269-275, 1991. doi: 10.1109/18.75242.",
+    "title": "Successive refinement of information",
+    "authors": [
+      "W H R Equitz",
+      "T M Cover"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 1991,
+    "identifiers": {
+      "doi": "10.1109/18.75242"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Runsen Feng, Zongyu Guo, Weiping Li, and Zhibo Chen. Nvtc: Nonlinear vector transform coding. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 6101-6110, 2023.",
+    "title": "Nvtc: Nonlinear vector transform coding",
+    "authors": [
+      "Runsen Feng",
+      "Zongyu Guo",
+      "Weiping Li",
+      "Zhibo Chen"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Richard W. Franzen. Kodak lossless true color image suite. URL https://r0k.us/graphics/ kodak/.",
+    "title": "Kodak lossless true color image suite",
+    "authors": [
+      "Richard W Franzen"
+    ],
+    "identifiers": {
+      "url": "https://r0k.us/graphics/kodak/"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "A. Gersho. Asymptotically optimal block quantization. IEEE Transactions on Information Theory, 25(4):373-380, 1979. doi: 10.1109/TIT.1979.1056067.",
+    "title": "Asymptotically optimal block quantization",
+    "authors": [
+      "A Gersho"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 1979,
+    "identifiers": {
+      "doi": "10.1109/TIT.1979.1056067",
+      "arxiv_id": "1979.10560"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Allen Gersho and Robert M Gray. Vector quantization and signal compression, volume 159. Springer Science & Business Media, 2012.",
+    "title": "Vector quantization and signal compression",
+    "authors": [
+      "Allen Gersho",
+      "Robert M Gray"
+    ],
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Dailan He, Ziming Yang, Weikun Peng, Rui Ma, Hongwei Qin, and Yan Wang. Elic: Efficient learned image compression with unevenly grouped space-channel contextual adaptive coding. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 5718-5727, 2022.",
+    "title": "Elic: Efficient learned image compression with unevenly grouped space-channel contextual adaptive coding",
+    "authors": [
+      "Dailan He",
+      "Ziming Yang",
+      "Weikun Peng",
+      "Rui Ma",
+      "Hongwei Qin",
+      "Yan Wang"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Ivan Kobyzev, Simon JD Prince, and Marcus A Brubaker. Normalizing flows: An introduction and review of current methods. IEEE transactions on pattern analysis and machine intelligence, 43 (11):3964-3979, 2020.",
+    "title": "Normalizing flows: An introduction and review of current methods",
+    "authors": [
+      "Ivan Kobyzev",
+      "Simon Jd Prince",
+      "Marcus A Brubaker"
+    ],
+    "venue": "IEEE transactions on pattern analysis and machine intelligence",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Shinobu Kudo, Yukihiro Bandoh, Seishi Takamura, and Masaki Kitahara. LVQ-VAE:end-to-end hyperprior-based variational image compression with lattice vector quantization, 2023. URL https://openreview.net/forum?id=1pGmKJvneD7.",
+    "title": "LVQ-VAE:end-to-end hyperprior-based variational image compression with lattice vector quantization",
+    "authors": [
+      "Shinobu Kudo",
+      "Yukihiro Bandoh",
+      "Seishi Takamura",
+      "Masaki Kitahara"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=1pGmKJvneD7"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Eric Lei, Hamed Hassani, and Shirin Saeedi Bidokhti. Neural estimation of the rate-distortion function with applications to operational source coding. IEEE Journal on Selected Areas in Information Theory, 3(4):674-686, 2022. doi: 10.1109/JSAIT.2023.3273467.",
+    "title": "Neural estimation of the rate-distortion function with applications to operational source coding",
+    "authors": [
+      "Eric Lei",
+      "Hamed Hassani",
+      "Shirin Saeedi",
+      "Bidokhti"
+    ],
+    "venue": "IEEE Journal on Selected Areas in Information Theory",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.1109/JSAIT.2023.3273467",
+      "arxiv_id": "2023.32734"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "T. Linder, R. Zamir, and K. Zeger. High-resolution source coding for non-difference distortion measures: multidimensional companding. IEEE Transactions on Information Theory, 45(2): 548-561, 1999. doi: 10.1109/18.749002.",
+    "title": "High-resolution source coding for non-difference distortion measures: multidimensional companding",
+    "authors": [
+      "T Linder",
+      "R Zamir",
+      "K Zeger"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 1999,
+    "identifiers": {
+      "doi": "10.1109/18.749002"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Shanxiang Lyu, Zheng Wang, Cong Ling, and Hao Chen. Better lattice quantizers constructed from complex integers. IEEE Transactions on Communications, 70(12):7932-7940, 2022. doi: 10.1109/TCOMM.2022.3215685.",
+    "title": "Better lattice quantizers constructed from complex integers",
+    "authors": [
+      "Shanxiang Lyu",
+      "Zheng Wang",
+      "Cong Ling",
+      "Hao Chen"
+    ],
+    "venue": "IEEE Transactions on Communications",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.1109/TCOMM.2022.3215685",
+      "arxiv_id": "2022.32156"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "David McAllester and Karl Stratos. Formal limitations on the measurement of mutual information. In Silvia Chiappa and Roberto Calandra (eds.), Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, volume 108 of Proceedings of Machine Learning Research, pp. 875-884. PMLR, 26-28 Aug 2020. URL https://proceedings. mlr.press/v108/mcallester20a.html.",
+    "title": "Formal limitations on the measurement of mutual information",
+    "authors": [
+      "David Mcallester",
+      "Karl Stratos"
+    ],
+    "venue": "Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics",
+    "year": 2020,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v108/mcallester20a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Aleksandr Shevchenko, Kevin Kögler, Hamed Hassani, and Marco Mondelli. Fundamental limits of two-layer autoencoders, and achieving them with gradient methods. In International Conference on Machine Learning, pp. 31151-31209. PMLR, 2023.",
+    "title": "Fundamental limits of two-layer autoencoders, and achieving them with gradient methods",
+    "authors": [
+      "Aleksandr Shevchenko",
+      "Kevin Kögler",
+      "Hamed Hassani",
+      "Marco Mondelli"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Aaron van den Oord, Oriol Vinyals, and Koray Kavukcuoglu. Neural discrete representation learning. In Proceedings of the 31st International Conference on Neural Information Processing Systems, NIPS'17, pp. 6309-6318, Red Hook, NY, USA, 2017. Curran Associates Inc. ISBN 9781510860964.",
+    "title": "Neural discrete representation learning",
+    "authors": [
+      "Aaron Van Den Oord",
+      "Oriol Vinyals",
+      "Koray Kavukcuoglu"
+    ],
+    "venue": "Proceedings of the 31st International Conference on Neural Information Processing Systems, NIPS'17",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "A. Vardy and Y. Be'ery. Maximum likelihood decoding of the leech lattice. IEEE Transactions on Information Theory, 39(4):1435-1444, 1993. doi: 10.1109/18.243466.",
+    "title": "Maximum likelihood decoding of the leech lattice",
+    "authors": [
+      "A Vardy",
+      "Y Be'ery"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 1993,
+    "identifiers": {
+      "doi": "10.1109/18.243466"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Aaron B. Wagner and Johannes Ballé. Neural networks optimally compress the sawbridge. In 2021 Data Compression Conference (DCC), pp. 143-152. IEEE, 2021.",
+    "title": "Neural networks optimally compress the sawbridge",
+    "authors": [
+      "Aaron B Wagner",
+      "Johannes Ballé"
+    ],
+    "venue": "2021 Data Compression Conference (DCC)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Tianfan Xue, Baian Chen, Jiajun Wu, Donglai Wei, and William T Freeman. Video enhancement with task-oriented flow. International Journal of Computer Vision, 127:1106-1125, 2019.",
+    "title": "Video enhancement with task-oriented flow",
+    "authors": [
+      "Tianfan Xue",
+      "Baian Chen",
+      "Jiajun Wu",
+      "Donglai Wei",
+      "William T Freeman"
+    ],
+    "venue": "International Journal of Computer Vision",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Yibo Yang and Stephan Mandt. Towards empirical sandwich bounds on the rate-distortion function. In International Conference on Learning Representations, 2022. URL https://openreview. net/forum?id=H4PmOqSZDY.",
+    "title": "Towards empirical sandwich bounds on the rate-distortion function",
+    "authors": [
+      "Yibo Yang",
+      "Stephan Mandt"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=H4PmOqSZDY"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Yibo Yang, Stephan Mandt, and Lucas Theis. An introduction to neural data compression. arXiv preprint arXiv:2202.06533, 2022.",
+    "title": "An introduction to neural data compression",
+    "authors": [
+      "Yibo Yang",
+      "Stephan Mandt",
+      "Lucas Theis"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2202.06533"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Ram Zamir, Bobak Nazer, Yuval Kochman, and Ilai Bistritz. Lattice Coding for Signals and Networks: A Structured Coding Approach to Quantization, Modulation and Multiuser Information Theory. Cambridge University Press, 2014.",
+    "title": "Lattice Coding for Signals and Networks: A Structured Coding Approach to Quantization, Modulation and Multiuser Information Theory",
+    "authors": [
+      "Ram Zamir",
+      "Bobak Nazer",
+      "Yuval Kochman",
+      "Ilai Bistritz"
+    ],
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Xi Zhang and Xiaolin Wu. Lvqac: Lattice vector quantization coupled with spatially adaptive companding for efficient learned image compression. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 10239-10248, 2023.",
+    "title": "Lvqac: Lattice vector quantization coupled with spatially adaptive companding for efficient learned image compression",
+    "authors": [
+      "Xi Zhang",
+      "Xiaolin Wu"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

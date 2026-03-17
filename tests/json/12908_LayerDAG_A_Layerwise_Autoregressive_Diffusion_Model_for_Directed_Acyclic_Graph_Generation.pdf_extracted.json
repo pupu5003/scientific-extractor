@@ -1,0 +1,1105 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Andrew Adams, Karima Ma, Luke Anderson, Riyadh Baghdadi, Tzu-Mao Li, Michaël Gharbi, Benoit Steiner, Steven Johnson, Kayvon Fatahalian, Frédo Durand, et al. Learning to optimize halide with tree search and random programs. ACM Transactions on Graphics (TOG), 38(4): 1-12, 2019.",
+    "title": "Learning to optimize halide with tree search and random programs",
+    "authors": [
+      "Andrew Adams",
+      "Karima Ma",
+      "Luke Anderson",
+      "Riyadh Baghdadi",
+      "Tzu-Mao Li",
+      "Michaël Gharbi",
+      "Benoit Steiner",
+      "Steven Johnson",
+      "Kayvon Fatahalian",
+      "Frédo Durand"
+    ],
+    "venue": "ACM Transactions on Graphics (TOG)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Byung Hoon Ahn, Prannoy Pilligundla, Amir Yazdanbakhsh, and Hadi Esmaeilzadeh. Chameleon: Adaptive code optimization for expedited deep neural network compilation. arXiv preprint arXiv:2001.08743, 2020.",
+    "title": "Chameleon: Adaptive code optimization for expedited deep neural network compilation",
+    "authors": [
+      "Prannoy Byung Hoon Ahn",
+      "Amir Pilligundla",
+      "Hadi Yazdanbakhsh",
+      "Esmaeilzadeh"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2001.08743"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman. Compilers: Principles, Techniques, and Tools (2nd Edition). Addison Wesley, 2006.",
+    "title": "Compilers: Principles, Techniques, and Tools",
+    "authors": [
+      "Alfred V Aho",
+      "Monica S Lam",
+      "Ravi Sethi",
+      "Jeffrey D Ullman"
+    ],
+    "year": 2006,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Sohyun An, Hayeon Lee, Jaehyeong Jo, Seanie Lee, and Sung Ju Hwang. Diffusionnag: Predictorguided neural architecture generation with diffusion models. In International Conference on Learning Representations, 2023.",
+    "title": "Diffusionnag: Predictorguided neural architecture generation with diffusion models",
+    "authors": [
+      "Hayeon Sohyun An",
+      "Jaehyeong Lee",
+      "Seanie Jo",
+      "Sung Ju Lee",
+      "Hwang"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Jacob Austin, Daniel D Johnson, Jonathan Ho, Daniel Tarlow, and Rianne Van Den Berg. Structured denoising diffusion models in discrete state-spaces. Advances in Neural Information Processing Systems, pp. 17981-17993, 2021.",
+    "title": "Structured denoising diffusion models in discrete state-spaces",
+    "authors": [
+      "Jacob Austin",
+      "Jonathan Daniel D Johnson",
+      "Daniel Ho",
+      "Rianne Tarlow",
+      "Van Den",
+      "Berg"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Riyadh Baghdadi, Massinissa Merouani, Mohamed-Hicham Leghettas, Kamel Abdous, Taha Arbaoui, Karima Benatchba, et al. A deep learning based cost model for automatic code optimization. Proceedings of Machine Learning and Systems, 3:181-193, 2021.",
+    "title": "A deep learning based cost model for automatic code optimization",
+    "authors": [
+      "Riyadh Baghdadi",
+      "Massinissa Merouani",
+      "Mohamed-Hicham Leghettas",
+      "Kamel Abdous",
+      "Taha Arbaoui",
+      "Karima Benatchba"
+    ],
+    "venue": "Proceedings of Machine Learning and Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Jørgen Bang-Jensen and Gregory Z Gutin. Digraphs: theory, algorithms and applications. Springer Science & Business Media, 2008.",
+    "title": "Digraphs: theory, algorithms and applications",
+    "authors": [
+      "Jørgen Bang",
+      "- Jensen",
+      "Gregory Z Gutin"
+    ],
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Denis Borenstein. A directed acyclic graph representation of routing manufacturing flexibility. European journal of operational research, 127(1):78-93, 2000.",
+    "title": "A directed acyclic graph representation of routing manufacturing flexibility",
+    "authors": [
+      "Denis Borenstein"
+    ],
+    "venue": "European journal of operational research",
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Kaidi Cao, Mangpo Phothilimthana, Sami Abu-El-Haija, Dustin Zelle, Yanqi Zhou, Charith Mendis, Jure Leskovec, and Bryan Perozzi. Learning large graph property prediction via graph segment training. Advances in Neural Information Processing Systems, 36, 2023.",
+    "title": "Learning large graph property prediction via graph segment training",
+    "authors": [
+      "Kaidi Cao",
+      "Mangpo Phothilimthana",
+      "Sami Abu-El-Haija",
+      "Dustin Zelle",
+      "Yanqi Zhou",
+      "Charith Mendis",
+      "Jure Leskovec",
+      "Bryan Perozzi"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Tianqi Chen, Lianmin Zheng, Eddie Yan, Ziheng Jiang, Thierry Moreau, Luis Ceze, Carlos Guestrin, and Arvind Krishnamurthy. Learning to optimize tensor programs. Advances in Neural Information Processing Systems, 31, 2018.",
+    "title": "Learning to optimize tensor programs",
+    "authors": [
+      "Tianqi Chen",
+      "Lianmin Zheng",
+      "Eddie Yan",
+      "Ziheng Jiang",
+      "Thierry Moreau",
+      "Luis Ceze",
+      "Carlos Guestrin",
+      "Arvind Krishnamurthy"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Xiaohui Chen, Jiaxing He, Xu Han, and Li-Ping Liu. Efficient and degree-guided graph generation via discrete diffusion modeling. In Proceedings of the 40th International Conference on Machine Learning, pp. 4585-4610, 2023.",
+    "title": "Efficient and degree-guided graph generation via discrete diffusion modeling",
+    "authors": [
+      "Xiaohui Chen",
+      "Jiaxing He",
+      "Xu Han",
+      "Li-Ping Liu"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Eli Cortez, Anand Bonde, Alexandre Muzio, Mark Russinovich, Marcus Fontoura, and Ricardo Bianchini. Resource central: Understanding and predicting workloads for improved resource management in large cloud platforms. In Proceedings of the 26th Symposium on Operating Systems Principles, pp. 153-167, 2017.",
+    "title": "Resource central: Understanding and predicting workloads for improved resource management in large cloud platforms",
+    "authors": [
+      "Eli Cortez",
+      "Anand Bonde",
+      "Alexandre Muzio",
+      "Mark Russinovich",
+      "Marcus Fontoura",
+      "Ricardo Bianchini"
+    ],
+    "venue": "Proceedings of the 26th Symposium on Operating Systems Principles",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Xuanyi Dong and Yi Yang. NAS-Bench-201: Extending the scope of reproducible neural architecture search. In International Conference on Learning Representations, 2020.",
+    "title": "NAS-Bench-201: Extending the scope of reproducible neural architecture search",
+    "authors": [
+      "Xuanyi Dong",
+      "Yi Yang"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Zehao Dong, Weidong Cao, Muhan Zhang, Dacheng Tao, Yixin Chen, and Xuan Zhang. CktGNN: Circuit graph neural network for electronic design automation. In International Conference on Learning Representations, 2023.",
+    "title": "CktGNN: Circuit graph neural network for electronic design automation",
+    "authors": [
+      "Zehao Dong",
+      "Weidong Cao",
+      "Muhan Zhang",
+      "Dacheng Tao",
+      "Yixin Chen",
+      "Xuan Zhang"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Christophe Dubach, John Cavazos, Björn Franke, Grigori Fursin, Michael FP O'Boyle, and Olivier Temam. Fast compiler optimisation evaluation using code-feature based performance prediction. In Proceedings of the 4th international conference on Computing frontiers, pp. 131-142, 2007.",
+    "title": "Fast compiler optimisation evaluation using code-feature based performance prediction",
+    "authors": [
+      "Christophe Dubach",
+      "John Cavazos",
+      "Björn Franke",
+      "Grigori Fursin",
+      "Fp O' Michael",
+      "Olivier Boyle",
+      "Temam"
+    ],
+    "venue": "Proceedings of the 4th international conference on Computing frontiers",
+    "year": 2007,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Abhimanyu Dubey et al. The llama 3 herd of models. arXiv preprint arXiv:2407.21783, 2024.",
+    "title": "The llama 3 herd of models",
+    "authors": [
+      "Abhimanyu Dubey"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2407.21783"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Yubo Gao, Maryam Haghifam, Christina Giannoula, Renbo Tu, Gennady Pekhimenko, and Nandita Vijaykumar. Proteus: Preserving model confidentiality during graph optimizations. In Proceedings of Machine Learning and Systems, 2024.",
+    "title": "Proteus: Preserving model confidentiality during graph optimizations",
+    "authors": [
+      "Yubo Gao",
+      "Maryam Haghifam",
+      "Christina Giannoula",
+      "Renbo Tu",
+      "Gennady Pekhimenko",
+      "Nandita Vijaykumar"
+    ],
+    "venue": "Proceedings of Machine Learning and Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Jonathan Ho, Ajay Jain, and Pieter Abbeel. Denoising diffusion probabilistic models. In Advances in Neural Information Processing Systems, 2020.",
+    "title": "Denoising diffusion probabilistic models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "Pieter Abbeel"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Emiel Hoogeboom, Alexey A Gritsenko, Jasmijn Bastings, Ben Poole, Rianne van den Berg, and Tim Salimans. Autoregressive diffusion models. In International Conference on Learning Representations, 2021a.",
+    "title": "Rianne van den Berg, and Tim Salimans. Autoregressive diffusion models",
+    "authors": [
+      "Emiel Hoogeboom",
+      "Alexey A Gritsenko",
+      "Jasmijn Bastings",
+      "Ben Poole"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Emiel Hoogeboom, Didrik Nielsen, Priyank Jaini, Patrick Forré, and Max Welling. Argmax flows and multinomial diffusion: Learning categorical distributions. In Advances in Neural Information Processing Systems, pp. 12454-12465, 2021b.",
+    "title": "Argmax flows and multinomial diffusion: Learning categorical distributions",
+    "authors": [
+      "Emiel Hoogeboom",
+      "Didrik Nielsen",
+      "Priyank Jaini",
+      "Patrick Forré",
+      "Max Welling"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Chenqing Hua, Sitao Luan, Minkai Xu, Zhitao Ying, Jie Fu, Stefano Ermon, and Doina Precup. Mudiff: Unified diffusion for complete molecule generation. In Proceedings of the Second Learning on Graphs Conference, pp. 33:1-33:26, 2024.",
+    "title": "Mudiff: Unified diffusion for complete molecule generation",
+    "authors": [
+      "Chenqing Hua",
+      "Sitao Luan",
+      "Minkai Xu",
+      "Zhitao Ying",
+      "Jie Fu",
+      "Stefano Ermon",
+      "Doina Precup"
+    ],
+    "venue": "Proceedings of the Second Learning on Graphs Conference",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Zhihao Jia, Sina Lin, Mingyu Gao, Matei Zaharia, and Alex Aiken. Improving the accuracy, scalability, and performance of graph neural networks with roc. Proceedings of Machine Learning and Systems, 2:187-198, 2020.",
+    "title": "Improving the accuracy, scalability, and performance of graph neural networks with roc",
+    "authors": [
+      "Zhihao Jia",
+      "Sina Lin",
+      "Mingyu Gao",
+      "Matei Zaharia",
+      "Alex Aiken"
+    ],
+    "venue": "Proceedings of Machine Learning and Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Jaehyeong Jo, Seul Lee, and Sung Ju Hwang. Score-based generative modeling of graphs via the system of stochastic differential equations. In Proceedings of the 39th International Conference on Machine Learning, pp. 10362-10383, 2022.",
+    "title": "Score-based generative modeling of graphs via the system of stochastic differential equations",
+    "authors": [
+      "Jaehyeong Jo",
+      "Seul Lee",
+      "Sung Ju Hwang"
+    ],
+    "venue": "Proceedings of the 39th International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "A. B. Kahn. Topological sorting of large networks. Commun. ACM, 5(11):558-562, 1962.",
+    "title": "Topological sorting of large networks",
+    "authors": [
+      "A B Kahn"
+    ],
+    "venue": "Commun. ACM",
+    "year": 1962,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Sam Kaufman, Phitchaya Phothilimthana, Yanqi Zhou, Charith Mendis, Sudip Roy, Amit Sabne, and Mike Burrows. A learned performance model for tensor processing units. Proceedings of Machine Learning and Systems, 3:387-400, 2021.",
+    "title": "A learned performance model for tensor processing units",
+    "authors": [
+      "Sam Kaufman",
+      "Phitchaya Phothilimthana",
+      "Yanqi Zhou",
+      "Charith Mendis",
+      "Sudip Roy",
+      "Amit Sabne",
+      "Mike Burrows"
+    ],
+    "venue": "Proceedings of Machine Learning and Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Lingkai Kong, Jiaming Cui, Haotian Sun, Yuchen Zhuang, B. Aditya Prakash, and Chao Zhang. Autoregressive diffusion model for graph generation. In Proceedings of the 40th International Conference on Machine Learning, pp. 17391-17408, 2023.",
+    "title": "Autoregressive diffusion model for graph generation",
+    "authors": [
+      "Lingkai Kong",
+      "Jiaming Cui",
+      "Haotian Sun",
+      "Yuchen Zhuang",
+      "B Aditya Prakash",
+      "Chao Zhang"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Menghao Li, Minjia Zhang, Chi Wang, and Mingqin Li. Adatune: Adaptive tensor program compilation made efficient. Advances in Neural Information Processing Systems, 33:14807-14819, 2020.",
+    "title": "Adatune: Adaptive tensor program compilation made efficient",
+    "authors": [
+      "Menghao Li",
+      "Minjia Zhang",
+      "Chi Wang",
+      "Mingqin Li"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Muchen Li, Jeffrey Yunfan Liu, Leonid Sigal, and Renjie Liao. GraphPNAS: Learning probabilistic graph generators for neural architecture search. Transactions on Machine Learning Research, 2023a.",
+    "title": "GraphPNAS: Learning probabilistic graph generators for neural architecture search",
+    "authors": [
+      "Muchen Li",
+      "Jeffrey Yunfan Liu",
+      "Leonid Sigal",
+      "Renjie Liao"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Mufei Li, Eleonora Kreačić, Vamsi K. Potluru, and Pan Li. Graphmaker: Can diffusion models generate large attributed graphs? arXiv preprint arXiv:2310.13833, 2023b.",
+    "title": "Graphmaker: Can diffusion models generate large attributed graphs",
+    "authors": [
+      "Mufei Li",
+      "Eleonora Kreačić",
+      "K Vamsi",
+      "Pan Potluru",
+      "Li"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.13833"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Yujia Li, Oriol Vinyals, Chris Dyer, Razvan Pascanu, and Peter Battaglia. Learning deep generative models of graphs. arXiv preprint arXiv:1803.03324, 2018.",
+    "title": "Learning deep generative models of graphs",
+    "authors": [
+      "Yujia Li",
+      "Oriol Vinyals",
+      "Chris Dyer",
+      "Razvan Pascanu",
+      "Peter Battaglia"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1803.03324"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Renjie Liao, Yujia Li, Yang Song, Shenlong Wang, Will Hamilton, David K Duvenaud, Raquel Urtasun, and Richard Zemel. Efficient graph generation with graph recurrent attention networks. In Advances in Neural Information Processing Systems, 2019.",
+    "title": "Efficient graph generation with graph recurrent attention networks",
+    "authors": [
+      "Renjie Liao",
+      "Yujia Li",
+      "Yang Song",
+      "Shenlong Wang",
+      "Will Hamilton",
+      "David K Duvenaud",
+      "Raquel Urtasun",
+      "Richard Zemel"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Zinan Lin, Alankar Jain, Chen Wang, Giulia Fanti, and Vyas Sekar. Using gans for sharing networked time series data: Challenges, initial promise, and open questions. In Proceedings of the ACM Internet Measurement Conference, pp. 464-483, 2020.",
+    "title": "Using gans for sharing networked time series data: Challenges, initial promise, and open questions",
+    "authors": [
+      "Zinan Lin",
+      "Alankar Jain",
+      "Chen Wang",
+      "Giulia Fanti",
+      "Vyas Sekar"
+    ],
+    "venue": "Proceedings of the ACM Internet Measurement Conference",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Shutian Luo, Huanle Xu, Chengzhi Lu, Kejiang Ye, Guoyao Xu, Liping Zhang, Yu Ding, Jian He, and Chengzhong Xu. Characterizing microservice dependency and performance: Alibaba trace analysis. In Proceedings of the ACM Symposium on Cloud Computing, pp. 412-426, 2021.",
+    "title": "Characterizing microservice dependency and performance: Alibaba trace analysis",
+    "authors": [
+      "Shutian Luo",
+      "Huanle Xu",
+      "Chengzhi Lu",
+      "Kejiang Ye",
+      "Guoyao Xu",
+      "Liping Zhang",
+      "Yu Ding",
+      "Jian He",
+      "Chengzhong Xu"
+    ],
+    "venue": "Proceedings of the ACM Symposium on Cloud Computing",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Charith Mendis, Alex Renda, Saman Amarasinghe, and Michael Carbin. Ithemal: Accurate, portable and fast basic block throughput estimation using deep neural networks. In International Conference on machine learning, pp. 4505-4515. PMLR, 2019.",
+    "title": "Ithemal: Accurate, portable and fast basic block throughput estimation using deep neural networks",
+    "authors": [
+      "Charith Mendis",
+      "Alex Renda",
+      "Saman Amarasinghe",
+      "Michael Carbin"
+    ],
+    "venue": "International Conference on machine learning",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Alexander Quinn Nichol and Prafulla Dhariwal. Improved denoising diffusion probabilistic models. In Proceedings of the 38th International Conference on Machine Learning, pp. 8162-8171, 2021.",
+    "title": "Improved denoising diffusion probabilistic models",
+    "authors": [
+      "Alexander Quinn",
+      "Nichol",
+      "Prafulla Dhariwal"
+    ],
+    "venue": "Proceedings of the 38th International Conference on Machine Learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Chenhao Niu, Yang Song, Jiaming Song, Shengjia Zhao, Aditya Grover, and Stefano Ermon. Permutation invariant graph generation via score-based generative modeling. In Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, pp. 4474-4484, 2020.",
+    "title": "Permutation invariant graph generation via score-based generative modeling",
+    "authors": [
+      "Chenhao Niu",
+      "Yang Song",
+      "Jiaming Song",
+      "Shengjia Zhao",
+      "Aditya Grover",
+      "Stefano Ermon"
+    ],
+    "venue": "Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Adam Paszke, Sam Gross, Francisco Massa, Adam Lerer, James Bradbury, Gregory Chanan, Trevor Killeen, Zeming Lin, Natalia Gimelshein, Luca Antiga, Alban Desmaison, Andreas Kopf, Edward Yang, Zachary DeVito, Martin Raison, Alykhan Tejani, Sasank Chilamkurthy, Benoit Steiner, Lu Fang, Junjie Bai, and Soumith Chintala. Pytorch: An imperative style, high-performance deep learning library. In Advances in Neural Information Processing Systems, pp. 8024-8035, 2019.",
+    "title": "Pytorch: An imperative style, high-performance deep learning library",
+    "authors": [
+      "Adam Paszke",
+      "Sam Gross",
+      "Francisco Massa",
+      "Adam Lerer",
+      "James Bradbury",
+      "Gregory Chanan",
+      "Trevor Killeen",
+      "Zeming Lin",
+      "Natalia Gimelshein",
+      "Luca Antiga",
+      "Alban Desmaison",
+      "Andreas Kopf",
+      "Edward Yang",
+      "Zachary Devito",
+      "Martin Raison",
+      "Alykhan Tejani",
+      "Sasank Chilamkurthy",
+      "Benoit Steiner",
+      "Lu Fang",
+      "Junjie Bai",
+      "Soumith Chintala"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Tim Pearce, Tabish Rashid, Anssi Kanervisto, Dave Bignell, Mingfei Sun, Raluca Georgescu, Sergio Valcarcel Macua, Shan Zheng Tan, Ida Momennejad, Katja Hofmann, et al. Imitating human behaviour with diffusion models. In The Eleventh International Conference on Learning Representations, 2023.",
+    "title": "Imitating human behaviour with diffusion models",
+    "authors": [
+      "Tim Pearce",
+      "Tabish Rashid",
+      "Anssi Kanervisto",
+      "Dave Bignell",
+      "Mingfei Sun",
+      "Raluca Georgescu",
+      "Sergio Valcarcel Macua",
+      "Shan Zheng Tan",
+      "Ida Momennejad",
+      "Katja Hofmann"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Judea Pearl. Causal diagrams for empirical research. Biometrika, 82(4):669-688, 1995.",
+    "title": "Causal diagrams for empirical research",
+    "authors": [
+      "Judea Pearl"
+    ],
+    "venue": "Biometrika",
+    "year": 1995,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "William Peebles and Saining Xie. Scalable diffusion models with transformers. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 4195-4205, 2023.",
+    "title": "Scalable diffusion models with transformers",
+    "authors": [
+      "William Peebles",
+      "Saining Xie"
+    ],
+    "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Mangpo Phothilimthana, Sami Abu-El-Haija, Bryan Perozzi, Walter Reade, and Ashley Chow. Google -fast or slow? predict AI model runtime. https://www.kaggle. com/competitions/predict-ai-model-runtime, 2023a. URL https://www. kaggle.com/competitions/predict-ai-model-runtime.",
+    "title": "Google -fast or slow? predict AI model runtime",
+    "authors": [
+      "Mangpo Phothilimthana",
+      "Sami Abu-El-Haija",
+      "Bryan Perozzi",
+      "Walter Reade",
+      "Ashley Chow"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://www.kaggle.com/competitions/predict-ai-model-runtime"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Phitchaya Mangpo Phothilimthana, Sami Abu-El-Haija, Kaidi Cao, Bahare Fatemi, Michael Burrows, Charith Mendis, and Bryan Perozzi. TpuGraphs: A performance prediction dataset on large tensor computational graphs. In Advances in Neural Information Processing Systems, 2023b.",
+    "title": "TpuGraphs: A performance prediction dataset on large tensor computational graphs",
+    "authors": [
+      "Phitchaya Mangpo Phothilimthana",
+      "Sami Abu-El-Haija",
+      "Kaidi Cao",
+      "Bahare Fatemi",
+      "Michael Burrows",
+      "Charith Mendis",
+      "Bryan Perozzi"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Kashif Rasul, Calvin Seward, Ingmar Schuster, and Roland Vollgraf. Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting. In International Conference on Machine Learning, pp. 8857-8868. PMLR, 2021.",
+    "title": "Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting",
+    "authors": [
+      "Kashif Rasul",
+      "Calvin Seward",
+      "Ingmar Schuster",
+      "Roland Vollgraf"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn Ommer. Highresolution image synthesis with latent diffusion models. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 10684-10695, 2022.",
+    "title": "Highresolution image synthesis with latent diffusion models",
+    "authors": [
+      "Robin Rombach",
+      "Andreas Blattmann",
+      "Dominik Lorenz",
+      "Patrick Esser",
+      "Björn Ommer"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Rico Sennrich, Barry Haddow, and Alexandra Birch. Neural machine translation of rare words with subword units. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 1715-1725, 2016.",
+    "title": "Neural machine translation of rare words with subword units",
+    "authors": [
+      "Rico Sennrich",
+      "Barry Haddow",
+      "Alexandra Birch"
+    ],
+    "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Steven S. Skiena. The Algorithm Design Manual. Springer, 2008.",
+    "title": "The Algorithm Design Manual",
+    "authors": [
+      "Steven S Skiena"
+    ],
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Srinivas Sridharan, Taekyung Heo, Louis Feng, Zhaodong Wang, Matt Bergeron, Wenyin Fu, Shengbao Zheng, Brian Coutinho, Saeed Rashidi, Changhai Man, and Tushar Krishna. Chakra: Advancing performance benchmarking and co-design using standardized execution traces. arXiv preprint arXiv:2305.14516, 2023.",
+    "title": "Chakra: Advancing performance benchmarking and co-design using standardized execution traces",
+    "authors": [
+      "Srinivas Sridharan",
+      "Taekyung Heo",
+      "Louis Feng",
+      "Zhaodong Wang",
+      "Matt Bergeron",
+      "Wenyin Fu",
+      "Shengbao Zheng",
+      "Brian Coutinho",
+      "Saeed Rashidi",
+      "Changhai Man",
+      "Tushar Krishna"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.14516"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Benoit Steiner, Chris Cummins, Horace He, and Hugh Leather. Value learning for throughput optimization of deep learning workloads. Proceedings of Machine Learning and Systems, 3:323-334, 2021.",
+    "title": "Value learning for throughput optimization of deep learning workloads",
+    "authors": [
+      "Benoit Steiner",
+      "Chris Cummins",
+      "Horace He",
+      "Hugh Leather"
+    ],
+    "venue": "Proceedings of Machine Learning and Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Ondřej Sỳkora, Phitchaya Mangpo Phothilimthana, Charith Mendis, and Amir Yazdanbakhsh. Granite: A graph neural network model for basic block throughput estimation. In 2022 IEEE International Symposium on Workload Characterization (IISWC), pp. 14-26. IEEE, 2022.",
+    "title": "Granite: A graph neural network model for basic block throughput estimation",
+    "authors": [
+      "Ondřej Sỳkora",
+      "Phitchaya Mangpo Phothilimthana",
+      "Charith Mendis",
+      "Amir Yazdanbakhsh"
+    ],
+    "venue": "2022 IEEE International Symposium on Workload Characterization (IISWC)",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Kazuyoshi Takagi. Design and analysis of vlsi circuits based on directed acyclic graphs. 1999.",
+    "title": "Design and analysis of vlsi circuits based on directed acyclic graphs",
+    "authors": [
+      "Kazuyoshi Takagi"
+    ],
+    "year": 1999,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Robert Tarjan. Depth-first search and linear graph algorithms. SIAM Journal on Computing, 1(2): 146-160, 1972.",
+    "title": "Depth-first search and linear graph algorithms",
+    "authors": [
+      "Robert Tarjan"
+    ],
+    "venue": "SIAM Journal on Computing",
+    "year": 1972,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Peter W G Tennant, Eleanor J Murray, Kellyn F Arnold, Laurie Berrie, Matthew P Fox, Sarah C Gadd, Wendy J Harrison, Claire Keeble, Lynsie R Ranker, Johannes Textor, Georgia D Tomova, Mark S Gilthorpe, and George T H Ellison. Use of directed acyclic graphs (DAGs) to identify confounders in applied health research: review and recommendations. International Journal of Epidemiology, 50(2):620-632, 2020.",
+    "title": "Use of directed acyclic graphs (DAGs) to identify confounders in applied health research: review and recommendations",
+    "authors": [
+      "W G Peter",
+      "Eleanor J Tennant",
+      "Kellyn F Murray",
+      "Laurie Arnold",
+      "Matthew P Berrie",
+      "Sarah C Fox",
+      "Wendy J Gadd",
+      "Claire Harrison",
+      "Keeble",
+      "Johannes Lynsie R Ranker",
+      "Georgia D Textor",
+      "Tomova",
+      "George T H Mark S Gilthorpe",
+      "Ellison"
+    ],
+    "venue": "International Journal of Epidemiology",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, and Illia Polosukhin. Attention is all you need. In Advances in Neural Information Processing Systems, 2017.",
+    "title": "Attention is all you need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N Gomez",
+      "Łukasz Kaiser",
+      "Illia Polosukhin"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Clement Vignac, Igor Krawczuk, Antoine Siraudin, Bohan Wang, Volkan Cevher, and Pascal Frossard. Digress: Discrete denoising diffusion for graph generation. In International Conference on Learning Representations, 2023a.",
+    "title": "Digress: Discrete denoising diffusion for graph generation",
+    "authors": [
+      "Clement Vignac",
+      "Igor Krawczuk",
+      "Antoine Siraudin",
+      "Bohan Wang",
+      "Volkan Cevher",
+      "Pascal Frossard"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Clément Vignac, Nagham Osman, Laura Toni, and Pascal Frossard. Midi: Mixed graph and 3d denoising diffusion for molecule generation. In Machine Learning and Knowledge Discovery in Databases: Research Track, pp. 560-576, 2023b.",
+    "title": "Midi: Mixed graph and 3d denoising diffusion for molecule generation",
+    "authors": [
+      "Clément Vignac",
+      "Nagham Osman",
+      "Laura Toni",
+      "Pascal Frossard"
+    ],
+    "venue": "Machine Learning and Knowledge Discovery in Databases: Research Track",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Minjie Wang, Da Zheng, Zihao Ye, Quan Gan, Mufei Li, Xiang Song, Jinjing Zhou, Chao Ma, Lingfan Yu, Yu Gai, Tianjun Xiao, Tong He, George Karypis, Jinyang Li, and Zheng Zhang. Deep graph library: A graph-centric, highly-performant package for graph neural networks. arXiv preprint arXiv:1909.01315, 2019.",
+    "title": "Deep graph library: A graph-centric, highly-performant package for graph neural networks",
+    "authors": [
+      "Minjie Wang",
+      "Da Zheng",
+      "Zihao Ye",
+      "Quan Gan",
+      "Mufei Li",
+      "Xiang Song",
+      "Jinjing Zhou",
+      "Chao Ma",
+      "Lingfan Yu",
+      "Yu Gai",
+      "Tianjun Xiao",
+      "Tong He",
+      "George Karypis",
+      "Jinyang Li",
+      "Zheng Zhang"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1909.01315"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Zhendong Wang, Jonathan J Hunt, and Mingyuan Zhou. Diffusion policies as an expressive policy class for offline reinforcement learning. In The Eleventh International Conference on Learning Representations, 2023.",
+    "title": "Diffusion policies as an expressive policy class for offline reinforcement learning",
+    "authors": [
+      "Zhendong Wang",
+      "Jonathan J Hunt",
+      "Mingyuan Zhou"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "Wei Wen, Hanxiao Liu, Yiran Chen, Hai Li, Gabriel Bender, and Pieter-Jan Kindermans. Neural predictor for neural architecture search. In European Conference on Computer Vision, pp. 660676, 2020.",
+    "title": "Neural predictor for neural architecture search",
+    "authors": [
+      "Wei Wen",
+      "Hanxiao Liu",
+      "Yiran Chen",
+      "Hai Li",
+      "Gabriel Bender",
+      "Pieter-Jan Kindermans"
+    ],
+    "venue": "European Conference on Computer Vision",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Nan Wu, Hang Yang, Yuan Xie, Pan Li, and Cong Hao. High-level synthesis performance prediction using gnns: benchmarking, modeling, and advancing. In Proceedings of the 59th ACM/IEEE Design Automation Conference, DAC '22, pp. 49-54, 2022.",
+    "title": "High-level synthesis performance prediction using gnns: benchmarking, modeling, and advancing",
+    "authors": [
+      "Nan Wu",
+      "Hang Yang",
+      "Yuan Xie",
+      "Pan Li",
+      "Cong Hao"
+    ],
+    "venue": "Proceedings of the 59th ACM/IEEE Design Automation Conference, DAC '22",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "Minji Yoon, Yue Wu, John Palowitch, Bryan Perozzi, and Russ Salakhutdinov. Graph generative model for benchmarking graph neural networks. In Proceedings of the 40th International Conference on Machine Learning, pp. 40175-40198, 2023.",
+    "title": "Graph generative model for benchmarking graph neural networks",
+    "authors": [
+      "Minji Yoon",
+      "Yue Wu",
+      "John Palowitch",
+      "Bryan Perozzi",
+      "Russ Salakhutdinov"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Jiaxuan You, Rex Ying, Xiang Ren, William Hamilton, and Jure Leskovec. GraphRNN: Generating realistic graphs with deep auto-regressive models. In Proceedings of the 35th International Conference on Machine Learning, pp. 5708-5717, 2018.",
+    "title": "GraphRNN: Generating realistic graphs with deep auto-regressive models",
+    "authors": [
+      "Jiaxuan You",
+      "Rex Ying",
+      "Xiang Ren",
+      "William Hamilton",
+      "Jure Leskovec"
+    ],
+    "venue": "Proceedings of the 35th International Conference on Machine Learning",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Li Lyna Zhang, Shihao Han, Jianyu Wei, Ningxin Zheng, Ting Cao, Yuqing Yang, and Yunxin Liu. nn-meter: Towards accurate latency prediction of deep-learning model inference on diverse edge devices. In Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services, pp. 81-93, 2021.",
+    "title": "nn-meter: Towards accurate latency prediction of deep-learning model inference on diverse edge devices",
+    "authors": [
+      "Li Lyna Zhang",
+      "Shihao Han",
+      "Jianyu Wei",
+      "Ningxin Zheng",
+      "Ting Cao",
+      "Yuqing Yang",
+      "Yunxin Liu"
+    ],
+    "venue": "Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Muhan Zhang, Shali Jiang, Zhicheng Cui, Roman Garnett, and Yixin Chen. D-VAE: A variational autoencoder for directed acyclic graphs. In Advances in Neural Information Processing Systems, 2019.",
+    "title": "D-VAE: A variational autoencoder for directed acyclic graphs",
+    "authors": [
+      "Muhan Zhang",
+      "Shali Jiang",
+      "Zhicheng Cui",
+      "Roman Garnett",
+      "Yixin Chen"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

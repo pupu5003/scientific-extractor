@@ -1,0 +1,945 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Mohammad Gheshlaghi Azar, Zhaohan Daniel Guo, Bilal Piot, Remi Munos, Mark Rowland, Michal Valko, and Daniele Calandriello. A general theoretical paradigm to understand learning from human preferences. In International Conference on Artificial Intelligence and Statistics, pp. 4447-4455. PMLR, 2024.",
+    "title": "A general theoretical paradigm to understand learning from human preferences",
+    "authors": [
+      "Mohammad Gheshlaghi Azar",
+      "Zhaohan Daniel Guo",
+      "Bilal Piot",
+      "Remi Munos",
+      "Mark Rowland",
+      "Michal Valko",
+      "Daniele Calandriello"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort, Deep Ganguli, Tom Henighan, et al. Training a helpful and harmless assistant with reinforcement learning from human feedback. arXiv preprint arXiv:2204.05862, 2022.",
+    "title": "Training a helpful and harmless assistant with reinforcement learning from human feedback",
+    "authors": [
+      "Yuntao Bai",
+      "Andy Jones",
+      "Kamal Ndousse",
+      "Amanda Askell",
+      "Anna Chen",
+      "Nova Dassarma",
+      "Dawn Drain",
+      "Stanislav Fort",
+      "Deep Ganguli",
+      "Tom Henighan"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2204.05862"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Collin Burns, Pavel Izmailov, Jan Hendrik Kirchner, Bowen Baker, Leo Gao, Leopold Aschenbrenner, Yining Chen, Adrien Ecoffet, Manas Joglekar, Jan Leike, et al. Weak-to-strong generalization: Eliciting strong capabilities with weak supervision. arXiv preprint arXiv:2312.09390, 2023.",
+    "title": "Weak-to-strong generalization: Eliciting strong capabilities with weak supervision",
+    "authors": [
+      "Collin Burns",
+      "Pavel Izmailov",
+      "Jan Hendrik Kirchner",
+      "Bowen Baker",
+      "Leo Gao",
+      "Leopold Aschenbrenner",
+      "Yining Chen",
+      "Adrien Ecoffet",
+      "Manas Joglekar",
+      "Jan Leike"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2312.09390"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Paul F Christiano, Jan Leike, Tom Brown, Miljan Martic, Shane Legg, and Dario Amodei. Deep reinforcement learning from human preferences. Advances in neural information processing systems, 30, 2017.",
+    "title": "Deep reinforcement learning from human preferences",
+    "authors": [
+      "Jan Paul F Christiano",
+      "Tom Leike",
+      "Miljan Brown",
+      "Shane Martic",
+      "Dario Legg",
+      "Amodei"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, et al. Training verifiers to solve math word problems. arXiv preprint arXiv:2110.14168, 2021.",
+    "title": "Training verifiers to solve math word problems",
+    "authors": [
+      "Karl Cobbe",
+      "Vineet Kosaraju",
+      "Mohammad Bavarian",
+      "Mark Chen",
+      "Heewoo Jun",
+      "Lukasz Kaiser",
+      "Matthias Plappert",
+      "Jerry Tworek",
+      "Jacob Hilton",
+      "Reiichiro Nakano"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2110.14168"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Ganqu Cui, Lifan Yuan, Ning Ding, Guanming Yao, Bingxiang He, Wei Zhu, Yuan Ni, Guotong Xie, Ruobing Xie, Yankai Lin, et al. Ultrafeedback: Boosting language models with scaled ai feedback. In Forty-first International Conference on Machine Learning, 2024.",
+    "title": "Ultrafeedback: Boosting language models with scaled ai feedback",
+    "authors": [
+      "Ganqu Cui",
+      "Lifan Yuan",
+      "Ning Ding",
+      "Guanming Yao",
+      "Bingxiang He",
+      "Wei Zhu",
+      "Yuan Ni",
+      "Guotong Xie",
+      "Ruobing Xie",
+      "Yankai Lin"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Herbert Aron David. The method of paired comparisons, volume 12. London, 1963.",
+    "title": "The method of paired comparisons",
+    "authors": [
+      "David Herbert Aron"
+    ],
+    "year": 1963,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Ning Ding, Yulin Chen, Bokai Xu, Yujia Qin, Zhi Zheng, Shengding Hu, Zhiyuan Liu, Maosong Sun, and Bowen Zhou. Enhancing chat language models by scaling high-quality instructional conversations. arXiv preprint arXiv:2305.14233, 2023.",
+    "title": "Enhancing chat language models by scaling high-quality instructional conversations",
+    "authors": [
+      "Ning Ding",
+      "Yulin Chen",
+      "Bokai Xu",
+      "Yujia Qin",
+      "Zhi Zheng",
+      "Shengding Hu",
+      "Zhiyuan Liu",
+      "Maosong Sun",
+      "Bowen Zhou"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.14233"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Yann Dubois, Balázs Galambosi, Percy Liang, and Tatsunori B Hashimoto. Length-controlled alpacaeval: A simple way to debias automatic evaluators. arXiv preprint arXiv:2404.04475, 2024.",
+    "title": "Length-controlled alpacaeval: A simple way to debias automatic evaluators",
+    "authors": [
+      "Yann Dubois",
+      "Balázs Galambosi",
+      "Percy Liang",
+      "Tatsunori B Hashimoto"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.04475"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Kawin Ethayarajh, Winnie Xu, Niklas Muennighoff, Dan Jurafsky, and Douwe Kiela. Model alignment as prospect theoretic optimization. In Forty-first International Conference on Machine Learning.",
+    "title": "Model alignment as prospect theoretic optimization",
+    "authors": [
+      "Kawin Ethayarajh",
+      "Winnie Xu",
+      "Niklas Muennighoff",
+      "Dan Jurafsky",
+      "Douwe Kiela"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Robert M French. Semi-distributed representations and catastrophic forgetting in connectionist networks. Connection Science, 4(3-4):365-377, 1992.",
+    "title": "Semi-distributed representations and catastrophic forgetting in connectionist networks",
+    "authors": [
+      "M Robert",
+      "French"
+    ],
+    "venue": "Connection Science",
+    "year": 1992,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Leo Gao, Jonathan Tow, Baber Abbasi, Stella Biderman, Sid Black, Anthony DiPofi, Charles Foster, Laurence Golding, Jeffrey Hsu, Alain Le Noac'h, Haonan Li, Kyle McDonell, Niklas Muennighoff, Chris Ociepa, Jason Phang, Laria Reynolds, Hailey Schoelkopf, Aviya Skowron, Lintang Sutawika, Eric Tang, Anish Thite, Ben Wang, Kevin Wang, and Andy Zou. A framework for few-shot language model evaluation, 07 2024. URL https://zenodo.org/records/ 12608602.",
+    "title": "A framework for few-shot language model evaluation",
+    "authors": [
+      "Leo Gao",
+      "Jonathan Tow",
+      "Stella Baber Abbasi",
+      "Sid Biderman",
+      "Anthony Black",
+      "Charles Dipofi",
+      "Laurence Foster",
+      "Jeffrey Golding",
+      "Alain Hsu",
+      "Haonan Le Noac'h",
+      "Kyle Li",
+      "Niklas Mcdonell",
+      "Chris Muennighoff",
+      "Jason Ociepa",
+      "Laria Phang",
+      "Hailey Reynolds",
+      "Aviya Schoelkopf",
+      "Lintang Skowron",
+      "Eric Sutawika",
+      "Anish Tang",
+      "Ben Thite",
+      "Kevin Wang",
+      "Andy Wang",
+      "Zou"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://zenodo.org/records/12608602"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Matthieu Geist, Bruno Scherrer, and Olivier Pietquin. A theory of regularized markov decision processes. In International Conference on Machine Learning, pp. 2160-2169. PMLR, 2019.",
+    "title": "A theory of regularized markov decision processes",
+    "authors": [
+      "Matthieu Geist",
+      "Bruno Scherrer",
+      "Olivier Pietquin"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt. Measuring massive multitask language understanding, 2021. URL https: //arxiv.org/abs/2009.03300.",
+    "title": "Measuring massive multitask language understanding",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Steven Basart",
+      "Andy Zou",
+      "Mantas Mazeika",
+      "Dawn Song",
+      "Jacob Steinhardt"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "2009.03300",
+      "url": "https://arxiv.org/abs/2009.03300"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Jiwoo Hong, Noah Lee, and James Thorne. Orpo: Monolithic preference optimization without reference model. arXiv preprint arXiv:2403.07691, 2(4):5, 2024.",
+    "title": "Monolithic preference optimization without reference model",
+    "authors": [
+      "Jiwoo Hong",
+      "Noah Lee",
+      "James Thorne",
+      "Orpo"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.07691"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, and Ion Stoica. Efficient memory management for large language model serving with pagedattention, 2023. URL https://arxiv.org/abs/2309.06180.",
+    "title": "Efficient memory management for large language model serving with pagedattention",
+    "authors": [
+      "Woosuk Kwon",
+      "Zhuohan Li",
+      "Siyuan Zhuang",
+      "Ying Sheng",
+      "Lianmin Zheng",
+      "Cody Hao Yu",
+      "Joseph E Gonzalez",
+      "Hao Zhang",
+      "Ion Stoica"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2309.06180",
+      "url": "https://arxiv.org/abs/2309.06180"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Haonan Li, Yixuan Zhang, Fajri Koto, Yifei Yang, Hai Zhao, Yeyun Gong, Nan Duan, and Timothy Baldwin. Cmmlu: Measuring massive multitask language understanding in chinese, 2024a. URL https://arxiv.org/abs/2306.09212.",
+    "title": "Cmmlu: Measuring massive multitask language understanding in chinese",
+    "authors": [
+      "Haonan Li",
+      "Yixuan Zhang",
+      "Fajri Koto",
+      "Yifei Yang",
+      "Hai Zhao",
+      "Yeyun Gong",
+      "Nan Duan",
+      "Timothy Baldwin"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2306.09212",
+      "url": "https://arxiv.org/abs/2306.09212"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, and Dan Jurafsky. Deep reinforcement learning for dialogue generation, 2016. URL https://arxiv.org/abs/1606. 01541.",
+    "title": "Deep reinforcement learning for dialogue generation",
+    "authors": [
+      "Jiwei Li",
+      "Will Monroe",
+      "Alan Ritter",
+      "Michel Galley",
+      "Jianfeng Gao",
+      "Dan Jurafsky"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "url": "https://arxiv.org/abs/1606.01541"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Qintong Li, Leyang Cui, Xueliang Zhao, Lingpeng Kong, and Wei Bi. Gsm-plus: A comprehensive benchmark for evaluating the robustness of llms as mathematical problem solvers, 2024b. URL https://arxiv.org/abs/2402.19255.",
+    "title": "Gsm-plus: A comprehensive benchmark for evaluating the robustness of llms as mathematical problem solvers",
+    "authors": [
+      "Qintong Li",
+      "Leyang Cui",
+      "Xueliang Zhao",
+      "Lingpeng Kong",
+      "Wei Bi"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2402.19255",
+      "url": "https://arxiv.org/abs/2402.19255"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Tianle Li, Wei-Lin Chiang, Evan Frick, Lisa Dunlap, Tianhao Wu, Banghua Zhu, Joseph E Gonzalez, and Ion Stoica. From crowdsourced data to high-quality benchmarks: Arena-hard and benchbuilder pipeline. arXiv preprint arXiv:2406.11939, 2024c.",
+    "title": "From crowdsourced data to high-quality benchmarks: Arena-hard and benchbuilder pipeline",
+    "authors": [
+      "Tianle Li",
+      "Wei-Lin Chiang",
+      "Evan Frick",
+      "Lisa Dunlap",
+      "Tianhao Wu",
+      "Banghua Zhu",
+      "Joseph E Gonzalez",
+      "Ion Stoica"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.11939"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Stephanie Lin, Jacob Hilton, and Owain Evans. Truthfulqa: Measuring how models mimic human falsehoods, 2021.",
+    "title": "Measuring how models mimic human falsehoods",
+    "authors": [
+      "Stephanie Lin",
+      "Jacob Hilton",
+      "Owain Evans",
+      "Truthfulqa"
+    ],
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Alisa Liu, Xiaochuang Han, Yizhong Wang, Yulia Tsvetkov, Yejin Choi, and Noah A Smith. Tuning language models by proxy. arXiv preprint arXiv:2401.08565, 2024a.",
+    "title": "Tuning language models by proxy",
+    "authors": [
+      "Alisa Liu",
+      "Xiaochuang Han",
+      "Yizhong Wang",
+      "Yulia Tsvetkov",
+      "Yejin Choi",
+      "Noah A Smith"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.08565"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Tianlin Liu, Shangmin Guo, Leonardo Bianco, Daniele Calandriello, Quentin Berthet, Felipe Llinares, Jessica Hoffmann, Lucas Dixon, Michal Valko, and Mathieu Blondel. Decoding-time realignment of language models. arXiv preprint arXiv:2402.02992, 2024b.",
+    "title": "Decoding-time realignment of language models",
+    "authors": [
+      "Tianlin Liu",
+      "Shangmin Guo",
+      "Leonardo Bianco",
+      "Daniele Calandriello",
+      "Quentin Berthet",
+      "Felipe Llinares",
+      "Jessica Hoffmann",
+      "Lucas Dixon",
+      "Michal Valko",
+      "Mathieu Blondel"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.02992"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Llama-Team. The llama 3 herd of models, 2024. URL https://arxiv.org/abs/2407. 21783.",
+    "title": "The llama 3 herd of models",
+    "authors": [
+      "Llama-Team"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://arxiv.org/abs/2407.21783"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Yu Meng, Mengzhou Xia, and Danqi Chen. Simpo: Simple preference optimization with a reference-free reward. arXiv preprint arXiv:2405.14734, 2024.",
+    "title": "Simple preference optimization with a reference-free reward",
+    "authors": [
+      "Yu Meng",
+      "Mengzhou Xia",
+      "Danqi Chen",
+      "Simpo"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.14734"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Eric Mitchell, Rafael Rafailov, Archit Sharma, Chelsea Finn, and Christopher D Manning. An emulator for fine-tuning large language models using small language models. arXiv preprint arXiv:2310.12962, 2023.",
+    "title": "An emulator for fine-tuning large language models using small language models",
+    "authors": [
+      "Eric Mitchell",
+      "Rafael Rafailov",
+      "Archit Sharma",
+      "Chelsea Finn",
+      "Christopher D Manning"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.12962"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Shashi Narayan, Shay B. Cohen, and Mirella Lapata. Don't give me the details, just the summary! topic-aware convolutional neural networks for extreme summarization. In Ellen Riloff, David Chiang, Julia Hockenmaier, and Jun'ichi Tsujii (eds.), Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pp. 1797-1807, Brussels, Belgium, October-November 2018. Association for Computational Linguistics. doi: 10.18653/v1/ D18-1206. URL https://aclanthology.org/D18-1206.",
+    "title": "Don't give me the details, just the summary! topic-aware convolutional neural networks for extreme summarization",
+    "authors": [
+      "Shashi Narayan",
+      "Shay B Cohen",
+      "Mirella Lapata"
+    ],
+    "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2018,
+    "identifiers": {
+      "doi": "10.18653/v1/D18-1206",
+      "url": "https://aclanthology.org/D18-1206"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "OpenAI. Gpt-4 technical report, 2024. URL https://arxiv.org/abs/2303.08774.",
+    "title": "OpenAI. Gpt-4 technical report",
+    "authors": [],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2303.08774",
+      "url": "https://arxiv.org/abs/2303.08774"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Jing-Cheng Pang, Pengyuan Wang, Kaiyuan Li, Xiong-Hui Chen, Jiacheng Xu, Zongzhang Zhang, and Yang Yu. Language model self-improvement by reinforcement learning contemplation. arXiv preprint arXiv:2305.14483, 2023.",
+    "title": "Language model self-improvement by reinforcement learning contemplation",
+    "authors": [
+      "Jing-Cheng Pang",
+      "Pengyuan Wang",
+      "Kaiyuan Li",
+      "Xiong-Hui Chen",
+      "Jiacheng Xu",
+      "Zongzhang Zhang",
+      "Yang Yu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.14483"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Qwen. Qwen2.5: A party of foundation models, September 2024. URL https://qwenlm. github.io/blog/qwen2.5/.",
+    "title": "Qwen2.5: A party of foundation models",
+    "authors": [
+      "Qwen"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://qwenlm.github.io/blog/qwen2.5/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever, et al. Improving language understanding by generative pre-training. 2018.",
+    "title": "Improving language understanding by generative pre-training",
+    "authors": [
+      "Alec Radford",
+      "Karthik Narasimhan",
+      "Tim Salimans",
+      "Ilya Sutskever"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever, et al. Language models are unsupervised multitask learners. OpenAI blog, 1(8):9, 2019.",
+    "title": "Language models are unsupervised multitask learners",
+    "authors": [
+      "Alec Radford",
+      "Jeffrey Wu",
+      "Rewon Child",
+      "David Luan",
+      "Dario Amodei",
+      "Ilya Sutskever"
+    ],
+    "venue": "OpenAI blog",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Rafael Rafailov, Archit Sharma, Eric Mitchell, Christopher D Manning, Stefano Ermon, and Chelsea Finn. Direct preference optimization: Your language model is secretly a reward model. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Direct preference optimization: Your language model is secretly a reward model",
+    "authors": [
+      "Rafael Rafailov",
+      "Archit Sharma",
+      "Eric Mitchell",
+      "Christopher D Manning",
+      "Stefano Ermon",
+      "Chelsea Finn"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. Proximal policy optimization algorithms, 2017. URL https://arxiv.org/abs/1707.06347.",
+    "title": "Proximal policy optimization algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "1707.06347",
+      "url": "https://arxiv.org/abs/1707.06347"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Ruizhe Shi, Yifang Chen, Yushi Hu, Alisa Liu, Hannaneh Hajishirzi, Noah A. Smith, and Simon Du. Decoding-time language model alignment with multiple objectives, 2024. URL https: //arxiv.org/abs/2406.18853.",
+    "title": "Decoding-time language model alignment with multiple objectives",
+    "authors": [
+      "Ruizhe Shi",
+      "Yifang Chen",
+      "Yushi Hu",
+      "Alisa Liu",
+      "Hannaneh Hajishirzi",
+      "Noah A Smith",
+      "Simon Du"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2406.18853",
+      "url": "https://arxiv.org/abs/2406.18853"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Joar Skalse, Nikolaus Howe, Dmitrii Krasheninnikov, and David Krueger. Defining and characterizing reward gaming. Advances in Neural Information Processing Systems, 35:9460-9471, 2022.",
+    "title": "Defining and characterizing reward gaming",
+    "authors": [
+      "Joar Skalse",
+      "Nikolaus Howe",
+      "Dmitrii Krasheninnikov",
+      "David Krueger"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Nisan Stiennon, Long Ouyang, Jeffrey Wu, Daniel Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, and Paul F Christiano. Learning to summarize with human feedback. Advances in Neural Information Processing Systems, 33:3008-3021, 2020.",
+    "title": "Learning to summarize with human feedback",
+    "authors": [
+      "Nisan Stiennon",
+      "Long Ouyang",
+      "Jeffrey Wu",
+      "Daniel Ziegler",
+      "Ryan Lowe",
+      "Chelsea Voss",
+      "Alec Radford",
+      "Dario Amodei",
+      "Paul F Christiano"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-Yan Gui, Yu-Xiong Wang, Yiming Yang, Kurt Keutzer, and Trevor Darrell. Aligning large multimodal models with factually augmented rlhf, 2023. URL https://arxiv.org/abs/ 2309.14525.",
+    "title": "Aligning large multimodal models with factually augmented rlhf",
+    "authors": [
+      "Zhiqing Sun",
+      "Sheng Shen",
+      "Shengcao Cao",
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Yikang Shen",
+      "Chuang Gan",
+      "Liang-Yan Gui",
+      "Yu-Xiong Wang",
+      "Yiming Yang",
+      "Kurt Keutzer",
+      "Trevor Darrell"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2309.14525",
+      "url": "https://arxiv.org/abs/2309.14525"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, et al. Llama 2: Open foundation and fine-tuned chat models. arXiv preprint arXiv:2307.09288, 2023.",
+    "title": "Llama 2: Open foundation and fine-tuned chat models",
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Nikolay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.09288"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Jason Wei, Maarten Bosma, Vincent Y Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M Dai, and Quoc V Le. Finetuned language models are zero-shot learners. arXiv preprint arXiv:2109.01652, 2021.",
+    "title": "Finetuned language models are zero-shot learners",
+    "authors": [
+      "Jason Wei",
+      "Maarten Bosma",
+      "Y Vincent",
+      "Kelvin Zhao",
+      "Adams Wei Guu",
+      "Brian Yu",
+      "Nan Lester",
+      "Andrew M Du",
+      "Quoc V Dai",
+      "Le"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2109.01652"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "An Yang, Baosong Yang, Binyuan Hui, Bo Zheng, Bowen Yu, Chang Zhou, Chengpeng Li, Chengyuan Li, Dayiheng Liu, Fei Huang, et al. Qwen2 technical report. arXiv preprint arXiv:2407.10671, 2024a.",
+    "title": "Qwen2 technical report",
+    "authors": [
+      "An Yang",
+      "Baosong Yang",
+      "Binyuan Hui",
+      "Bo Zheng",
+      "Bowen Yu",
+      "Chang Zhou",
+      "Chengpeng Li",
+      "Chengyuan Li",
+      "Dayiheng Liu",
+      "Fei Huang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2407.10671"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Yuqing Yang, Yan Ma, and Pengfei Liu. Weak-to-strong reasoning, 2024b. URL https:// arxiv.org/abs/2407.13647.",
+    "title": "Weak-to-strong reasoning",
+    "authors": [
+      "Yuqing Yang",
+      "Yan Ma",
+      "Pengfei Liu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2407.13647",
+      "url": "https://arxiv.org/abs/2407.13647"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Tianyu Yu, Yuan Yao, Haoye Zhang, Taiwen He, Yifeng Han, Ganqu Cui, Jinyi Hu, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun, and Tat-Seng Chua. Rlhf-v: Towards trustworthy mllms via behavior alignment from fine-grained correctional human feedback, 2024. URL https: //arxiv.org/abs/2312.00849.",
+    "title": "Rlhf-v: Towards trustworthy mllms via behavior alignment from fine-grained correctional human feedback",
+    "authors": [
+      "Tianyu Yu",
+      "Yuan Yao",
+      "Haoye Zhang",
+      "Taiwen He",
+      "Yifeng Han",
+      "Ganqu Cui",
+      "Jinyi Hu",
+      "Zhiyuan Liu",
+      "Hai-Tao Zheng",
+      "Maosong Sun",
+      "Tat-Seng Chua"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2312.00849",
+      "url": "https://arxiv.org/abs/2312.00849"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric Xing, et al. Judging llm-as-a-judge with mt-bench and chatbot arena. Advances in Neural Information Processing Systems, 36, 2024a.",
+    "title": "Judging llm-as-a-judge with mt-bench and chatbot arena",
+    "authors": [
+      "Lianmin Zheng",
+      "Wei-Lin Chiang",
+      "Ying Sheng",
+      "Siyuan Zhuang",
+      "Zhanghao Wu",
+      "Yonghao Zhuang",
+      "Zi Lin",
+      "Zhuohan Li",
+      "Dacheng Li",
+      "Eric Xing"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Yaowei Zheng, Richong Zhang, Junhao Zhang, Yanhan Ye, Zheyan Luo, Zhangchi Feng, and Yongqiang Ma. Llamafactory: Unified efficient fine-tuning of 100+ language models. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations), Bangkok, Thailand, 2024b. Association for Computational Linguistics. URL http://arxiv.org/abs/2403.13372.",
+    "title": "Unified efficient fine-tuning of 100+ language models",
+    "authors": [
+      "Yaowei Zheng",
+      "Richong Zhang",
+      "Junhao Zhang",
+      "Yanhan Ye",
+      "Zheyan Luo",
+      "Zhangchi Feng",
+      "Yongqiang Ma",
+      "Llamafactory"
+    ],
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2403.13372",
+      "url": "http://arxiv.org/abs/2403.13372"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Zhanhui Zhou, Zhixuan Liu, Jie Liu, Zhichen Dong, Chao Yang, and Yu Qiao. Weak-to-strong search: Align large language models via searching over small language models. arXiv preprint arXiv:2405.19262, 2024.",
+    "title": "Weak-to-strong search: Align large language models via searching over small language models",
+    "authors": [
+      "Zhanhui Zhou",
+      "Zhixuan Liu",
+      "Jie Liu",
+      "Zhichen Dong",
+      "Chao Yang",
+      "Yu Qiao"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.19262"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Wenhong Zhu, Hongkun Hao, Zhiwei He, Yunze Song, Yumeng Zhang, Hanxu Hu, Yiran Wei, Rui Wang, and Hongyuan Lu. Clean-eval: Clean evaluation on contaminated large language models. arXiv preprint arXiv:2311.09154, 2023.",
+    "title": "Clean-eval: Clean evaluation on contaminated large language models",
+    "authors": [
+      "Wenhong Zhu",
+      "Hongkun Hao",
+      "Zhiwei He",
+      "Yunze Song",
+      "Yumeng Zhang",
+      "Hanxu Hu",
+      "Yiran Wei",
+      "Rui Wang",
+      "Hongyuan Lu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2311.09154"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Wenhong Zhu, Hongkun Hao, Zhiwei He, Yiming Ai, and Rui Wang. Improving open-ended text generation via adaptive decoding. arXiv preprint arXiv:2402.18223, 2024.",
+    "title": "Improving open-ended text generation via adaptive decoding",
+    "authors": [
+      "Wenhong Zhu",
+      "Hongkun Hao",
+      "Zhiwei He",
+      "Yiming Ai",
+      "Rui Wang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.18223"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

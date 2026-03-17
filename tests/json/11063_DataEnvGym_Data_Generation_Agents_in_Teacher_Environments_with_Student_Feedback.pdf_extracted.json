@@ -1,0 +1,1372 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Marc Bellemare, Sriram Srinivasan, Georg Ostrovski, Tom Schaul, David Saxton, and Remi Munos. Unifying count-based exploration and intrinsic motivation. In Advances in neural information processing systems, volume 29, 2016.",
+    "title": "Unifying count-based exploration and intrinsic motivation",
+    "authors": [
+      "Marc Bellemare",
+      "Sriram Srinivasan",
+      "Georg Ostrovski",
+      "Tom Schaul",
+      "David Saxton",
+      "Remi Munos"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Lucas Beyer, Andreas Steiner, André Susano Pinto, Alexander Kolesnikov, Xiao Wang, Daniel Salz, Maxim Neumann, Ibrahim Alabdulmohsin, Michael Tschannen, Emanuele Bugliarello, Thomas Unterthiner, Daniel Keysers, Skanda Koppula, Fangyu Liu, Adam Grycner, Alexey Gritsenko, Neil Houlsby, Manoj Kumar, Keran Rong, Julian Eisenschlos, Rishabh Kabra, Matthias Bauer, Matko Bošnjak, Xi Chen, Matthias Minderer, Paul Voigtlaender, Ioana Bica, Ivana Balazevic, Joan Puigcerver, Pinelopi Papalampidi, Olivier Henaff, Xi Xiong, Radu Soricut, Jeremiah Harmsen, and Xiaohua Zhai. Paligemma: A versatile 3b vlm for transfer, 2024. URL https://arxiv.org/ abs/2407.07726.",
+    "title": "Paligemma: A versatile 3b vlm for transfer",
+    "authors": [
+      "Lucas Beyer",
+      "Andreas Steiner",
+      "André Susano Pinto",
+      "Alexander Kolesnikov",
+      "Xiao Wang",
+      "Daniel Salz",
+      "Maxim Neumann",
+      "Ibrahim Alabdulmohsin",
+      "Michael Tschannen",
+      "Emanuele Bugliarello",
+      "Thomas Unterthiner",
+      "Daniel Keysers",
+      "Skanda Koppula",
+      "Fangyu Liu",
+      "Adam Grycner",
+      "Alexey Gritsenko",
+      "Neil Houlsby",
+      "Manoj Kumar",
+      "Keran Rong",
+      "Julian Eisenschlos",
+      "Rishabh Kabra",
+      "Matthias Bauer",
+      "Matko Bošnjak",
+      "Xi Chen",
+      "Matthias Minderer",
+      "Paul Voigtlaender",
+      "Ioana Bica",
+      "Ivana Balazevic",
+      "Joan Puigcerver",
+      "Pinelopi Papalampidi",
+      "Olivier Henaff",
+      "Xi Xiong",
+      "Radu Soricut",
+      "Jeremiah Harmsen",
+      "Xiaohua Zhai"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2407.07726",
+      "url": "https://arxiv.org/abs/2407.07726"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Abeba Birhane, Sanghyun Han, Vishnu Boddeti, Sasha Luccioni, et al. Into the laion's den: Investigating hate in multimodal datasets. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Into the laion's den: Investigating hate in multimodal datasets",
+    "authors": [
+      "Abeba Birhane",
+      "Sanghyun Han",
+      "Vishnu Boddeti",
+      "Sasha Luccioni"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Cristian Buciluǎ, Rich Caruana, and Alexandru Niculescu-Mizil. Model compression. In Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining, pp. 535-541, 2006. URL https://dl.acm.org/doi/abs/10.1145/1150402.1150464.",
+    "title": "Model compression",
+    "authors": [
+      "Cristian Buciluǎ",
+      "Rich Caruana",
+      "Alexandru Niculescu-Mizil"
+    ],
+    "venue": "Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining",
+    "year": 2006,
+    "identifiers": {
+      "doi": "10.1145/1150402.1150464",
+      "arxiv_id": "0402.11504",
+      "url": "https://dl.acm.org/doi/abs/10.1145/1150402.1150464"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Yuri Burda, Harrison Edwards, Amos Storkey, and Oleg Klimov. Exploration by random network distillation. In International Conference on Learning Representations, 2019. URL https: //openreview.net/forum?id=H1lJJnR5Ym.",
+    "title": "Exploration by random network distillation",
+    "authors": [
+      "Yuri Burda",
+      "Harrison Edwards",
+      "Amos Storkey",
+      "Oleg Klimov"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2019,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=H1lJJnR5Ym"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Justin Chen, Swarnadeep Saha, Elias Stengel-Eskin, and Mohit Bansal. Magdi: Structured distillation of multi-agent interaction graphs improves reasoning in smaller language models. In Forty-first International Conference on Machine Learning, 2024.",
+    "title": "Structured distillation of multi-agent interaction graphs improves reasoning in smaller language models",
+    "authors": [
+      "Justin Chen",
+      "Swarnadeep Saha",
+      "Elias Stengel-Eskin",
+      "Mohit Bansal",
+      "Magdi"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, and Geoffrey E Hinton. Big selfsupervised models are strong semi-supervised learners. Advances in neural information processing systems, 33:22243-22255, 2020. URL https://arxiv.org/abs/2006.10029.",
+    "title": "Big selfsupervised models are strong semi-supervised learners",
+    "authors": [
+      "Ting Chen",
+      "Simon Kornblith",
+      "Kevin Swersky",
+      "Mohammad Norouzi",
+      "Geoffrey E Hinton"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "2006.10029",
+      "url": "https://arxiv.org/abs/2006.10029"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria. Instructeval: Towards holistic evaluation of instruction-tuned large language models. In Proceedings of the First edition of the Workshop on the Scaling Behavior of Large Language Models (SCALE-LLM 2024), pp. 35-64, 2024.",
+    "title": "Instructeval: Towards holistic evaluation of instruction-tuned large language models",
+    "authors": [
+      "Ken Yew",
+      "Pengfei Chia",
+      "Lidong Hong",
+      "Soujanya Bing",
+      "Poria"
+    ],
+    "venue": "Proceedings of the First edition of the Workshop on the Scaling Behavior of Large Language Models (SCALE-LLM 2024)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Karl Cobbe, Chris Hesse, Jacob Hilton, and John Schulman. Leveraging procedural generation to benchmark reinforcement learning. In International conference on machine learning, pp. 2048-2056. PMLR, 2020.",
+    "title": "Leveraging procedural generation to benchmark reinforcement learning",
+    "authors": [
+      "Karl Cobbe",
+      "Chris Hesse",
+      "Jacob Hilton",
+      "John Schulman"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Michael Dennis, Natasha Jaques, Eugene Vinitsky, Alexandre Bayen, Stuart Russell, Andrew Critch, and Sergey Levine. Emergent complexity and zero-shot transfer via unsupervised environment design. Advances in neural information processing systems, 33:13049-13061, 2020.",
+    "title": "Emergent complexity and zero-shot transfer via unsupervised environment design",
+    "authors": [
+      "Michael Dennis",
+      "Natasha Jaques",
+      "Eugene Vinitsky",
+      "Alexandre Bayen",
+      "Stuart Russell",
+      "Andrew Critch",
+      "Sergey Levine"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Aniket Didolkar, Anirudh Goyal, Nan Rosemary Ke, Siyuan Guo, Michal Valko, Timothy Lillicrap, Danilo Rezende, Yoshua Bengio, Michael Mozer, and Sanjeev Arora. Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving, May 2024.",
+    "title": "Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving",
+    "authors": [
+      "Aniket Didolkar",
+      "Anirudh Goyal",
+      "Nan Rosemary Ke",
+      "Siyuan Guo",
+      "Michal Valko",
+      "Timothy Lillicrap",
+      "Danilo Rezende",
+      "Yoshua Bengio",
+      "Michael Mozer",
+      "Sanjeev Arora"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Ning Ding, Yulin Chen, Bokai Xu, Yujia Qin, Shengding Hu, Zhiyuan Liu, Maosong Sun, and Bowen Zhou. Enhancing chat language models by scaling high-quality instructional conversations. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pp. 3029-3051, 2023.",
+    "title": "Enhancing chat language models by scaling high-quality instructional conversations",
+    "authors": [
+      "Ning Ding",
+      "Yulin Chen",
+      "Bokai Xu",
+      "Yujia Qin",
+      "Shengding Hu",
+      "Zhiyuan Liu",
+      "Maosong Sun",
+      "Bowen Zhou"
+    ],
+    "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Maxence Faldor, Jenny Zhang, Antoine Cully, and Jeff Clune. Omni-epic: Open-endedness via models of human notions of interestingness with environments programmed in code, 2024.",
+    "title": "Omni-epic: Open-endedness via models of human notions of interestingness with environments programmed in code",
+    "authors": [
+      "Maxence Faldor",
+      "Jenny Zhang",
+      "Antoine Cully",
+      "Jeff Clune"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Haotian Fu, Pratyusha Sharma, Elias Stengel-Eskin, George Konidaris, Nicolas Le Roux, MarcAlexandre Côté, and Xingdi Yuan. Language-guided skill learning with temporal variational inference. In Forty-first International Conference on Machine Learning, 2024.",
+    "title": "Language-guided skill learning with temporal variational inference",
+    "authors": [
+      "Haotian Fu",
+      "Pratyusha Sharma",
+      "Elias Stengel-Eskin",
+      "George Konidaris",
+      "Nicolas Le Roux",
+      "Marcalexandre Côté",
+      "Xingdi Yuan"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, and Tushar Khot. Specializing smaller language models towards multi-step reasoning. In Andreas Krause, Emma Brunskill, Kyunghyun Cho, Barbara Engelhardt, Sivan Sabato, and Jonathan Scarlett (eds.), Proceedings of the 40th International Conference on Machine Learning, volume 202 of Proceedings of Machine Learning Research, pp. 10421-10430. PMLR, 23-29 Jul 2023. URL https://proceedings.mlr.press/v202/ fu23d.html.",
+    "title": "Specializing smaller language models towards multi-step reasoning",
+    "authors": [
+      "Yao Fu",
+      "Hao Peng",
+      "Litu Ou",
+      "Ashish Sabharwal",
+      "Tushar Khot"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v202/fu23d.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Deep Ganguli, Liane Lovitt, Jackson Kernion, Amanda Askell, Yuntao Bai, Saurav Kadavath, Ben Mann, Ethan Perez, Nicholas Schiefer, Kamal Ndousse, et al. Red teaming language models to reduce harms: Methods, scaling behaviors, and lessons learned. arXiv preprint arXiv:2209.07858, 2022.",
+    "title": "Red teaming language models to reduce harms: Methods, scaling behaviors, and lessons learned",
+    "authors": [
+      "Deep Ganguli",
+      "Liane Lovitt",
+      "Jackson Kernion",
+      "Amanda Askell",
+      "Yuntao Bai",
+      "Saurav Kadavath",
+      "Ben Mann",
+      "Ethan Perez",
+      "Nicholas Schiefer",
+      "Kamal Ndousse"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2209.07858"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Tong Gao, Shivang Singh, and Raymond Mooney. Towards automated error analysis: Learning to characterize errors. In The International FLAIRS Conference Proceedings, volume 35, 2022.",
+    "title": "Towards automated error analysis: Learning to characterize errors",
+    "authors": [
+      "Tong Gao",
+      "Shivang Singh",
+      "Raymond Mooney"
+    ],
+    "venue": "The International FLAIRS Conference Proceedings",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Gemma Team. Gemma 2: Improving open language models at a practical size, 2024. URL https://arxiv.org/abs/2408.00118.",
+    "title": "Gemma 2: Improving open language models at a practical size",
+    "authors": [
+      "Gemma Team"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2408.00118",
+      "url": "https://arxiv.org/abs/2408.00118"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Karol Gregor, Danilo Jimenez Rezende, and Daan Wierstra. Variational intrinsic control. arXiv preprint arXiv:1611.07507, 2016.",
+    "title": "Variational intrinsic control",
+    "authors": [
+      "Karol Gregor",
+      "Danilo Jimenez Rezende",
+      "Daan Wierstra"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1611.07507"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Tanmay Gupta and Aniruddha Kembhavi. Visual programming: Compositional visual reasoning without training. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 14953-14962, 2023.",
+    "title": "Visual programming: Compositional visual reasoning without training",
+    "authors": [
+      "Tanmay Gupta",
+      "Aniruddha Kembhavi"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, and Jacob Steinhardt. Measuring mathematical problem solving with the math dataset. In Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2), 2021.",
+    "title": "Measuring mathematical problem solving with the math dataset",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Saurav Kadavath",
+      "Akul Arora",
+      "Steven Basart",
+      "Eric Tang",
+      "Dawn Song",
+      "Jacob Steinhardt"
+    ],
+    "venue": "Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. Distilling the knowledge in a neural network. arXiv preprint arXiv:1503.02531, 2015. URL https://arxiv.org/abs/1503.02531.",
+    "title": "Distilling the knowledge in a neural network",
+    "authors": [
+      "Geoffrey Hinton",
+      "Oriol Vinyals",
+      "Jeff Dean"
+    ],
+    "year": 2015,
+    "identifiers": {
+      "arxiv_id": "arXiv:1503.02531",
+      "url": "https://arxiv.org/abs/1503.02531"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Namgyu Ho, Laura Schmid, and Se-Young Yun. Large language models are reasoning teachers. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 14852-14882, Toronto, Canada, July 2023. Association for Computational Linguistics. doi:10.18653/v1/2023.acl-long.830. URL https://aclanthology. org/2023.acl-long.830.",
+    "title": "Large language models are reasoning teachers",
+    "authors": [
+      "Namgyu Ho",
+      "Laura Schmid",
+      "Se-Young Yun"
+    ],
+    "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.acl-long.830",
+      "url": "https://aclanthology.org/2023.acl-long.830"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Edward J Hu, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen, et al. Lora: Low-rank adaptation of large language models. In International Conference on Learning Representations, 2022.",
+    "title": "Lora: Low-rank adaptation of large language models",
+    "authors": [
+      "J Edward",
+      "Phillip Hu",
+      "Zeyuan Wallis",
+      "Yuanzhi Allen-Zhu",
+      "Shean Li",
+      "Lu Wang",
+      "Weizhu Wang",
+      "Chen"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Drew A Hudson and Christopher D Manning. Gqa: A new dataset for real-world visual reasoning and compositional question answering. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 6700-6709, 2019.",
+    "title": "Gqa: A new dataset for real-world visual reasoning and compositional question answering",
+    "authors": [
+      "A Drew",
+      "Christopher D Hudson",
+      "Manning"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Srinivasan Iyer, Xi Victoria Lin, Ramakanth Pasunuru, Todor Mihaylov, Daniel Simig, Ping Yu, Kurt Shuster, Tianlu Wang, Qing Liu, Punit Singh Koura, et al. Opt-iml: Scaling language model instruction meta learning through the lens of generalization. arXiv preprint arXiv:2212.12017, 2022.",
+    "title": "Opt-iml: Scaling language model instruction meta learning through the lens of generalization",
+    "authors": [
+      "Srinivasan Iyer",
+      "Xi Victoria Lin",
+      "Ramakanth Pasunuru",
+      "Todor Mihaylov",
+      "Daniel Simig",
+      "Ping Yu",
+      "Kurt Shuster",
+      "Tianlu Wang",
+      "Qing Liu",
+      "Punit Singh Koura"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2212.12017"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Naman Jain, King Han, Alex Gu, Wen-Ding Li, Fanjia Yan, Tianjun Zhang, Sida Wang, Armando Solar-Lezama, Koushik Sen, and Ion Stoica. Livecodebench: Holistic and contamination free evaluation of large language models for code. arXiv preprint arXiv:2403.07974, 2024.",
+    "title": "Armando Solar-Lezama, Koushik Sen, and Ion Stoica. Livecodebench: Holistic and contamination free evaluation of large language models for code",
+    "authors": [
+      "Naman Jain",
+      "King Han",
+      "Alex Gu",
+      "Wen-Ding Li",
+      "Fanjia Yan",
+      "Tianjun Zhang",
+      "Sida Wang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.07974"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Minqi Jiang, Michael Dennis, Jack Parker-Holder, Jakob Foerster, Edward Grefenstette, and Tim Rocktäschel. Replay-guided adversarial environment design. Advances in Neural Information Processing Systems, 34:1884-1897, 2021.",
+    "title": "Replay-guided adversarial environment design",
+    "authors": [
+      "Minqi Jiang",
+      "Michael Dennis",
+      "Jack Parker-Holder",
+      "Jakob Foerster",
+      "Edward Grefenstette",
+      "Tim Rocktäschel"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Baiqi Li, Zhiqiu Lin, Wenxuan Peng, Jean de Dieu Nyandwi, Daniel Jiang, Zixian Ma, Simran Khanuja, Ranjay Krishna, Graham Neubig, and Deva Ramanan. Naturalbench: Evaluating visionlanguage models on natural adversarial samples. In The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2024.",
+    "title": "Naturalbench: Evaluating visionlanguage models on natural adversarial samples",
+    "authors": [
+      "Baiqi Li",
+      "Zhiqiu Lin",
+      "Wenxuan Peng",
+      "Jean De Dieu",
+      "Daniel Nyandwi",
+      "Zixian Jiang",
+      "Simran Ma",
+      "Ranjay Khanuja",
+      "Graham Krishna",
+      "Deva Neubig",
+      "Ramanan"
+    ],
+    "venue": "The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Jialu Li and Mohit Bansal. Panogen: Text-conditioned panoramic environment generation for vision-and-language navigation. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Panogen: Text-conditioned panoramic environment generation for vision-and-language navigation",
+    "authors": [
+      "Jialu Li",
+      "Mohit Bansal"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Jialu Li, Hao Tan, and Mohit Bansal. Envedit: Environment editing for vision-and-language navigation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 15407-15417, 2022.",
+    "title": "Envedit: Environment editing for vision-and-language navigation",
+    "authors": [
+      "Jialu Li",
+      "Hao Tan",
+      "Mohit Bansal"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Jarek Liesen, Chris Lu, Andrei Lupu, Jakob N. Foerster, Henning Sprekeler, and Robert T. Lange. Discovering minimal reinforcement learning environments, 2024. URL https://arxiv.org/ abs/2406.12589. Llama Team. The llama 3 herd of models, 2024. URL https://arxiv.org/abs/2407. 21783.",
+    "title": "Discovering minimal reinforcement learning environments",
+    "authors": [
+      "Jarek Liesen",
+      "Chris Lu",
+      "Andrei Lupu",
+      "Jakob N Foerster",
+      "Henning Sprekeler",
+      "Robert T Lange"
+    ],
+    "venue": "Llama Team. The llama 3 herd of models",
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2406.12589",
+      "url": "https://arxiv.org/abs/2407.21783"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V Le, Barret Zoph, Jason Wei, et al. The flan collection: Designing data and methods for effective instruction tuning. In International Conference on Machine Learning, pp. 22631-22648. PMLR, 2023.",
+    "title": "The flan collection: Designing data and methods for effective instruction tuning",
+    "authors": [
+      "Shayne Longpre",
+      "Le Hou",
+      "Tu Vu",
+      "Albert Webson",
+      "Hyung Won Chung",
+      "Yi Tay",
+      "Denny Zhou",
+      "V Quoc",
+      "Barret Le",
+      "Jason Zoph",
+      "Wei"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Ilya Loshchilov and Frank Hutter. Decoupled weight decay regularization. arXiv preprint arXiv:1711.05101, 2017.",
+    "title": "Decoupled weight decay regularization",
+    "authors": [
+      "Ilya Loshchilov",
+      "Frank Hutter"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1711.05101"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Zixian Ma, Weikai Huang, Jieyu Zhang, Tanmay Gupta, and Ranjay Krishna. m&m's: A benchmark to evaluate tool-use for multi-step multi-modal tasks. EECV 2024, 2024.",
+    "title": "m&m's: A benchmark to evaluate tool-use for multi-step multi-modal tasks",
+    "authors": [
+      "Zixian Ma",
+      "Weikai Huang",
+      "Jieyu Zhang",
+      "Tanmay Gupta",
+      "Ranjay Krishna"
+    ],
+    "venue": "EECV",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, and Aliaksei Severyn. Teaching small language models to reason. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pp. 1773-1781, Toronto, Canada, July 2023. Association for Computational Linguistics. doi:10.18653/v1/2023.acl-short.151. URL https://aclanthology.org/2023.acl-short.151.",
+    "title": "Teaching small language models to reason",
+    "authors": [
+      "Charlotte Lucie",
+      "Jonathan Magister",
+      "Jakub Mallinson",
+      "Eric Adamek",
+      "Aliaksei Malmi",
+      "Severyn"
+    ],
+    "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.acl-short.151",
+      "url": "https://aclanthology.org/2023.acl-short.151"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Arindam Mitra, Luciano Del Corro, Shweti Mahajan, Andres Codas, Clarisse Simoes, Sahaj Agarwal, Xuxi Chen, Anastasia Razdaibiedina, Erik Jones, Kriti Aggarwal, et al. Orca 2: Teaching small language models how to reason. arXiv preprint arXiv:2311.11045, 2023. URL https: //arxiv.org/abs/2311.11045.",
+    "title": "Teaching small language models how to reason",
+    "authors": [
+      "Arindam Mitra",
+      "Luciano Del Corro",
+      "Shweti Mahajan",
+      "Andres Codas",
+      "Clarisse Simoes",
+      "Sahaj Agarwal",
+      "Xuxi Chen",
+      "Anastasia Razdaibiedina",
+      "Erik Jones",
+      "Kriti Aggarwal"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2311.11045",
+      "url": "https://arxiv.org/abs/2311.11045"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Subhabrata Mukherjee, Arindam Mitra, Ganesh Jawahar, Sahaj Agarwal, Hamid Palangi, and Ahmed Awadallah. Orca: Progressive learning from complex explanation traces of gpt-4. arXiv preprint arXiv:2306.02707, 2023. URL https://arxiv.org/abs/2306.02707.",
+    "title": "Orca: Progressive learning from complex explanation traces of gpt-4",
+    "authors": [
+      "Subhabrata Mukherjee",
+      "Arindam Mitra",
+      "Ganesh Jawahar",
+      "Sahaj Agarwal",
+      "Hamid Palangi",
+      "Ahmed Awadallah"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.02707",
+      "url": "https://arxiv.org/abs/2306.02707"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "OpenAI. Hello gpt-4o, 2024. URL https://openai.com/index/hello-gpt-4o.",
+    "title": "Hello gpt-4o",
+    "authors": [],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openai.com/index/hello-gpt-4o"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Younghyo Park, Gabriel B. Margolis, and Pulkit Agrawal. Automatic Environment Shaping is the Next Frontier in RL, July 2024.",
+    "title": "Automatic Environment Shaping is the Next Frontier in RL",
+    "authors": [
+      "Younghyo Park",
+      "B Gabriel",
+      "Pulkit Margolis",
+      "Agrawal"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Jack Parker-Holder, Minqi Jiang, Michael Dennis, Mikayel Samvelyan, Jakob Foerster, Edward Grefenstette, and Tim Rocktäschel. Evolving curricula with regret-based environment design. In International Conference on Machine Learning, pp. 17473-17498. PMLR, 2022.",
+    "title": "Evolving curricula with regret-based environment design",
+    "authors": [
+      "Jack Parker-Holder",
+      "Minqi Jiang",
+      "Michael Dennis",
+      "Mikayel Samvelyan",
+      "Jakob Foerster",
+      "Edward Grefenstette",
+      "Tim Rocktäschel"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Ethan Perez, Saffron Huang, Francis Song, Trevor Cai, Roman Ring, John Aslanides, Amelia Glaese, Nat McAleese, and Geoffrey Irving. Red teaming language models with language models. arXiv preprint arXiv:2202.03286, 2022.",
+    "title": "Red teaming language models with language models",
+    "authors": [
+      "Ethan Perez",
+      "Saffron Huang",
+      "Francis Song",
+      "Trevor Cai",
+      "Roman Ring",
+      "John Aslanides",
+      "Amelia Glaese",
+      "Nat Mcaleese",
+      "Geoffrey Irving"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2202.03286"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Seungeun Rho, Laura Smith, Tianyu Li, Sergey Levine, Xue Bin Peng, and Sehoon Ha. Language guided skill discovery. arXiv preprint arXiv:2406.06615, 2024.",
+    "title": "Language guided skill discovery",
+    "authors": [
+      "Seungeun Rho",
+      "Laura Smith",
+      "Tianyu Li",
+      "Sergey Levine"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.06615"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Swarnadeep Saha, Peter Hase, and Mohit Bansal. Can language models teach weaker agents? teacher explanations improve students via personalization. In NeurIPS, 2023. URL https: //arxiv.org/abs/2306.09299.",
+    "title": "Can language models teach weaker agents? teacher explanations improve students via personalization",
+    "authors": [
+      "Swarnadeep Saha",
+      "Peter Hase",
+      "Mohit Bansal"
+    ],
+    "venue": "NeurIPS",
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2306.09299",
+      "url": "https://arxiv.org/abs/2306.09299"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Axel Sauer, Dominik Lorenz, Andreas Blattmann, and Robin Rombach. Adversarial diffusion distillation, 2023. URL https://arxiv.org/abs/2311.17042.",
+    "title": "Adversarial diffusion distillation",
+    "authors": [
+      "Axel Sauer",
+      "Dominik Lorenz",
+      "Andreas Blattmann",
+      "Robin Rombach"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2311.17042",
+      "url": "https://arxiv.org/abs/2311.17042"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Mingchuan Zhang, YK Li, Yu Wu, and Daya Guo. Deepseekmath: Pushing the limits of mathematical reasoning in open language models. arXiv preprint arXiv:2402.03300, 2024.",
+    "title": "Deepseekmath: Pushing the limits of mathematical reasoning in open language models",
+    "authors": [
+      "Zhihong Shao",
+      "Peiyi Wang",
+      "Qihao Zhu",
+      "Runxin Xu",
+      "Junxiao Song",
+      "Mingchuan Zhang",
+      "Y K Li",
+      "Yu Wu",
+      "Daya Guo"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.03300"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Pratyusha Sharma, Antonio Torralba, and Jacob Andreas. Skill induction and planning with latent language. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 1713-1726, 2022.",
+    "title": "Skill induction and planning with latent language",
+    "authors": [
+      "Pratyusha Sharma",
+      "Antonio Torralba",
+      "Jacob Andreas"
+    ],
+    "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Luísa Shimabucoro, Sebastian Ruder, Julia Kreutzer, Marzieh Fadaee, and Sara Hooker. Llm see, llm do: Guiding data generation to target non-differentiable objectives. arXiv preprint arXiv:2407.01490, 2024.",
+    "title": "Llm see, llm do: Guiding data generation to target non-differentiable objectives",
+    "authors": [
+      "Luísa Shimabucoro",
+      "Sebastian Ruder",
+      "Julia Kreutzer",
+      "Marzieh Fadaee",
+      "Sara Hooker"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2407.01490"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Kumar Shridhar, Alessandro Stolfo, and Mrinmaya Sachan. Distilling reasoning capabilities into smaller language models. In Findings of the Association for Computational Linguistics: ACL 2023, pp. 7059-7073, 2023. URL https://arxiv.org/abs/2212.00193.",
+    "title": "Distilling reasoning capabilities into smaller language models",
+    "authors": [
+      "Kumar Shridhar",
+      "Alessandro Stolfo",
+      "Mrinmaya Sachan"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2023",
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2212.00193",
+      "url": "https://arxiv.org/abs/2212.00193"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Shyam Sudhakaran, Miguel González Duque, Matthias Freiberger, Claire Glanois, Elias Najarro, and Sebastian Risi. Mariogpt: Open-ended text2level generation through large language models. In Alice Oh, Tristan Naumann, Amir Globerson, Kate Saenko, Moritz Hardt, and Sergey Levine (eds.), Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans, LA, USA, December 10 16, 2023, 2023. URL http://papers.nips.cc/paper_files/paper/2023/hash/ a9bbeb2858dfbdbd4c19814e5d80ec60-Abstract-Conference.html.",
+    "title": "Mariogpt: Open-ended text2level generation through large language models",
+    "authors": [
+      "Shyam Sudhakaran",
+      "Miguel González Duque",
+      "Matthias Freiberger",
+      "Claire Glanois",
+      "Elias Najarro",
+      "Sebastian Risi"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023",
+    "year": 2023,
+    "identifiers": {
+      "url": "http://papers.nips.cc/paper_files/paper/2023/hash/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Rohan Taori, Ishaan Gulrajani, Tianyi Zhang, Yann Dubois, Xuechen Li, Carlos Guestrin, Percy Liang, and Tatsunori B Hashimoto. Stanford alpaca: An instruction-following llama model, 2023.",
+    "title": "Stanford alpaca: An instruction-following llama model",
+    "authors": [
+      "Rohan Taori",
+      "Ishaan Gulrajani",
+      "Tianyi Zhang",
+      "Yann Dubois",
+      "Xuechen Li",
+      "Carlos Guestrin",
+      "Percy Liang",
+      "Tatsunori B Hashimoto"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Graham Todd, Sam Earle, Muhammad Umair Nasir, Michael Cerny Green, and Julian Togelius. Level generation through large language models. In Phil Lopes, Filipe Luz, Antonios Liapis, and Henrik Engström (eds.), Proceedings of the 18th International Conference on the Foundations of Digital Games, FDG 2023, Lisbon, Portugal, April 12-14, 2023, pp. 70:1-70:8. ACM, 2023. doi:10.1145/3582437.3587211. URL https://doi.org/10.1145/3582437.3587211.",
+    "title": "Level generation through large language models",
+    "authors": [
+      "Graham Todd",
+      "Sam Earle",
+      "Muhammad Umair Nasir",
+      "Michael Cerny Green",
+      "Julian Togelius"
+    ],
+    "venue": "Proceedings of the 18th International Conference on the Foundations of Digital Games, FDG 2023",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.1145/3582437.3587211",
+      "arxiv_id": "2437.35872",
+      "url": "https://doi.org/10.1145/3582437.3587211"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, et al. Llama 2: Open foundation and fine-tuned chat models. arXiv preprint arXiv:2307.09288, 2023.",
+    "title": "Llama 2: Open foundation and fine-tuned chat models",
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Nikolay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.09288"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Lev Vygotsky. Thought and Language. MIT Press, Cambridge, MA, 1962.",
+    "title": "Thought and Language",
+    "authors": [
+      "Lev Vygotsky"
+    ],
+    "year": 1962,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, and Hannaneh Hajishirzi. Self-instruct: Aligning language models with self-generated instructions. In Anna Rogers, Jordan Boyd-Graber, and Naoaki Okazaki (eds.), Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 13484-13508, Toronto, Canada, July 2023a. Association for Computational Linguistics. doi:10.18653/v1/2023.acl-long.754. URL https://aclanthology.org/2023. acl-long.754.",
+    "title": "Self-instruct: Aligning language models with self-generated instructions",
+    "authors": [
+      "Yizhong Wang",
+      "Yeganeh Kordi",
+      "Swaroop Mishra",
+      "Alisa Liu",
+      "Noah A Smith",
+      "Daniel Khashabi",
+      "Hannaneh Hajishirzi"
+    ],
+    "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.acl-long.754",
+      "url": "https://aclanthology.org/2023.acl-long.754"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, and Qun Liu. Data management for training large language models: A survey, 2023b. URL https://api.semanticscholar.org/CorpusID:265609639.",
+    "title": "Data management for training large language models: A survey",
+    "authors": [
+      "Zige Wang",
+      "Wanjun Zhong",
+      "Yufei Wang",
+      "Qi Zhu",
+      "Fei Mi",
+      "Baojun Wang",
+      "Lifeng Shang",
+      "Xin Jiang",
+      "Qun Liu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID:265609639"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Zun Wang, Jialu Li, Yicong Hong, Yi Wang, Qi Wu, Mohit Bansal, Stephen Gould, Hao Tan, and Yu Qiao. Scaling data generation in vision-and-language navigation. In Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 12009-12020, 2023c.",
+    "title": "Scaling data generation in vision-and-language navigation",
+    "authors": [
+      "Zun Wang",
+      "Jialu Li",
+      "Yicong Hong",
+      "Yi Wang",
+      "Qi Wu",
+      "Mohit Bansal",
+      "Stephen Gould",
+      "Hao Tan",
+      "Yu Qiao"
+    ],
+    "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "C. J. C. H. Watkins. Learning from Delayed Rewards. PhD thesis, King's College, Oxford, 1989.",
+    "title": "Learning from Delayed Rewards",
+    "authors": [
+      "C J C H Watkins"
+    ],
+    "year": 1989,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Fei Xia, Ed Chi, Quoc V Le, Denny Zhou, et al. Chain-of-thought prompting elicits reasoning in large language models. Advances in Neural Information Processing Systems, 35:24824-24837, 2022. URL https://arxiv.org/ abs/2201.11903.",
+    "title": "Chain-of-thought prompting elicits reasoning in large language models",
+    "authors": [
+      "Jason Wei",
+      "Xuezhi Wang",
+      "Dale Schuurmans",
+      "Maarten Bosma",
+      "Fei Xia",
+      "Ed Chi",
+      "V Quoc",
+      "Denny Le",
+      "Zhou"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "2201.11903",
+      "url": "https://arxiv.org/abs/2201.11903"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "Laura Weidinger, John Mellor, Maribeth Rauh, Conor Griffin, Jonathan Uesato, Po-Sen Huang, Myra Cheng, Mia Glaese, Borja Balle, Atoosa Kasirzadeh, et al. Ethical and social risks of harm from language models. arXiv preprint arXiv:2112.04359, 2021. URL https://arxiv.org/abs/ 2112.04359.",
+    "title": "Ethical and social risks of harm from language models",
+    "authors": [
+      "Laura Weidinger",
+      "John Mellor",
+      "Maribeth Rauh",
+      "Conor Griffin",
+      "Jonathan Uesato",
+      "Po-Sen Huang",
+      "Myra Cheng",
+      "Mia Glaese",
+      "Borja Balle",
+      "Atoosa Kasirzadeh"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2112.04359",
+      "url": "https://arxiv.org/abs/2112.04359"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Peter West, Chandra Bhagavatula, Jack Hessel, Jena Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck, and Yejin Choi. Symbolic knowledge distillation: from general language models to commonsense models. In Marine Carpuat, Marie-Catherine de Marneffe, and Ivan Vladimir Meza Ruiz (eds.), Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 4602-4625, Seattle, United States, July 2022. Association for Computational Linguistics. doi:10.18653/v1/2022.naaclmain.341. URL https://aclanthology.org/2022.naacl-main.341.",
+    "title": "Symbolic knowledge distillation: from general language models to commonsense models",
+    "authors": [
+      "Peter West",
+      "Chandra Bhagavatula",
+      "Jack Hessel",
+      "Jena Hwang",
+      "Liwei Jiang",
+      "Ronan Le Bras",
+      "Ximing Lu",
+      "Sean Welleck",
+      "Yejin Choi"
+    ],
+    "venue": "Proceedings of the 2022 Conference of the North American Chapter",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.18653/v1/2022.naaclmain.341",
+      "url": "https://aclanthology.org/2022.naacl-main.341"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, and Alexander M. Rush. Transformers: State-of-the-art natural language processing. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations, pp. 38-45, Online, October 2020. Association for Computational Linguistics. URL https://www.aclweb.org/anthology/2020.emnlp-demos.6.",
+    "title": "Transformers: State-of-the-art natural language processing",
+    "authors": [
+      "Thomas Wolf",
+      "Lysandre Debut",
+      "Victor Sanh",
+      "Julien Chaumond",
+      "Clement Delangue",
+      "Anthony Moi",
+      "Pierric Cistac",
+      "Tim Rault",
+      "Rémi Louf",
+      "Morgan Funtowicz",
+      "Joe Davison",
+      "Sam Shleifer",
+      "Clara Patrick Von Platen",
+      "Yacine Ma",
+      "Julien Jernite",
+      "Canwen Plu",
+      "Teven Xu",
+      "Sylvain Le Scao",
+      "Mariama Gugger",
+      "Quentin Drame",
+      "Alexander M Lhoest",
+      "Rush"
+    ],
+    "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+    "year": 2020,
+    "identifiers": {
+      "url": "https://www.aclweb.org/anthology/2020.emnlp-demos.6"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Tongshuang Wu, Marco Tulio Ribeiro, Jeffrey Heer, and Daniel S Weld. Errudite: Scalable, reproducible, and testable error analysis. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pp. 747-763, 2019.",
+    "title": "Errudite: Scalable, reproducible, and testable error analysis",
+    "authors": [
+      "Tongshuang Wu",
+      "Marco Tulio Ribeiro",
+      "Jeffrey Heer",
+      "Daniel S Weld"
+    ],
+    "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "Xiyang Wu, Tianrui Guan, Dianqi Li, Shuaiyi Huang, Xiaoyu Liu, Xijun Wang, Ruiqi Xian, Abhinav Shrivastava, Furong Huang, Jordan L. Boyd-Graber, Tianyi Zhou, and Dinesh Manocha. Autohallusion: Automatic generation of hallucination benchmarks for vision-language models. ArXiv, abs/2406.10900, 2024. URL https://api.semanticscholar.org/CorpusID: 270560551.",
+    "title": "Autohallusion: Automatic generation of hallucination benchmarks for vision-language models",
+    "authors": [
+      "Xiyang Wu",
+      "Tianrui Guan",
+      "Dianqi Li",
+      "Shuaiyi Huang",
+      "Xiaoyu Liu",
+      "Xijun Wang",
+      "Ruiqi Xian",
+      "Abhinav Shrivastava",
+      "Furong Huang",
+      "Jordan L Boyd-Graber",
+      "Tianyi Zhou",
+      "Dinesh Manocha"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2406.10900",
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "Yue Yang, Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, et al. Holodeck: Language guided generation of 3d embodied ai environments. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 16227-16237, 2024.",
+    "title": "Language guided generation of 3d embodied ai environments",
+    "authors": [
+      "Yue Yang",
+      "Fan-Yun Sun",
+      "Luca Weihs",
+      "Eli Vanderbilt",
+      "Alvaro Herrasti",
+      "Winson Han",
+      "Jiajun Wu",
+      "Nick Haber",
+      "Ranjay Krishna",
+      "Lingjie Liu"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R66",
+    "raw_text": "Abhay Zala, Jaemin Cho, Han Lin, Jaehong Yoon, and Mohit Bansal. Envgen: Generating and adapting environments via llms for training embodied agents. In COLM, 2024.",
+    "title": "Envgen: Generating and adapting environments via llms for training embodied agents",
+    "authors": [
+      "Abhay Zala",
+      "Jaemin Cho",
+      "Han Lin",
+      "Jaehong Yoon",
+      "Mohit Bansal"
+    ],
+    "venue": "COLM",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R67",
+    "raw_text": "Jenny Zhang, Joel Lehman, Kenneth Stanley, and Jeff Clune. Omni: Open-endedness via models of human notions of interestingness. arXiv preprint arXiv:2306.01711, 2023.",
+    "title": "Omni: Open-endedness via models of human notions of interestingness",
+    "authors": [
+      "Jenny Zhang",
+      "Joel Lehman",
+      "Kenneth Stanley",
+      "Jeff Clune"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.01711"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R68",
+    "raw_text": "Jieyu Zhang, Weikai Huang, Zixian Ma, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, and Ranjay Krishna. Task me anything. arXiv preprint arXiv:2406.11775, 2024.",
+    "title": "Task me anything",
+    "authors": [
+      "Jieyu Zhang",
+      "Weikai Huang",
+      "Zixian Ma",
+      "Oscar Michel",
+      "Dong He",
+      "Tanmay Gupta",
+      "Wei-Chiu Ma",
+      "Ali Farhadi",
+      "Aniruddha Kembhavi",
+      "Ranjay Krishna"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.11775"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R69",
+    "raw_text": "Yaowei Zheng, Richong Zhang, Junhao Zhang, Yanhan Ye, Zheyan Luo, Zhangchi Feng, and Yongqiang Ma. Llamafactory: Unified efficient fine-tuning of 100+ language models. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations), Bangkok, Thailand, 2024. Association for Computational Linguistics. URL http://arxiv.org/abs/2403.13372.",
+    "title": "Unified efficient fine-tuning of 100+ language models",
+    "authors": [
+      "Yaowei Zheng",
+      "Richong Zhang",
+      "Junhao Zhang",
+      "Yanhan Ye",
+      "Zheyan Luo",
+      "Zhangchi Feng",
+      "Yongqiang Ma",
+      "Llamafactory"
+    ],
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2403.13372",
+      "url": "http://arxiv.org/abs/2403.13372"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R70",
+    "raw_text": "Chunting Zhou, Pengfei Liu, Puxin Xu, Srinivasan Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, et al. LIMA: Less is more for alignment. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "LIMA: Less is more for alignment",
+    "authors": [
+      "Chunting Zhou",
+      "Pengfei Liu",
+      "Puxin Xu",
+      "Srinivasan Iyer",
+      "Jiao Sun",
+      "Yuning Mao",
+      "Xuezhe Ma",
+      "Avia Efrat",
+      "Ping Yu",
+      "Lili Yu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

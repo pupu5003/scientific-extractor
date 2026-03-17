@@ -1,0 +1,839 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "NIST AI. Artificial intelligence risk management framework (ai rmf 1.0). 2023.",
+    "title": "Artificial intelligence risk management framework (ai rmf 1.0)",
+    "authors": [
+      "A I Nist"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Moustafa Alzantot, Yash Sharma, Supriyo Chakraborty, Huan Zhang, Cho-Jui Hsieh, and Mani B Srivastava. Genattack: Practical black-box attacks with gradient-free optimization. In Proceedings of the genetic and evolutionary computation conference, pp. 1111-1119, 2019.",
+    "title": "Genattack: Practical black-box attacks with gradient-free optimization",
+    "authors": [
+      "Moustafa Alzantot",
+      "Yash Sharma",
+      "Supriyo Chakraborty",
+      "Huan Zhang",
+      "Cho-Jui Hsieh",
+      "Mani B Srivastava"
+    ],
+    "venue": "Proceedings of the genetic and evolutionary computation conference",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Maksym Andriushchenko, Francesco Croce, Nicolas Flammarion, and Matthias Hein. Square attack: a query-efficient black-box adversarial attack via random search. In European conference on computer vision, pp. 484-501. Springer, 2020.",
+    "title": "Square attack: a query-efficient black-box adversarial attack via random search",
+    "authors": [
+      "Maksym Andriushchenko",
+      "Francesco Croce",
+      "Nicolas Flammarion",
+      "Matthias Hein"
+    ],
+    "venue": "European conference on computer vision",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Battista Biggio, Igino Corona, Davide Maiorca, Blaine Nelson, Nedim Šrndić, Pavel Laskov, Giorgio Giacinto, and Fabio Roli. Evasion attacks against machine learning at test time. In Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2013, Prague, Czech Republic, September 23-27, 2013, Proceedings, Part III 13, pp. 387-402. Springer, 2013. Nicholas Carlini and David Wagner. Towards evaluating the robustness of neural networks. In 2017 ieee symposium on security and privacy (sp), pp. 39-57. Ieee, 2017.",
+    "title": "Evasion attacks against machine learning at test time",
+    "authors": [
+      "Battista Biggio",
+      "Igino Corona",
+      "Davide Maiorca",
+      "Blaine Nelson",
+      "Nedim Šrndić",
+      "Pavel Laskov",
+      "Giorgio Giacinto",
+      "Fabio Roli"
+    ],
+    "venue": "Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2013",
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Pin-Yu Chen, Huan Zhang, Yash Sharma, Jinfeng Yi, and Cho-Jui Hsieh. Zoo: Zeroth order optimization based black-box attacks to deep neural networks without training substitute models. In Proceedings of the 10th ACM workshop on artificial intelligence and security, pp. 15-26, 2017.",
+    "title": "Zeroth order optimization based black-box attacks to deep neural networks without training substitute models",
+    "authors": [
+      "Pin-Yu Chen",
+      "Huan Zhang",
+      "Yash Sharma",
+      "Jinfeng Yi",
+      "Cho-Jui Hsieh",
+      "Zoo"
+    ],
+    "venue": "Proceedings of the 10th ACM workshop on artificial intelligence and security",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Moustapha Cisse, Piotr Bojanowski, Edouard Grave, Yann Dauphin, and Nicolas Usunier. Parseval networks: Improving robustness to adversarial examples. In International conference on machine learning, pp. 854-863. PMLR, 2017.",
+    "title": "Parseval networks: Improving robustness to adversarial examples",
+    "authors": [
+      "Moustapha Cisse",
+      "Piotr Bojanowski",
+      "Edouard Grave",
+      "Yann Dauphin",
+      "Nicolas Usunier"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Jeremy Cohen, Elan Rosenfeld, and Zico Kolter. Certified adversarial robustness via randomized smoothing. In international conference on machine learning, pp. 1310-1320. PMLR, 2019.",
+    "title": "Certified adversarial robustness via randomized smoothing",
+    "authors": [
+      "Jeremy Cohen",
+      "Elan Rosenfeld",
+      "Zico Kolter"
+    ],
+    "venue": "PMLR",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Francesco Croce and Matthias Hein. Minimally distorted adversarial examples with a fast adaptive boundary attack. In International Conference on Machine Learning, pp. 2196-2205. PMLR, 2020a.",
+    "title": "Minimally distorted adversarial examples with a fast adaptive boundary attack",
+    "authors": [
+      "Francesco Croce",
+      "Matthias Hein"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Francesco Croce and Matthias Hein. Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks. In International conference on machine learning, pp. 22062216. PMLR, 2020b.",
+    "title": "Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks",
+    "authors": [
+      "Francesco Croce",
+      "Matthias Hein"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Wenqi Fan, Xiaorui Liu, Wei Jin, Xiangyu Zhao, Jiliang Tang, and Qing Li. Graph trend filtering networks for recommendation. In Proceedings of the 45th international ACM SIGIR conference on research and development in information retrieval, pp. 112-121, 2022.",
+    "title": "Graph trend filtering networks for recommendation",
+    "authors": [
+      "Wenqi Fan",
+      "Xiaorui Liu",
+      "Wei Jin",
+      "Xiangyu Zhao",
+      "Jiliang Tang",
+      "Qing Li"
+    ],
+    "venue": "Proceedings of the 45th international ACM SIGIR conference on research and development in information retrieval",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Mahyar Fazlyab, Alexander Robey, Hamed Hassani, Manfred Morari, and George Pappas. Efficient and accurate estimation of lipschitz constants for deep neural networks. Advances in neural information processing systems, 32, 2019.",
+    "title": "Efficient and accurate estimation of lipschitz constants for deep neural networks",
+    "authors": [
+      "Mahyar Fazlyab",
+      "Alexander Robey",
+      "Hamed Hassani",
+      "Manfred Morari",
+      "George Pappas"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Reuben Feinman, Ryan R Curtin, Saurabh Shintre, and Andrew B Gardner. Detecting adversarial samples from artifacts. arXiv preprint arXiv:1703.00410, 2017.",
+    "title": "Detecting adversarial samples from artifacts",
+    "authors": [
+      "Reuben Feinman",
+      "Saurabh Ryan R Curtin",
+      "Andrew B Shintre",
+      "Gardner"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1703.00410"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Ian Goodfellow, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. Deep learning, volume 1. MIT Press, 2016.",
+    "title": "Deep learning, volume 1",
+    "authors": [
+      "Ian Goodfellow",
+      "Yoshua Bengio",
+      "Aaron Courville"
+    ],
+    "venue": "",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Ian J Goodfellow, Jonathon Shlens, and Christian Szegedy. Explaining and harnessing adversarial examples. arXiv preprint arXiv:1412.6572, 2014.",
+    "title": "Explaining and harnessing adversarial examples",
+    "authors": [
+      "Ian J Goodfellow",
+      "Jonathon Shlens",
+      "Christian Szegedy"
+    ],
+    "year": 2014,
+    "identifiers": {
+      "arxiv_id": "arXiv:1412.6572"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Sven Gowal, Krishnamurthy Dvijotham, Robert Stanforth, Rudy Bunel, Chongli Qin, Jonathan Uesato, Relja Arandjelovic, Timothy Mann, and Pushmeet Kohli. On the effectiveness of interval bound propagation for training verifiably robust models. arXiv preprint arXiv:1810.12715, 2018.",
+    "title": "On the effectiveness of interval bound propagation for training verifiably robust models",
+    "authors": [
+      "Sven Gowal",
+      "Krishnamurthy Dvijotham",
+      "Robert Stanforth",
+      "Rudy Bunel",
+      "Chongli Qin",
+      "Jonathan Uesato",
+      "Relja Arandjelovic",
+      "Timothy Mann",
+      "Pushmeet Kohli"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1810.12715"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Sven Gowal, Sylvestre-Alvise Rebuffi, Olivia Wiles, Florian Stimberg, Dan Andrei Calian, and Timothy A Mann. Improving robustness using generated data. Advances in Neural Information Processing Systems, 34:4218-4233, 2021.",
+    "title": "Improving robustness using generated data",
+    "authors": [
+      "Sven Gowal",
+      "Sylvestre-Alvise",
+      "Olivia Rebuffi",
+      "Florian Wiles",
+      "Dan Stimberg",
+      "Timothy A Andrei Calian",
+      "Mann"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Kathrin Grosse, Praveen Manoharan, Nicolas Papernot, Michael Backes, and Patrick McDaniel. On the (statistical) detection of adversarial examples. arXiv preprint arXiv:1702.06280, 2017.",
+    "title": "On the (statistical) detection of adversarial examples",
+    "authors": [
+      "Kathrin Grosse",
+      "Praveen Manoharan",
+      "Nicolas Papernot",
+      "Michael Backes",
+      "Patrick Mcdaniel"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1702.06280"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 770-778, 2016.",
+    "title": "Deep residual learning for image recognition",
+    "authors": [
+      "Kaiming He",
+      "Xiangyu Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "venue": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Chih-Hui Ho and Nuno Vasconcelos. Disco: Adversarial defense with local implicit functions. Advances in Neural Information Processing Systems, 35:23818-23837, 2022.",
+    "title": "Disco: Adversarial defense with local implicit functions",
+    "authors": [
+      "Chih-Hui Ho",
+      "Nuno Vasconcelos"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Zhichao Hou, Ruiqi Feng, Tyler Derr, and Xiaorui Liu. Robust graph neural networks via unbiased aggregation. In The Thirty-eighth Annual Conference on Neural Information Processing Systems, a. Zhichao Hou, Weizhi Gao, Yuchen Shen, and Xiaorui Liu. Protransformer: Robustify transformers via plug-and-play paradigm. In ICLR 2024 Workshop on Reliable and Responsible Foundation Models, b.",
+    "title": "Protransformer: Robustify transformers via plug-and-play paradigm",
+    "authors": [
+      "Zhichao Hou",
+      "Ruiqi Feng",
+      "Tyler Derr",
+      "Xiaorui Liu ; Zhichao",
+      "Weizhi Hou",
+      "Yuchen Gao",
+      "Xiaorui Shen",
+      "Liu"
+    ],
+    "venue": "The Thirty-eighth Annual Conference on Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Lang Huang, Chao Zhang, and Hongyang Zhang. Self-adaptive training: beyond empirical risk minimization. Advances in neural information processing systems, 33:19365-19376, 2020.",
+    "title": "Self-adaptive training: beyond empirical risk minimization",
+    "authors": [
+      "Lang Huang",
+      "Chao Zhang",
+      "Hongyang Zhang"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Peter J Huber and Elvezio M Ronchetti. Robust statistics. John Wiley & Sons, 2011.",
+    "title": "Robust statistics",
+    "authors": [
+      "J Peter",
+      "Elvezio M Huber",
+      "Ronchetti"
+    ],
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Qiyu Kang, Yang Song, Qinxu Ding, and Wee Peng Tay. Stable neural ode with lyapunov-stable equilibrium points for defending against adversarial attacks. Advances in Neural Information Processing Systems, 34:14925-14937, 2021.",
+    "title": "Stable neural ode with lyapunov-stable equilibrium points for defending against adversarial attacks",
+    "authors": [
+      "Qiyu Kang",
+      "Yang Song",
+      "Qinxu Ding",
+      "Wee Peng Tay"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Alex Krizhevsky, Geoffrey Hinton, et al. Learning multiple layers of features from tiny images. 2009. John Law. Robust statistics-the approach based on influence functions, 1986.",
+    "title": "Learning multiple layers of features from tiny images. 2009. John Law. Robust statistics-the approach based on influence functions",
+    "authors": [
+      "Alex Krizhevsky",
+      "Geoffrey Hinton"
+    ],
+    "year": 1986,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Yann LeCun and Corinna Cortes. The mnist database of handwritten digits. 2005. URL https: //api.semanticscholar.org/CorpusID:60282629.",
+    "title": "The mnist database of handwritten digits",
+    "authors": [
+      "Yann Lecun",
+      "Corinna Cortes"
+    ],
+    "year": 2005,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID:60282629"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Yann LeCun, Yoshua Bengio, and Geoffrey Hinton. Deep learning. nature, 521(7553):436-444, 2015.",
+    "title": "Deep learning",
+    "authors": [
+      "Yann Lecun",
+      "Yoshua Bengio",
+      "Geoffrey Hinton"
+    ],
+    "venue": "nature",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Boqi Li and Weiwei Liu. Wat: improve the worst-class robustness in adversarial training. In Proceedings of the AAAI conference on artificial intelligence, volume 37, pp. 14982-14990, 2023.",
+    "title": "Wat: improve the worst-class robustness in adversarial training",
+    "authors": [
+      "Boqi Li",
+      "Weiwei Liu"
+    ],
+    "venue": "Proceedings of the AAAI conference on artificial intelligence",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Xiyuan Li, Zou Xin, and Weiwei Liu. Defending against adversarial attacks via neural dynamic system. Advances in Neural Information Processing Systems, 35:6372-6383, 2022.",
+    "title": "Defending against adversarial attacks via neural dynamic system",
+    "authors": [
+      "Xiyuan Li",
+      "Zou Xin",
+      "Weiwei Liu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Xiaorui Liu, Jiayuan Ding, Wei Jin, Han Xu, Yao Ma, Zitao Liu, and Jiliang Tang. Graph neural networks with adaptive residual. Advances in Neural Information Processing Systems, 34:97209733, 2021a.",
+    "title": "Graph neural networks with adaptive residual",
+    "authors": [
+      "Xiaorui Liu",
+      "Jiayuan Ding",
+      "Wei Jin",
+      "Han Xu",
+      "Yao Ma",
+      "Zitao Liu",
+      "Jiliang Tang"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Xiaorui Liu, Wei Jin, Yao Ma, Yaxin Li, Hua Liu, Yiqi Wang, Ming Yan, and Jiliang Tang. Elastic graph neural networks. In International Conference on Machine Learning, pp. 6837-6849. PMLR, 2021b.",
+    "title": "Elastic graph neural networks",
+    "authors": [
+      "Xiaorui Liu",
+      "Wei Jin",
+      "Yao Ma",
+      "Yaxin Li",
+      "Hua Liu",
+      "Yiqi Wang",
+      "Ming Yan",
+      "Jiliang Tang"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Yao Ma, Xiaorui Liu, Tong Zhao, Yozen Liu, Jiliang Tang, and Neil Shah. A unified view on graph neural networks as graph signal denoising. In Proceedings of the 30th ACM international conference on information & knowledge management, pp. 1202-1211, 2021.",
+    "title": "A unified view on graph neural networks as graph signal denoising",
+    "authors": [
+      "Yao Ma",
+      "Xiaorui Liu",
+      "Tong Zhao",
+      "Yozen Liu",
+      "Jiliang Tang",
+      "Neil Shah"
+    ],
+    "venue": "Proceedings of the 30th ACM international conference on information & knowledge management",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Aleksander Madry. Towards deep learning models resistant to adversarial attacks. arXiv preprint arXiv:1706.06083, 2017.",
+    "title": "Towards deep learning models resistant to adversarial attacks",
+    "authors": [
+      "Aleksander Madry"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1706.06083"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Jan Hendrik Metzen, Tim Genewein, Volker Fischer, and Bastian Bischoff. On detecting adversarial perturbations. arXiv preprint arXiv:1702.04267, 2017.",
+    "title": "On detecting adversarial perturbations",
+    "authors": [
+      "Jan Hendrik Metzen",
+      "Tim Genewein",
+      "Volker Fischer",
+      "Bastian Bischoff"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1702.04267"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, and Pascal Frossard. Deepfool: a simple and accurate method to fool deep neural networks. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 2574-2582, 2016.",
+    "title": "Deepfool: a simple and accurate method to fool deep neural networks",
+    "authors": [
+      "Seyed-Mohsen Moosavi-Dezfooli",
+      "Alhussein Fawzi",
+      "Pascal Frossard"
+    ],
+    "venue": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Baolin Wu, Andrew Y Ng, et al. Reading digits in natural images with unsupervised feature learning. In NIPS workshop on deep learning and unsupervised feature learning, volume 2011, pp. 4. Granada, 2011.",
+    "title": "Reading digits in natural images with unsupervised feature learning",
+    "authors": [
+      "Yuval Netzer",
+      "Tao Wang",
+      "Adam Coates",
+      "Alessandro Bissacco",
+      "Baolin Wu",
+      "Andrew Y Ng"
+    ],
+    "venue": "NIPS workshop on deep learning and unsupervised feature learning",
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Weili Nie, Brandon Guo, Yujia Huang, Chaowei Xiao, Arash Vahdat, and Anima Anandkumar. Diffusion models for adversarial purification. arXiv preprint arXiv:2205.07460, 2022.",
+    "title": "Diffusion models for adversarial purification",
+    "authors": [
+      "Weili Nie",
+      "Brandon Guo",
+      "Yujia Huang",
+      "Chaowei Xiao",
+      "Arash Vahdat",
+      "Anima Anandkumar"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2205.07460"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Nicolas Papernot, Patrick McDaniel, Ian Goodfellow, Somesh Jha, Z Berkay Celik, and Ananthram Swami. Practical black-box attacks against machine learning. In Proceedings of the 2017 ACM on Asia conference on computer and communications security, pp. 506-519, 2017.",
+    "title": "Practical black-box attacks against machine learning",
+    "authors": [
+      "Nicolas Papernot",
+      "Patrick Mcdaniel",
+      "Ian Goodfellow",
+      "Somesh Jha",
+      "Z Berkay Celik",
+      "Ananthram Swami"
+    ],
+    "venue": "Proceedings of the 2017 ACM on Asia conference on computer and communications security",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Sylvestre-Alvise Rebuffi, Sven Gowal, Dan A Calian, Florian Stimberg, Olivia Wiles, and Timothy Mann. Fixing data augmentation to improve adversarial robustness. arXiv preprint arXiv:2103.01946, 2021.",
+    "title": "Fixing data augmentation to improve adversarial robustness",
+    "authors": [
+      "Sylvestre-Alvise",
+      "Sven Rebuffi",
+      "Dan A Gowal",
+      "Florian Calian",
+      "Olivia Stimberg",
+      "Timothy Wiles",
+      "Mann"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2103.01946"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, Alexander C. Berg, and Li FeiFei. Imagenet large scale visual recognition challenge. International Journal of Computer Vision (IJCV), 115(3):211-252, 2015.",
+    "title": "Imagenet large scale visual recognition challenge",
+    "authors": [
+      "Olga Russakovsky",
+      "Jia Deng",
+      "Hao Su",
+      "Jonathan Krause",
+      "Sanjeev Satheesh",
+      "Sean Ma",
+      "Zhiheng Huang",
+      "Andrej Karpathy",
+      "Aditya Khosla",
+      "Michael Bernstein",
+      "Alexander C Berg",
+      "Li Feifei"
+    ],
+    "venue": "International Journal of Computer Vision (IJCV)",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Changhao Shi, Chester Holtz, and Gal Mishne. Online adversarial purification based on selfsupervision. arXiv preprint arXiv:2101.09387, 2021.",
+    "title": "Online adversarial purification based on selfsupervision",
+    "authors": [
+      "Changhao Shi",
+      "Chester Holtz",
+      "Gal Mishne"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2101.09387"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "C Szegedy. Intriguing properties of neural networks. arXiv preprint arXiv:1312.6199, 2013.",
+    "title": "Intriguing properties of neural networks",
+    "authors": [
+      "Szegedy"
+    ],
+    "year": 2013,
+    "identifiers": {
+      "arxiv_id": "arXiv:1312.6199"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Ilya O Tolstikhin, Neil Houlsby, Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Thomas Unterthiner, Jessica Yung, Andreas Steiner, Daniel Keysers, Jakob Uszkoreit, et al. Mlp-mixer: An all-mlp architecture for vision. Advances in neural information processing systems, 34:2426124272, 2021.",
+    "title": "Mlp-mixer: An all-mlp architecture for vision",
+    "authors": [
+      "Neil Ilya O Tolstikhin",
+      "Alexander Houlsby",
+      "Lucas Kolesnikov",
+      "Xiaohua Beyer",
+      "Thomas Zhai",
+      "Jessica Unterthiner",
+      "Andreas Yung",
+      "Daniel Steiner",
+      "Jakob Keysers",
+      "Uszkoreit"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "A Vaswani. Attention is all you need. Advances in Neural Information Processing Systems, 2017.",
+    "title": "Attention is all you need",
+    "authors": [
+      "Vaswani"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Yisen Wang, Difan Zou, Jinfeng Yi, James Bailey, Xingjun Ma, and Quanquan Gu. Improving adversarial robustness requires revisiting misclassified examples. In International conference on learning representations, 2019.",
+    "title": "Improving adversarial robustness requires revisiting misclassified examples",
+    "authors": [
+      "Yisen Wang",
+      "Difan Zou",
+      "Jinfeng Yi",
+      "James Bailey",
+      "Xingjun Ma",
+      "Quanquan Gu"
+    ],
+    "venue": "International conference on learning representations",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Zekai Wang, Tianyu Pang, Chao Du, Min Lin, Weiwei Liu, and Shuicheng Yan. Better diffusion models further improve adversarial training. In International Conference on Machine Learning, pp. 36246-36263. PMLR, 2023.",
+    "title": "Better diffusion models further improve adversarial training",
+    "authors": [
+      "Zekai Wang",
+      "Tianyu Pang",
+      "Chao Du",
+      "Min Lin",
+      "Weiwei Liu",
+      "Shuicheng Yan"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Dongxian Wu, Shu-Tao Xia, and Yisen Wang. Adversarial weight perturbation helps robust generalization. Advances in neural information processing systems, 33:2958-2969, 2020.",
+    "title": "Adversarial weight perturbation helps robust generalization",
+    "authors": [
+      "Dongxian Wu",
+      "Shu-Tao Xia",
+      "Yisen Wang"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Hanshu Yan, Jiawei Du, Vincent YF Tan, and Jiashi Feng. On robustness of neural ordinary differential equations. arXiv preprint arXiv:1910.05513, 2019.",
+    "title": "On robustness of neural ordinary differential equations",
+    "authors": [
+      "Hanshu Yan",
+      "Jiawei Du",
+      "Jiashi Vincent Yf Tan",
+      "Feng"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1910.05513"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Jongmin Yoon, Sung Ju Hwang, and Juho Lee. Adversarial purification with score-based generative models. In International Conference on Machine Learning, pp. 12062-12072. PMLR, 2021.",
+    "title": "Adversarial purification with score-based generative models",
+    "authors": [
+      "Jongmin Yoon",
+      "Sung Ju Hwang",
+      "Juho Lee"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Hongyang Zhang, Yaodong Yu, Jiantao Jiao, Eric Xing, Laurent El Ghaoui, and Michael Jordan. Theoretically principled trade-off between robustness and accuracy. In International conference on machine learning, pp. 7472-7482. PMLR, 2019.",
+    "title": "Theoretically principled trade-off between robustness and accuracy",
+    "authors": [
+      "Hongyang Zhang",
+      "Yaodong Yu",
+      "Jiantao Jiao",
+      "Eric Xing",
+      "Laurent El Ghaoui",
+      "Michael Jordan"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Stephan Zheng, Yang Song, Thomas Leung, and Ian Goodfellow. Improving the robustness of deep neural networks via stability training. In Proceedings of the ieee conference on computer vision and pattern recognition, pp. 4480-4488, 2016.",
+    "title": "Improving the robustness of deep neural networks via stability training",
+    "authors": [
+      "Stephan Zheng",
+      "Yang Song",
+      "Thomas Leung",
+      "Ian Goodfellow"
+    ],
+    "venue": "Proceedings of the ieee conference on computer vision and pattern recognition",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Vedika Agarwal, Rakshith Shetty, and Mario Fritz. Towards causal vqa: Revealing and reducing spurious correlations by invariant and covariant semantic editing. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 9690-9698, 2020.",
+    "title": "Towards causal vqa: Revealing and reducing spurious correlations by invariant and covariant semantic editing",
+    "authors": [
+      "Vedika Agarwal",
+      "Rakshith Shetty",
+      "Mario Fritz"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Aishwarya Agrawal, Dhruv Batra, and Devi Parikh. Analyzing the behavior of visual question answering models. arXiv preprint arXiv:1606.07356, 2016.",
+    "title": "Analyzing the behavior of visual question answering models",
+    "authors": [
+      "Aishwarya Agrawal",
+      "Dhruv Batra",
+      "Devi Parikh"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1606.07356"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Jinze Bai, Shuai Bai, Yunfei Chu, Zeyu Cui, Kai Dang, Xiaodong Deng, Yang Fan, Wenbin Ge, Yu Han, Fei Huang, et al. Qwen technical report. arXiv preprint arXiv:2309.16609, 2023a.",
+    "title": "Qwen technical report",
+    "authors": [
+      "Jinze Bai",
+      "Shuai Bai",
+      "Yunfei Chu",
+      "Zeyu Cui",
+      "Kai Dang",
+      "Xiaodong Deng",
+      "Yang Fan",
+      "Wenbin Ge",
+      "Yu Han",
+      "Fei Huang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2309.16609"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, and Jingren Zhou. Qwen-vl: A frontier large vision-language model with versatile abilities. arXiv preprint arXiv:2308.12966, 2023b.",
+    "title": "Qwen-vl: A frontier large vision-language model with versatile abilities",
+    "authors": [
+      "Jinze Bai",
+      "Shuai Bai",
+      "Shusheng Yang",
+      "Shijie Wang",
+      "Sinan Tan",
+      "Peng Wang",
+      "Junyang Lin",
+      "Chang Zhou",
+      "Jingren Zhou"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2308.12966"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et al. Language models are few-shot learners. Advances in neural information processing systems, 33:1877-1901, 2020.",
+    "title": "Language models are few-shot learners",
+    "authors": [
+      "Tom Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "Jared D Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Zouying Cao, Yifei Yang, and Hai Zhao. Nothing in excess: Mitigating the exaggerated safety for llms via safety-conscious activation steering. arXiv preprint arXiv:2408.11491, 2024.",
+    "title": "Nothing in excess: Mitigating the exaggerated safety for llms via safety-conscious activation steering",
+    "authors": [
+      "Zouying Cao",
+      "Yifei Yang",
+      "Hai Zhao"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2408.11491"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Wei-Lin Chiang, Zhuohan Li, Zi Lin, Ying Sheng, Zhanghao Wu, Hao Zhang, Lianmin Zheng, Siyuan Zhuang, Yonghao Zhuang, Joseph E. Gonzalez, Ion Stoica, and Eric P. Xing. Vicuna: An open-source chatbot impressing gpt-4 with 90%* chatgpt quality, March 2023. URL https: //lmsys.org/blog/2023-03-30-vicuna/.",
+    "title": "Vicuna: An open-source chatbot impressing gpt-4 with 90%* chatgpt quality",
+    "authors": [
+      "Wei-Lin Chiang",
+      "Zhuohan Li",
+      "Zi Lin",
+      "Ying Sheng",
+      "Zhanghao Wu",
+      "Hao Zhang",
+      "Lianmin Zheng",
+      "Siyuan Zhuang",
+      "Yonghao Zhuang",
+      "Joseph E Gonzalez",
+      "Ion Stoica",
+      "Eric P Xing"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://lmsys.org/blog/2023-03-30-vicuna/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung, Charles Sutton, Sebastian Gehrmann, et al. Palm: Scaling language modeling with pathways. arXiv preprint arXiv:2204.02311, 2022.",
+    "title": "Scaling language modeling with pathways",
+    "authors": [
+      "Aakanksha Chowdhery",
+      "Sharan Narang",
+      "Jacob Devlin",
+      "Maarten Bosma",
+      "Gaurav Mishra",
+      "Adam Roberts",
+      "Paul Barham",
+      "Hyung Won Chung",
+      "Charles Sutton",
+      "Sebastian Gehrmann"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2204.02311"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Wenliang Dai, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Junqi Zhao, Weisheng Wang, Boyang Li, Pascale Fung, and Steven Hoi. Instructblip: Towards general-purpose vision-language models with instruction tuning. arXiv preprint arXiv:2306.04387, 2023.",
+    "title": "Instructblip: Towards general-purpose vision-language models with instruction tuning",
+    "authors": [
+      "Wenliang Dai",
+      "Junnan Li",
+      "Dongxu Li",
+      "Anthony Meng",
+      "Huat Tiong",
+      "Junqi Zhao",
+      "Weisheng Wang",
+      "Boyang Li",
+      "Pascale Fung",
+      "Steven Hoi"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.04387"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Ailin Deng, Zhirui Chen, and Bryan Hooi. Seeing is believing: Mitigating hallucination in large vision-language models via clip-guided decoding. arXiv preprint arXiv:2402.15300, 2024.",
+    "title": "Seeing is believing: Mitigating hallucination in large vision-language models via clip-guided decoding",
+    "authors": [
+      "Ailin Deng",
+      "Zhirui Chen",
+      "Bryan Hooi"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.15300"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Alessandro Favero, Luca Zancato, Matthew Trager, Siddharth Choudhary, Pramuditha Perera, Alessandro Achille, Ashwin Swaminathan, and Stefano Soatto. Multi-modal hallucination control by visual information grounding. arXiv preprint arXiv:2403.14003, 2024.",
+    "title": "Multi-modal hallucination control by visual information grounding",
+    "authors": [
+      "Alessandro Favero",
+      "Luca Zancato",
+      "Matthew Trager",
+      "Siddharth Choudhary",
+      "Pramuditha Perera",
+      "Alessandro Achille",
+      "Ashwin Swaminathan",
+      "Stefano Soatto"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.14003"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Fabrizio Gilardi, Meysam Alizadeh, and Maël Kubli. Chatgpt outperforms crowd-workers for text-annotation tasks. arXiv preprint arXiv:2303.15056, 2023.",
+    "title": "Chatgpt outperforms crowd-workers for text-annotation tasks",
+    "authors": [
+      "Fabrizio Gilardi",
+      "Meysam Alizadeh",
+      "Maël Kubli"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2303.15056"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Tao Gong, Chengqi Lyu, Shilong Zhang, Yudong Wang, Miao Zheng, Qian Zhao, Kuikun Liu, Wenwei Zhang, Ping Luo, and Kai Chen. Multimodal-gpt: A vision and language model for dialogue with humans. arXiv preprint arXiv:2305.04790, 2023.",
+    "title": "Multimodal-gpt: A vision and language model for dialogue with humans",
+    "authors": [
+      "Tao Gong",
+      "Chengqi Lyu",
+      "Shilong Zhang",
+      "Yudong Wang",
+      "Miao Zheng",
+      "Qian Zhao",
+      "Kuikun Liu",
+      "Wenwei Zhang",
+      "Ping Luo",
+      "Kai Chen"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.04790"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Yash Goyal, Tejas Khot, Douglas Summers-Stay, Dhruv Batra, and Devi Parikh. Making the v in vqa matter: Elevating the role of image understanding in visual question answering. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 6904-6913, 2017.",
+    "title": "Making the v in vqa matter: Elevating the role of image understanding in visual question answering",
+    "authors": [
+      "Yash Goyal",
+      "Tejas Khot",
+      "Douglas Summers-Stay",
+      "Dhruv Batra",
+      "Devi Parikh"
+    ],
+    "venue": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Anisha Gunjal, Jihan Yin, and Erhan Bas. Detecting and preventing hallucinations in large vision language models. arXiv preprint arXiv:2308.06394, 2023.",
+    "title": "Detecting and preventing hallucinations in large vision language models",
+    "authors": [
+      "Anisha Gunjal",
+      "Jihan Yin",
+      "Erhan Bas"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2308.06394"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Yudong Han, Liqiang Nie, Jianhua Yin, Jianlong Wu, and Yan Yan. Visual perturbation-aware collaborative learning for overcoming the language prior problem. arXiv preprint arXiv:2207.11850, 2022.",
+    "title": "Visual perturbation-aware collaborative learning for overcoming the language prior problem",
+    "authors": [
+      "Yudong Han",
+      "Liqiang Nie",
+      "Jianhua Yin",
+      "Jianlong Wu",
+      "Yan Yan"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2207.11850"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Qidong Huang, Xiaoyi Dong, Pan Zhang, Bin Wang, Conghui He, Jiaqi Wang, Dahua Lin, Weiming Zhang, and Nenghai Yu. Opera: Alleviating hallucination in multi-modal large language models via over-trust penalty and retrospection-allocation. arXiv preprint arXiv:2311.17911, 2023.",
+    "title": "Opera: Alleviating hallucination in multi-modal large language models via over-trust penalty and retrospection-allocation",
+    "authors": [
+      "Qidong Huang",
+      "Xiaoyi Dong",
+      "Pan Zhang",
+      "Bin Wang",
+      "Conghui He",
+      "Jiaqi Wang",
+      "Dahua Lin",
+      "Weiming Zhang",
+      "Nenghai Yu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2311.17911"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Ye Jin Bang, Andrea Madotto, and Pascale Fung. Survey of hallucination in natural language generation. ACM Computing Surveys, 55(12):1-38, 2023.",
+    "title": "Survey of hallucination in natural language generation",
+    "authors": [
+      "Ziwei Ji",
+      "Nayeon Lee",
+      "Rita Frieske",
+      "Tiezheng Yu",
+      "Dan Su",
+      "Yan Xu",
+      "Etsuko Ishii",
+      "Ye",
+      "Jin Bang",
+      "Andrea Madotto",
+      "Pascale Fung"
+    ],
+    "venue": "ACM Computing Surveys",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Junho Kim, Yeon Ju Kim, and Yong Man Ro. What if...?: Counterfactual inception to mitigate hallucination effects in large multimodal models. arXiv preprint arXiv:2403.13513, 2024.",
+    "title": "Counterfactual inception to mitigate hallucination effects in large multimodal models",
+    "authors": [
+      "Junho Kim",
+      "Yeon Ju Kim",
+      "Yong Man Ro"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.13513"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Xin Lai, Zhuotao Tian, Yukang Chen, Yanwei Li, Yuhui Yuan, Shu Liu, and Jiaya Jia. Lisa: Reasoning segmentation via large language model. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 9579-9589, 2024.",
+    "title": "Reasoning segmentation via large language model",
+    "authors": [
+      "Xin Lai",
+      "Zhuotao Tian",
+      "Yukang Chen",
+      "Yanwei Li",
+      "Yuhui Yuan",
+      "Shu Liu",
+      "Jiaya Jia",
+      "Lisa"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Jusung Lee, Sungguk Cha, Younghyun Lee, and Cheoljong Yang. Visual question answering instruction: Unlocking multimodal large language model to domain-specific visual multitasks. arXiv preprint arXiv:2402.08360, 2024.",
+    "title": "Visual question answering instruction: Unlocking multimodal large language model to domain-specific visual multitasks",
+    "authors": [
+      "Jusung Lee",
+      "Sungguk Cha",
+      "Younghyun Lee",
+      "Cheoljong Yang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.08360"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Seongyun Lee, Sue Hyun Park, Yongrae Jo, and Minjoon Seo. Volcano: mitigating multimodal hallucination through self-feedback guided revision. arXiv preprint arXiv:2311.07362, 2023.",
+    "title": "Volcano: mitigating multimodal hallucination through self-feedback guided revision",
+    "authors": [
+      "Seongyun Lee",
+      "Sue",
+      "Hyun Park",
+      "Yongrae Jo",
+      "Minjoon Seo"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2311.07362"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Sicong Leng, Hang Zhang, Guanzheng Chen, Xin Li, Shijian Lu, Chunyan Miao, and Lidong Bing. Mitigating object hallucinations in large vision-language models through visual contrastive decoding. arXiv preprint arXiv:2311.16922, 2023a.",
+    "title": "Mitigating object hallucinations in large vision-language models through visual contrastive decoding",
+    "authors": [
+      "Sicong Leng",
+      "Hang Zhang",
+      "Guanzheng Chen",
+      "Xin Li",
+      "Shijian Lu",
+      "Chunyan Miao",
+      "Lidong Bing"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2311.16922"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Sicong Leng, Hang Zhang, Guanzheng Chen, Xin Li, Shijian Lu, Chunyan Miao, and Lidong Bing. Mitigating object hallucinations in large vision-language models through visual contrastive decoding. arXiv preprint arXiv:2311.16922, 2023b.",
+    "title": "Mitigating object hallucinations in large vision-language models through visual contrastive decoding",
+    "authors": [
+      "Sicong Leng",
+      "Hang Zhang",
+      "Guanzheng Chen",
+      "Xin Li",
+      "Shijian Lu",
+      "Chunyan Miao",
+      "Lidong Bing"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2311.16922"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Bo Li, Yuanhan Zhang, Liangyu Chen, Jinghao Wang, Jingkang Yang, and Ziwei Liu. Otter: A multi-modal model with in-context instruction tuning. arXiv preprint arXiv:2305.03726, 2023a.",
+    "title": "A multi-modal model with in-context instruction tuning",
+    "authors": [
+      "Bo Li",
+      "Yuanhan Zhang",
+      "Liangyu Chen",
+      "Jinghao Wang",
+      "Jingkang Yang",
+      "Ziwei Liu",
+      "Otter"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.03726"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Junnan Li, Dongxu Li, Caiming Xiong, and Steven Hoi. Blip: Bootstrapping language-image pretraining for unified vision-language understanding and generation. In International Conference on Machine Learning, pp. 12888-12900. PMLR, 2022.",
+    "title": "Blip: Bootstrapping language-image pretraining for unified vision-language understanding and generation",
+    "authors": [
+      "Junnan Li",
+      "Dongxu Li",
+      "Caiming Xiong",
+      "Steven Hoi"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Junnan Li, Dongxu Li, Silvio Savarese, and Steven Hoi. Blip-2: Bootstrapping language-image pretraining with frozen image encoders and large language models. arXiv preprint arXiv:2301.12597, 2023b.",
+    "title": "Blip-2: Bootstrapping language-image pretraining with frozen image encoders and large language models",
+    "authors": [
+      "Junnan Li",
+      "Dongxu Li",
+      "Silvio Savarese",
+      "Steven Hoi"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2301.12597"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Liunian Harold Li, Mark Yatskar, Da Yin, Cho-Jui Hsieh, and Kai-Wei Chang. Visualbert: A simple and performant baseline for vision and language. arXiv preprint arXiv:1908.03557, 2019.",
+    "title": "Visualbert: A simple and performant baseline for vision and language",
+    "authors": [
+      "Liunian Harold",
+      "Li",
+      "Mark Yatskar",
+      "Cho-Jui Da Yin",
+      "Kai-Wei Hsieh",
+      "Chang"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1908.03557"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Yifan Li, Yifan Du, Kun Zhou, Jinpeng Wang, Wayne Xin Zhao, and Ji-Rong Wen. Evaluating object hallucination in large vision-language models. arXiv preprint arXiv:2305.10355, 2023c.",
+    "title": "Evaluating object hallucination in large vision-language models",
+    "authors": [
+      "Yifan Li",
+      "Yifan Du",
+      "Kun Zhou",
+      "Jinpeng Wang",
+      "Wayne Xin Zhao",
+      "Ji-Rong Wen"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.10355"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva Ramanan, Piotr Dollár, and C Lawrence Zitnick. Microsoft coco: Common objects in context. In Computer VisionECCV 2014: 13th European Conference, Zurich, Switzerland, September 6-12, 2014, Proceedings, Part V 13, pp. 740-755. Springer, 2014.",
+    "title": "Microsoft coco: Common objects in context",
+    "authors": [
+      "Tsung-Yi Lin",
+      "Michael Maire",
+      "Serge Belongie",
+      "James Hays",
+      "Pietro Perona",
+      "Deva Ramanan",
+      "Piotr Dollár",
+      "C Lawrence",
+      "Zitnick"
+    ],
+    "venue": "Computer VisionECCV 2014: 13th European Conference",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Fuxiao Liu, Kevin Lin, Linjie Li, Jianfeng Wang, Yaser Yacoob, and Lijuan Wang. Mitigating hallucination in large multi-modal models via robust instruction tuning. arXiv preprint arXiv:2306.14565, 2023a.",
+    "title": "Mitigating hallucination in large multi-modal models via robust instruction tuning",
+    "authors": [
+      "Fuxiao Liu",
+      "Kevin Lin",
+      "Linjie Li",
+      "Jianfeng Wang",
+      "Yaser Yacoob",
+      "Lijuan Wang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.14565"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Hanchao Liu, Wenyuan Xue, Yifei Chen, Dapeng Chen, Xiutian Zhao, Ke Wang, Liping Hou, Rongjun Li, and Wei Peng. A survey on hallucination in large vision-language models. arXiv preprint arXiv:2402.00253, 2024a.",
+    "title": "A survey on hallucination in large vision-language models",
+    "authors": [
+      "Hanchao Liu",
+      "Wenyuan Xue",
+      "Yifei Chen",
+      "Dapeng Chen",
+      "Xiutian Zhao",
+      "Ke Wang",
+      "Liping Hou",
+      "Rongjun Li",
+      "Wei Peng"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.00253"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Haotian Liu, Chunyuan Li, Qingyang Wu, and Yong Jae Lee. Visual instruction tuning. arXiv preprint arXiv:2304.08485, 2023b.",
+    "title": "Visual instruction tuning",
+    "authors": [
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Qingyang Wu",
+      "Yong Jae Lee"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2304.08485"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Sheng Liu, Haotian Ye, Lei Xing, and James Y Zou. In-context vectors: Making in context learning more effective and controllable through latent space steering. In Forty-first International Conference on Machine Learning.",
+    "title": "In-context vectors: Making in context learning more effective and controllable through latent space steering",
+    "authors": [
+      "Sheng Liu",
+      "Haotian Ye",
+      "Lei Xing",
+      "James Y Zou"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Sheng Liu, Oscar Pastor-Serrano, Yizheng Chen, Matthew Gopaulchan, Weixing Liang, Mark Buyyounouski, Erqi Pollom, Quynh-Thu Le, Michael Gensheimer, Peng Dong, et al. Automated radiotherapy treatment planning guided by gpt-4vision. arXiv preprint arXiv:2406.15609, 2024b.",
+    "title": "Automated radiotherapy treatment planning guided by gpt-4vision",
+    "authors": [
+      "Sheng Liu",
+      "Oscar Pastor-Serrano",
+      "Yizheng Chen",
+      "Matthew Gopaulchan",
+      "Weixing Liang",
+      "Mark Buyyounouski",
+      "Erqi Pollom",
+      "Quynh-Thu Le",
+      "Michael Gensheimer",
+      "Peng Dong"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.15609"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Holy Lovenia, Wenliang Dai, Samuel Cahyawijaya, Ziwei Ji, and Pascale Fung. Negative object presence evaluation (nope) to measure object hallucination in vision-language models. arXiv preprint arXiv:2310.05338, 2023.",
+    "title": "Negative object presence evaluation (nope) to measure object hallucination in vision-language models",
+    "authors": [
+      "Wenliang Holy Lovenia",
+      "Samuel Dai",
+      "Ziwei Cahyawijaya",
+      "Pascale Ji",
+      "Fung"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.05338"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Jinqi Luo, Tianjiao Ding, Kwan Ho Ryan Chan, Darshan Thaker, Aditya Chattopadhyay, Chris Callison-Burch, and René Vidal. Pace: Parsimonious concept engineering for large language models. arXiv preprint arXiv:2406.04331, 2024.",
+    "title": "Parsimonious concept engineering for large language models",
+    "authors": [
+      "Jinqi Luo",
+      "Tianjiao Ding",
+      "Kwan Ho Ryan Chan",
+      "Darshan Thaker",
+      "Aditya Chattopadhyay",
+      "Chris Callison-Burch",
+      "René Vidal",
+      "Pace"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.04331"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, et al. Learning transferable visual models from natural language supervision. In International conference on machine learning, pp. 8748-8763. PMLR, 2021.",
+    "title": "Learning transferable visual models from natural language supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "Aditya Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, and Peter J Liu. Exploring the limits of transfer learning with a unified text-to-text transformer. The Journal of Machine Learning Research, 21(1):5485-5551, 2020.",
+    "title": "Exploring the limits of transfer learning with a unified text-to-text transformer",
+    "authors": [
+      "Colin Raffel",
+      "Noam Shazeer",
+      "Adam Roberts",
+      "Katherine Lee",
+      "Sharan Narang",
+      "Michael Matena",
+      "Yanqi Zhou",
+      "Wei Li",
+      "Peter J Liu"
+    ],
+    "venue": "The Journal of Machine Learning Research",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Anna Rohrbach, Lisa Anne Hendricks, Kaylee Burns, Trevor Darrell, and Kate Saenko. Object hallucination in image captioning. arXiv preprint arXiv:1809.02156, 2018.",
+    "title": "Object hallucination in image captioning",
+    "authors": [
+      "Anna Rohrbach",
+      "Lisa Anne Hendricks",
+      "Kaylee Burns",
+      "Trevor Darrell",
+      "Kate Saenko"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1809.02156"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, and Wen-tau Yih. Replug: Retrieval-augmented black-box language models. arXiv preprint arXiv:2301.12652, 2023.",
+    "title": "Replug: Retrieval-augmented black-box language models",
+    "authors": [
+      "Weijia Shi",
+      "Sewon Min",
+      "Michihiro Yasunaga",
+      "Minjoon Seo",
+      "Rich James",
+      "Mike Lewis",
+      "Luke Zettlemoyer",
+      "Wen-Tau Yih"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2301.12652"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, and Cordelia Schmid. Videobert: A joint model for video and language representation learning. In Proceedings of the IEEE/CVF international conference on computer vision, pp. 7464-7473, 2019.",
+    "title": "Videobert: A joint model for video and language representation learning",
+    "authors": [
+      "Chen Sun",
+      "Austin Myers",
+      "Carl Vondrick",
+      "Kevin Murphy",
+      "Cordelia Schmid"
+    ],
+    "venue": "Proceedings of the IEEE/CVF international conference on computer vision",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-Yan Gui, Yu-Xiong Wang, Yiming Yang, et al. Aligning large multimodal models with factually augmented rlhf. arXiv preprint arXiv:2309.14525, 2023.",
+    "title": "Aligning large multimodal models with factually augmented rlhf",
+    "authors": [
+      "Zhiqing Sun",
+      "Sheng Shen",
+      "Shengcao Cao",
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Yikang Shen",
+      "Chuang Gan",
+      "Liang-Yan Gui",
+      "Yu-Xiong Wang",
+      "Yiming Yang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2309.14525"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Rohan Taori, Ishaan Gulrajani, Tianyi Zhang, Yann Dubois, Xuechen Li, Carlos Guestrin, Percy Liang, and Tatsunori B. Hashimoto. Stanford alpaca: An instruction-following llama model, 2023.",
+    "title": "Stanford alpaca: An instruction-following llama model",
+    "authors": [
+      "Rohan Taori",
+      "Ishaan Gulrajani",
+      "Tianyi Zhang",
+      "Yann Dubois",
+      "Xuechen Li",
+      "Carlos Guestrin",
+      "Percy Liang",
+      "Tatsunori B Hashimoto"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Yi Tay, Mostafa Dehghani, Vinh Q Tran, Xavier Garcia, Jason Wei, Xuezhi Wang, Hyung Won Chung, Dara Bahri, Tal Schuster, Steven Zheng, et al. Ul2: Unifying language learning paradigms. In The Eleventh International Conference on Learning Representations, 2022.",
+    "title": "Ul2: Unifying language learning paradigms",
+    "authors": [
+      "Yi Tay",
+      "Mostafa Dehghani",
+      "Xavier Vinh Q Tran",
+      "Jason Garcia",
+      "Xuezhi Wei",
+      "Hyung Won Wang",
+      "Dara Chung",
+      "Tal Bahri",
+      "Steven Schuster",
+      "Zheng"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, et al. Llama: Open and efficient foundation language models. arXiv preprint arXiv:2302.13971, 2023.",
+    "title": "Open and efficient foundation language models",
+    "authors": [
+      "Hugo Touvron",
+      "Thibaut Lavril",
+      "Gautier Izacard",
+      "Xavier Martinet",
+      "Marie-Anne Lachaux",
+      "Timothée Lacroix",
+      "Baptiste Rozière",
+      "Naman Goyal",
+      "Eric Hambro",
+      "Faisal Azhar"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2302.13971"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "David Wan, Jaemin Cho, Elias Stengel-Eskin, and Mohit Bansal. Contrastive region guidance: Improving grounding in vision-language models without training. arXiv preprint arXiv:2403.02325, 2024.",
+    "title": "Contrastive region guidance: Improving grounding in vision-language models without training",
+    "authors": [
+      "David Wan",
+      "Jaemin Cho",
+      "Elias Stengel-Eskin",
+      "Mohit Bansal"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.02325"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Haibo Wang, Chenghang Lai, Yixuan Sun, and Weifeng Ge. Weakly supervised gaussian contrastive grounding with large multimodal models for video question answering. arXiv preprint arXiv:2401.10711, 2024a.",
+    "title": "Weakly supervised gaussian contrastive grounding with large multimodal models for video question answering",
+    "authors": [
+      "Haibo Wang",
+      "Chenghang Lai",
+      "Yixuan Sun",
+      "Weifeng Ge"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.10711"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Jianfeng Wang, Zhengyuan Yang, Xiaowei Hu, Linjie Li, Kevin Lin, Zhe Gan, Zicheng Liu, Ce Liu, and Lijuan Wang. Git: A generative image-to-text transformer for vision and language. arXiv preprint arXiv:2205.14100, 2022.",
+    "title": "Git: A generative image-to-text transformer for vision and language",
+    "authors": [
+      "Jianfeng Wang",
+      "Zhengyuan Yang",
+      "Xiaowei Hu",
+      "Linjie Li",
+      "Kevin Lin",
+      "Zhe Gan",
+      "Zicheng Liu",
+      "Ce Liu",
+      "Lijuan Wang"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2205.14100"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Junyang Wang, Yiyang Zhou, Guohai Xu, Pengcheng Shi, Chenlin Zhao, Haiyang Xu, Qinghao Ye, Ming Yan, Ji Zhang, Jihua Zhu, et al. Evaluation and analysis of hallucination in large vision-language models. arXiv preprint arXiv:2308.15126, 2023a.",
+    "title": "Evaluation and analysis of hallucination in large vision-language models",
+    "authors": [
+      "Junyang Wang",
+      "Yiyang Zhou",
+      "Guohai Xu",
+      "Pengcheng Shi",
+      "Chenlin Zhao",
+      "Haiyang Xu",
+      "Qinghao Ye",
+      "Ming Yan",
+      "Ji Zhang",
+      "Jihua Zhu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2308.15126"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Teng Wang, Jinrui Zhang, Junjie Fei, Yixiao Ge, Hao Zheng, Yunlong Tang, Zhe Li, Mingqi Gao, Shanshan Zhao, Ying Shan, et al. Caption anything: Interactive image description with diverse multimodal controls. arXiv preprint arXiv:2305.02677, 2023b.",
+    "title": "Caption anything: Interactive image description with diverse multimodal controls",
+    "authors": [
+      "Teng Wang",
+      "Jinrui Zhang",
+      "Junjie Fei",
+      "Yixiao Ge",
+      "Hao Zheng",
+      "Yunlong Tang",
+      "Zhe Li",
+      "Mingqi Gao",
+      "Shanshan Zhao",
+      "Ying Shan"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.02677"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Xintong Wang, Jingheng Pan, Liang Ding, and Chris Biemann. Mitigating hallucinations in large vision-language models with instruction contrastive decoding. arXiv preprint arXiv:2403.18715, 2024b.",
+    "title": "Mitigating hallucinations in large vision-language models with instruction contrastive decoding",
+    "authors": [
+      "Xintong Wang",
+      "Jingheng Pan",
+      "Liang Ding",
+      "Chris Biemann"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.18715"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Yike Wu, Yu Zhao, Shiwan Zhao, Ying Zhang, Xiaojie Yuan, Guoqing Zhao, and Ning Jiang. Overcoming language priors in visual question answering via distinguishing superficially similar instances. arXiv preprint arXiv:2209.08529, 2022.",
+    "title": "Overcoming language priors in visual question answering via distinguishing superficially similar instances",
+    "authors": [
+      "Yike Wu",
+      "Yu Zhao",
+      "Shiwan Zhao",
+      "Ying Zhang",
+      "Xiaojie Yuan",
+      "Guoqing Zhao",
+      "Ning Jiang"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2209.08529"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Dingchen Yang, Bowen Cao, Guang Chen, and Changjun Jiang. Pensieve: Retrospect-then-compare mitigates visual hallucination. arXiv preprint arXiv:2403.14401, 2024.",
+    "title": "Retrospect-then-compare mitigates visual hallucination",
+    "authors": [
+      "Dingchen Yang",
+      "Bowen Cao",
+      "Guang Chen",
+      "Changjun Jiang",
+      "Pensieve"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.14401"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Qinghao Ye, Haiyang Xu, Guohai Xu, Jiabo Ye, Ming Yan, Yiyang Zhou, Junyang Wang, Anwen Hu, Pengcheng Shi, Yaya Shi, Chenliang Li, Yuanhong Xu, Hehong Chen, Junfeng Tian, Qian Qi, Ji Zhang, and Fei Huang. mplug-owl: Modularization empowers large language models with multimodality. arXiv preprint arXiv:2304.14178, 2023.",
+    "title": "mplug-owl: Modularization empowers large language models with multimodality",
+    "authors": [
+      "Qinghao Ye",
+      "Haiyang Xu",
+      "Guohai Xu",
+      "Jiabo Ye",
+      "Ming Yan",
+      "Yiyang Zhou",
+      "Junyang Wang",
+      "Anwen Hu",
+      "Pengcheng Shi",
+      "Yaya Shi",
+      "Chenliang Li",
+      "Yuanhong Xu",
+      "Hehong Chen",
+      "Junfeng Tian",
+      "Qian Qi",
+      "Ji Zhang",
+      "Fei Huang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2304.14178"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Shukang Yin, Chaoyou Fu, Sirui Zhao, Tong Xu, Hao Wang, Dianbo Sui, Yunhang Shen, Ke Li, Xing Sun, and Enhong Chen. Woodpecker: Hallucination correction for multimodal large language models. arXiv preprint arXiv:2310.16045, 2023.",
+    "title": "Hallucination correction for multimodal large language models",
+    "authors": [
+      "Shukang Yin",
+      "Chaoyou Fu",
+      "Sirui Zhao",
+      "Tong Xu",
+      "Hao Wang",
+      "Dianbo Sui",
+      "Yunhang Shen",
+      "Ke Li",
+      "Xing Sun",
+      "Enhong Chen",
+      "Woodpecker"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.16045"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Zihao Yue, Liang Zhang, and Qin Jin. Less is more: Mitigating multimodal hallucination from an eos decision perspective. arXiv preprint arXiv:2402.14545, 2024.",
+    "title": "Less is more: Mitigating multimodal hallucination from an eos decision perspective",
+    "authors": [
+      "Zihao Yue",
+      "Liang Zhang",
+      "Qin Jin"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.14545"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "Bohan Zhai, Shijia Yang, Xiangchen Zhao, Chenfeng Xu, Sheng Shen, Dongdi Zhao, Kurt Keutzer, Manling Li, Tan Yan, and Xiangjun Fan. Halle-switch: Rethinking and controlling object existence hallucinations in large vision language models for detailed caption. arXiv preprint arXiv:2310.01779, 2023.",
+    "title": "Halle-switch: Rethinking and controlling object existence hallucinations in large vision language models for detailed caption",
+    "authors": [
+      "Bohan Zhai",
+      "Shijia Yang",
+      "Xiangchen Zhao",
+      "Chenfeng Xu",
+      "Sheng Shen",
+      "Dongdi Zhao",
+      "Kurt Keutzer",
+      "Manling Li",
+      "Tan Yan",
+      "Xiangjun Fan"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.01779"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Xiaoman Zhang, Chaoyi Wu, Ziheng Zhao, Weixiong Lin, Ya Zhang, Yanfeng Wang, and Weidi Xie. Pmc-vqa: Visual instruction tuning for medical visual question answering. arXiv preprint arXiv:2305.10415, 2023a.",
+    "title": "Pmc-vqa: Visual instruction tuning for medical visual question answering",
+    "authors": [
+      "Xiaoman Zhang",
+      "Chaoyi Wu",
+      "Ziheng Zhao",
+      "Weixiong Lin",
+      "Ya Zhang",
+      "Yanfeng Wang",
+      "Weidi Xie"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.10415"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "Yi-Fan Zhang, Weichen Yu, Qingsong Wen, Xue Wang, Zhang Zhang, Liang Wang, Rong Jin, and Tieniu Tan. Debiasing large visual language models. arXiv preprint arXiv:2403.05262, 2024.",
+    "title": "Debiasing large visual language models",
+    "authors": [
+      "Yi-Fan Zhang",
+      "Weichen Yu",
+      "Qingsong Wen",
+      "Xue Wang",
+      "Zhang Zhang",
+      "Liang Wang",
+      "Rong Jin",
+      "Tieniu Tan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.05262"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, et al. Siren's song in the ai ocean: A survey on hallucination in large language models. arXiv preprint arXiv:2309.01219, 2023b.",
+    "title": "Siren's song in the ai ocean: A survey on hallucination in large language models",
+    "authors": [
+      "Yue Zhang",
+      "Yafu Li",
+      "Leyang Cui",
+      "Deng Cai",
+      "Lemao Liu",
+      "Tingchen Fu",
+      "Xinting Huang",
+      "Enbo Zhao",
+      "Yu Zhang",
+      "Yulong Chen"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2309.01219"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Linxi Zhao, Yihe Deng, Weitong Zhang, and Quanquan Gu. Mitigating object hallucination in large vision-language models via classifier-free guidance. arXiv preprint arXiv:2402.08680, 2024.",
+    "title": "Mitigating object hallucination in large vision-language models via classifier-free guidance",
+    "authors": [
+      "Linxi Zhao",
+      "Yihe Deng",
+      "Weitong Zhang",
+      "Quanquan Gu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.08680"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Zhiyuan Zhao, Bin Wang, Linke Ouyang, Xiaoyi Dong, Jiaqi Wang, and Conghui He. Beyond hallucinations: Enhancing lvlms through hallucination-aware direct preference optimization. arXiv preprint arXiv:2311.16839, 2023.",
+    "title": "Beyond hallucinations: Enhancing lvlms through hallucination-aware direct preference optimization",
+    "authors": [
+      "Zhiyuan Zhao",
+      "Bin Wang",
+      "Linke Ouyang",
+      "Xiaoyi Dong",
+      "Jiaqi Wang",
+      "Conghui He"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2311.16839"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "Ren Zhibo, Wang Huizhen, Zhu Muhua, Wang Yichao, Xiao Tong, and Zhu Jingbo. Overcoming language priors with counterfactual inference for visual question answering. In Proceedings of the 22nd Chinese National Conference on Computational Linguistics, pp. 600-610, 2023.",
+    "title": "Overcoming language priors with counterfactual inference for visual question answering",
+    "authors": [
+      "Ren Zhibo",
+      "Wang Huizhen",
+      "Zhu Muhua",
+      "Wang Yichao",
+      "Xiao Tong",
+      "Zhu Jingbo"
+    ],
+    "venue": "Proceedings of the 22nd Chinese National Conference on Computational Linguistics",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "Yiyang Zhou, Chenhang Cui, Jaehong Yoon, Linjun Zhang, Zhun Deng, Chelsea Finn, Mohit Bansal, and Huaxiu Yao. Analyzing and mitigating object hallucination in large vision-language models. arXiv preprint arXiv:2310.00754, 2023.",
+    "title": "Analyzing and mitigating object hallucination in large vision-language models",
+    "authors": [
+      "Yiyang Zhou",
+      "Chenhang Cui",
+      "Jaehong Yoon",
+      "Linjun Zhang",
+      "Zhun Deng",
+      "Chelsea Finn",
+      "Mohit Bansal",
+      "Huaxiu Yao"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.00754"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R66",
+    "raw_text": "Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, and Mohamed Elhoseiny. Minigpt-4: Enhancing vision-language understanding with advanced large language models. arXiv preprint arXiv:2304.10592, 2023.",
+    "title": "Minigpt-4: Enhancing vision-language understanding with advanced large language models",
+    "authors": [
+      "Deyao Zhu",
+      "Jun Chen",
+      "Xiaoqian Shen",
+      "Xiang Li",
+      "Mohamed Elhoseiny"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2304.10592"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R67",
+    "raw_text": "Lanyun Zhu, Deyi Ji, Tianrun Chen, Peng Xu, Jieping Ye, and Jun Liu. Ibd: Alleviating hallucinations in large vision-language models via image-biased decoding. arXiv preprint arXiv:2402.18476, 2024.",
+    "title": "Ibd: Alleviating hallucinations in large vision-language models via image-biased decoding",
+    "authors": [
+      "Lanyun Zhu",
+      "Deyi Ji",
+      "Tianrun Chen",
+      "Peng Xu",
+      "Jieping Ye",
+      "Jun Liu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.18476"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R68",
+    "raw_text": "Andy Zou, Long Phan, Sarah Chen, James Campbell, Phillip Guo, Richard Ren, Alexander Pan, Xuwang Yin, Mantas Mazeika, Ann-Kathrin Dombrowski, et al. Representation engineering: A top-down approach to ai transparency. arXiv preprint arXiv:2310.01405, 2023.",
+    "title": "Representation engineering: A top-down approach to ai transparency",
+    "authors": [
+      "Andy Zou",
+      "Long Phan",
+      "Sarah Chen",
+      "James Campbell",
+      "Phillip Guo",
+      "Richard Ren",
+      "Alexander Pan",
+      "Xuwang Yin",
+      "Mantas Mazeika",
+      "Ann-Kathrin Dombrowski"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.01405"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

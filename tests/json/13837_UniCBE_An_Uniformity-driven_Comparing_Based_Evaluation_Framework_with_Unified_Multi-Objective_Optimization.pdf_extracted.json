@@ -1,0 +1,666 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Meriem Boubdir, Edward Kim, Beyza Ermis, Sara Hooker, and Marzieh Fadaee. Elo uncovered: Robustness and best practices in language model evaluation. CoRR, abs/2311.17295, 2023. doi: 10. 48550/ARXIV.2311.17295. URL https://doi.org/10.48550/arXiv.2311.17295.",
+    "title": "Elo uncovered: Robustness and best practices in language model evaluation",
+    "authors": [
+      "Meriem Boubdir",
+      "Edward Kim",
+      "Beyza Ermis",
+      "Sara Hooker",
+      "Marzieh Fadaee"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2311.17295",
+      "arxiv_id": "2311.17295",
+      "url": "https://doi.org/10.48550/arXiv.2311.17295"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Ralph Allan Bradley and Milton E Terry. Rank analysis of incomplete block designs: I. the method of paired comparisons. Biometrika, 39(3/4):324-345, 1952.",
+    "title": "Rank analysis of incomplete block designs: I. the method of paired comparisons",
+    "authors": [
+      "Ralph Allan",
+      "Bradley",
+      "Milton E Terry"
+    ],
+    "venue": "Biometrika",
+    "year": 1952,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Tianchi Cai, Xierui Song, Jiyan Jiang, Fei Teng, Jinjie Gu, and Guannan Zhang. ULMA: unified language model alignment with demonstration and point-wise human preference. CoRR, abs/2312.02554, 2023. doi: 10.48550/ARXIV.2312.02554. URL https://doi.org/10. 48550/arXiv.2312.02554.",
+    "title": "ULMA: unified language model alignment with demonstration and point-wise human preference",
+    "authors": [
+      "Tianchi Cai",
+      "Xierui Song",
+      "Jiyan Jiang",
+      "Fei Teng",
+      "Jinjie Gu",
+      "Guannan Zhang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2312.02554",
+      "arxiv_id": "2312.02554",
+      "url": "https://doi.org/10.48550/arXiv.2312.02554"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Steffi Chern, Ethan Chern, Graham Neubig, and Pengfei Liu. Can large language models be trusted for evaluation? scalable meta-evaluation of llms as evaluators via agent debate. CoRR, abs/2401.16788, 2024. doi: 10.48550/ARXIV.2401.16788. URL https://doi.org/10. 48550/arXiv.2401.16788.",
+    "title": "Can large language models be trusted for evaluation? scalable meta-evaluation of llms as evaluators via agent debate",
+    "authors": [
+      "Steffi Chern",
+      "Ethan Chern",
+      "Graham Neubig",
+      "Pengfei Liu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2401.16788",
+      "arxiv_id": "2401.16788",
+      "url": "https://doi.org/10.48550/arXiv.2401.16788"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Wei-Lin Chiang, Lianmin Zheng, Ying Sheng, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Banghua Zhu, Hao Zhang, Michael I. Jordan, Joseph E. Gonzalez, and Ion Stoica. Chatbot arena: An open platform for evaluating llms by human preference. In Forty-first International Conference on Machine Learning, ICML 2024, Vienna, Austria, July 21-27, 2024. OpenReview.net, 2024. URL https://openreview.net/forum?id=3MW8GKNyzI.",
+    "title": "Chatbot arena: An open platform for evaluating llms by human preference",
+    "authors": [
+      "Wei-Lin Chiang",
+      "Lianmin Zheng",
+      "Ying Sheng",
+      "Anastasios Nikolas Angelopoulos",
+      "Tianle Li",
+      "Dacheng Li",
+      "Banghua Zhu",
+      "Hao Zhang",
+      "Michael I Jordan",
+      "Joseph E Gonzalez",
+      "Ion Stoica"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning, ICML 2024",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=3MW8GKNyzI"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Ganqu Cui, Lifan Yuan, Ning Ding, Guanming Yao, Wei Zhu, Yuan Ni, Guotong Xie, Zhiyuan Liu, and Maosong Sun. Ultrafeedback: Boosting language models with high-quality feedback. CoRR, abs/2310.01377, 2023. doi: 10.48550/ARXIV.2310.01377. URL https://doi.org/10. 48550/arXiv.2310.01377.",
+    "title": "Ultrafeedback: Boosting language models with high-quality feedback",
+    "authors": [
+      "Ganqu Cui",
+      "Lifan Yuan",
+      "Ning Ding",
+      "Guanming Yao",
+      "Wei Zhu",
+      "Yuan Ni",
+      "Guotong Xie",
+      "Zhiyuan Liu",
+      "Maosong Sun"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2310.01377",
+      "arxiv_id": "2310.01377",
+      "url": "https://doi.org/10.48550/arXiv.2310.01377"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Yann Dubois, Balázs Galambosi, Percy Liang, and Tatsunori B. Hashimoto. Length-controlled alpacaeval: A simple way to debias automatic evaluators. CoRR, abs/2404.04475, 2024. doi: 10. 48550/ARXIV.2404.04475. URL https://doi.org/10.48550/arXiv.2404.04475.",
+    "title": "Length-controlled alpacaeval: A simple way to debias automatic evaluators",
+    "authors": [
+      "Yann Dubois",
+      "Balázs Galambosi",
+      "Percy Liang",
+      "Tatsunori B Hashimoto"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2404.04475",
+      "arxiv_id": "2404.04475",
+      "url": "https://doi.org/10.48550/arXiv.2404.04475"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Arpad E Elo and Sam Sloan. The rating of chessplayers: Past and present. (No Title), 1978.",
+    "title": "The rating of chessplayers: Past and present",
+    "authors": [
+      "E Arpad",
+      "Sam Elo",
+      "Sloan"
+    ],
+    "year": 1978,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Julien Fageot, Sadegh Farhadkhani, Lê-Nguyên Hoang, and Oscar Villemaud. Generalized bradleyterry models for score estimation from paired comparisons. In Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024, Thirty-Sixth Conference on Innovative Applications of Artificial Intelligence, IAAI 2024, Fourteenth Symposium on Educational Advances in Artificial Intelligence, EAAI 2014, February 20-27, 2024, Vancouver, Canada, pp. 20379-20386.",
+    "title": "Generalized bradleyterry models for score estimation from paired comparisons",
+    "authors": [
+      "Julien Fageot",
+      "Sadegh Farhadkhani",
+      "Lê-Nguyên Hoang",
+      "Oscar Villemaud"
+    ],
+    "venue": "Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024, Thirty-Sixth Conference on Innovative Applications of Artificial Intelligence, IAAI 2024, Fourteenth Symposium on Educational Advances in Artificial Intelligence",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "AAAI Press, 2024. doi: 10.1609/AAAI.V38I18.30020. URL https://doi.org/10.1609/ aaai.v38i18.30020.",
+    "authors": [],
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.1609/AAAI.V38I18.30020",
+      "url": "https://doi.org/10.1609/aaai"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Sebastian Farquhar, Yarin Gal, and Tom Rainforth. On statistical bias in active learning: How and when to fix it. In 9th International Conference on Learning Representations, ICLR 2021, Virtual Event, Austria, May 3-7, 2021. OpenReview.net, 2021. URL https://openreview.net/ forum?id=JiYq3eqTKY.",
+    "title": "On statistical bias in active learning: How and when to fix it",
+    "authors": [
+      "Sebastian Farquhar",
+      "Yarin Gal",
+      "Tom Rainforth"
+    ],
+    "venue": "9th International Conference on Learning Representations, ICLR 2021, Virtual Event",
+    "year": 2021,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=JiYq3eqTKY"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Kehua Feng, Keyan Ding, Kede Ma, Zhihua Wang, Qiang Zhang, and Huajun Chen. Sampleefficient human evaluation of large language models via maximum discrepancy competition. CoRR, abs/2404.08008, 2024. doi: 10.48550/ARXIV.2404.08008. URL https://doi.org/ 10.48550/arXiv.2404.08008.",
+    "title": "Sampleefficient human evaluation of large language models via maximum discrepancy competition",
+    "authors": [
+      "Kehua Feng",
+      "Keyan Ding",
+      "Kede Ma",
+      "Zhihua Wang",
+      "Qiang Zhang",
+      "Huajun Chen"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2404.08008",
+      "arxiv_id": "2404.08008",
+      "url": "https://doi.org/10.48550/arXiv.2404.08008"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Jiaming Ji, Mickel Liu, Josef Dai, Xuehai Pan, Chi Zhang, Ce Bian, Boyuan Chen, Ruiyang Sun, Yizhou Wang, and Yaodong Yang. Beavertails: Towards improved safety alignment of LLM via a human-preference dataset. In Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans, LA, USA, December 10 -16, 2023, 2023. URL http://papers.nips.cc/paper_files/paper/2023/ hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_ Benchmarks.html.",
+    "title": "Beavertails: Towards improved safety alignment of LLM via a human-preference dataset",
+    "authors": [
+      "Jiaming Ji",
+      "Mickel Liu",
+      "Josef Dai",
+      "Xuehai Pan",
+      "Chi Zhang",
+      "Ce Bian",
+      "Boyuan Chen",
+      "Ruiyang Sun",
+      "Yizhou Wang",
+      "Yaodong Yang"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023",
+    "year": 2023,
+    "identifiers": {
+      "url": "http://papers.nips.cc/paper_files/paper/2023/hash/4"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Ruili Jiang, Kehai Chen, Xuefeng Bai, Zhixuan He, Juntao Li, Muyun Yang, Tiejun Zhao, Liqiang Nie, and Min Zhang. A survey on human preference learning for large language models. CoRR, abs/2406.11191, 2024. doi: 10.48550/ARXIV.2406.11191. URL https://doi.org/10. 48550/arXiv.2406.11191.",
+    "title": "A survey on human preference learning for large language models",
+    "authors": [
+      "Ruili Jiang",
+      "Kehai Chen",
+      "Xuefeng Bai",
+      "Zhixuan He",
+      "Juntao Li",
+      "Muyun Yang",
+      "Tiejun Zhao",
+      "Liqiang Nie",
+      "Min Zhang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2406.11191",
+      "arxiv_id": "2406.11191",
+      "url": "https://doi.org/10.48550/arXiv.2406.11191"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Jannik Kossen, Sebastian Farquhar, Yarin Gal, and Tom Rainforth. Active testing: Sample-efficient model evaluation. In Proceedings of the 38th International Conference on Machine Learning, ICML 2021, 18-24 July 2021, Virtual Event, volume 139 of Proceedings of Machine Learning Research, pp. 5753-5763. PMLR, 2021. URL http://proceedings.mlr.press/v139/ kossen21a.html.",
+    "title": "Active testing: Sample-efficient model evaluation",
+    "authors": [
+      "Jannik Kossen",
+      "Sebastian Farquhar",
+      "Yarin Gal",
+      "Tom Rainforth"
+    ],
+    "venue": "Proceedings of the 38th International Conference on Machine Learning, ICML 2021",
+    "year": 2021,
+    "identifiers": {
+      "url": "http://proceedings.mlr.press/v139/kossen21a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Yang Liu, Dan Iter, Yichong Xu, Shuohang Wang, Ruochen Xu, and Chenguang Zhu. G-eval: NLG evaluation using gpt-4 with better human alignment. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, EMNLP 2023, Singapore, December 6-10, 2023, pp. 2511-2522. Association for Computational Linguistics, 2023. doi: 10.18653/V1/2023.EMNLP-MAIN.153. URL https://doi.org/10.18653/v1/2023. emnlp-main.153.",
+    "title": "G-eval: NLG evaluation using gpt-4 with better human alignment",
+    "authors": [
+      "Yang Liu",
+      "Dan Iter",
+      "Yichong Xu",
+      "Shuohang Wang",
+      "Ruochen Xu",
+      "Chenguang Zhu"
+    ],
+    "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, EMNLP 2023",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/V1/2023.EMNLP-MAIN.153",
+      "url": "https://doi.org/10.18653/v1/2023.emnlp-main.153"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Yinhong Liu, Han Zhou, Zhijiang Guo, Ehsan Shareghi, Ivan Vulic, Anna Korhonen, and Nigel Collier. Aligning with human judgement: The role of pairwise preference in large language model evaluators. CoRR, abs/2403.16950, 2024. doi: 10.48550/ARXIV.2403.16950. URL https: //doi.org/10.48550/arXiv.2403.16950.",
+    "title": "Aligning with human judgement: The role of pairwise preference in large language model evaluators",
+    "authors": [
+      "Yinhong Liu",
+      "Han Zhou",
+      "Zhijiang Guo",
+      "Ehsan Shareghi",
+      "Ivan Vulic",
+      "Anna Korhonen",
+      "Nigel Collier"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2403.16950",
+      "arxiv_id": "2403.16950",
+      "url": "https://doi.org/10.48550/arXiv.2403.16950"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Frederic M Lord and Melvin R Novick. Statistical theories of mental test scores. IAP, 2008. OpenAI. Hello gpt-4o. https://openai.com/index/hello-gpt-4o/, 2024. Accessed: 2024-05-26.",
+    "title": "Statistical theories of mental test scores",
+    "authors": [
+      "M Frederic",
+      "Melvin R Lord",
+      "Novick"
+    ],
+    "venue": "OpenAI. Hello gpt-4o",
+    "year": 2008,
+    "identifiers": {
+      "url": "https://openai.com/index/hello-gpt-4o/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Long Ouyang, Jeffrey Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul F. Christiano, Jan Leike, and Ryan Lowe. Training language models to follow instructions with human feedback. In Advances in Neural Information Processing Systems 35: Annual Conference on Neural Information Processing Systems 2022, NeurIPS 2022, New Orleans, LA, USA, November 28 -December 9, 2022, 2022. URL http://papers.nips.cc/paper_files/paper/2022/hash/ b1efde53be364a73914f58805a001731-Abstract-Conference.html.",
+    "title": "Training language models to follow instructions with human feedback",
+    "authors": [
+      "Long Ouyang",
+      "Jeffrey Wu",
+      "Xu Jiang",
+      "Diogo Almeida",
+      "Carroll L Wainwright",
+      "Pamela Mishkin",
+      "Chong Zhang",
+      "Sandhini Agarwal",
+      "Katarina Slama",
+      "Alex Ray",
+      "John Schulman",
+      "Jacob Hilton",
+      "Fraser Kelton",
+      "Luke Miller",
+      "Maddie Simens",
+      "Amanda Askell",
+      "Peter Welinder",
+      "Paul F Christiano",
+      "Jan Leike",
+      "Ryan Lowe"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 35: Annual Conference on Neural Information Processing Systems 2022, NeurIPS 2022",
+    "year": 2022,
+    "identifiers": {
+      "url": "http://papers.nips.cc/paper_files/paper/2022/hash/b"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Felipe Maia Polo, Lucas Weber, Leshem Choshen, Yuekai Sun, Gongjun Xu, and Mikhail Yurochkin. tinybenchmarks: evaluating llms with fewer examples. In Forty-first International Conference on Machine Learning, ICML 2024, Vienna, Austria, July 21-27, 2024. OpenReview.net, 2024. URL https://openreview.net/forum?id=qAml3FpfhG.",
+    "title": "tinybenchmarks: evaluating llms with fewer examples",
+    "authors": [
+      "Felipe Maia Polo",
+      "Lucas Weber",
+      "Leshem Choshen",
+      "Yuekai Sun",
+      "Gongjun Xu",
+      "Mikhail Yurochkin"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning, ICML 2024",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=qAml3FpfhG"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Zhen Qin, Rolf Jagerman, Kai Hui, Honglei Zhuang, Junru Wu, Le Yan, Jiaming Shen, Tianqi Liu, Jialu Liu, Donald Metzler, Xuanhui Wang, and Michael Bendersky. Large language models are effective text rankers with pairwise ranking prompting. In Findings of the Association for Computational Linguistics: NAACL 2024, Mexico City, Mexico, June 16-21, 2024, pp. 1504-1518. Association for Computational Linguistics, 2024. doi: 10.18653/V1/2024.FINDINGS-NAACL.97. URL https://doi.org/10.18653/v1/2024.findings-naacl.97.",
+    "title": "Large language models are effective text rankers with pairwise ranking prompting",
+    "authors": [
+      "Zhen Qin",
+      "Rolf Jagerman",
+      "Kai Hui",
+      "Honglei Zhuang",
+      "Junru Wu",
+      "Le Yan",
+      "Jiaming Shen",
+      "Tianqi Liu",
+      "Jialu Liu",
+      "Donald Metzler",
+      "Xuanhui Wang",
+      "Michael Bendersky"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics: NAACL 2024",
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.18653/V1/2024.FINDINGS-NAACL.97",
+      "url": "https://doi.org/10.18653/v1/2024.findings-naacl.97"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Tsegaye Misikir Tashu and Tomás Horváth. Pair-wise: Automatic essay evaluation using word mover's distance. In Proceedings of the 10th International Conference on Computer Supported Education, CSEDU 2018, Funchal, Madeira, Portugal, March 15-17, 2018, Volume 1, pp. 59-66.",
+    "title": "Pair-wise: Automatic essay evaluation using word mover's distance",
+    "authors": [
+      "Tsegaye Misikir",
+      "Tashu",
+      "Tomás Horváth"
+    ],
+    "venue": "Proceedings of the 10th International Conference on Computer Supported Education, CSEDU 2018",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "SciTePress, 2018. doi: 10.5220/0006679200590066. URL https://doi.org/10.5220/ 0006679200590066.",
+    "authors": [],
+    "year": 2018,
+    "identifiers": {
+      "doi": "10.5220/0006679200590066",
+      "url": "https://doi.org/10.5220/0006679200590066"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, Dan Bikel, Lukas Blecher, Cristian Canton-Ferrer, Moya Chen, Guillem Cucurull, David Esiobu, Jude Fernandes, Jeremy Fu, Wenyin Fu, Brian Fuller, Cynthia Gao, Vedanuj Goswami, Naman Goyal, Anthony Hartshorn, Saghar Hosseini, Rui Hou, Hakan Inan, Marcin Kardas, Viktor Kerkez, Madian Khabsa, Isabel Kloumann, Artem Korenev, Punit Singh Koura, Marie-Anne Lachaux, Thibaut Lavril, Jenya Lee, Diana Liskovich, Yinghai Lu, Yuning Mao, Xavier Martinet, Todor Mihaylov, Pushkar Mishra, Igor Molybog, Yixin Nie, Andrew Poulton, Jeremy Reizenstein, Rashi Rungta, Kalyan Saladi, Alan Schelten, Ruan Silva, Eric Michael Smith, Ranjan Subramanian, Xiaoqing Ellen Tan, Binh Tang, Ross Taylor, Adina Williams, Jian Xiang Kuan, Puxin Xu, Zheng Yan, Iliyan Zarov, Yuchen Zhang, Angela Fan, Melanie Kambadur, Sharan Narang, Aurélien Rodriguez, Robert Stojnic, Sergey Edunov, and Thomas Scialom. Llama 2: Open foundation and finetuned chat models. CoRR, abs/2307.09288, 2023. doi: 10.48550/ARXIV.2307.09288. URL https://doi.org/10.48550/arXiv.2307.09288.",
+    "title": "Llama 2: Open foundation and finetuned chat models",
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Nikolay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale",
+      "Dan Bikel",
+      "Lukas Blecher",
+      "Cristian Canton-Ferrer",
+      "Moya Chen",
+      "Guillem Cucurull",
+      "David Esiobu",
+      "Jude Fernandes",
+      "Jeremy Fu",
+      "Wenyin Fu",
+      "Brian Fuller",
+      "Cynthia Gao",
+      "Vedanuj Goswami",
+      "Naman Goyal",
+      "Anthony Hartshorn",
+      "Saghar Hosseini",
+      "Rui Hou",
+      "Hakan Inan",
+      "Marcin Kardas",
+      "Viktor Kerkez",
+      "Madian Khabsa",
+      "Isabel Kloumann",
+      "Artem Korenev",
+      "Punit Singh Koura",
+      "Marie-Anne Lachaux",
+      "Thibaut Lavril",
+      "Jenya Lee",
+      "Diana Liskovich",
+      "Yinghai Lu",
+      "Yuning Mao",
+      "Xavier Martinet",
+      "Todor Mihaylov",
+      "Pushkar Mishra",
+      "Igor Molybog",
+      "Yixin Nie",
+      "Andrew Poulton",
+      "Jeremy Reizenstein",
+      "Rashi Rungta",
+      "Kalyan Saladi",
+      "Alan Schelten",
+      "Ruan Silva",
+      "Eric Michael Smith",
+      "Ranjan Subramanian",
+      "Ellen Xiaoqing",
+      "Binh Tan",
+      "Ross Tang",
+      "Adina Taylor",
+      "Jian Williams",
+      "Puxin Xiang Kuan",
+      "Zheng Xu",
+      "Iliyan Yan",
+      "Yuchen Zarov",
+      "Angela Zhang",
+      "Melanie Fan",
+      "Sharan Kambadur",
+      "Aurélien Narang",
+      "Robert Rodriguez",
+      "Sergey Stojnic",
+      "Thomas Edunov",
+      "Scialom"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2307.09288",
+      "arxiv_id": "2307.09288",
+      "url": "https://doi.org/10.48550/arXiv.2307.09288"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Andrius Vabalas, Emma Gowen, Ellen Poliakoff, and Alexander J Casson. Machine learning algorithm validation with a limited sample size. PloS one, 14(11):e0224365, 2019.",
+    "title": "Machine learning algorithm validation with a limited sample size",
+    "authors": [
+      "Andrius Vabalas",
+      "Emma Gowen",
+      "Ellen Poliakoff",
+      "Alexander J Casson"
+    ],
+    "venue": "PloS one",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Rajan Vivek, Kawin Ethayarajh, Diyi Yang, and Douwe Kiela. Anchor points: Benchmarking models with much fewer examples. In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics, EACL 2024 -Volume 1: Long Papers, St. Julian's, Malta, March 17-22, 2024, pp. 1576-1601. Association for Computational Linguistics, 2024. URL https://aclanthology.org/2024.eacl-long.95.",
+    "title": "Anchor points: Benchmarking models with much fewer examples",
+    "authors": [
+      "Rajan Vivek",
+      "Kawin Ethayarajh",
+      "Diyi Yang",
+      "Douwe Kiela"
+    ],
+    "venue": "Proceedings of the 18th Conference of the European Chapter",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://aclanthology.org/2024.eacl-long.95"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Minghao Wu and Alham Fikri Aji. Style over substance: Evaluation biases for large language models. CoRR, abs/2307.03025, 2023. doi: 10.48550/ARXIV.2307.03025. URL https:// doi.org/10.48550/arXiv.2307.03025.",
+    "title": "Style over substance: Evaluation biases for large language models",
+    "authors": [
+      "Minghao Wu",
+      "Alham Fikri",
+      "Aji"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2307.03025",
+      "arxiv_id": "2307.03025",
+      "url": "https://doi.org/10.48550/arXiv.2307.03025"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Peiwen Yuan, Shaoxiong Feng, Yiwei Li, Xinglin Wang, Boyuan Pan, Heda Wang, Yao Hu, and Kan Li. Batcheval: Towards human-like text evaluation. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), ACL 2024, Bangkok, Thailand, August 11-16, 2024, pp. 15940-15958. Association for Computational Linguistics, 2024. URL https://aclanthology.org/2024.acl-long.846.",
+    "title": "Batcheval: Towards human-like text evaluation",
+    "authors": [
+      "Peiwen Yuan",
+      "Shaoxiong Feng",
+      "Yiwei Li",
+      "Xinglin Wang",
+      "Boyuan Pan",
+      "Heda Wang",
+      "Yao Hu",
+      "Kan Li"
+    ],
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://aclanthology.org/2024.acl-long.846"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric P. Xing, Hao Zhang, Joseph E. Gonzalez, and Ion Stoica. Judging llm-as-a-judge with mt-bench and chatbot arena. In Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans, LA, USA, December 10 16, 2023, 2023. URL http://papers.nips.cc/paper_files/paper/2023/ hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_ Benchmarks.html.",
+    "title": "Judging llm-as-a-judge with mt-bench and chatbot arena",
+    "authors": [
+      "Lianmin Zheng",
+      "Wei-Lin Chiang",
+      "Ying Sheng",
+      "Siyuan Zhuang",
+      "Zhanghao Wu",
+      "Yonghao Zhuang",
+      "Zi Lin",
+      "Zhuohan Li",
+      "Dacheng Li",
+      "Eric P Xing",
+      "Hao Zhang",
+      "Joseph E Gonzalez",
+      "Ion Stoica"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023",
+    "year": 2023,
+    "identifiers": {
+      "url": "http://papers.nips.cc/paper_files/paper/2023/hash/91"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Jin Peng Zhou, Christian K. Belardi, Ruihan Wu, Travis Zhang, Carla P. Gomes, Wen Sun, and Kilian Q. Weinberger. On speeding up language model evaluation. CoRR, abs/2407.06172, 2024. doi: 10.48550/ARXIV.2407.06172. URL https://doi.org/10.48550/arXiv.2407. 06172.",
+    "title": "On speeding up language model evaluation",
+    "authors": [
+      "Jin Peng Zhou",
+      "Christian K Belardi",
+      "Ruihan Wu",
+      "Travis Zhang",
+      "Carla P Gomes",
+      "Wen Sun",
+      "Kilian Q Weinberger"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2407.06172",
+      "arxiv_id": "2407.06172",
+      "url": "https://doi.org/10.48550/arXiv.2407.06172"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

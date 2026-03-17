@@ -1,0 +1,872 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Haoli Bai, Wei Zhang, Lu Hou, Lifeng Shang, Jin Jin, Xin Jiang, Qun Liu, Michael Lyu, and Irwin King. BinaryBERT: Pushing the limit of BERT quantization. In Chengqing Zong, Fei Xia, Wenjie Li, and Roberto Navigli (eds.), Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pp. 4334-4348, Online, August 2021. Association for Computational Linguistics. doi: 10.18653/v1/2021.acl-long.334. URL https: //aclanthology.org/2021.acl-long.334.",
+    "title": "BinaryBERT: Pushing the limit of BERT quantization",
+    "authors": [
+      "Haoli Bai",
+      "Wei Zhang",
+      "Lu Hou",
+      "Lifeng Shang",
+      "Jin Jin",
+      "Xin Jiang",
+      "Qun Liu",
+      "Michael Lyu",
+      "Irwin King"
+    ],
+    "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.18653/v1/2021.acl-long.334",
+      "url": "https://aclanthology.org/2021.acl-long.334"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Payal Bajaj, Daniel Campos, Nick Craswell, Li Deng, Jianfeng Gao, Xiaodong Liu, Rangan Majumder, Andrew McNamara, Bhaskar Mitra, Tri Nguyen, Mir Rosenberg, Xia Song, Alina Stoica, Saurabh Tiwary, and Tong Wang. Ms marco: A human generated machine reading comprehension dataset, 2018. URL https://arxiv.org/abs/1611.09268.",
+    "title": "Ms marco: A human generated machine reading comprehension dataset",
+    "authors": [
+      "Payal Bajaj",
+      "Daniel Campos",
+      "Nick Craswell",
+      "Li Deng",
+      "Jianfeng Gao",
+      "Xiaodong Liu",
+      "Rangan Majumder",
+      "Andrew Mcnamara",
+      "Bhaskar Mitra",
+      "Tri Nguyen",
+      "Mir Rosenberg",
+      "Xia Song",
+      "Alina Stoica",
+      "Saurabh Tiwary",
+      "Tong Wang"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "1611.09268",
+      "url": "https://arxiv.org/abs/1611.09268"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Yankai Chen, Yifei Zhang, Huifeng Guo, Ruiming Tang, and Irwin King. An effective posttraining embedding binarization approach for fast online top-k passage matching. In Yulan He, Heng Ji, Sujian Li, Yang Liu, and Chua-Hui Chang (eds.), Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 2: Short Papers), pp. 102-108, Online only, November 2022. Association for Computational Linguistics. URL https://aclanthology.org/2022.aacl-short.14.",
+    "title": "An effective posttraining embedding binarization approach for fast online top-k passage matching",
+    "authors": [
+      "Yankai Chen",
+      "Yifei Zhang",
+      "Huifeng Guo",
+      "Ruiming Tang",
+      "Irwin King ; Yulan",
+      "Heng He",
+      "Sujian Ji",
+      "Li"
+    ],
+    "venue": "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://aclanthology.org/2022.aacl-short.14"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. BERT: Pre-training of deep bidirectional transformers for language understanding. In Jill Burstein, Christy Doran, and Thamar Solorio (eds.), Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pp. 4171-4186, Minneapolis, Minnesota, June 2019. Association for Computational Linguistics. doi: 10.18653/v1/N19-1423. URL https://aclanthology.org/ N19-1423.",
+    "title": "BERT: Pre-training of deep bidirectional transformers for language understanding",
+    "authors": [
+      "Jacob Devlin",
+      "Ming-Wei Chang",
+      "Kenton Lee",
+      "Kristina Toutanova"
+    ],
+    "venue": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    "year": 2019,
+    "identifiers": {
+      "doi": "10.18653/v1/N19-1423",
+      "url": "https://aclanthology.org/N19-1423"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Hengkui Dong, Xianzhong Long, and Yun Li. Synthetic hard negative samples for contrastive learning. Neural Processing Letters, 56(1):33, 2024.",
+    "title": "Synthetic hard negative samples for contrastive learning",
+    "authors": [
+      "Hengkui Dong",
+      "Xianzhong Long",
+      "Yun Li"
+    ],
+    "venue": "Neural Processing Letters",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Luyu Gao and Jamie Callan. Condenser: a pre-training architecture for dense retrieval, 2021. URL https://arxiv.org/abs/2104.08253.",
+    "title": "Condenser: a pre-training architecture for dense retrieval",
+    "authors": [
+      "Luyu Gao",
+      "Jamie Callan"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "2104.08253",
+      "url": "https://arxiv.org/abs/2104.08253"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Tianyu Gao, Xingcheng Yao, and Danqi Chen. Simcse: Simple contrastive learning of sentence embeddings, 2022. URL https://arxiv.org/abs/2104.08821.",
+    "title": "Simcse: Simple contrastive learning of sentence embeddings",
+    "authors": [
+      "Tianyu Gao",
+      "Xingcheng Yao",
+      "Danqi Chen"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "2104.08821",
+      "url": "https://arxiv.org/abs/2104.08821"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Michael U. Gutmann and Aapo Hyvärinen. Noise-contrastive estimation of unnormalized statistical models, with applications to natural image statistics. J. Mach. Learn. Res., 13(null):307-361, February 2012. ISSN 1532-4435.",
+    "title": "Noise-contrastive estimation of unnormalized statistical models, with applications to natural image statistics",
+    "authors": [
+      "U Michael",
+      "Aapo Gutmann",
+      "Hyvärinen"
+    ],
+    "venue": "J. Mach. Learn. Res",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Gautier Izacard, Fabio Petroni, Lucas Hosseini, Nicola De Cao, Sebastian Riedel, and Edouard Grave. A memory efficient baseline for open domain question answering, 2020. URL https: //arxiv.org/abs/2012.15156.",
+    "title": "A memory efficient baseline for open domain question answering",
+    "authors": [
+      "Gautier Izacard",
+      "Fabio Petroni",
+      "Lucas Hosseini",
+      "Nicola De Cao",
+      "Sebastian Riedel",
+      "Edouard Grave"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "2012.15156",
+      "url": "https://arxiv.org/abs/2012.15156"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Vladimir Karpukhin, Barlas Oguz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, and Wen-tau Yih. Dense passage retrieval for open-domain question answering. In Bonnie Webber, Trevor Cohn, Yulan He, and Yang Liu (eds.), Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 6769-6781, Online, November 2020. Association for Computational Linguistics. doi: 10.18653/v1/2020.emnlp-main.550. URL https://aclanthology.org/2020.emnlp-main.550.",
+    "title": "Dense passage retrieval for open-domain question answering",
+    "authors": [
+      "Vladimir Karpukhin",
+      "Barlas Oguz",
+      "Sewon Min",
+      "Patrick Lewis",
+      "Ledell Wu",
+      "Sergey Edunov",
+      "Danqi Chen",
+      "Wen-Tau Yih"
+    ],
+    "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2020,
+    "identifiers": {
+      "doi": "10.18653/v1/2020.emnlp-main.550",
+      "url": "https://aclanthology.org/2020.emnlp-main.550"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Abhinav Ramesh Kashyap, Thanh-Tung Nguyen, Viktor Schlegel, Stefan Winkler, See-Kiong Ng, and Soujanya Poria. A comprehensive survey of sentence representations: From the bert epoch to the chatgpt era and beyond, 2024. URL https://arxiv.org/abs/2305.12641.",
+    "title": "A comprehensive survey of sentence representations: From the bert epoch to the chatgpt era and beyond",
+    "authors": [
+      "Ramesh Abhinav",
+      "Thanh-Tung Kashyap",
+      "Viktor Nguyen",
+      "Stefan Schlegel",
+      "See-Kiong Winkler",
+      "Soujanya Ng",
+      "Poria"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2305.12641",
+      "url": "https://arxiv.org/abs/2305.12641"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Prannay Khosla, Piotr Teterwak, Chen Wang, Aaron Sarna, Yonglong Tian, Phillip Isola, Aaron Maschinot, Ce Liu, and Dilip Krishnan. Supervised contrastive learning.",
+    "authors": [
+      "Prannay Khosla",
+      "Piotr Teterwak",
+      "Chen Wang",
+      "Aaron Sarna",
+      "Yonglong Tian",
+      "Phillip Isola",
+      "Aaron Maschinot",
+      "Ce Liu",
+      "Dilip Krishnan"
+    ],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "In Hugo Larochelle, Marc'Aurelio Ranzato, Raia Hadsell, Maria-Florina Balcan, and HsuanTien Lin (eds.), Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual, 2020. URL https://proceedings.neurips.cc/paper/2020/hash/ d89a66c7c80a29b1bdbab0f2a1a94af8-Abstract.html.",
+    "title": "Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems",
+    "authors": [
+      "In Hugo Larochelle",
+      "Marc'aurelio Ranzato",
+      "Raia Hadsell"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper/2020/hash/d"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Ryan Kiros, Yukun Zhu, Russ R Salakhutdinov, Richard Zemel, Raquel Urtasun, Antonio Torralba, and Sanja Fidler. Skip-thought vectors. In C. Cortes, N. Lawrence, D. Lee, M. Sugiyama, and R. Garnett (eds.), Advances in Neural Information Processing Systems, volume 28. Curran Associates, Inc., 2015. URL https://proceedings.neurips.cc/paper_files/ paper/2015/file/f442d33fa06832082290ad8544a8da27-Paper.pdf.",
+    "title": "Skip-thought vectors",
+    "authors": [
+      "Ryan Kiros",
+      "Yukun Zhu",
+      "Richard Russ R Salakhutdinov",
+      "Raquel Zemel",
+      "Antonio Urtasun",
+      "Sanja Torralba",
+      "Fidler"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2015,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2015/file/f442"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Anna Kukleva, Moritz Böhle, Bernt Schiele, Hilde Kuehne, and Christian Rupprecht. Temperature schedules for self-supervised contrastive methods on long-tail data. In The Eleventh International Conference on Learning Representations, 2023. URL https://openreview.net/forum? id=ejHUr4nfHhD.",
+    "title": "Temperature schedules for self-supervised contrastive methods on long-tail data",
+    "authors": [
+      "Anna Kukleva",
+      "Moritz Böhle",
+      "Bernt Schiele",
+      "Hilde Kuehne",
+      "Christian Rupprecht"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=ejHUr4nfHhD"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Aditya Kusupati, Gantavya Bhatt, Aniket Rege, Matthew Wallingford, Aditya Sinha, Vivek Ramanujan, William Howard-Snyder, Kaifeng Chen, Sham Kakade, Prateek Jain, and Ali Farhadi. Matryoshka representation learning, 2024. URL https://arxiv.org/abs/2205.13147.",
+    "title": "Matryoshka representation learning",
+    "authors": [
+      "Aditya Kusupati",
+      "Gantavya Bhatt",
+      "Aniket Rege",
+      "Matthew Wallingford",
+      "Aditya Sinha",
+      "Vivek Ramanujan",
+      "William Howard-Snyder",
+      "Kaifeng Chen",
+      "Sham Kakade",
+      "Prateek Jain",
+      "Ali Farhadi"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2205.13147",
+      "url": "https://arxiv.org/abs/2205.13147"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Angeliki Lazaridou, Georgiana Dinu, and Marco Baroni. Hubness and pollution: Delving into crossspace mapping for zero-shot learning. In Chengqing Zong and Michael Strube (eds.), Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pp. 270-280, Beijing, China, July 2015. Association for Computational Linguistics. doi: 10.3115/v1/P15-1027. URL https://aclanthology.org/P15-1027/.",
+    "title": "Hubness and pollution: Delving into crossspace mapping for zero-shot learning",
+    "authors": [
+      "Angeliki Lazaridou",
+      "Georgiana Dinu",
+      "Marco Baroni"
+    ],
+    "venue": "Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing",
+    "year": 2015,
+    "identifiers": {
+      "doi": "10.3115/v1/P15-1027",
+      "url": "https://aclanthology.org/P15-1027/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, et al. Retrieval-augmented generation for knowledge-intensive nlp tasks. Advances in Neural Information Processing Systems, 33: 9459-9474, 2020.",
+    "title": "Retrieval-augmented generation for knowledge-intensive nlp tasks",
+    "authors": [
+      "Patrick Lewis",
+      "Ethan Perez",
+      "Aleksandra Piktus",
+      "Fabio Petroni",
+      "Vladimir Karpukhin",
+      "Naman Goyal",
+      "Heinrich Küttler",
+      "Mike Lewis",
+      "Wen-Tau Yih",
+      "Tim Rocktäschel"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Xiaofan Lin, Cong Zhao, and Wei Pan. Towards accurate binary convolutional neural network. In Proceedings of the 31st International Conference on Neural Information Processing Systems, NIPS'17, pp. 344-352, Red Hook, NY, USA, 2017. Curran Associates Inc. ISBN 9781510860964.",
+    "title": "Towards accurate binary convolutional neural network",
+    "authors": [
+      "Xiaofan Lin",
+      "Cong Zhao",
+      "Wei Pan"
+    ],
+    "venue": "Proceedings of the 31st International Conference on Neural Information Processing Systems, NIPS'17",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Tomás Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. Efficient estimation of word representations in vector space. In Yoshua Bengio and Yann LeCun (eds.), 1st International Conference on Learning Representations, ICLR 2013, Scottsdale, Arizona, USA, May 2-4, 2013, Workshop Track Proceedings, 2013. URL http://arxiv.org/abs/1301.3781.",
+    "title": "Efficient estimation of word representations in vector space",
+    "authors": [
+      "Tomás Mikolov",
+      "Kai Chen",
+      "Greg Corrado",
+      "Jeffrey Dean"
+    ],
+    "venue": "1st International Conference on Learning Representations, ICLR 2013",
+    "year": 2013,
+    "identifiers": {
+      "arxiv_id": "1301.3781",
+      "url": "http://arxiv.org/abs/1301.3781"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Andriy Mnih and Koray Kavukcuoglu. Learning word embeddings efficiently with noisecontrastive estimation. In Christopher J. C. Burges, Léon Bottou, Zoubin Ghahramani, and Kilian Q. Weinberger (eds.), Advances in Neural Information Processing Systems 26: 27th Annual Conference on Neural Information Processing Systems 2013. Proceedings of a meeting held December 5-8, 2013, Lake Tahoe, Nevada, United States, pp. 2265-2273, 2013. URL https://proceedings.neurips.cc/paper/2013/hash/ db2b4182156b2f1f817860ac9f409ad7-Abstract.html.",
+    "title": "Learning word embeddings efficiently with noisecontrastive estimation",
+    "authors": [
+      "Andriy Mnih",
+      "Koray Kavukcuoglu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 26: 27th Annual Conference on Neural Information Processing Systems 2013. Proceedings of a meeting",
+    "year": 2013,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper/2013/hash/db"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Niklas Muennighoff, Nouamane Tazi, Loïc Magne, and Nils Reimers. Mteb: Massive text embedding benchmark, 2023. URL https://arxiv.org/abs/2210.07316.",
+    "title": "Loïc Magne, and Nils Reimers. Mteb: Massive text embedding benchmark",
+    "authors": [
+      "Niklas Muennighoff",
+      "Nouamane Tazi"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2210.07316",
+      "url": "https://arxiv.org/abs/2210.07316"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Niklas Muennighoff, Hongjin Su, Liang Wang, Nan Yang, Furu Wei, Tao Yu, Amanpreet Singh, and Douwe Kiela. Generative representational instruction tuning, 2024. URL https://arxiv. org/abs/2402.09906.",
+    "title": "Generative representational instruction tuning",
+    "authors": [
+      "Niklas Muennighoff",
+      "Hongjin Su",
+      "Liang Wang",
+      "Nan Yang",
+      "Furu Wei",
+      "Tao Yu",
+      "Amanpreet Singh",
+      "Douwe Kiela"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2402.09906",
+      "url": "https://arxiv.org/abs/2402.09906"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Arvind Neelakantan, Tao Xu, Raul Puri, Alec Radford, Jesse Michael Han, Jerry Tworek, Qiming Yuan, Nikolas Tezak, Jong Wook Kim, Chris Hallacy, Johannes Heidecke, Pranav Shyam, Boris Power, Tyna Eloundou Nekoul, Girish Sastry, Gretchen Krueger, David Schnurr, Felipe Petroski Such, Kenny Hsu, Madeleine Thompson, Tabarak Khan, Toki Sherbakov, Joanne Jang, Peter Welinder, and Lilian Weng. Text and code embeddings by contrastive pre-training, 2022. URL https://arxiv.org/abs/2201.10005.",
+    "title": "Text and code embeddings by contrastive pre-training",
+    "authors": [
+      "Arvind Neelakantan",
+      "Tao Xu",
+      "Raul Puri",
+      "Alec Radford",
+      "Jesse Michael Han",
+      "Jerry Tworek",
+      "Qiming Yuan",
+      "Nikolas Tezak",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "Johannes Heidecke",
+      "Pranav Shyam",
+      "Boris Power",
+      "Tyna Eloundou Nekoul",
+      "Girish Sastry",
+      "Gretchen Krueger",
+      "David Schnurr",
+      "Felipe Petroski Such",
+      "Kenny Hsu",
+      "Madeleine Thompson",
+      "Tabarak Khan",
+      "Toki Sherbakov",
+      "Joanne Jang",
+      "Peter Welinder",
+      "Lilian Weng"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "2201.10005",
+      "url": "https://arxiv.org/abs/2201.10005"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Joshua Robinson, Ching-Yao Chuang, Suvrit Sra, and Stefanie Jegelka. Contrastive learning with hard negative samples, 2021a. URL https://arxiv.org/abs/2010.04592.",
+    "title": "Contrastive learning with hard negative samples, 2021a",
+    "authors": [
+      "Joshua Robinson",
+      "Ching-Yao Chuang",
+      "Suvrit Sra",
+      "Stefanie Jegelka"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "2010.04592",
+      "url": "https://arxiv.org/abs/2010.04592"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Joshua Robinson, Li Sun, Ke Yu, Kayhan Batmanghelich, Stefanie Jegelka, and Suvrit Sra. Can contrastive learning avoid shortcut solutions? Advances in neural information processing systems, 34:4974-4986, 12 2021b.",
+    "title": "Can contrastive learning avoid shortcut solutions?",
+    "authors": [
+      "Joshua Robinson",
+      "Li Sun",
+      "Ke Yu",
+      "Kayhan Batmanghelich",
+      "Stefanie Jegelka",
+      "Suvrit Sra"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Aamir Shakir, Tom Aarsen, and Sean Lee. Binary and scalar embedding quantization for significantly faster & cheaper retrieval. Hugging Face Blog, 2024. URL https://huggingface. co/blog/embedding-quantization.",
+    "title": "Binary and scalar embedding quantization for significantly faster & cheaper retrieval",
+    "authors": [
+      "Aamir Shakir",
+      "Tom Aarsen",
+      "Sean Lee"
+    ],
+    "venue": "Hugging Face Blog",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://huggingface.co/blog/embedding-quantization"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Hongjin Su, Weijia Shi, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen tau Yih, Noah A. Smith, Luke Zettlemoyer, and Tao Yu. One embedder, any task: Instruction-finetuned text embeddings, 2023. URL https://arxiv.org/abs/2212.09741.",
+    "title": "One embedder, any task: Instruction-finetuned text embeddings",
+    "authors": [
+      "Hongjin Su",
+      "Weijia Shi",
+      "Jungo Kasai",
+      "Yizhong Wang",
+      "Yushi Hu",
+      "Mari Ostendorf",
+      "Wen Tau Yih",
+      "Noah A Smith",
+      "Luke Zettlemoyer",
+      "Tao Yu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2212.09741",
+      "url": "https://arxiv.org/abs/2212.09741"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Nandan Thakur, Nils Reimers, Andreas Rücklé, Abhishek Srivastava, and Iryna Gurevych. Beir: A heterogenous benchmark for zero-shot evaluation of information retrieval models, 2021. URL https://arxiv.org/abs/2104.08663.",
+    "title": "Beir: A heterogenous benchmark for zero-shot evaluation of information retrieval models",
+    "authors": [
+      "Nandan Thakur",
+      "Nils Reimers",
+      "Andreas Rücklé",
+      "Abhishek Srivastava",
+      "Iryna Gurevych"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "2104.08663",
+      "url": "https://arxiv.org/abs/2104.08663"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "James Thorne, Andreas Vlachos, Christos Christodoulopoulos, and Arpit Mittal. FEVER: a largescale dataset for fact extraction and VERification. In Marilyn Walker, Heng Ji, and Amanda Stent (eds.), Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), pp. 809-819, New Orleans, Louisiana, June 2018. Association for Computational Linguistics. doi: 10.18653/v1/N18-1074. URL https://aclanthology.org/N18-1074.",
+    "title": "FEVER: a largescale dataset for fact extraction and VERification",
+    "authors": [
+      "James Thorne",
+      "Andreas Vlachos",
+      "Christos Christodoulopoulos",
+      "Arpit Mittal"
+    ],
+    "venue": "Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    "year": 2018,
+    "identifiers": {
+      "doi": "10.18653/v1/N18-1074",
+      "url": "https://aclanthology.org/N18-1074"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Yonglong Tian, Dilip Krishnan, and Phillip Isola. Contrastive multiview coding, 2020. URL https://arxiv.org/abs/1906.05849.",
+    "title": "Contrastive multiview coding",
+    "authors": [
+      "Yonglong Tian",
+      "Dilip Krishnan",
+      "Phillip Isola"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "1906.05849",
+      "url": "https://arxiv.org/abs/1906.05849"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Aäron van den Oord, Yazhe Li, and Oriol Vinyals. Representation learning with contrastive predictive coding. CoRR, abs/1807.03748, 2018. URL http://arxiv.org/abs/1807.03748.",
+    "title": "Representation learning with contrastive predictive coding",
+    "authors": [
+      "Aäron Van Den Oord",
+      "Yazhe Li",
+      "Oriol Vinyals"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "1807.03748",
+      "url": "http://arxiv.org/abs/1807.03748"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Laurens van der Maaten and Geoffrey Hinton. Visualizing data using t-sne. Journal of Machine Learning Research, 9(86):2579-2605, 2008. URL http://jmlr.org/papers/v9/ vandermaaten08a.html.",
+    "title": "Visualizing data using t-sne",
+    "authors": [
+      "Laurens Van Der Maaten",
+      "Geoffrey Hinton"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2008,
+    "identifiers": {
+      "url": "http://jmlr.org/papers/v9/vandermaaten08a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Feng Wang and Huaping Liu. Understanding the behaviour of contrastive loss. 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 2495-2504, 2020. URL https://api.semanticscholar.org/CorpusID:229297730.",
+    "title": "Understanding the behaviour of contrastive loss",
+    "authors": [
+      "Feng Wang",
+      "Huaping Liu"
+    ],
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "year": 2020,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Liang Wang, Nan Yang, Xiaolong Huang, Binxing Jiao, Linjun Yang, Daxin Jiang, Rangan Majumder, and Furu Wei. Simlm: Pre-training with representation bottleneck for dense passage retrieval, 2023. URL https://arxiv.org/abs/2207.02578.",
+    "title": "Simlm: Pre-training with representation bottleneck for dense passage retrieval",
+    "authors": [
+      "Liang Wang",
+      "Nan Yang",
+      "Xiaolong Huang",
+      "Binxing Jiao",
+      "Linjun Yang",
+      "Daxin Jiang",
+      "Rangan Majumder",
+      "Furu Wei"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2207.02578",
+      "url": "https://arxiv.org/abs/2207.02578"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Liang Wang, Nan Yang, Xiaolong Huang, Binxing Jiao, Linjun Yang, Daxin Jiang, Rangan Majumder, and Furu Wei. Text embeddings by weakly-supervised contrastive pre-training, 2024a. URL https://arxiv.org/abs/2212.03533.",
+    "title": "Text embeddings by weakly-supervised contrastive pre-training",
+    "authors": [
+      "Liang Wang",
+      "Nan Yang",
+      "Xiaolong Huang",
+      "Binxing Jiao",
+      "Linjun Yang",
+      "Daxin Jiang",
+      "Rangan Majumder",
+      "Furu Wei"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2212.03533",
+      "url": "https://arxiv.org/abs/2212.03533"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, and Furu Wei. Improving text embeddings with large language models, 2024b. URL https://arxiv.org/abs/ 2401.00368.",
+    "title": "Improving text embeddings with large language models",
+    "authors": [
+      "Liang Wang",
+      "Nan Yang",
+      "Xiaolong Huang",
+      "Linjun Yang",
+      "Rangan Majumder",
+      "Furu Wei"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2401.00368",
+      "url": "https://arxiv.org/abs/2401.00368"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Tongzhou Wang and Phillip Isola. Understanding contrastive representation learning through alignment and uniformity on the hypersphere. In Proceedings of the 37th International Conference on Machine Learning, ICML'20. JMLR.org, 2020.",
+    "title": "Understanding contrastive representation learning through alignment and uniformity on the hypersphere",
+    "authors": [
+      "Tongzhou Wang",
+      "Phillip Isola"
+    ],
+    "venue": "Proceedings of the 37th International Conference on Machine Learning, ICML'20",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Ikuya Yamada, Akari Asai, and Hannaneh Hajishirzi. Efficient passage retrieval with hashing for open-domain question answering. In Chengqing Zong, Fei Xia, Wenjie Li, and Roberto Navigli (eds.), Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers), pp. 979-986, Online, August 2021. Association for Computational Linguistics. doi: 10. 18653/v1/2021.acl-short.123. URL https://aclanthology.org/2021.acl-short.",
+    "title": "Efficient passage retrieval with hashing for open-domain question answering",
+    "authors": [
+      "Ikuya Yamada",
+      "Akari Asai",
+      "Hannaneh Hajishirzi"
+    ],
+    "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.18653/v1/2021.acl-short.123",
+      "url": "https://aclanthology.org/2021.acl-short"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William Cohen, Ruslan Salakhutdinov, and Christopher D. Manning. HotpotQA: A dataset for diverse, explainable multi-hop question answering. In Ellen Riloff, David Chiang, Julia Hockenmaier, and Jun'ichi Tsujii (eds.), Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pp. 23692380, Brussels, Belgium, October-November 2018. Association for Computational Linguistics. doi: 10.18653/v1/D18-1259. URL https://aclanthology.org/D18-1259.",
+    "title": "HotpotQA: A dataset for diverse, explainable multi-hop question answering",
+    "authors": [
+      "Zhilin Yang",
+      "Peng Qi",
+      "Saizheng Zhang",
+      "Yoshua Bengio",
+      "William Cohen",
+      "Ruslan Salakhutdinov",
+      "Christopher D Manning"
+    ],
+    "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2018,
+    "identifiers": {
+      "doi": "10.18653/v1/D18-1259",
+      "url": "https://aclanthology.org/D18-1259"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Ofir Zafrir, Guy Boudoukh, Peter Izsak, and Moshe Wasserblat. Q8BERT: quantized 8bit BERT. CoRR, abs/1910.06188, 2019. URL http://arxiv.org/abs/1910.06188.",
+    "title": "Q8BERT: quantized 8bit BERT",
+    "authors": [
+      "Ofir Zafrir",
+      "Guy Boudoukh",
+      "Peter Izsak",
+      "Moshe Wasserblat"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "1910.06188",
+      "url": "http://arxiv.org/abs/1910.06188"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Dejiao Zhang, Wasi Ahmad, Ming Tan, Hantian Ding, Ramesh Nallapati, Dan Roth, Xiaofei Ma, and Bing Xiang. Codesage: Code representation learning at scale. In The Twelfth International Conference on Learning Representations, 2024. URL https://openreview.net/forum? id=vfzRRjumpX.",
+    "title": "Codesage: Code representation learning at scale",
+    "authors": [
+      "Dejiao Zhang",
+      "Wasi Ahmad",
+      "Ming Tan",
+      "Hantian Ding",
+      "Ramesh Nallapati",
+      "Dan Roth",
+      "Xiaofei Ma",
+      "Bing Xiang"
+    ],
+    "venue": "The Twelfth International Conference on Learning Representations",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=vfzRRjumpX"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Xinyu Zhang, Xueguang Ma, Peng Shi, and Jimmy Lin. Mr. TyDi: A multi-lingual benchmark for dense retrieval. In Duygu Ataman, Alexandra Birch, Alexis Conneau, Orhan Firat, Sebastian Ruder, and Gozde Gul Sahin (eds.), Proceedings of the 1st Workshop on Multilingual Representation Learning, pp. 127-137, Punta Cana, Dominican Republic, November 2021. Association for Computational Linguistics. doi: 10.18653/v1/2021.mrl-1.12. URL https://aclanthology.org/2021.mrl-1.12.",
+    "title": "TyDi: A multi-lingual benchmark for dense retrieval",
+    "authors": [
+      "Xinyu Zhang",
+      "Xueguang Ma",
+      "Peng Shi",
+      "Jimmy Lin",
+      "Mr"
+    ],
+    "venue": "Proceedings of the 1st Workshop on Multilingual Representation Learning",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.18653/v1/2021.mrl-1.12",
+      "url": "https://aclanthology.org/2021.mrl-1.12"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Xinyu Zhang, Nandan Thakur, Odunayo Ogundepo, Ehsan Kamalloo, David Alfonso-Hermelo, Xiaoguang Li, Qun Liu, Mehdi Rezagholizadeh, and Jimmy Lin. MIRACL: A Multilingual Retrieval Dataset Covering 18 Diverse Languages. Transactions of the Association for Computational Linguistics, 11:1114-1131, 09 2023. ISSN 2307-387X. doi: 10.1162/tacl a 00595. URL https://doi.org/10.1162/tacl_a_00595.",
+    "title": "MIRACL: A Multilingual Retrieval Dataset Covering 18 Diverse Languages",
+    "authors": [
+      "Xinyu Zhang",
+      "Nandan Thakur",
+      "Odunayo Ogundepo",
+      "Ehsan Kamalloo",
+      "David Alfonso-Hermelo",
+      "Xiaoguang Li",
+      "Qun Liu",
+      "Mehdi Rezagholizadeh",
+      "Jimmy Lin"
+    ],
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.1162/tacla00595",
+      "url": "https://doi.org/10.1162/tacl_a_00595"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

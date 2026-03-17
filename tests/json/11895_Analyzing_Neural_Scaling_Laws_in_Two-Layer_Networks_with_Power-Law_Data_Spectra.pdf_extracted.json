@@ -1,0 +1,650 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Madhu S. Advani, Andrew M. Saxe, and Haim Sompolinsky. High-dimensional dynamics of generalization error in neural networks. Neural Networks, 132:428-446, 2020. ISSN 0893-6080. doi: https://doi.org/10.1016/j.neunet.2020.08.022. URL https://www.sciencedirect. com/science/article/pii/S0893608020303117.",
+    "title": "High-dimensional dynamics of generalization error in neural networks",
+    "authors": [
+      "S Madhu",
+      "Andrew M Advani",
+      "Haim Saxe",
+      "Sompolinsky"
+    ],
+    "venue": "Neural Networks",
+    "year": 2020,
+    "identifiers": {
+      "doi": "10.1016/j.neunet.2020.08.022",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0893608020303117"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Tom M Apostol. An elementary view of euler's summation formula. The American Mathematical Monthly, 106(5):409-418, 1999.",
+    "title": "An elementary view of euler's summation formula",
+    "authors": [
+      "M Tom",
+      "Apostol"
+    ],
+    "venue": "The American Mathematical Monthly",
+    "year": 1999,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Sanjeev Arora and Anirudh Goyal. A theory for emergence of complex skills in language models. arXiv preprint arXiv:2307.15936, 2023.",
+    "title": "A theory for emergence of complex skills in language models",
+    "authors": [
+      "Sanjeev Arora",
+      "Anirudh Goyal"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.15936"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Alexander B Atanasov, Jacob A Zavatone-Veth, and Cengiz Pehlevan. Scaling and renormalization in high-dimensional regression. arXiv preprint arXiv:2405.00592, 2024.",
+    "title": "Scaling and renormalization in high-dimensional regression",
+    "authors": [
+      "Jacob A Alexander B Atanasov",
+      "Cengiz Zavatone-Veth",
+      "Pehlevan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.00592"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Yasaman Bahri, Ethan Dyer, Jared Kaplan, Jaehoon Lee, and Utkarsh Sharma. Explaining neural scaling laws. Proceedings of the National Academy of Sciences, 121(27):e2311878121, 2024.",
+    "title": "Explaining neural scaling laws",
+    "authors": [
+      "Yasaman Bahri",
+      "Ethan Dyer",
+      "Jared Kaplan",
+      "Jaehoon Lee",
+      "Utkarsh Sharma"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "M Biehl and H Schwarze. Learning by on-line gradient descent. Journal of Physics A: Mathematical and General, 28(3):643, feb 1995. doi: 10.1088/0305-4470/28/3/018. URL https://dx.doi. org/10.1088/0305-4470/28/3/018.",
+    "title": "Learning by on-line gradient descent",
+    "authors": [
+      "M Biehl",
+      "H Schwarze"
+    ],
+    "venue": "Journal of Physics A: Mathematical and General",
+    "year": 1995,
+    "identifiers": {
+      "doi": "10.1088/0305-4470/28/3/018",
+      "url": "https://dx.doi.org/10.1088/0305-4470/28/3/018"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Michael Biehl, Peter Riegler, and Christian Wöhler. Transient dynamics of on-line learning in twolayered neural networks. Journal of Physics A: Mathematical and General, 29(16):4769, aug 1996. doi: 10.1088/0305-4470/29/16/005. URL https://dx.doi.org/10.1088/0305-4470/ 29/16/005.",
+    "title": "Transient dynamics of on-line learning in twolayered neural networks",
+    "authors": [
+      "Michael Biehl",
+      "Peter Riegler",
+      "Christian Wöhler"
+    ],
+    "venue": "Journal of Physics A: Mathematical and General",
+    "year": 1996,
+    "identifiers": {
+      "doi": "10.1088/0305-4470/29/16/005",
+      "url": "https://dx.doi.org/10.1088/0305-4470/29/16/005"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Blake Bordelon and Cengiz Pehlevan. Learning curves for SGD on structured features. In International Conference on Learning Representations, 2022. URL https://openreview.net/ forum?id=WPI2vbkAl3Q.",
+    "title": "Learning curves for SGD on structured features",
+    "authors": [
+      "Blake Bordelon",
+      "Cengiz Pehlevan"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=WPI2vbkAl3Q"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Blake Bordelon, Alexander Atanasov, and Cengiz Pehlevan. How feature learning can improve neural scaling laws. arXiv preprint arXiv:2409.17858, 2024a.",
+    "title": "How feature learning can improve neural scaling laws",
+    "authors": [
+      "Blake Bordelon",
+      "Alexander Atanasov",
+      "Cengiz Pehlevan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2409.17858"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Blake Bordelon, Alexander Atanasov, and Cengiz Pehlevan. A dynamical model of neural scaling laws. In Forty-first International Conference on Machine Learning, 2024b.",
+    "title": "A dynamical model of neural scaling laws",
+    "authors": [
+      "Blake Bordelon",
+      "Alexander Atanasov",
+      "Cengiz Pehlevan"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Ethan Caballero, Kshitij Gupta, Irina Rish, and David Krueger. Broken neural scaling laws. In The Eleventh International Conference on Learning Representations, 2023. URL https:// openreview.net/forum?id=sckjveqlCZ.",
+    "title": "Broken neural scaling laws",
+    "authors": [
+      "Ethan Caballero",
+      "Kshitij Gupta",
+      "Irina Rish",
+      "David Krueger"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=sckjveqlCZ"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Francesco Cagnetta and Matthieu Wyart. Towards a theory of how the structure of language is acquired by deep neural networks. arXiv preprint arXiv:2406.00048, 2024.",
+    "title": "Towards a theory of how the structure of language is acquired by deep neural networks",
+    "authors": [
+      "Francesco Cagnetta",
+      "Matthieu Wyart"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.00048"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Francesco Cagnetta, Leonardo Petrini, Umberto M. Tomasini, Alessandro Favero, and Matthieu Wyart. How deep neural networks learn compositional data: The random hierarchy model. Phys. Rev. X, 14:031001, Jul 2024. doi: 10.1103/PhysRevX.14.031001. URL https://link.aps. org/doi/10.1103/PhysRevX.14.031001.",
+    "title": "How deep neural networks learn compositional data: The random hierarchy model",
+    "authors": [
+      "Francesco Cagnetta",
+      "Leonardo Petrini",
+      "Umberto M Tomasini",
+      "Alessandro Favero",
+      "Matthieu Wyart"
+    ],
+    "venue": "Phys. Rev. X",
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.1103/PhysRevX.14.031001",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevX.14.031001"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Elvis Dohmatob, Yunzhen Feng, and Julia Kempe. Model collapse demystified: The case of regression. arXiv preprint arXiv:2402.07712, 2024a.",
+    "title": "Model collapse demystified: The case of regression",
+    "authors": [
+      "Elvis Dohmatob",
+      "Yunzhen Feng",
+      "Julia Kempe"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.07712"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Elvis Dohmatob, Yunzhen Feng, Pu Yang, Francois Charton, and Julia Kempe. A tale of tails: Model collapse as a change of scaling laws. In Forty-first International Conference on Machine Learning, 2024b. URL https://openreview.net/forum?id=KVvku47shW.",
+    "title": "A tale of tails: Model collapse as a change of scaling laws",
+    "authors": [
+      "Elvis Dohmatob",
+      "Yunzhen Feng",
+      "Pu Yang",
+      "Francois Charton",
+      "Julia Kempe"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning, 2024b",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=KVvku47shW"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Sebastian Goldt, Marc Mézard, Florent Krzakala, and Lenka Zdeborová. Modeling the influence of data structure on learning in neural networks: The hidden manifold model. Phys. Rev. X, 10: 041044, Dec 2020. doi: 10.1103/PhysRevX.10.041044. URL https://link.aps.org/ doi/10.1103/PhysRevX.10.041044.",
+    "title": "Modeling the influence of data structure on learning in neural networks: The hidden manifold model",
+    "authors": [
+      "Sebastian Goldt",
+      "Marc Mézard",
+      "Florent Krzakala",
+      "Lenka Zdeborová"
+    ],
+    "venue": "Phys. Rev. X",
+    "year": 2020,
+    "identifiers": {
+      "doi": "10.1103/PhysRevX.10.041044",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevX.10.041044"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Joel Hestness, Sharan Narang, Newsha Ardalani, Gregory Diamos, Heewoo Jun, Hassan Kianinejad, Md Mostofa Ali Patwary, Yang Yang, and Yanqi Zhou. Deep learning scaling is predictable, empirically. arXiv preprint arXiv:1712.00409, 2017.",
+    "title": "Deep learning scaling is predictable, empirically",
+    "authors": [
+      "Joel Hestness",
+      "Sharan Narang",
+      "Newsha Ardalani",
+      "Gregory Diamos",
+      "Heewoo Jun",
+      "Hassan Kianinejad",
+      "Md Mostofa",
+      "Ali Patwary",
+      "Yang Yang",
+      "Yanqi Zhou"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1712.00409"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Thomas Hennigan, Eric Noland, Katherine Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karén Simonyan, Erich Elsen, Oriol Vinyals, Jack Rae, and Laurent Sifre. An empirical analysis of compute-optimal large language model training. In S. Koyejo, S. Mohamed, A. Agarwal, D. Belgrave, K. Cho, and A. Oh (eds.), Advances in Neural Information Processing Systems, volume 35, pp. 30016-30030. Curran Associates, Inc., 2022. URL https://proceedings.neurips.cc/paper_files/paper/ 2022/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf.",
+    "title": "An empirical analysis of compute-optimal large language model training",
+    "authors": [
+      "Jordan Hoffmann",
+      "Sebastian Borgeaud",
+      "Arthur Mensch",
+      "Elena Buchatskaya",
+      "Trevor Cai",
+      "Eliza Rutherford",
+      "Diego De Las",
+      "Lisa Anne Casas",
+      "Johannes Hendricks",
+      "Aidan Welbl",
+      "Thomas Clark",
+      "Eric Hennigan",
+      "Katherine Noland",
+      "George Millican",
+      "Bogdan Van Den Driessche",
+      "Aurelia Damoc",
+      "Simon Guy",
+      "Karén Osindero",
+      "Erich Simonyan",
+      "Oriol Elsen",
+      "Jack Vinyals",
+      "Laurent Rae",
+      "Sifre"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2022/file/c"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Marcus Hutter. Learning curve theory. arXiv preprint arXiv:2102.04074, 2021.",
+    "title": "Learning curve theory",
+    "authors": [
+      "Marcus Hutter"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2102.04074"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Ayush Jain, Andrea Montanari, and Eren Sasoglu. Scaling laws for learning with real and surrogate data. arXiv preprint arXiv:2402.04376, 2024.",
+    "title": "Scaling laws for learning with real and surrogate data",
+    "authors": [
+      "Ayush Jain",
+      "Andrea Montanari",
+      "Eren Sasoglu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.04376"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. Scaling laws for neural language models. arXiv preprint arXiv:2001.08361, 2020.",
+    "title": "Scaling laws for neural language models",
+    "authors": [
+      "Jared Kaplan",
+      "Sam Mccandlish",
+      "Tom Henighan",
+      "Tom B Brown",
+      "Benjamin Chess",
+      "Rewon Child",
+      "Scott Gray",
+      "Alec Radford",
+      "Jeffrey Wu",
+      "Dario Amodei"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2001.08361"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Licong Lin, Jingfeng Wu, Sham M Kakade, Peter L Bartlett, and Jason D Lee. Scaling laws in linear regression: Compute, parameters, and data. arXiv preprint arXiv:2406.08466, 2024.",
+    "title": "Scaling laws in linear regression: Compute, parameters, and data",
+    "authors": [
+      "Licong Lin",
+      "Jingfeng Wu",
+      "M Sham",
+      "Peter L Kakade",
+      "Jason D Bartlett",
+      "Lee"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.08466"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Bruno Loureiro, Cedric Gerbelot, Hugo Cui, Sebastian Goldt, Florent Krzakala, Marc Mezard, and Lenka Zdeborová. Learning curves of generic features maps for realistic datasets with a teacher-student model. Advances in Neural Information Processing Systems, 34:18137-18151, 2021.",
+    "title": "Learning curves of generic features maps for realistic datasets with a teacher-student model",
+    "authors": [
+      "Bruno Loureiro",
+      "Cedric Gerbelot",
+      "Hugo Cui",
+      "Sebastian Goldt",
+      "Florent Krzakala",
+      "Marc Mezard",
+      "Lenka Zdeborová"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Alexander Maloney, Daniel A Roberts, and James Sully. A solvable model of neural scaling laws. arXiv preprint arXiv:2210.16859, 2022.",
+    "title": "A solvable model of neural scaling laws",
+    "authors": [
+      "Alexander Maloney",
+      "Daniel A Roberts",
+      "James Sully"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2210.16859"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Eric J Michaud, Ziming Liu, Uzay Girit, and Max Tegmark. The quantization model of neural scaling. In Thirty-seventh Conference on Neural Information Processing Systems, 2023. URL https://openreview.net/forum?id=3tbTw2ga8K.",
+    "title": "The quantization model of neural scaling",
+    "authors": [
+      "Eric J Michaud",
+      "Ziming Liu",
+      "Uzay Girit",
+      "Max Tegmark"
+    ],
+    "venue": "Thirty-seventh Conference on Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=3tbTw2ga8K"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Preetum Nakkiran, Behnam Neyshabur, and Hanie Sedghi. The deep bootstrap framework: Good online learners are good offline generalizers. In International Conference on Learning Representations, 2021. URL https://openreview.net/forum?id=guetrIHLFGI.",
+    "title": "The deep bootstrap framework: Good online learners are good offline generalizers",
+    "authors": [
+      "Preetum Nakkiran",
+      "Behnam Neyshabur",
+      "Hanie Sedghi"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2021,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=guetrIHLFGI"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Yoonsoo Nam, Nayara Fonseca, Seok Hyeong Lee, and Ard Louis. An exactly solvable model for emergence and scaling laws. arXiv preprint arXiv:2404.17563, 2024.",
+    "title": "An exactly solvable model for emergence and scaling laws",
+    "authors": [
+      "Yoonsoo Nam",
+      "Nayara Fonseca",
+      "Seok Hyeong Lee",
+      "Ard Louis"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.17563"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Elliot Paquette, Courtney Paquette, Lechao Xiao, and Jeffrey Pennington. 4+ 3 phases of computeoptimal neural scaling laws. arXiv preprint arXiv:2405.15074, 2024.",
+    "title": "4+ 3 phases of computeoptimal neural scaling laws",
+    "authors": [
+      "Elliot Paquette",
+      "Courtney Paquette",
+      "Lechao Xiao",
+      "Jeffrey Pennington"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.15074"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Tomer Porian, Mitchell Wortsman, Jenia Jitsev, Ludwig Schmidt, and Yair Carmon. Resolving discrepancies in compute-optimal scaling of language models. arXiv preprint arXiv:2406.19146, 2024.",
+    "title": "Resolving discrepancies in compute-optimal scaling of language models",
+    "authors": [
+      "Mitchell Tomer Porian",
+      "Jenia Wortsman",
+      "Ludwig Jitsev",
+      "Yair Schmidt",
+      "Carmon"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.19146"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Frederieke Richert, Roman Worschech, and Bernd Rosenow. Soft mode in the dynamics of overrealizable online learning for soft committee machines. Physical Review E, 105(5):L052302, 2022.",
+    "title": "Soft mode in the dynamics of overrealizable online learning for soft committee machines",
+    "authors": [
+      "Frederieke Richert",
+      "Roman Worschech",
+      "Bernd Rosenow"
+    ],
+    "venue": "L052302",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Grant Rotskoff and Eric Vanden-Eijnden. Trainability and accuracy of artificial neural networks: An interacting particle system approach. Communications on Pure and Applied Mathematics, 75: 1889-1935, 09 2022. doi: 10.1002/cpa.22074.",
+    "title": "Trainability and accuracy of artificial neural networks: An interacting particle system approach",
+    "authors": [
+      "Grant Rotskoff",
+      "Eric Vanden-Eijnden"
+    ],
+    "venue": "Communications on Pure and Applied Mathematics",
+    "year": 1889,
+    "identifiers": {
+      "doi": "10.1002/cpa.22074"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "David Saad and Sara A. Solla. On-line learning in soft committee machines. Phys. Rev. E, 52: 4225-4243, Oct 1995. doi: 10.1103/PhysRevE.52.4225. URL https://link.aps.org/ doi/10.1103/PhysRevE.52.4225.",
+    "title": "On-line learning in soft committee machines",
+    "authors": [
+      "David Saad",
+      "Sara A Solla"
+    ],
+    "venue": "Phys. Rev. E",
+    "year": 1995,
+    "identifiers": {
+      "doi": "10.1103/PhysRevE.52.4225",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevE.52.4225"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Michiel Straat and Michael Biehl. On-line learning dynamics of relu neural networks using statistical physics techniques. arXiv preprint arXiv:1903.07378, 2019.",
+    "title": "On-line learning dynamics of relu neural networks using statistical physics techniques",
+    "authors": [
+      "Michiel Straat",
+      "Michael Biehl"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1903.07378"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Alexander Wei, Wei Hu, and Jacob Steinhardt. More than a toy: Random matrix models predict how real-world neural representations generalize. In Kamalika Chaudhuri, Stefanie Jegelka, Le Song, Csaba Szepesvari, Gang Niu, and Sivan Sabato (eds.), Proceedings of the 39th International Conference on Machine Learning, volume 162 of Proceedings of Machine Learning Research, pp. 23549-23588. PMLR, 17-23 Jul 2022. URL https://proceedings.mlr.press/v162/ wei22a.html.",
+    "title": "More than a toy: Random matrix models predict how real-world neural representations generalize",
+    "authors": [
+      "Alexander Wei",
+      "Wei Hu",
+      "Jacob Steinhardt"
+    ],
+    "venue": "Proceedings of the 39th International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v162/wei22a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Roman Worschech and Bernd Rosenow. Asymptotic generalization errors in the online learning of random feature models. Phys. Rev. Res., 6:L022049, Jun 2024. doi: 10.1103/PhysRevResearch.",
+    "title": "Asymptotic generalization errors in the online learning of random feature models",
+    "authors": [
+      "Roman Worschech",
+      "Bernd Rosenow"
+    ],
+    "venue": "L022049",
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.1103/PhysRevResearch"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "L022049. URL https://link.aps.org/doi/10.1103/PhysRevResearch.6. L022049.",
+    "title": "L022049",
+    "authors": [],
+    "identifiers": {
+      "doi": "10.1103/PhysRevResearch.6",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevResearch.6"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Yuki Yoshida and Masato Okada. Data-dependence of plateau phenomenon in learning with neural network -statistical mechanical analysis. In H. Wallach, H. Larochelle, A. Beygelzimer, F. d'AlchéBuc, E. Fox, and R. Garnett (eds.), Advances in Neural Information Processing Systems, volume 32. Curran Associates, Inc., 2019. URL https://proceedings.neurips.cc/paper_ files/paper/2019/file/287e03db1d99e0ec2edb90d079e142f3-Paper.pdf.",
+    "title": "Data-dependence of plateau phenomenon in learning with neural network -statistical mechanical analysis",
+    "authors": [
+      "Yuki Yoshida",
+      "Masato Okada"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2019,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2019/file/287"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

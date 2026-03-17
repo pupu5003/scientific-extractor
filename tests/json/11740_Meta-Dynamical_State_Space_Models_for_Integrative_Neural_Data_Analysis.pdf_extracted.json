@@ -1,0 +1,750 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Mehdi Azabou, Vinam Arora, Venkataramana Ganesh, Ximeng Mao, Santosh Nachimuthu, Michael Mendelson, Blake Richards, Matthew Perich, Guillaume Lajoie, and Eva Dyer. A unified, scalable framework for neural population decoding. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "A unified, scalable framework for neural population decoding",
+    "authors": [
+      "Mehdi Azabou",
+      "Vinam Arora",
+      "Venkataramana Ganesh",
+      "Ximeng Mao",
+      "Santosh Nachimuthu",
+      "Michael Mendelson",
+      "Blake Richards",
+      "Matthew Perich",
+      "Guillaume Lajoie",
+      "Eva Dyer"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Samuel R Bowman, Luke Vilnis, Oriol Vinyals, Andrew M Dai, Rafal Jozefowicz, and Samy Bengio. Generating sentences from a continuous space. arXiv preprint arXiv:1511.06349, 2015.",
+    "title": "Generating sentences from a continuous space",
+    "authors": [
+      "Luke Samuel R Bowman",
+      "Oriol Vilnis",
+      "Andrew M Vinyals",
+      "Rafal Dai",
+      "Samy Jozefowicz",
+      "Bengio"
+    ],
+    "year": 2015,
+    "identifiers": {
+      "arxiv_id": "arXiv:1511.06349"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Josue Ortega Caro, Antonio H. de O. Fonseca, Christopher Averill, Syed A. Rizvi, Matteo Rosati, James L. Cross, Prateek Mittal, Emanuele Zappala, Daniel Levine, Rahul M. Dhodapkar, Insu Han, Amin Karbasi, Chadi G. Abdallah, and David van Dijk. Brainlm: A foundation model for brain activity recordings. bioRxiv, 2024.",
+    "title": "Brainlm: A foundation model for brain activity recordings",
+    "authors": [
+      "Josue Ortega Caro",
+      "Antonio H De",
+      "O Fonseca",
+      "Christopher Averill",
+      "A Syed",
+      "Matteo Rizvi",
+      "James L Rosati",
+      "Prateek Cross",
+      "Emanuele Mittal",
+      "Daniel Zappala",
+      "Rahul M Levine",
+      "Insu Dhodapkar",
+      "Amin Han",
+      "Karbasi",
+      "G Chadi",
+      "David Abdallah",
+      "Van Dijk"
+    ],
+    "venue": "bioRxiv",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Mark M Churchland, John P Cunningham, Matthew T Kaufman, Justin D Foster, Paul Nuyujukian, Stephen I Ryu, and Krishna V Shenoy. Neural population dynamics during reaching. Nature, 487 (7405):51-56, 2012.",
+    "title": "Neural population dynamics during reaching",
+    "authors": [
+      "John P Mark M Churchland",
+      "Matthew T Cunningham",
+      "Justin D Kaufman",
+      "Paul Foster",
+      "Stephen I Nuyujukian",
+      "Krishna V Ryu",
+      "Shenoy"
+    ],
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Jordan Cotler, Kai Sheng Tai, Felipe Hernández, Blake Elias, and David Sussillo. Analyzing populations of neural networks via dynamical model embedding. arXiv [cs.LG], February 2023.",
+    "title": "Analyzing populations of neural networks via dynamical model embedding",
+    "authors": [
+      "Jordan Cotler",
+      "Kai Sheng Tai",
+      "Felipe Hernández",
+      "Blake Elias",
+      "David Sussillo"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Arnaud Doucet, Nando De Freitas, and Neil Gordon. An introduction to sequential monte carlo methods. Sequential Monte Carlo methods in practice, pp. 3-14, 2001.",
+    "title": "An introduction to sequential monte carlo methods. Sequential Monte Carlo methods in practice",
+    "authors": [
+      "Arnaud Doucet",
+      "Nando De Freitas",
+      "Neil Gordon"
+    ],
+    "year": 2001,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Matthew Dowling, Yuan Zhao, and Il Memming Park. eXponential FAmily dynamical systems (XFADS): Large-scale nonlinear gaussian state-space modeling. In Advances in Neural Information Processing Systems (NeurIPS), December 2024. URL https://openreview.net/forum? id=Ln8ogihZ2S.",
+    "title": "eXponential FAmily dynamical systems (XFADS): Large-scale nonlinear gaussian state-space modeling",
+    "authors": [
+      "Matthew Dowling",
+      "Yuan Zhao",
+      "Il Memming Park"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=Ln8ogihZ2S"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Laura N Driscoll, Noah L Pettit, Matthias Minderer, Selmaan N Chettih, and Christopher D Harvey. Dynamic reorganization of neuronal activity patterns in parietal cortex. Cell, 170(5):986-999, 2017.",
+    "title": "Dynamic reorganization of neuronal activity patterns in parietal cortex",
+    "authors": [
+      "Laura N Driscoll",
+      "Noah L Pettit",
+      "Matthias Minderer",
+      "Selmaan N Chettih",
+      "Christopher D Harvey"
+    ],
+    "venue": "Cell",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Laura N. Driscoll, Krishna Shenoy, and David Sussillo. Flexible multitask computation in recurrent networks utilizes shared dynamical motifs. Nature Neuroscience, 27(7):1349-1363, 2024.",
+    "title": "Flexible multitask computation in recurrent networks utilizes shared dynamical motifs",
+    "authors": [
+      "Laura N Driscoll",
+      "Krishna Shenoy",
+      "David Sussillo"
+    ],
+    "venue": "Nature Neuroscience",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Chelsea Finn, Pieter Abbeel, and Sergey Levine. Model-agnostic meta-learning for fast adaptation of deep networks. In International conference on machine learning, pp. 1126-1135. PMLR, 2017.",
+    "title": "Model-agnostic meta-learning for fast adaptation of deep networks",
+    "authors": [
+      "Chelsea Finn",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Juan A. Gallego, Matthew G. Perich, Stephanie N. Naufel, Christian Ethier, Sara A. Solla, and Lee E. Miller. Cortical population activity within a preserved neural manifold underlies multiple motor behaviors. Nature Communications, 9(1):4233, 2018.",
+    "title": "Cortical population activity within a preserved neural manifold underlies multiple motor behaviors",
+    "authors": [
+      "Juan A Gallego",
+      "Matthew G Perich",
+      "Stephanie N Naufel",
+      "Christian Ethier",
+      "Sara A Solla",
+      "Lee E Miller"
+    ],
+    "venue": "Nature Communications",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Juan A Gallego, Matthew G Perich, Raeed H Chowdhury, Sara A Solla, and Lee E Miller. Long-term stability of cortical population dynamics underlying consistent behavior. Nature neuroscience, 23 (2):260-270, 2020.",
+    "title": "Long-term stability of cortical population dynamics underlying consistent behavior",
+    "authors": [
+      "Juan A Gallego",
+      "Matthew G Perich",
+      "H Raeed",
+      "Sara A Chowdhury",
+      "Lee E Solla",
+      "Miller"
+    ],
+    "venue": "Nature neuroscience",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "David Ha, Andrew M Dai, and Quoc V Le. Hypernetworks. In International Conference on Learning Representations, 2016.",
+    "title": "International Conference on Learning Representations",
+    "authors": [
+      "David Ha",
+      "Andrew M Dai",
+      "Quoc V Le",
+      "Hypernetworks"
+    ],
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Pedro Herrero-Vidal, Dmitry Rinberg, and Cristina Savin. Across-animal odor decoding by probabilistic manifold alignment. Advances in Neural Information Processing Systems, 34:20360-20372, 2021.",
+    "title": "Across-animal odor decoding by probabilistic manifold alignment",
+    "authors": [
+      "Pedro Herrero-Vidal",
+      "Dmitry Rinberg",
+      "Cristina Savin"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Ali Hummos, Felipe del Río, Brabeeba Mien Wang, Julio Hurtado, Cristian B. Calderon, and Guangyu Robert Yang. Gradient-based inference of abstract task representations for generalization in neural networks, 2024.",
+    "title": "Gradient-based inference of abstract task representations for generalization in neural networks",
+    "authors": [
+      "Ali Hummos",
+      "Felipe Del Río",
+      "Mien Brabeeba",
+      "Julio Wang",
+      "Cristian B Hurtado",
+      "Guangyu Calderon",
+      "Yang Robert"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Maximilian Karl, Maximilian Soelch, Justin Bayer, and Patrick Van der Smagt. Deep variational bayes filters: Unsupervised learning of state space models from raw data. arXiv preprint arXiv:1605.06432, 2016.",
+    "title": "Deep variational bayes filters: Unsupervised learning of state space models from raw data",
+    "authors": [
+      "Maximilian Karl",
+      "Maximilian Soelch",
+      "Justin Bayer",
+      "Patrick Van Der Smagt"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1605.06432"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Matthieu Kirchmeyer, Yuan Yin, Jérémie Donà, Nicolas Baskiotis, Alain Rakotomamonjy, and Patrick Gallinari. Generalizing to new physical systems via context-informed dynamics model. In International Conference on Machine Learning, pp. 11283-11301. PMLR, 2022.",
+    "title": "Generalizing to new physical systems via context-informed dynamics model",
+    "authors": [
+      "Matthieu Kirchmeyer",
+      "Yuan Yin",
+      "Jérémie Donà",
+      "Nicolas Baskiotis",
+      "Alain Rakotomamonjy",
+      "Patrick Gallinari"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Rahul G Krishnan, Uri Shalit, and David Sontag. Deep kalman filters. arXiv preprint arXiv:1511.05121, 2015.",
+    "title": "Deep kalman filters",
+    "authors": [
+      "Uri Rahul G Krishnan",
+      "David Shalit",
+      "Sontag"
+    ],
+    "year": 2015,
+    "identifiers": {
+      "arxiv_id": "arXiv:1511.05121"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Zhenguo Li, Fengwei Zhou, Fei Chen, and Hang Li. Meta-sgd: Learning to learn quickly for few-shot learning. arXiv preprint arXiv:1707.09835, 2017.",
+    "title": "Meta-sgd: Learning to learn quickly for few-shot learning",
+    "authors": [
+      "Zhenguo Li",
+      "Fengwei Zhou",
+      "Fei Chen",
+      "Hang Li"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1707.09835"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Scott Linderman, Annika Nichols, David Blei, Manuel Zimmer, and Liam Paninski. Hierarchical recurrent state space models reveal discrete and continuous dynamics of neural activity in c. elegans. BioRxiv, pp. 621540, 2019.",
+    "title": "Hierarchical recurrent state space models reveal discrete and continuous dynamics of neural activity in c. elegans",
+    "authors": [
+      "Scott Linderman",
+      "Annika Nichols",
+      "David Blei",
+      "Manuel Zimmer",
+      "Liam Paninski"
+    ],
+    "venue": "BioRxiv",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Thomas Zhihao Luo, Timothy Doyeon Kim, Diksha Gupta, Adrian G Bondy, Charles D Kopec, Verity A Elliot, Brian DePasquale, and Carlos D Brody. Transitions in dynamical regime and neural mode underlie perceptual decision-making. bioRxiv, pp. 2023-10, 2023.",
+    "title": "Transitions in dynamical regime and neural mode underlie perceptual decision-making. bioRxiv",
+    "authors": [
+      "Thomas Zhihao Luo",
+      "Timothy Doyeon Kim",
+      "Diksha Gupta",
+      "Adrian G Bondy",
+      "Charles D Kopec",
+      "A Verity",
+      "Brian Elliot",
+      "Carlos D Depasquale",
+      "Brody"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Niru Maheswaranathan, Alex Williams, Matthew Golub, Surya Ganguli, and David Sussillo. Universality and individuality in neural dynamics across large populations of recurrent networks. In H. Wallach, H. Larochelle, A. Beygelzimer, F. d'Alché-Buc, E. Fox, and R. Garnett (eds.), Advances in Neural Information Processing Systems, volume 32. Curran Associates, Inc., 2019.",
+    "title": "Universality and individuality in neural dynamics across large populations of recurrent networks",
+    "authors": [
+      "Niru Maheswaranathan",
+      "Alex Williams",
+      "Matthew Golub",
+      "Surya Ganguli",
+      "David Sussillo"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Christian David Márton, Léo Gagnon, Guillaume Lajoie, and Kanaka Rajan. Efficient and robust multi-task learning in the brain with modular latent primitives. arXiv preprint arXiv:2105.14108, 2021.",
+    "title": "Efficient and robust multi-task learning in the brain with modular latent primitives",
+    "authors": [
+      "Christian David Márton",
+      "Léo Gagnon",
+      "Guillaume Lajoie",
+      "Kanaka Rajan"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2105.14108"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Christian Naesseth, Scott Linderman, Rajesh Ranganath, and David Blei. Variational sequential monte carlo. In International conference on artificial intelligence and statistics, pp. 968-977. PMLR, 2018.",
+    "title": "Variational sequential monte carlo",
+    "authors": [
+      "Christian Naesseth",
+      "Scott Linderman",
+      "Rajesh Ranganath",
+      "David Blei"
+    ],
+    "venue": "International conference on artificial intelligence and statistics",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Aditya Nair, Tomomi Karigo, Bin Yang, Surya Ganguli, Mark J. Schnitzer, Scott W. Linderman, David J. Anderson, and Ann Kennedy. An approximate line attractor in the hypothalamus encodes an aggressive state. Cell, 186(1):178-193.e15, 2023.",
+    "title": "An approximate line attractor in the hypothalamus encodes an aggressive state",
+    "authors": [
+      "Aditya Nair",
+      "Tomomi Karigo",
+      "Bin Yang",
+      "Surya Ganguli",
+      "Mark J Schnitzer",
+      "Scott W Linderman",
+      "David J Anderson",
+      "Ann Kennedy"
+    ],
+    "venue": "Cell",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Alex Nichol and John Schulman. Reptile: a scalable metalearning algorithm. arXiv preprint arXiv:1803.02999, 2(3):4, 2018.",
+    "title": "Reptile: a scalable metalearning algorithm",
+    "authors": [
+      "Alex Nichol",
+      "John Schulman"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1803.02999"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Chethan Pandarinath, Daniel J. O'Shea, Jasmine Collins, Rafal Jozefowicz, Sergey D. Stavisky, Jonathan C. Kao, Eric M. Trautmann, Matthew T. Kaufman, Stephen I. Ryu, Leigh R. Hochberg, Jaimie M. Henderson, Krishna V. Shenoy, L. F. Abbott, and David Sussillo. Inferring single-trial neural population dynamics using sequential auto-encoders. Nature Methods, 15(10):805-815, 2018.",
+    "title": "Inferring single-trial neural population dynamics using sequential auto-encoders",
+    "authors": [
+      "Chethan Pandarinath",
+      "J Daniel",
+      "Jasmine O'shea",
+      "Rafal Collins",
+      "Jozefowicz",
+      "D Sergey",
+      "Jonathan C Stavisky",
+      "Eric M Kao",
+      "Matthew T Trautmann",
+      "Stephen I Kaufman",
+      "Leigh R Ryu",
+      "Jaimie M Hochberg",
+      "Krishna V Henderson",
+      "L F Shenoy",
+      "David Abbott",
+      "Sussillo"
+    ],
+    "venue": "Nature Methods",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Arthur Pellegrino, N Alex Cayco Gajic, and Angus Chadwick. Low tensor rank learning of neural dynamics. Advances in Neural Information Processing Systems, 36:11674-11702, 2023.",
+    "title": "Low tensor rank learning of neural dynamics",
+    "authors": [
+      "Arthur Pellegrino",
+      "Alex Cayco Gajic",
+      "Angus Chadwick"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Matthew G Perich, Juan A Gallego, and Lee E Miller. A neural population mechanism for rapid learning. Neuron, 100(4):964-976, 2018.",
+    "title": "A neural population mechanism for rapid learning",
+    "authors": [
+      "Juan A Matthew G Perich",
+      "Lee E Gallego",
+      "Miller"
+    ],
+    "venue": "Neuron",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero, and Raia Hadsell. Meta-learning with latent embedding optimization, 2019.",
+    "authors": [
+      "Andrei A. Rusu",
+      "Dushyant Rao",
+      "Jakub Sygnowski",
+      "Oriol Vinyals",
+      "Razvan Pascanu",
+      "Simon Osindero",
+      "Raia Hadsell"
+    ],
+    "venue": "Meta-learning with latent embedding optimization",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Mostafa Safaie, Joanna C. Chang, Junchol Park, Lee E. Miller, Joshua T. Dudman, Matthew G. Perich, and Juan A. Gallego. Preserved neural dynamics across animals performing similar behaviour. Nature, 623(7988):765-771, 2023.",
+    "title": "Preserved neural dynamics across animals performing similar behaviour",
+    "authors": [
+      "Mostafa Safaie",
+      "Joanna C Chang",
+      "Junchol Park",
+      "Lee E Miller",
+      "Joshua T Dudman",
+      "Matthew G Perich",
+      "Juan A Gallego"
+    ],
+    "venue": "Nature",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Marine Schimel, Ta-Chu Kao, Kristopher T Jensen, and Guillaume Hennequin. iLQR-VAE : controlbased learning of input-driven dynamics with applications to neural data. In International Conference on Learning Representations, 2022.",
+    "title": "iLQR-VAE : controlbased learning of input-driven dynamics with applications to neural data",
+    "authors": [
+      "Marine Schimel",
+      "Ta-Chu Kao",
+      "Kristopher T Jensen",
+      "Guillaume Hennequin"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Steffen Schneider, Jin Hwa Lee, and Mackenzie Weygandt Mathis. Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960):360-368, 2023.",
+    "title": "Learnable latent embeddings for joint behavioural and neural analysis",
+    "authors": [
+      "Steffen Schneider",
+      "Jin Hwa Lee",
+      "Mackenzie Weygandt Mathis"
+    ],
+    "venue": "Nature",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Andrew R Sedler and Chethan Pandarinath. lfads-torch: A modular and extensible implementation of latent factor analysis via dynamical systems. arXiv preprint arXiv:2309.01230, 2023.",
+    "title": "lfads-torch: A modular and extensible implementation of latent factor analysis via dynamical systems",
+    "authors": [
+      "R Andrew",
+      "Chethan Sedler",
+      "Pandarinath"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2309.01230"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Elia Turner and Omri Barak. The simplicity bias in multi-task RNNs: Shared attractors, reuse of dynamics, and geometric representation. In A. Oh, T. Naumann, A. Globerson, K. Saenko, M. Hardt, and S. Levine (eds.), Advances in Neural Information Processing Systems, volume 36, pp. 25495-25507. Curran Associates, Inc., 2023.",
+    "title": "The simplicity bias in multi-task RNNs: Shared attractors, reuse of dynamics, and geometric representation",
+    "authors": [
+      "Elia Turner",
+      "Omri Barak"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Ayesha Vermani, Matthew Dowling, Hyungju Jeon, Ian Jordan, Josue Nassar, Yves Bernaerts, Yuan Zhao, Steven Van Vaerenbergh, and Il Memming Park. Real-time machine learning strategies for a new kind of neuroscience experiments. In European Signal Processing Conference, 2024a.",
+    "title": "Steven Van Vaerenbergh, and Il Memming Park. Real-time machine learning strategies for a new kind of neuroscience experiments",
+    "authors": [
+      "Ayesha Vermani",
+      "Matthew Dowling",
+      "Hyungju Jeon",
+      "Ian Jordan",
+      "Josue Nassar",
+      "Yves Bernaerts",
+      "Yuan Zhao"
+    ],
+    "venue": "European Signal Processing Conference",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Ayesha Vermani, Il Memming Park, and Josue Nassar. Leveraging generative models for unsupervised alignment of neural time series data. In International Conference on Learning Representations (ICLR), May 2024b. URL https://openreview.net/forum?id=9zhHVyLY4K.",
+    "title": "Leveraging generative models for unsupervised alignment of neural time series data",
+    "authors": [
+      "Ayesha Vermani",
+      "Il Memming Park",
+      "Josue Nassar"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR), May 2024b",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=9zhHVyLY4K"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Rui Wang, Robin Walters, and Rose Yu. Meta-learning dynamics forecasting using task inference. Advances in Neural Information Processing Systems, 35:21640-21653, 2022.",
+    "title": "Meta-learning dynamics forecasting using task inference",
+    "authors": [
+      "Rui Wang",
+      "Robin Walters",
+      "Rose Yu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Guangyu Robert Yang, Madhura R Joglekar, H Francis Song, William T Newsome, and Xiao-Jing Wang. Task representations in neural networks trained to perform many cognitive tasks. Nature neuroscience, 22(2):297-306, 2019.",
+    "title": "Task representations in neural networks trained to perform many cognitive tasks",
+    "authors": [
+      "Guangyu Robert",
+      "Yang Madhura R Joglekar",
+      "Francis Song",
+      "William T Newsome",
+      "Xiao-Jing Wang"
+    ],
+    "venue": "Nature neuroscience",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Joel Ye, Jennifer L. Collinger, Leila Wehbe, and Robert Gaunt. Neural data transformer 2: Multicontext pretraining for neural spiking activity. bioRxiv, 2023.",
+    "title": "Neural data transformer 2: Multicontext pretraining for neural spiking activity",
+    "authors": [
+      "Joel Ye",
+      "Jennifer L Collinger",
+      "Leila Wehbe",
+      "Robert Gaunt"
+    ],
+    "venue": "bioRxiv",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Daiyao Yi, Simon Musall, Anne Churchland, Nancy Padilla-Coreano, and Shreya Saxena. Disentangled multi-subject and social behavioral representations through a constrained subspace variational autoencoder (cs-vae). eLife, 12, 2023.",
+    "title": "Disentangled multi-subject and social behavioral representations through a constrained subspace variational autoencoder (cs-vae)",
+    "authors": [
+      "Daiyao Yi",
+      "Simon Musall",
+      "Anne Churchland",
+      "Nancy Padilla-Coreano",
+      "Shreya Saxena"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Yuan Yin, Ibrahim Ayed, Emmanuel de Bézenac, Nicolas Baskiotis, and Patrick Gallinari. Leads: Learning dynamical systems that generalize across environments. Advances in Neural Information Processing Systems, 34:7561-7573, 2021.",
+    "title": "Leads: Learning dynamical systems that generalize across environments",
+    "authors": [
+      "Ibrahim Yuan Yin",
+      "Emmanuel Ayed",
+      "Nicolas De Bézenac",
+      "Patrick Baskiotis",
+      "Gallinari"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Daoze Zhang, Zhizhang Yuan, YANG YANG, Junru Chen, Jingjing Wang, and Yafeng Li. Brant: Foundation model for intracranial neural signal. In A. Oh, T. Naumann, A. Globerson, K. Saenko, M. Hardt, and S. Levine (eds.), Advances in Neural Information Processing Systems, volume 36, pp. 26304-26321. Curran Associates, Inc., 2023.",
+    "title": "Foundation model for intracranial neural signal",
+    "authors": [
+      "Daoze Zhang",
+      "Zhizhang Yuan",
+      "Yang Yang",
+      "Junru Chen",
+      "Jingjing Wang",
+      "Yafeng Li",
+      "Brant"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

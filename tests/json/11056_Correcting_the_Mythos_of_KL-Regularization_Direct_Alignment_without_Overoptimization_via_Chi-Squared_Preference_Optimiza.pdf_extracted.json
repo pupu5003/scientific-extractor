@@ -1,0 +1,1769 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "A. Agarwal, N. Jiang, and S. M. Kakade. Reinforcement learning: Theory and algorithms. https: //rltheorybook.github.io/, 2019. Version: January 31, 2022.",
+    "title": "Reinforcement learning: Theory and algorithms",
+    "authors": [
+      "A Agarwal",
+      "N Jiang",
+      "S M Kakade"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "url": "https://rltheorybook.github.io/,2019.Version"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "A. Agarwal, S. Kakade, A. Krishnamurthy, and W. Sun. FLAMBE: Structural complexity and representation learning of low rank MDPs. Advances in Neural Information Processing Systems, 2020.",
+    "title": "FLAMBE: Structural complexity and representation learning of low rank MDPs",
+    "authors": [
+      "A Agarwal",
+      "S Kakade",
+      "A Krishnamurthy",
+      "W Sun"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "P. Amortila, D. J. Foster, and A. Krishnamurthy. Scalable online exploration via coverability. International Conference on Machine Learning, 2024.",
+    "title": "Scalable online exploration via coverability",
+    "authors": [
+      "P Amortila",
+      "D J Foster",
+      "A Krishnamurthy"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "S. Athey and S. Wager. Policy learning with observational data. Econometrica, 2021.",
+    "title": "Policy learning with observational data",
+    "authors": [
+      "S Athey",
+      "S Wager"
+    ],
+    "venue": "Econometrica",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "M. G. Azar, Z. D. Guo, B. Piot, R. Munos, M. Rowland, M. Valko, and D. Calandriello. A general theoretical paradigm to understand learning from human preferences. In International Conference on Artificial Intelligence and Statistics, 2024.",
+    "title": "A general theoretical paradigm to understand learning from human preferences",
+    "authors": [
+      "M G Azar",
+      "Z D Guo",
+      "B Piot",
+      "R Munos",
+      "M Rowland",
+      "M Valko",
+      "D Calandriello"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Y. Bai, A. Jones, K. Ndousse, A. Askell, A. Chen, N. DasSarma, D. Drain, S. Fort, D. Ganguli, T. Henighan, N. Joseph, S. Kadavath, J. Kernion, T. Conerly, S. El-Showk, N. Elhage, Z. HatfieldDodds, D. Hernandez, T. Hume, S. Johnston, S. Kravec, L. Lovitt, N. Nanda, C. Olsson, D. Amodei, T. Brown, J. Clark, S. McCandlish, C. Olah, B. Mann, and J. Kaplan. Training a helpful and harmless assistant with reinforcement learning from human feedback. arXiv:2204.05862, 2022.",
+    "title": "Training a helpful and harmless assistant with reinforcement learning from human feedback",
+    "authors": [
+      "Y Bai",
+      "A Jones",
+      "K Ndousse",
+      "A Askell",
+      "A Chen",
+      "N Dassarma",
+      "D Drain",
+      "S Fort",
+      "D Ganguli",
+      "T Henighan",
+      "N Joseph",
+      "S Kadavath",
+      "J Kernion",
+      "T Conerly",
+      "S El-Showk",
+      "N Elhage",
+      "Z Hatfielddodds",
+      "D Hernandez",
+      "T Hume",
+      "S Johnston",
+      "S Kravec",
+      "L Lovitt",
+      "N Nanda",
+      "C Olsson",
+      "D Amodei",
+      "T Brown",
+      "J Clark",
+      "S Mccandlish",
+      "C Olah",
+      "B Mann",
+      "J Kaplan"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2204.05862"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "S. Biderman, H. Schoelkopf, Q. G. Anthony, H. Bradley, K. O'Brien, E. Hallahan, M. A. Khan, S. Purohit, U. S. Prashanth, E. Raff, A. Skowron, L. Sutawika, and O. van der Wal. Pythia: A suite for analyzing large language models across training and scaling. In International Conference on Machine Learning, 2023.",
+    "title": "Pythia: A suite for analyzing large language models across training and scaling",
+    "authors": [
+      "S Biderman",
+      "H Schoelkopf",
+      "Q G Anthony",
+      "H Bradley",
+      "K O'brien",
+      "E Hallahan",
+      "M A Khan",
+      "S Purohit",
+      "U S Prashanth",
+      "E Raff",
+      "A Skowron",
+      "L Sutawika",
+      "O Van Der Wal"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "R. A. Bradley and M. E. Terry. Rank analysis of incomplete block designs: I. The method of paired comparisons. Biometrika, 1952.",
+    "title": "Rank analysis of incomplete block designs: I. The method of paired comparisons",
+    "authors": [
+      "R A Bradley",
+      "M E Terry"
+    ],
+    "venue": "Biometrika",
+    "year": 1952,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "T. Brown, B. Mann, N. Ryder, M. Subbiah, J. D. Kaplan, P. Dhariwal, A. Neelakantan, P. Shyam, G. Sastry, A. Askell, S. Agarwal, A. Herbert-Voss, G. Krueger, T. Henighan, R. Child, A. Ramesh, D. Ziegler, J. Wu, C. Winter, C. Hesse, M. Chen, E. Sigler, M. Litwin, S. Gray, B. Chess, J. Clark, C. Berner, S. McCandlish, A. Radford, I. Sutskever, and D. Amodei. Language models are few-shot learners. In Advances in Neural Information Processing Systems, 2020.",
+    "title": "Language models are few-shot learners",
+    "authors": [
+      "T Brown",
+      "B Mann",
+      "N Ryder",
+      "M Subbiah",
+      "J D Kaplan",
+      "P Dhariwal",
+      "A Neelakantan",
+      "P Shyam",
+      "G Sastry",
+      "A Askell",
+      "S Agarwal",
+      "A Herbert-Voss",
+      "G Krueger",
+      "T Henighan",
+      "R Child",
+      "A Ramesh",
+      "D Ziegler",
+      "J Wu",
+      "C Winter",
+      "C Hesse",
+      "M Chen",
+      "E Sigler",
+      "M Litwin",
+      "S Gray",
+      "B Chess",
+      "J Clark",
+      "C Berner",
+      "S Mccandlish",
+      "A Radford",
+      "I Sutskever",
+      "D Amodei"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "S. Cen, J. Mei, K. Goshvadi, H. Dai, T. Yang, S. Yang, D. Schuurmans, Y. Chi, and B. Dai. Value-incentivized preference optimization: A unified approach to online and offline RLHF. arXiv:2405.19320, 2024.",
+    "title": "Value-incentivized preference optimization: A unified approach to online and offline RLHF",
+    "authors": [
+      "S Cen",
+      "J Mei",
+      "K Goshvadi",
+      "H Dai",
+      "T Yang",
+      "S Yang",
+      "D Schuurmans",
+      "Y Chi",
+      "B Dai"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.19320"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "N. Cesa-Bianchi, C. Gentile, G. Lugosi, and G. Neu. Boltzmann exploration done right. Advances in Neural Information Processing Systems, 2017.",
+    "title": "Boltzmann exploration done right",
+    "authors": [
+      "N Cesa-Bianchi",
+      "C Gentile",
+      "G Lugosi",
+      "G Neu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "J. D. Chang, W. Shan, O. Oertell, K. Brantley, D. Misra, J. D. Lee, and W. Sun. Dataset reset policy optimization for RLHF. arXiv:2404.08495, 2024.",
+    "title": "Dataset reset policy optimization for RLHF",
+    "authors": [
+      "J D Chang",
+      "W Shan",
+      "O Oertell",
+      "K Brantley",
+      "D Misra",
+      "J D Lee",
+      "W Sun"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.08495"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "J. Chen and N. Jiang. Offline reinforcement learning under value and density-ratio realizability: The power of gaps. In Uncertainty in Artificial Intelligence, 2022.",
+    "title": "Offline reinforcement learning under value and density-ratio realizability: The power of gaps",
+    "authors": [
+      "J Chen",
+      "N Jiang"
+    ],
+    "venue": "Uncertainty in Artificial Intelligence",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "X. Chen, H. Zhong, Z. Yang, Z. Wang, and L. Wang. Human-in-the-loop: Provably efficient preference-based reinforcement learning with general function approximation. In International Conference on Machine Learning, 2022.",
+    "title": "Human-in-the-loop: Provably efficient preference-based reinforcement learning with general function approximation",
+    "authors": [
+      "X Chen",
+      "H Zhong",
+      "Z Yang",
+      "Z Wang",
+      "L Wang"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Z. Chen, Y. Deng, H. Yuan, K. Ji, and Q. Gu. Self-play fine-tuning converts weak language models to strong language models. arXiv:2401.01335, 2024.",
+    "title": "Self-play fine-tuning converts weak language models to strong language models",
+    "authors": [
+      "Z Chen",
+      "Y Deng",
+      "H Yuan",
+      "K Ji",
+      "Q Gu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.01335"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "V. Chernozhukov, M. Demirer, G. Lewis, and V. Syrgkanis. Semi-parametric efficient policy learning with continuous actions. Advances in Neural Information Processing Systems, 2019.",
+    "title": "Semi-parametric efficient policy learning with continuous actions",
+    "authors": [
+      "V Chernozhukov",
+      "M Demirer",
+      "G Lewis",
+      "V Syrgkanis"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "P. F. Christiano, J. Leike, T. Brown, M. Martic, S. Legg, and D. Amodei. Deep reinforcement learning from human preferences. Advances in Neural Information Processing Systems, 2017.",
+    "title": "Deep reinforcement learning from human preferences",
+    "authors": [
+      "P F Christiano",
+      "J Leike",
+      "T Brown",
+      "M Martic",
+      "S Legg",
+      "D Amodei"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "R. M. Corless, G. H. Gonnet, D. E. Hare, D. J. Jeffrey, and D. E. Knuth. On the Lambert W function. Advances in Computational Mathematics, 1996.",
+    "title": "On the Lambert W function",
+    "authors": [
+      "R M Corless",
+      "G H Gonnet",
+      "D E Hare",
+      "D J Jeffrey",
+      "D E Knuth"
+    ],
+    "venue": "Advances in Computational Mathematics",
+    "year": 1996,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "T. Coste, U. Anwar, R. Kirk, and D. Krueger. Reward model ensembles help mitigate overoptimization. arXiv:2310.02743, 2023.",
+    "title": "Reward model ensembles help mitigate overoptimization",
+    "authors": [
+      "T Coste",
+      "U Anwar",
+      "R Kirk",
+      "D Krueger"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.02743"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Q. Cui and S. S. Du. When are offline two-player zero-sum Markov games solvable? Advances in Neural Information Processing Systems, 2022.",
+    "title": "When are offline two-player zero-sum Markov games solvable?",
+    "authors": [
+      "Q Cui",
+      "S S Du"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "N. Das, S. Chakraborty, A. Pacchiano, and S. R. Chowdhury. Provably sample efficient RLHF via active preference optimization. arXiv:2402.10500, 2024.",
+    "title": "Provably sample efficient RLHF via active preference optimization",
+    "authors": [
+      "N Das",
+      "S Chakraborty",
+      "A Pacchiano",
+      "S R Chowdhury"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.10500"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "S. A. V. de Geer. Empirical Processes in M-Estimation. Cambridge University Press, 2000.",
+    "title": "Empirical Processes in M-Estimation",
+    "authors": [
+      "S A V De Geer"
+    ],
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "H. Dong, W. Xiong, D. Goyal, Y. Zhang, W. Chow, R. Pan, S. Diao, J. Zhang, K. Shum, and T. Zhang. Raft: Reward ranked finetuning for generative foundation model alignment. arXiv:2304.06767, 2023.",
+    "title": "Raft: Reward ranked finetuning for generative foundation model alignment",
+    "authors": [
+      "H Dong",
+      "W Xiong",
+      "D Goyal",
+      "Y Zhang",
+      "W Chow",
+      "R Pan",
+      "S Diao",
+      "J Zhang",
+      "K Shum",
+      "T Zhang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2304.06767"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "H. Dong, W. Xiong, B. Pang, H. Wang, H. Zhao, Y. Zhou, N. Jiang, D. Sahoo, C. Xiong, and T. Zhang. RLHF workflow: From reward modeling to online RLHF. arXiv:2405.07863, 2024.",
+    "title": "RLHF workflow: From reward modeling to online RLHF",
+    "authors": [
+      "H Dong",
+      "W Xiong",
+      "B Pang",
+      "H Wang",
+      "H Zhao",
+      "Y Zhou",
+      "N Jiang",
+      "D Sahoo",
+      "C Xiong",
+      "T Zhang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.07863"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Y. Du, A. Winnicki, G. Dalal, S. Mannor, and R. Srikant. Exploration-driven policy optimization in RLHF: Theoretical insights on efficient data utilization. arXiv:2402.10342, 2024.",
+    "title": "Exploration-driven policy optimization in RLHF: Theoretical insights on efficient data utilization",
+    "authors": [
+      "Y Du",
+      "A Winnicki",
+      "G Dalal",
+      "S Mannor",
+      "R Srikant"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.10342"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Y. Duan, Z. Jia, and M. Wang. Minimax-optimal off-policy evaluation with linear function approximation. In International Conference on Machine Learning, 2020.",
+    "title": "Minimax-optimal off-policy evaluation with linear function approximation",
+    "authors": [
+      "Y Duan",
+      "Z Jia",
+      "M Wang"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "J. Duchi and H. Namkoong. Variance-based regularization with convex objectives. Journal of Machine Learning Research, 2019.",
+    "title": "Variance-based regularization with convex objectives",
+    "authors": [
+      "J Duchi",
+      "H Namkoong"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "M. Dudík, K. Hofmann, R. E. Schapire, A. Slivkins, and M. Zoghi. Contextual dueling bandits. In Conference on Learning Theory, 2015.",
+    "title": "Contextual dueling bandits",
+    "authors": [
+      "M Dudík",
+      "K Hofmann",
+      "R E Schapire",
+      "A Slivkins",
+      "M Zoghi"
+    ],
+    "venue": "Conference on Learning Theory",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "J. Eisenstein, C. Nagpal, A. Agarwal, A. Beirami, A. D'Amour, D. Dvijotham, A. Fisch, K. Heller, S. Pfohl, D. Ramachandran, P. Shaw, and J. Berant. Helping or herding? reward model ensembles mitigate but do not eliminate reward hacking. arXiv:2312.09244, 2023.",
+    "title": "Helping or herding? reward model ensembles mitigate but do not eliminate reward hacking",
+    "authors": [
+      "J Eisenstein",
+      "C Nagpal",
+      "A Agarwal",
+      "A Beirami",
+      "A D'amour",
+      "D Dvijotham",
+      "A Fisch",
+      "K Heller",
+      "S Pfohl",
+      "D Ramachandran",
+      "P Shaw",
+      "J Berant"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2312.09244"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "A.-m.",
+    "authors": [
+      "A.-M"
+    ],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Farahmand, C. Szepesvári, and R. Munos. Error propagation for approximate policy and value iteration. Advances in Neural Information Processing Systems, 2010.",
+    "title": "Error propagation for approximate policy and value iteration",
+    "authors": [
+      "C Farahmand",
+      "R Szepesvári",
+      "Munos"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2010,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "A. Fisch, J. Eisenstein, V. Zayats, A. Agarwal, A. Beirami, C. Nagpal, P. Shaw, and J. Berant. Robust preference optimization through reward model distillation. arXiv:2405.19316, 2024.",
+    "title": "Robust preference optimization through reward model distillation",
+    "authors": [
+      "A Fisch",
+      "J Eisenstein",
+      "V Zayats",
+      "A Agarwal",
+      "A Beirami",
+      "C Nagpal",
+      "P Shaw",
+      "J Berant"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.19316"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "P. C. Fishburn. Probabilistic social choice based on simple voting comparisons. The Review of Economic Studies, 1984.",
+    "title": "Probabilistic social choice based on simple voting comparisons",
+    "authors": [
+      "P C Fishburn"
+    ],
+    "venue": "The Review of Economic Studies",
+    "year": 1984,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "D. J. Foster and A. Rakhlin. Foundations of reinforcement learning and interactive decision making. arXiv:2312.16730, 2023.",
+    "title": "Foundations of reinforcement learning and interactive decision making",
+    "authors": [
+      "D J Foster",
+      "A Rakhlin"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2312.16730"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "G. Gabbianelli, G. Neu, and M. Papini. Importance-weighted offline learning done right. In International Conference on Algorithmic Learning Theory, 2024.",
+    "title": "Importance-weighted offline learning done right",
+    "authors": [
+      "G Gabbianelli",
+      "G Neu",
+      "M Papini"
+    ],
+    "venue": "International Conference on Algorithmic Learning Theory",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "L. Gao, J. Schulman, and J. Hilton. Scaling laws for reward model overoptimization. In International Conference on Machine Learning, 2023.",
+    "title": "Scaling laws for reward model overoptimization",
+    "authors": [
+      "L Gao",
+      "J Schulman",
+      "J Hilton"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Z. Gao, J. D. Chang, W. Zhan, O. Oertell, G. Swamy, K. Brantley, T. Joachims, J. A. Bagnell, J. D. Lee, and W. Sun. REBEL: Reinforcement learning via regressing relative rewards. arXiv:2404.16767, 2024. Google. Palm 2 technical report. arXiv:2305.10403, 2023.",
+    "title": "REBEL: Reinforcement learning via regressing relative rewards",
+    "authors": [
+      "Z Gao",
+      "J D Chang",
+      "W Zhan",
+      "O Oertell",
+      "G Swamy",
+      "K Brantley",
+      "T Joachims",
+      "J A Bagnell",
+      "J D Lee",
+      "W Sun"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.16767"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "S. Guo, B. Zhang, T. Liu, T. Liu, M. Khalman, F. Llinares, A. Rame, T. Mesnard, Y. Zhao, B. Piot, J. Ferret, and M. Blondel. Direct language model alignment from online AI feedback. arXiv:2402.04792, 2024.",
+    "title": "Direct language model alignment from online AI feedback",
+    "authors": [
+      "S Guo",
+      "B Zhang",
+      "T Liu",
+      "T Liu",
+      "M Khalman",
+      "F Llinares",
+      "A Rame",
+      "T Mesnard",
+      "Y Zhao",
+      "B Piot",
+      "J Ferret",
+      "M Blondel"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.04792"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "S. Huang, R. F. J. Dossa, C. Ye, J. Braga, D. Chakraborty, K. Mehta, and J. G. Araújo. Cleanrl: High-quality single-file implementations of deep reinforcement learning algorithms. Journal of Machine Learning Research, 2022.",
+    "title": "Cleanrl: High-quality single-file implementations of deep reinforcement learning algorithms",
+    "authors": [
+      "S Huang",
+      "R F J Dossa",
+      "C Ye",
+      "J Braga",
+      "D Chakraborty",
+      "K Mehta",
+      "J G Araújo"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "X. Ji, S. Kulkarni, M. Wang, and T. Xie. Self-play with adversarial critic: Provable and scalable offline alignment for language models. arXiv:2406.04274, 2024.",
+    "title": "Self-play with adversarial critic: Provable and scalable offline alignment for language models",
+    "authors": [
+      "X Ji",
+      "S Kulkarni",
+      "M Wang",
+      "T Xie"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.04274"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Y. Jin, Z. Yang, and Z. Wang. Is pessimism provably efficient for offline RL? In International Conference on Machine Learning, 2021.",
+    "title": "Is pessimism provably efficient for offline RL",
+    "authors": [
+      "Y Jin",
+      "Z Yang",
+      "Z Wang"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "N. Kallus and M. Uehara. Double reinforcement learning for efficient off-policy evaluation in markov decision processes. Journal of Machine Learning Research, 2020.",
+    "title": "Double reinforcement learning for efficient off-policy evaluation in markov decision processes",
+    "authors": [
+      "N Kallus",
+      "M Uehara"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "G. H. Kramer. On a class of equilibrium conditions for majority rule. Econometrica: Journal of the Econometric Society, 1973.",
+    "title": "On a class of equilibrium conditions for majority rule",
+    "authors": [
+      "G H Kramer"
+    ],
+    "venue": "Econometrica: Journal of the Econometric Society",
+    "year": 1973,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "G. Kreweras. Aggregation of preference orderings. In Mathematics and Social Sciences I: Proceedings of the seminars of Menthon-Saint-Bernard, France and of Gösing, Austria, 1965.",
+    "title": "Aggregation of preference orderings",
+    "authors": [
+      "G Kreweras"
+    ],
+    "venue": "Mathematics and Social Sciences I: Proceedings of the seminars of Menthon-Saint-Bernard, France and of Gösing",
+    "year": 1965,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "T. Lattimore and C. Szepesvári. Bandit algorithms. Cambridge University Press, 2020.",
+    "title": "Bandit algorithms",
+    "authors": [
+      "T Lattimore",
+      "C Szepesvári"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "J. Lee, W. Jeon, B. Lee, J. Pineau, and K.-E. Kim. Optidice: Offline policy optimization via stationary distribution correction estimation. In International Conference on Machine Learning, 2021.",
+    "title": "Optidice: Offline policy optimization via stationary distribution correction estimation",
+    "authors": [
+      "J Lee",
+      "W Jeon",
+      "B Lee",
+      "J Pineau",
+      "K.-E Kim"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Z. Li, Z. Yang, and M. Wang. Reinforcement learning with human feedback: Learning dynamic choices via pessimism. arXiv:2305.18438, 2023.",
+    "title": "Reinforcement learning with human feedback: Learning dynamic choices via pessimism",
+    "authors": [
+      "Z Li",
+      "Z Yang",
+      "M Wang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.18438"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "T. Liu, Y. Zhao, R. Joshi, M. Khalman, M. Saleh, P. J. Liu, and J. Liu. Statistical rejection sampling improves preference optimization. arXiv:2309.06657, 2023.",
+    "title": "Statistical rejection sampling improves preference optimization",
+    "authors": [
+      "T Liu",
+      "Y Zhao",
+      "R Joshi",
+      "M Khalman",
+      "M Saleh",
+      "P J Liu",
+      "J Liu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2309.06657"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Y. Liu, A. Swaminathan, A. Agarwal, and E. Brunskill. Provably good batch off-policy reinforcement learning without great exploration. Advances in Neural Information Processing Systems, 2020.",
+    "title": "Provably good batch off-policy reinforcement learning without great exploration",
+    "authors": [
+      "Y Liu",
+      "A Swaminathan",
+      "A Agarwal",
+      "E Brunskill"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Z. Liu, M. Lu, S. Zhang, B. Liu, H. Guo, Y. Yang, J. Blanchet, and Z. Wang. Provably mitigating overoptimization in RLHF: Your SFT loss is implicitly an adversarial regularizer. arXiv:2405.16436, 2024.",
+    "title": "Provably mitigating overoptimization in RLHF: Your SFT loss is implicitly an adversarial regularizer",
+    "authors": [
+      "Z Liu",
+      "M Lu",
+      "S Zhang",
+      "B Liu",
+      "H Guo",
+      "Y Yang",
+      "J Blanchet",
+      "Z Wang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.16436"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "J. Y. Ma, J. Yan, D. Jayaraman, and O. Bastani. Offline goal-conditioned reinforcement learning via f -advantage regression. Advances in Neural Information Processing Systems, 2022a.",
+    "title": "Offline goal-conditioned reinforcement learning via f -advantage regression",
+    "authors": [
+      "J Y Ma",
+      "J Yan",
+      "D Jayaraman",
+      "O Bastani"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Y. J. Ma, A. Shen, D. Jayaraman, and O. Bastani. Smodice: Versatile offline imitation learning via state occupancy matching. arXiv:2202.02433, 2022b.",
+    "title": "Smodice: Versatile offline imitation learning via state occupancy matching",
+    "authors": [
+      "Y J Ma",
+      "A Shen",
+      "D Jayaraman",
+      "O Bastani"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2202.02433"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "E. J. Michaud, A. Gleave, and S. Russell. Understanding learned reward functions. arXiv:2012.05862, 2020.",
+    "title": "Understanding learned reward functions",
+    "authors": [
+      "E J Michaud",
+      "A Gleave",
+      "S Russell"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2012.05862"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "T. Moskovitz, A. K. Singh, D. Strouse, T. Sandholm, R. Salakhutdinov, A. D. Dragan, and S. McAleer. Confronting reward model overoptimization with constrained RLHF. arXiv:2310.04373, 2023.",
+    "title": "Confronting reward model overoptimization with constrained RLHF",
+    "authors": [
+      "T Moskovitz",
+      "A K Singh",
+      "D Strouse",
+      "T Sandholm",
+      "R Salakhutdinov",
+      "A D Dragan",
+      "S Mcaleer"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.04373"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "R. Munos, M. Valko, D. Calandriello, M. G. Azar, M. Rowland, Z. D. Guo, Y. Tang, M. Geist, T. Mesnard, A. Michi, M. Selvi, S. Girgin, N. Momchev, O. Bachem, D. J. Mankowitz, D. Precup, and B. Piot. Nash learning from human feedback. arXiv:2312.00886, 2023.",
+    "title": "Nash learning from human feedback",
+    "authors": [
+      "R Munos",
+      "M Valko",
+      "D Calandriello",
+      "M G Azar",
+      "M Rowland",
+      "Z D Guo",
+      "Y Tang",
+      "M Geist",
+      "T Mesnard",
+      "A Michi",
+      "M Selvi",
+      "S Girgin",
+      "N Momchev",
+      "O Bachem",
+      "D J Mankowitz",
+      "D Precup",
+      "B Piot"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2312.00886"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "E. Novoseller, Y. Wei, Y. Sui, Y. Yue, and J. Burdick. Dueling posterior sampling for preference-based reinforcement learning. In Conference on Uncertainty in Artificial Intelligence, 2020.",
+    "title": "Dueling posterior sampling for preference-based reinforcement learning",
+    "authors": [
+      "E Novoseller",
+      "Y Wei",
+      "Y Sui",
+      "Y Yue",
+      "J Burdick"
+    ],
+    "venue": "Conference on Uncertainty in Artificial Intelligence",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "OpenAI. Gpt-4 technical report. arXiv:2303.08774, 2023.",
+    "title": "OpenAI. Gpt-4 technical report",
+    "authors": [],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2303.08774"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "L. Ouyang, J. Wu, X. Jiang, D. Almeida, C. Wainwright, P. Mishkin, C. Zhang, S. Agarwal, K. Slama, A. Ray, J. Schulman, J. Hilton, F. Kelton, L. Miller, M. Simens, A. Askell, P. Welinder, P. Christiano, J. Leike, and R. Lowe. Training language models to follow instructions with human feedback. Advances in Neural Information Processing Systems, 2022.",
+    "title": "Training language models to follow instructions with human feedback",
+    "authors": [
+      "L Ouyang",
+      "J Wu",
+      "X Jiang",
+      "D Almeida",
+      "C Wainwright",
+      "P Mishkin",
+      "C Zhang",
+      "S Agarwal",
+      "K Slama",
+      "A Ray",
+      "J Schulman",
+      "J Hilton",
+      "F Kelton",
+      "L Miller",
+      "M Simens",
+      "A Askell",
+      "P Welinder",
+      "P Christiano",
+      "J Leike",
+      "R Lowe"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "A. Pacchiano, A. Saha, and J. Lee. Dueling RL: Reinforcement learning with trajectory preferences. arXiv:2111.04850, 2021.",
+    "title": "Dueling RL: Reinforcement learning with trajectory preferences",
+    "authors": [
+      "A Pacchiano",
+      "A Saha",
+      "J Lee"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2111.04850"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "A. Pal, D. Karkhanis, S. Dooley, M. Roberts, S. Naidu, and C. White. Smaug: Fixing failure modes of preference optimisation with DPO-positive. arXiv:2402.13228, 2024.",
+    "title": "Smaug: Fixing failure modes of preference optimisation with DPO-positive",
+    "authors": [
+      "A Pal",
+      "D Karkhanis",
+      "S Dooley",
+      "M Roberts",
+      "S Naidu",
+      "C White"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.13228"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "R. Rafailov, A. Sharma, E. Mitchell, C. D. Manning, S. Ermon, and C. Finn. Direct preference optimization: Your language model is secretly a reward model. Advances in Neural Information Processing Systems, 2023.",
+    "title": "Direct preference optimization: Your language model is secretly a reward model",
+    "authors": [
+      "R Rafailov",
+      "A Sharma",
+      "E Mitchell",
+      "C D Manning",
+      "S Ermon",
+      "C Finn"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "R. Rafailov, Y. Chittepu, R. Park, H. Sikchi, J. Hejna, B. Knox, C. Finn, and S. Niekum. Scaling laws for reward model overoptimization in direct alignment algorithms. arXiv:2406.02900, 2024a.",
+    "title": "Scaling laws for reward model overoptimization in direct alignment algorithms",
+    "authors": [
+      "R Rafailov",
+      "Y Chittepu",
+      "R Park",
+      "H Sikchi",
+      "J Hejna",
+      "B Knox",
+      "C Finn",
+      "S Niekum"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.02900"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "R. Rafailov, J. Hejna, R. Park, and C. Finn. From r to Q ⋆ : Your language model is secretly a Q-function. arXiv:2404.12358, 2024b.",
+    "title": "From r to Q ⋆ : Your language model is secretly a Q-function",
+    "authors": [
+      "R Rafailov",
+      "J Hejna",
+      "R Park",
+      "C Finn"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.12358"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "P. Rashidinejad, B. Zhu, C. Ma, J. Jiao, and S. Russell. Bridging offline reinforcement learning and imitation learning: A tale of pessimism. Advances in Neural Information Processing Systems, 2021.",
+    "title": "Bridging offline reinforcement learning and imitation learning: A tale of pessimism",
+    "authors": [
+      "P Rashidinejad",
+      "B Zhu",
+      "C Ma",
+      "J Jiao",
+      "S Russell"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "M. Rita, F. Strub, R. Chaabouni, P. Michel, E. Dupoux, and O. Pietquin. Countering reward overoptimization in LLM with demonstration-guided reinforcement learning. arXiv:2404.19409, 2024.",
+    "title": "Countering reward overoptimization in LLM with demonstration-guided reinforcement learning",
+    "authors": [
+      "M Rita",
+      "F Strub",
+      "R Chaabouni",
+      "P Michel",
+      "E Dupoux",
+      "O Pietquin"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.19409"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R66",
+    "raw_text": "C. Rosset, C.-A. Cheng, A. Mitra, M. Santacroce, A. Awadallah, and T. Xie. Direct Nash Optimization: Teaching language models to self-improve with general preferences. arXiv:2404.03715, 2024.",
+    "title": "Direct Nash Optimization: Teaching language models to self-improve with general preferences",
+    "authors": [
+      "C Rosset",
+      "C.-A Cheng",
+      "A Mitra",
+      "M Santacroce",
+      "A Awadallah",
+      "T Xie"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.03715"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R67",
+    "raw_text": "N. Shah, S. Balakrishnan, J. Bradley, A. Parekh, K. Ramchandran, and M. Wainwright. Estimation from Pairwise Comparisons: Sharp Minimax Bounds with Topology Dependence. In International Conference on Artificial Intelligence and Statistics, 2015.",
+    "title": "Estimation from Pairwise Comparisons: Sharp Minimax Bounds with Topology Dependence",
+    "authors": [
+      "N Shah",
+      "S Balakrishnan",
+      "J Bradley",
+      "A Parekh",
+      "K Ramchandran",
+      "M Wainwright"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R68",
+    "raw_text": "P. B. Simpson. On defining areas of voter choice: Professor tullock on stable voting. The Quarterly Journal of Economics, 1969.",
+    "title": "On defining areas of voter choice: Professor tullock on stable voting",
+    "authors": [
+      "P B Simpson"
+    ],
+    "venue": "The Quarterly Journal of Economics",
+    "year": 1969,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R69",
+    "raw_text": "Y. Song, Y. Zhou, A. Sekhari, J. A. Bagnell, A. Krishnamurthy, and W. Sun. Hybrid RL: Using both offline and online data can make RL efficient. arXiv:2210.06718, 2022.",
+    "title": "Hybrid RL: Using both offline and online data can make RL efficient",
+    "authors": [
+      "Y Song",
+      "Y Zhou",
+      "A Sekhari",
+      "J A Bagnell",
+      "A Krishnamurthy",
+      "W Sun"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2210.06718"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R70",
+    "raw_text": "Y. Song, G. Swamy, A. Singh, J. A. Bagnell, and W. Sun. Understanding preference fine-tuning through the lens of coverage. arXiv:2406.01462, 2024.",
+    "title": "Understanding preference fine-tuning through the lens of coverage",
+    "authors": [
+      "Y Song",
+      "G Swamy",
+      "A Singh",
+      "J A Bagnell",
+      "W Sun"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.01462"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R71",
+    "raw_text": "N. Stiennon, L. Ouyang, J. Wu, D. Ziegler, R. Lowe, C. Voss, A. Radford, D. Amodei, and P. F. Christiano. Learning to summarize with human feedback. Advances in Neural Information Processing Systems, 33, 2020.",
+    "title": "Learning to summarize with human feedback",
+    "authors": [
+      "N Stiennon",
+      "L Ouyang",
+      "J Wu",
+      "D Ziegler",
+      "R Lowe",
+      "C Voss",
+      "A Radford",
+      "D Amodei",
+      "P F Christiano"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R72",
+    "raw_text": "G. Swamy, C. Dann, R. Kidambi, Z. S. Wu, and A. Agarwal. A minimaximalist approach to reinforcement learning from human feedback. arXiv:2401.04056, 2024.",
+    "title": "A minimaximalist approach to reinforcement learning from human feedback",
+    "authors": [
+      "G Swamy",
+      "C Dann",
+      "R Kidambi",
+      "Z S Wu",
+      "A Agarwal"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.04056"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R73",
+    "raw_text": "F. Tajwar, A. Singh, A. Sharma, R. Rafailov, J. Schneider, T. Xie, S. Ermon, C. Finn, and A. Kumar. Preference fine-tuning of LLMs should leverage suboptimal, on-policy data. arXiv:2404.14367, 2024.",
+    "title": "Preference fine-tuning of LLMs should leverage suboptimal",
+    "authors": [
+      "F Tajwar",
+      "A Singh",
+      "A Sharma",
+      "R Rafailov",
+      "J Schneider",
+      "T Xie",
+      "S Ermon",
+      "C Finn",
+      "A Kumar"
+    ],
+    "venue": "on-policy data",
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.14367"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R74",
+    "raw_text": "Y. Tang, Z. D. Guo, Z. Zheng, D. Calandriello, R. Munos, M. Rowland, P. H. Richemond, M. Valko, B. Á. Pires, and B. Piot. Generalized preference optimization: A unified approach to offline alignment. arXiv:2402.05749, 2024.",
+    "title": "Generalized preference optimization: A unified approach to offline alignment",
+    "authors": [
+      "Y Tang",
+      "Z D Guo",
+      "Z Zheng",
+      "D Calandriello",
+      "R Munos",
+      "M Rowland",
+      "P H Richemond",
+      "M Valko",
+      "B Á Pires",
+      "B Piot"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.05749"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R75",
+    "raw_text": "J. Tien, J. Z.-Y. He, Z. Erickson, A. Dragan, and D. S. Brown. Causal confusion and reward misidentification in preference-based reward learning. In International Conference on Learning Representations, 2022.",
+    "title": "Causal confusion and reward misidentification in preference-based reward learning",
+    "authors": [
+      "J Tien",
+      "J Z -Y. He",
+      "Z Erickson",
+      "A Dragan",
+      "D S Brown"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R76",
+    "raw_text": "H. Touvron, L. Martin, K. Stone, P. Albert, A. Almahairi, Y. Babaei, N. Bashlykov, S. Batra, P. Bhargava, S. Bhosale, D. Bikel, L. Blecher, C. C. Ferrer, M. Chen, G. Cucurull, D. Esiobu, J. Fernandes, J. Fu, W. Fu, B. Fuller, C. Gao, V. Goswami, N. Goyal, A. Hartshorn, S. Hosseini, R. Hou, H. Inan, M. Kardas, V. Kerkez, M. Khabsa, I. Kloumann, A. Korenev, P. S. Koura, M.-A. Lachaux, T. Lavril, J. Lee, D. Liskovich, Y. Lu, Y. Mao, X. Martinet, T. Mihaylov, P. Mishra, I. Molybog, Y. Nie, A. Poulton, J. Reizenstein, R. Rungta, K. Saladi, A. Schelten, R. Silva, E. M. Smith, R. Subramanian, X. E. Tan, B. Tang, R. Taylor, A. Williams, J. X. Kuan, P. Xu, Z. Yan, I. Zarov, Y. Zhang, A. Fan, M. Kambadur, S. Narang, A. Rodriguez, R. Stojnic, S. Edunov, and T. Scialom. Llama 2: Open foundation and fine-tuned chat models. arXiv:2307.09288, 2023.",
+    "title": "Llama 2: Open foundation and fine-tuned chat models",
+    "authors": [
+      "H Touvron",
+      "L Martin",
+      "K Stone",
+      "P Albert",
+      "A Almahairi",
+      "Y Babaei",
+      "N Bashlykov",
+      "S Batra",
+      "P Bhargava",
+      "S Bhosale",
+      "D Bikel",
+      "L Blecher",
+      "C C Ferrer",
+      "M Chen",
+      "G Cucurull",
+      "D Esiobu",
+      "J Fernandes",
+      "J Fu",
+      "W Fu",
+      "B Fuller",
+      "C Gao",
+      "V Goswami",
+      "N Goyal",
+      "A Hartshorn",
+      "S Hosseini",
+      "R Hou",
+      "H Inan",
+      "M Kardas",
+      "V Kerkez",
+      "M Khabsa",
+      "I Kloumann",
+      "A Korenev",
+      "P S Koura",
+      "M.-A Lachaux",
+      "T Lavril",
+      "J Lee",
+      "D Liskovich",
+      "Y Lu",
+      "Y Mao",
+      "X Martinet",
+      "T Mihaylov",
+      "P Mishra",
+      "I Molybog",
+      "Y Nie",
+      "A Poulton",
+      "J Reizenstein",
+      "R Rungta",
+      "K Saladi",
+      "A Schelten",
+      "R Silva",
+      "E M Smith",
+      "R Subramanian",
+      "X E Tan",
+      "B Tang",
+      "R Taylor",
+      "A Williams",
+      "J X Kuan",
+      "P Xu",
+      "Z Yan",
+      "I Zarov",
+      "Y Zhang",
+      "A Fan",
+      "M Kambadur",
+      "S Narang",
+      "A Rodriguez",
+      "R Stojnic",
+      "S Edunov",
+      "T Scialom"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.09288"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R77",
+    "raw_text": "A. B. Tsybakov. Introduction to Nonparametric Estimation. Springer, 2008.",
+    "title": "Introduction to Nonparametric Estimation",
+    "authors": [
+      "A B Tsybakov"
+    ],
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R78",
+    "raw_text": "M. Uehara and W. Sun. Pessimistic model-based offline reinforcement learning under partial coverage. arXiv:2107.06226, 2021.",
+    "title": "Pessimistic model-based offline reinforcement learning under partial coverage",
+    "authors": [
+      "M Uehara",
+      "W Sun"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2107.06226"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R79",
+    "raw_text": "T. Van Erven and P. Harremos. Rényi divergence and kullback-leibler divergence. IEEE Transactions on Information Theory, 60(7), 2014.",
+    "title": "Rényi divergence and kullback-leibler divergence",
+    "authors": [
+      "T Van Erven",
+      "P Harremos"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R80",
+    "raw_text": "L. von Werra, Y. Belkada, L. Tunstall, E. Beeching, T. Thrush, N. Lambert, and S. Huang. Trl: Transformer reinforcement learning. https://github.com/huggingface/trl, 2020.",
+    "title": "Trl: Transformer reinforcement learning",
+    "authors": [
+      "L Werra",
+      "Y Belkada",
+      "L Tunstall",
+      "E Beeching",
+      "T Thrush",
+      "N Lambert",
+      "S Huang"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "url": "https://github.com/huggingface/trl"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R81",
+    "raw_text": "C. Wang, Y. Jiang, C. Yang, H. Liu, and Y. Chen. Beyond reverse KL: Generalizing direct preference optimization with diverse divergence constraints. arXiv:2309.16240, 2023a.",
+    "title": "Beyond reverse KL: Generalizing direct preference optimization with diverse divergence constraints",
+    "authors": [
+      "C Wang",
+      "Y Jiang",
+      "C Yang",
+      "H Liu",
+      "Y Chen"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2309.16240"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R82",
+    "raw_text": "L. Wang, A. Krishnamurthy, and A. Slivkins. Oracle-efficient pessimism: Offline policy optimization in contextual bandits. In International Conference on Artificial Intelligence and Statistics, 2024.",
+    "title": "Oracle-efficient pessimism: Offline policy optimization in contextual bandits",
+    "authors": [
+      "L Wang",
+      "A Krishnamurthy",
+      "A Slivkins"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R83",
+    "raw_text": "Y. Wang, Q. Liu, and C. Jin. Is RLHF more difficult than standard RL? arXiv:2306.14111, 2023b.",
+    "title": "Is RLHF more difficult than standard RL?",
+    "authors": [
+      "Y Wang",
+      "Q Liu",
+      "C Jin"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.14111"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R84",
+    "raw_text": "W. H. Wong and X. Shen. Probability inequalities for likelihood ratios and convergence rates of sieve mles. The Annals of Statistics, 1995.",
+    "title": "Probability inequalities for likelihood ratios and convergence rates of sieve mles",
+    "authors": [
+      "W H Wong",
+      "X Shen"
+    ],
+    "venue": "The Annals of Statistics",
+    "year": 1995,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R85",
+    "raw_text": "R. Wu and W. Sun. Making RL with preference-based feedback efficient via randomization. arXiv:2310.14554, 2023.",
+    "title": "Making RL with preference-based feedback efficient via randomization",
+    "authors": [
+      "R Wu",
+      "W Sun"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.14554"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R86",
+    "raw_text": "Y. Wu, Z. Sun, H. Yuan, K. Ji, Y. Yang, and Q. Gu. Self-play preference optimization for language model alignment. arXiv:2405.00675, 2024.",
+    "title": "Self-play preference optimization for language model alignment",
+    "authors": [
+      "Y Wu",
+      "Z Sun",
+      "H Yuan",
+      "K Ji",
+      "Y Yang",
+      "Q Gu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.00675"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R87",
+    "raw_text": "T. Xie and N. Jiang. Q* approximation schemes for batch reinforcement learning: A theoretical comparison. In Conference on Uncertainty in Artificial Intelligence, 2020.",
+    "title": "Q* approximation schemes for batch reinforcement learning: A theoretical comparison",
+    "authors": [
+      "T Xie",
+      "N Jiang"
+    ],
+    "venue": "Conference on Uncertainty in Artificial Intelligence",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R88",
+    "raw_text": "T. Xie, C.-A. Cheng, N. Jiang, P. Mineiro, and A. Agarwal. Bellman-consistent pessimism for offline reinforcement learning. Advances in Neural Information Processing Systems, 2021.",
+    "title": "Bellman-consistent pessimism for offline reinforcement learning",
+    "authors": [
+      "T Xie",
+      "C.-A Cheng",
+      "N Jiang",
+      "P Mineiro",
+      "A Agarwal"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R89",
+    "raw_text": "T. Xie, D. J. Foster, A. Krishnamurthy, C. Rosset, A. Awadallah, and A. Rakhlin. Exploratory preference optimization: Harnessing implicit Q*-approximation for sample-efficient rlhf. arXiv:2405.21046, 2024.",
+    "title": "Exploratory preference optimization: Harnessing implicit Q*-approximation for sample-efficient rlhf",
+    "authors": [
+      "T Xie",
+      "D J Foster",
+      "A Krishnamurthy",
+      "C Rosset",
+      "A Awadallah",
+      "A Rakhlin"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.21046"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R90",
+    "raw_text": "W. Xiong, H. Dong, C. Ye, H. Zhong, N. Jiang, and T. Zhang. Gibbs sampling from human feedback: A provable KL-constrained framework for RLHF. arXiv:2312.11456, 2023.",
+    "title": "Gibbs sampling from human feedback: A provable KL-constrained framework for RLHF",
+    "authors": [
+      "W Xiong",
+      "H Dong",
+      "C Ye",
+      "H Zhong",
+      "N Jiang",
+      "T Zhang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2312.11456"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R91",
+    "raw_text": "Y. Xu, R. Wang, L. Yang, A. Singh, and A. Dubrawski. Preference-based reinforcement learning with finite-time guarantees. Advances in Neural Information Processing Systems, 2020.",
+    "title": "Preference-based reinforcement learning with finite-time guarantees",
+    "authors": [
+      "Y Xu",
+      "R Wang",
+      "L Yang",
+      "A Singh",
+      "A Dubrawski"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R92",
+    "raw_text": "C. Ye, W. Xiong, Y. Zhang, N. Jiang, and T. Zhang. A theoretical analysis of Nash learning from human feedback under general KL-regularized preference. arXiv:2402.07314, 2024.",
+    "title": "A theoretical analysis of Nash learning from human feedback under general KL-regularized preference",
+    "authors": [
+      "C Ye",
+      "W Xiong",
+      "Y Zhang",
+      "N Jiang",
+      "T Zhang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.07314"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R93",
+    "raw_text": "L. Yuan, G. Cui, H. Wang, N. Ding, X. Wang, J. Deng, B. Shan, H. Chen, R. Xie, Y. Lin, Z. Liu, B. Zhou, H. Peng, Z. Liu, and M. Sun. Advancing llm reasoning generalists with preference trees. arXiv:2404.02078, 2024.",
+    "title": "Advancing llm reasoning generalists with preference trees",
+    "authors": [
+      "L Yuan",
+      "G Cui",
+      "H Wang",
+      "N Ding",
+      "X Wang",
+      "J Deng",
+      "B Shan",
+      "H Chen",
+      "R Xie",
+      "Y Lin",
+      "Z Liu",
+      "B Zhou",
+      "H Peng",
+      "Z Liu",
+      "M Sun"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.02078"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R94",
+    "raw_text": "A. Zanette, M. J. Wainwright, and E. Brunskill. Provable benefits of actor-critic methods for offline reinforcement learning. Advances in Neural Information Processing Systems, 2021.",
+    "title": "Provable benefits of actor-critic methods for offline reinforcement learning",
+    "authors": [
+      "A Zanette",
+      "M J Wainwright",
+      "E Brunskill"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

@@ -1,0 +1,1364 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Takuya Akiba, Shotaro Sano, Toshihiko Yanase, Takeru Ohta, and Masanori Koyama. Optuna: A next-generation hyperparameter optimization framework. In Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining, pp. 2623-2631, 2019.",
+    "title": "Optuna: A next-generation hyperparameter optimization framework",
+    "authors": [
+      "Takuya Akiba",
+      "Shotaro Sano",
+      "Toshihiko Yanase",
+      "Takeru Ohta",
+      "Masanori Koyama"
+    ],
+    "venue": "Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Antonis Antoniades, Yiyi Yu, Joseph Canzano, William Wang, and Spencer LaVere Smith. Neuroformer: Multimodal and multitask generative pretraining for brain data. arXiv preprint arXiv:2311.00136, 2023.",
+    "title": "Neuroformer: Multimodal and multitask generative pretraining for brain data",
+    "authors": [
+      "Antonis Antoniades",
+      "Yiyi Yu",
+      "Joseph Canzano",
+      "William Wang",
+      "Spencer Lavere Smith"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2311.00136"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Thomas Aynaud. python-louvain x.y: Louvain algorithm for community detection. https://github.com/taynaud/python-louvain, 2020.",
+    "title": "Louvain algorithm for community detection",
+    "authors": [
+      "Thomas Aynaud"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "url": "https://github.com/taynaud/python-louvain"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Mehdi Azabou, Mohammad Gheshlaghi Azar, Ran Liu, Chi-Heng Lin, Erik C Johnson, Kiran Bhaskaran-Nair, Max Dabagia, Bernardo Avila-Pires, Lindsey Kitchell, Keith B Hengen, et al. Mine your own view: Self-supervised learning through across-sample prediction. arXiv preprint arXiv:2102.10106, 2021.",
+    "title": "Mine your own view: Self-supervised learning through across-sample prediction",
+    "authors": [
+      "Mehdi Azabou",
+      "Mohammad Gheshlaghi Azar",
+      "Ran Liu",
+      "Chi-Heng Lin",
+      "Erik C Johnson",
+      "Kiran Bhaskaran-Nair",
+      "Max Dabagia",
+      "Bernardo Avila-Pires",
+      "Lindsey Kitchell",
+      "Keith B Hengen"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2102.10106"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Mehdi Azabou, Vinam Arora, Venkataramana Ganesh, Ximeng Mao, Santosh Nachimuthu, Michael J Mendelson, Blake Richards, Matthew G Perich, Guillaume Lajoie, and Eva L Dyer. A unified, scalable framework for neural population decoding. arXiv preprint arXiv:2310.16046, 2023.",
+    "title": "A unified, scalable framework for neural population decoding",
+    "authors": [
+      "Mehdi Azabou",
+      "Vinam Arora",
+      "Venkataramana Ganesh",
+      "Ximeng Mao",
+      "Santosh Nachimuthu",
+      "Blake Michael J Mendelson",
+      "Matthew G Richards",
+      "Guillaume Perich",
+      "Eva L Lajoie",
+      "Dyer"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.16046"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Kush Banga, Julien Boussard, Gaëlle A Chapuis, Mayo Faulkner, Kenneth D Harris, JM Huntenburg, Cole Hurwitz, Hyun Dong Lee, Liam Paninski, Cyrille Rossant, et al. Spike sorting pipeline for the international brain laboratory. 2022.",
+    "title": "Spike sorting pipeline for the international brain laboratory",
+    "authors": [
+      "Kush Banga",
+      "Julien Boussard",
+      "A Gaëlle",
+      "Mayo Chapuis",
+      "Kenneth D Faulkner",
+      "J M Harris",
+      "Cole Huntenburg",
+      "Hyun Dong Hurwitz",
+      "Liam Lee",
+      "Cyrille Paninski",
+      "Rossant"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Peter Barthó, Hajime Hirase, Lenaïc Monconduit, Michael Zugaro, Kenneth D Harris, and Gyorgy Buzsaki. Characterization of neocortical principal cells and interneurons by network interactions and extracellular features. Journal of neurophysiology, 92(1):600-608, 2004.",
+    "title": "Characterization of neocortical principal cells and interneurons by network interactions and extracellular features",
+    "authors": [
+      "Peter Barthó",
+      "Hajime Hirase",
+      "Lenaïc Monconduit",
+      "Michael Zugaro",
+      "Kenneth D Harris",
+      "Gyorgy Buzsaki"
+    ],
+    "venue": "Journal of neurophysiology",
+    "year": 2004,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Maxime Beau, Federico D'Agostino, Ago Lajko, Gabriela Martínez, and Dimitar Kostadinov. Neuropyxels: loading, processing and plotting neuropixels data in python. Zenodo https://doi. org/10.5281/ZENODO, 5509733, 2021.",
+    "title": "Neuropyxels: loading, processing and plotting neuropixels data in python",
+    "authors": [
+      "Maxime Beau",
+      "D' Federico",
+      "Ago Agostino",
+      "Gabriela Lajko",
+      "Dimitar Martínez",
+      "Kostadinov"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.5281/ZENODO",
+      "url": "https://doi.org/10.5281/ZENODO"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Maxime Beau, David J. Herzfeld, Francisco Naveros, Marie E. Hemelt, Federico D'Agostino, Marlies Oostland, Alvaro Sánchez-López, Young Yoon Chung, Michael Maibach, Hannah N. Stabb, et al. A deep-learning strategy to identify cell types across species from high-density extracellular recordings. Cell, 2025. doi: 10.1016/j.cell.2025.01.041.",
+    "title": "A deep-learning strategy to identify cell types across species from high-density extracellular recordings",
+    "authors": [
+      "Maxime Beau",
+      "David J Herzfeld",
+      "Francisco Naveros",
+      "Marie E Hemelt",
+      "D' Federico",
+      "Marlies Agostino",
+      "Alvaro Oostland",
+      "Young Yoon Sánchez-López",
+      "Michael Chung",
+      "Hannah N Maibach",
+      "Stabb"
+    ],
+    "venue": "Cell",
+    "year": 2025,
+    "identifiers": {
+      "doi": "10.1016/j.cell.2025.01.041"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Claire Bomkamp, Shreejoy J Tripathy, Carolina Bengtsson Gonzales, Jens Hjerling-Leffler, Ann Marie Craig, and Paul Pavlidis. Transcriptomic correlates of electrophysiological and morphological diversity within and across excitatory and inhibitory neuron classes. PLoS computational biology, 15(6):e1007113, 2019.",
+    "title": "Transcriptomic correlates of electrophysiological and morphological diversity within and across excitatory and inhibitory neuron classes",
+    "authors": [
+      "Claire Bomkamp",
+      "J Shreejoy",
+      "Carolina Bengtsson Tripathy",
+      "Jens Gonzales",
+      "Ann Marie Hjerling-Leffler",
+      "Paul Craig",
+      "Pavlidis"
+    ],
+    "venue": "PLoS computational biology",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Julien Boussard, Charlie Windolf, Cole Hurwitz, Hyun Dong Lee, Han Yu, Olivier Winter, and Liam Paninski. Dartsort: A modular drift tracking spike sorter for high-density multi-electrode probes. bioRxiv, pp. 2023-08, 2023.",
+    "title": "Dartsort: A modular drift tracking spike sorter for high-density multi-electrode probes",
+    "authors": [
+      "Julien Boussard",
+      "Charlie Windolf",
+      "Cole Hurwitz",
+      "Hyun Dong Lee",
+      "Han Yu",
+      "Olivier Winter",
+      "Liam Paninski"
+    ],
+    "venue": "bioRxiv",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Alessio P Buccino, Cole L Hurwitz, Samuel Garcia, Jeremy Magland, Joshua H Siegle, Roger Hurwitz, and Matthias H Hennig. Spikeinterface, a unified framework for spike sorting. Elife, 9: e61834, 2020.",
+    "title": "A unified framework for spike sorting",
+    "authors": [
+      "Alessio P Buccino",
+      "Cole L Hurwitz",
+      "Samuel Garcia",
+      "Jeremy Magland",
+      "Joshua H Siegle",
+      "Roger Hurwitz",
+      "Matthias H Hennig"
+    ],
+    "venue": "Elife, 9: e61834",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Stephane Bugeon, Joshua Duffield, Mario Dipoppa, Anne Ritoux, Isabelle Prankerd, Dimitris Nicoloutsopoulos, David Orme, Maxwell Shinn, Han Peng, Hamish Forrest, et al. A transcriptomic axis predicts state modulation of cortical interneurons. Nature, 607(7918):330-338, 2022.",
+    "title": "A transcriptomic axis predicts state modulation of cortical interneurons",
+    "authors": [
+      "Stephane Bugeon",
+      "Joshua Duffield",
+      "Mario Dipoppa",
+      "Anne Ritoux",
+      "Isabelle Prankerd",
+      "Dimitris Nicoloutsopoulos",
+      "David Orme",
+      "Maxwell Shinn",
+      "Han Peng",
+      "Hamish Forrest"
+    ],
+    "venue": "Nature",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Jessica A Cardin, Marie Carlén, Konstantinos Meletis, Ulf Knoblich, Feng Zhang, Karl Deisseroth, Li-Huei Tsai, and Christopher I Moore. Targeted optogenetic stimulation and recording of neurons in vivo using cell-type-specific expression of channelrhodopsin-2. Nature protocols, 5(2): 247-254, 2010.",
+    "title": "Targeted optogenetic stimulation and recording of neurons in vivo using cell-type-specific expression of channelrhodopsin-2",
+    "authors": [
+      "Marie Jessica A Cardin",
+      "Konstantinos Carlén",
+      "Ulf Meletis",
+      "Feng Knoblich",
+      "Karl Zhang",
+      "Li-Huei Deisseroth",
+      "Christopher I Tsai",
+      "Moore"
+    ],
+    "venue": "Nature protocols",
+    "year": 2010,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Hanbo Chen, Jiawei Yang, Daniel Iascone, Lijuan Liu, Lei He, Hanchuan Peng, and Jianhua Yao. Treemoco: Contrastive neuron morphology representation learning. Advances in Neural Information Processing Systems, 35:25060-25073, 2022.",
+    "title": "Treemoco: Contrastive neuron morphology representation learning",
+    "authors": [
+      "Hanbo Chen",
+      "Jiawei Yang",
+      "Daniel Iascone",
+      "Lijuan Liu",
+      "Lei He",
+      "Hanchuan Peng",
+      "Jianhua Yao"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Ting Chen, Simon Kornblith, Mohammad Norouzi, and Geoffrey Hinton. A simple framework for contrastive learning of visual representations. In International conference on machine learning, pp. 1597-1607. PMLR, 2020.",
+    "title": "A simple framework for contrastive learning of visual representations",
+    "authors": [
+      "Ting Chen",
+      "Simon Kornblith",
+      "Mohammad Norouzi",
+      "Geoffrey Hinton"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Zachary W Davis, Nicholas M Dotson, Tom P Franken, Lyle Muller, and John H Reynolds. Spikephase coupling patterns reveal laminar identity in primate cortex. Elife, 12:e84512, 2023.",
+    "title": "Spikephase coupling patterns reveal laminar identity in primate cortex",
+    "authors": [
+      "Zachary W Davis",
+      "Nicholas M Dotson",
+      "Lyle Tom P Franken",
+      "John H Muller",
+      "Reynolds"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Sven Dorkenwald, Peter H Li, Michał Januszewski, Daniel R Berger, Jeremy Maitin-Shepard, Agnes L Bodor, Forrest Collman, Casey M Schneider-Mizell, Nuno Mac ¸arico da Costa, Jeff W Lichtman, et al. Multi-layered maps of neuropil with segmentation-guided contrastive learning. Nature Methods, 20(12):2011-2020, 2023.",
+    "title": "Multi-layered maps of neuropil with segmentation-guided contrastive learning",
+    "authors": [
+      "Sven Dorkenwald",
+      "H Peter",
+      "Michał Li",
+      "Januszewski",
+      "Jeremy Daniel R Berger",
+      "Agnes L Maitin-Shepard",
+      "Forrest Bodor",
+      "Casey M Collman",
+      "Nuno Schneider-Mizell",
+      "Jeff W Mac ¸arico Da Costa",
+      "Lichtman"
+    ],
+    "venue": "Nature Methods",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Loren M Frank, Emery N Brown, and Matthew A Wilson. A comparison of the firing properties of putative excitatory and inhibitory neurons from ca1 and the entorhinal cortex. Journal of neurophysiology, 86(4):2029-2040, 2001.",
+    "title": "A comparison of the firing properties of putative excitatory and inhibitory neurons from ca1 and the entorhinal cortex",
+    "authors": [
+      "Loren M Frank",
+      "Emery N Brown",
+      "Matthew A Wilson"
+    ],
+    "venue": "Journal of neurophysiology",
+    "year": 2001,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Rohan Gala, Nathan Gouwens, Zizhen Yao, Agata Budzillo, Osnat Penn, Bosiljka Tasic, Gabe Murphy, Hongkui Zeng, and Uygar Sümbül. A coupled autoencoder approach for multi-modal analysis of cell types. Advances in Neural Information Processing Systems, 32, 2019.",
+    "title": "A coupled autoencoder approach for multi-modal analysis of cell types",
+    "authors": [
+      "Rohan Gala",
+      "Nathan Gouwens",
+      "Zizhen Yao",
+      "Agata Budzillo",
+      "Osnat Penn",
+      "Bosiljka Tasic",
+      "Gabe Murphy",
+      "Hongkui Zeng",
+      "Uygar Sümbül"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Nathan W Gouwens, Staci A Sorensen, Jim Berg, Changkyu Lee, Tim Jarsky, Jonathan Ting, Susan M Sunkin, David Feng, Costas A Anastassiou, Eliza Barkan, et al. Classification of electrophysiological and morphological neuron types in the mouse visual cortex. Nature neuroscience, 22(7):1182-1195, 2019.",
+    "title": "Classification of electrophysiological and morphological neuron types in the mouse visual cortex",
+    "authors": [
+      "Staci A Nathan W Gouwens",
+      "Jim Sorensen",
+      "Changkyu Berg",
+      "Tim Lee",
+      "Jonathan Jarsky",
+      "Susan M Ting",
+      "David Sunkin",
+      "Feng",
+      "Eliza Costas A Anastassiou",
+      "Barkan"
+    ],
+    "venue": "Nature neuroscience",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Xifeng Guo, Long Gao, Xinwang Liu, and Jianping Yin. Improved deep embedded clustering with local structure preservation. In Ijcai, volume 17, pp. 1753-1759, 2017.",
+    "title": "Improved deep embedded clustering with local structure preservation",
+    "authors": [
+      "Xifeng Guo",
+      "Long Gao",
+      "Xinwang Liu",
+      "Jianping Yin"
+    ],
+    "venue": "Ijcai",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Dan Hendrycks and Kevin Gimpel. Gaussian error linear units (gelus). arXiv preprint arXiv:1606.08415, 2016.",
+    "title": "Gaussian error linear units (gelus)",
+    "authors": [
+      "Dan Hendrycks",
+      "Kevin Gimpel"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1606.08415"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Matthias H Hennig, Cole Hurwitz, and Martino Sorbaro. Scaling spike detection and sorting for next-generation electrophysiology. In Vitro Neuronal Networks: From Culturing Methods to Neuro-Technological Applications, pp. 171-184, 2019.",
+    "title": "Scaling spike detection and sorting for next-generation electrophysiology",
+    "authors": [
+      "Matthias H Hennig",
+      "Cole Hurwitz",
+      "Martino Sorbaro"
+    ],
+    "venue": "Vitro Neuronal Networks: From Culturing Methods to Neuro-Technological Applications",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "David J Herzfeld, Nathan J Hall, and Stephen G Lisberger. Strategies to decipher neuron identity from extracellular recordings in the cerebellum of behaving non-human primates. bioRxiv, pp. 2025-01, 2025.",
+    "title": "Strategies to decipher neuron identity from extracellular recordings in the cerebellum of behaving non-human primates",
+    "authors": [
+      "J David",
+      "Nathan J Herzfeld",
+      "Stephen G Hall",
+      "Lisberger"
+    ],
+    "venue": "bioRxiv",
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Wei Huang, Andi Han, Yongqiang Chen, Yuan Cao, Zhiqiang Xu, and Taiji Suzuki. On the comparison between multi-modal and single-modal contrastive learning. arXiv preprint arXiv:2411.02837, 2024.",
+    "title": "On the comparison between multi-modal and single-modal contrastive learning",
+    "authors": [
+      "Wei Huang",
+      "Andi Han",
+      "Yongqiang Chen",
+      "Yuan Cao",
+      "Zhiqiang Xu",
+      "Taiji Suzuki"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2411.02837"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "IBL, Kush Banga, Julius Benson, Niccolò Bonacchi, Sebastian A Bruijns, Rob Campbell, Gaëlle A Chapuis, Anne K Churchland, M Felicia Davatolhagh, Hyun Dong Lee, et al. Reproducibility of in-vivo electrophysiological measurements in mice. bioRxiv, pp. 2022-05, 2022.",
+    "title": "Reproducibility of in-vivo electrophysiological measurements in mice",
+    "authors": [
+      "Kush Ibl",
+      "Julius Banga",
+      "Niccolò Benson",
+      "Sebastian A Bonacchi",
+      "Rob Bruijns",
+      "Campbell",
+      "A Gaëlle",
+      "Anne K Chapuis",
+      "Felicia Churchland",
+      "Hyun Dong Davatolhagh",
+      "Lee"
+    ],
+    "venue": "bioRxiv",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "IBL, Brandon Benson, Julius Benson, Daniel Birman, Niccolo Bonacchi, Matteo Carandini, Joana A Catarino, Gaelle A Chapuis, Anne K Churchland, Yang Dan, et al. A brain-wide map of neural activity during complex behaviour. bioRxiv, pp. 2023-07, 2023.",
+    "title": "A brain-wide map of neural activity during complex behaviour",
+    "authors": [
+      "Brandon Ibl",
+      "Julius Benson",
+      "Daniel Benson",
+      "Niccolo Birman",
+      "Matteo Bonacchi",
+      "Joana A Carandini",
+      "Catarino",
+      "A Gaelle",
+      "Anne K Chapuis",
+      "Yang Churchland",
+      "Dan"
+    ],
+    "venue": "bioRxiv",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Xiaoxuan Jia, Joshua H Siegle, Corbett Bennett, Samuel D Gale, Daniel J Denman, Christof Koch, and Shawn R Olsen. High-density extracellular probes reveal dendritic backpropagation and facilitate neuron classification. Journal of neurophysiology, 121(5):1831-1847, 2019.",
+    "title": "High-density extracellular probes reveal dendritic backpropagation and facilitate neuron classification",
+    "authors": [
+      "Xiaoxuan Jia",
+      "Joshua H Siegle",
+      "Corbett Bennett",
+      "D Samuel",
+      "Daniel J Gale",
+      "Christof Denman",
+      "Shawn R Koch",
+      "Olsen"
+    ],
+    "venue": "Journal of neurophysiology",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Jonathan Jouty, Gerrit Hilgen, Evelyne Sernagor, and Matthias H Hennig. Non-parametric physiological classification of retinal ganglion cells in the mouse retina. Frontiers in Cellular Neuroscience, 12:481, 2018.",
+    "title": "Non-parametric physiological classification of retinal ganglion cells in the mouse retina",
+    "authors": [
+      "Jonathan Jouty",
+      "Gerrit Hilgen",
+      "Evelyne Sernagor",
+      "Matthias H Hennig"
+    ],
+    "venue": "Frontiers in Cellular Neuroscience",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "James J Jun, Nicholas A Steinmetz, Joshua H Siegle, Daniel J Denman, Marius Bauza, Brian Barbarits, Albert K Lee, Costas A Anastassiou, Alexandru Andrei, C ¸agatay Aydın, et al. Fully integrated silicon probes for high-density recording of neural activity. Nature, 551(7679):232-236, 2017.",
+    "title": "Fully integrated silicon probes for high-density recording of neural activity",
+    "authors": [
+      "Nicholas A James J Jun",
+      "Joshua H Steinmetz",
+      "Daniel J Siegle",
+      "Marius Denman",
+      "Brian Bauza",
+      "Albert K Barbarits",
+      "Lee",
+      "Alexandru Costas A Anastassiou",
+      "C Andrei",
+      "¸agatay Aydın"
+    ],
+    "venue": "Nature",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Alexxai V Kravitz, Scott F Owen, and Anatol C Kreitzer. Optogenetic identification of striatal projection neuron subtypes during in vivo recordings. Brain research, 1511:21-32, 2013.",
+    "title": "Optogenetic identification of striatal projection neuron subtypes during in vivo recordings",
+    "authors": [
+      "Scott F Alexxai V Kravitz",
+      "Anatol C Owen",
+      "Kreitzer"
+    ],
+    "venue": "Brain research",
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Patrick Latuske, Oana Toader, and Kevin Allen. Interspike intervals reveal functionally distinct cell populations in the medial entorhinal cortex. Journal of Neuroscience, 35(31):10963-10976, 2015.",
+    "title": "Interspike intervals reveal functionally distinct cell populations in the medial entorhinal cortex",
+    "authors": [
+      "Patrick Latuske",
+      "Oana Toader",
+      "Kevin Allen"
+    ],
+    "venue": "Journal of Neuroscience",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Phuc H Le-Khac, Graham Healy, and Alan F Smeaton. Contrastive representation learning: A framework and review. Ieee Access, 8:193907-193934, 2020.",
+    "title": "Contrastive representation learning: A framework and review",
+    "authors": [
+      "Graham Phuc H Le-Khac",
+      "Alan F Healy",
+      "Smeaton"
+    ],
+    "venue": "Ieee Access",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Candice Lee, Andreanne Lavoie, Jiashu Liu, Simon X Chen, and Bao-hua Liu. Light up the brain: the application of optogenetics in cell-type specific dissection of mouse brain circuits. Frontiers in neural circuits, 14:18, 2020.",
+    "title": "Light up the brain: the application of optogenetics in cell-type specific dissection of mouse brain circuits",
+    "authors": [
+      "Candice Lee",
+      "Andreanne Lavoie",
+      "Jiashu Liu",
+      "Simon X Chen",
+      "Bao-Hua Liu"
+    ],
+    "venue": "Frontiers in neural circuits",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Eric Kenji Lee, Hymavathy Balasubramanian, Alexandra Tsolias, Stephanie Udochukwu Anakwe, Maria Medalla, Krishna V Shenoy, and Chandramouli Chandrasekaran. Non-linear dimensionality reduction on extracellular waveforms reveals cell type diversity in premotor cortex. Elife, 10: e67490, 2021.",
+    "title": "Non-linear dimensionality reduction on extracellular waveforms reveals cell type diversity in premotor cortex",
+    "authors": [
+      "Eric Kenji",
+      "Lee",
+      "Hymavathy Balasubramanian",
+      "Alexandra Tsolias",
+      "Stephanie Udochukwu Anakwe",
+      "Maria Medalla",
+      "Krishna V Shenoy",
+      "Chandramouli Chandrasekaran"
+    ],
+    "venue": "Elife",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Eric Kenji Lee, Asim Gul, Greggory Heller, Anna Lakunina, Santiago Jaramillo, Pawel Przytycki, and Chandramouli Chandrasekaran. Physmap-interpretable in vivo neuronal cell type identification using multi-modal analysis of electrophysiological data. bioRxiv, pp. 2024-02, 2024.",
+    "title": "Physmap-interpretable in vivo neuronal cell type identification using multi-modal analysis of electrophysiological data",
+    "authors": [
+      "Eric Kenji",
+      "Lee",
+      "Asim Gul",
+      "Greggory Heller",
+      "Anna Lakunina",
+      "Santiago Jaramillo",
+      "Pawel Przytycki",
+      "Chandramouli Chandrasekaran"
+    ],
+    "venue": "bioRxiv",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Qiang Li, Zuwan Lin, Ren Liu, Xin Tang, Jiahao Huang, Yichun He, Xin Sui, Weiwen Tian, Hao Shen, Haowen Zhou, et al. Multimodal charting of molecular and functional cell states via in situ electro-sequencing. Cell, 186(9):2002-2017, 2023.",
+    "title": "Multimodal charting of molecular and functional cell states via in situ electro-sequencing",
+    "authors": [
+      "Qiang Li",
+      "Zuwan Lin",
+      "Ren Liu",
+      "Xin Tang",
+      "Jiahao Huang",
+      "Yichun He",
+      "Xin Sui",
+      "Weiwen Tian",
+      "Hao Shen",
+      "Haowen Zhou"
+    ],
+    "venue": "Cell",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Paul Pu Liang, Zihao Deng, Martin Q Ma, James Y Zou, Louis-Philippe Morency, and Ruslan Salakhutdinov. Factorized contrastive learning: Going beyond multi-view redundancy. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Factorized contrastive learning: Going beyond multi-view redundancy",
+    "authors": [
+      "Paul Pu Liang",
+      "Zihao Deng",
+      "Martin Q Ma",
+      "James Y Zou",
+      "Louis-Philippe Morency",
+      "Ruslan Salakhutdinov"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Shengzhong Liu, Tomoyoshi Kimura, Dongxin Liu, Ruijie Wang, Jinyang Li, Suhas Diggavi, Mani Srivastava, and Tarek Abdelzaher. Focal: Contrastive learning for multimodal time-series sensing signals in factorized orthogonal latent space. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Focal: Contrastive learning for multimodal time-series sensing signals in factorized orthogonal latent space",
+    "authors": [
+      "Shengzhong Liu",
+      "Tomoyoshi Kimura",
+      "Dongxin Liu",
+      "Ruijie Wang",
+      "Jinyang Li",
+      "Suhas Diggavi",
+      "Mani Srivastava",
+      "Tarek Abdelzaher"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Jeremy Magland, James J Jun, Elizabeth Lovero, Alexander J Morley, Cole Lincoln Hurwitz, Alessio Paolo Buccino, Samuel Garcia, and Alex H Barnett. Spikeforest, reproducible web-facing ground-truth validation of automated neural spike sorters. Elife, 9:e55167, 2020.",
+    "title": "Spikeforest, reproducible web-facing ground-truth validation of automated neural spike sorters. Elife",
+    "authors": [
+      "Jeremy Magland",
+      "James J Jun",
+      "Elizabeth Lovero",
+      "Alexander J Morley",
+      "Cole Lincoln Hurwitz",
+      "Alessio",
+      "Paolo Buccino",
+      "Samuel Garcia",
+      "Alex H Barnett"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Richard H Masland. Neuronal cell types. Current Biology, 14(13):R497-R500, 2004.",
+    "title": "Neuronal cell types",
+    "authors": [
+      "H Richard",
+      "Masland"
+    ],
+    "venue": "Current Biology",
+    "year": 2004,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "RT Matthews and WL Lee. A comparison of extracellular and intracellular recordings from medial septum/diagonal band neurons in vitro. Neuroscience, 42(2):451-462, 1991.",
+    "title": "A comparison of extracellular and intracellular recordings from medial septum/diagonal band neurons in vitro",
+    "authors": [
+      "R T Matthews",
+      "Lee"
+    ],
+    "venue": "Neuroscience",
+    "year": 1991,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Leland McInnes, John Healy, and James Melville. Umap: Uniform manifold approximation and projection for dimension reduction. arXiv preprint arXiv:1802.03426, 2018a.",
+    "title": "Umap: Uniform manifold approximation and projection for dimension reduction",
+    "authors": [
+      "Leland Mcinnes",
+      "John Healy",
+      "James Melville"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1802.03426"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Leland McInnes, John Healy, Nathaniel Saul, and Lukas Grossberger. Umap: Uniform manifold approximation and projection. The Journal of Open Source Software, 3(29):861, 2018b.",
+    "title": "Umap: Uniform manifold approximation and projection",
+    "authors": [
+      "Leland Mcinnes",
+      "John Healy",
+      "Nathaniel Saul",
+      "Lukas Grossberger"
+    ],
+    "venue": "The Journal of Open Source Software",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Lu Mi, Trung Le, Tianxing He, Eli Shlizerman, and Uygar Sümbül. Learning time-invariant representations for individual neurons from population dynamics. Advances in Neural Information Processing Systems, 36:46007-46026, 2023.",
+    "title": "Learning time-invariant representations for individual neurons from population dynamics",
+    "authors": [
+      "Lu Mi",
+      "Trung Le",
+      "Tianxing He",
+      "Eli Shlizerman",
+      "Uygar Sümbül"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Vernon B Mountcastle, William H Talbot, Hideo Sakata, and J Hyvärinen. Cortical neuronal mechanisms in flutter-vibration studied in unanesthetized monkeys. neuronal periodicity and frequency discrimination. Journal of neurophysiology, 32(3):452-484, 1969.",
+    "title": "Cortical neuronal mechanisms in flutter-vibration studied in unanesthetized monkeys. neuronal periodicity and frequency discrimination",
+    "authors": [
+      "William H Vernon B Mountcastle",
+      "Hideo Talbot",
+      "Sakata",
+      "Hyvärinen"
+    ],
+    "venue": "Journal of neurophysiology",
+    "year": 1969,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Lionel G Nowak, Rony Azouz, Maria V Sanchez-Vives, Charles M Gray, and David A McCormick. Electrophysiological classes of cat primary visual cortical neurons in vivo as revealed by quantitative analyses. Journal of neurophysiology, 89(3):1541-1566, 2003.",
+    "title": "Electrophysiological classes of cat primary visual cortical neurons in vivo as revealed by quantitative analyses",
+    "authors": [
+      "Rony Lionel G Nowak",
+      "Maria V Azouz",
+      "Charles M Sanchez-Vives",
+      "David A Gray",
+      "Mccormick"
+    ],
+    "venue": "Journal of neurophysiology",
+    "year": 2003,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Marius Pachitariu, Shashwat Sridhar, Jacob Pennington, and Carsen Stringer. Spike sorting with kilosort4. Nature Methods, pp. 1-8, 2024.",
+    "title": "Spike sorting with kilosort4",
+    "authors": [
+      "Marius Pachitariu",
+      "Shashwat Sridhar",
+      "Jacob Pennington",
+      "Carsen Stringer"
+    ],
+    "venue": "Nature Methods",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, et al. Learning transferable visual models from natural language supervision. In International conference on machine learning, pp. 8748-8763. PMLR, 2021.",
+    "title": "Learning transferable visual models from natural language supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "Aditya Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Nils Reimers and Iryna Gurevych. Sentence-bert: Sentence embeddings using siamese bertnetworks. arXiv preprint arXiv:1908.10084, 2019.",
+    "title": "Sentence-bert: Sentence embeddings using siamese bertnetworks",
+    "authors": [
+      "Nils Reimers",
+      "Iryna Gurevych"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1908.10084"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Aaqib Saeed, David Grangier, and Neil Zeghidour. Contrastive learning of general-purpose audio representations. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3875-3879. IEEE, 2021.",
+    "title": "Contrastive learning of general-purpose audio representations",
+    "authors": [
+      "Aaqib Saeed",
+      "David Grangier",
+      "Neil Zeghidour"
+    ],
+    "venue": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Aidan Schneider, Mehdi Azabou, Louis McDougall-Vigier, David F Parks, Sahara Ensley, Kiran Bhaskaran-Nair, Tomasz Nowakowski, Eva L Dyer, and Keith B Hengen. Transcriptomic cell type structures in vivo neuronal activity across multiple timescales. Cell reports, 42(4), 2023a.",
+    "title": "Transcriptomic cell type structures in vivo neuronal activity across multiple timescales",
+    "authors": [
+      "Aidan Schneider",
+      "Mehdi Azabou",
+      "Louis Mcdougall-Vigier",
+      "David F Parks",
+      "Sahara Ensley",
+      "Kiran Bhaskaran-Nair",
+      "Tomasz Nowakowski",
+      "Eva L Dyer",
+      "Keith B Hengen"
+    ],
+    "venue": "Cell reports",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Steffen Schneider, Jin Hwa Lee, and Mackenzie Weygandt Mathis. Learnable latent embeddings for joint behavioural and neural analysis. Nature, 617(7960):360-368, 2023b.",
+    "title": "Learnable latent embeddings for joint behavioural and neural analysis",
+    "authors": [
+      "Steffen Schneider",
+      "Jin Hwa Lee",
+      "Mackenzie Weygandt Mathis"
+    ],
+    "venue": "Nature",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Nicholas A Steinmetz, Christof Koch, Kenneth D Harris, and Matteo Carandini. Challenges and opportunities for large-scale electrophysiology with neuropixels probes. Current opinion in neurobiology, 50:92-100, 2018.",
+    "title": "Challenges and opportunities for large-scale electrophysiology with neuropixels probes",
+    "authors": [
+      "Christof Nicholas A Steinmetz",
+      "Kenneth D Koch",
+      "Matteo Harris",
+      "Carandini"
+    ],
+    "venue": "Current opinion in neurobiology",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Nicholas A Steinmetz, Cagatay Aydin, Anna Lebedeva, Michael Okun, Marius Pachitariu, Marius Bauza, Maxime Beau, Jai Bhagat, Claudia Böhm, Martijn Broux, et al. Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain recordings. Science, 372(6539):eabf4588, 2021.",
+    "title": "Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain recordings",
+    "authors": [
+      "Cagatay Nicholas A Steinmetz",
+      "Anna Aydin",
+      "Michael Lebedeva",
+      "Marius Okun",
+      "Marius Pachitariu",
+      "Maxime Bauza",
+      "Jai Beau",
+      "Claudia Bhagat",
+      "Martijn Böhm",
+      "Broux"
+    ],
+    "venue": "Science",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Susan M Sunkin, Lydia Ng, Chris Lau, Tim Dolbeare, Terri L Gilbert, Carol L Thompson, Michael Hawrylycz, and Chinh Dang. Allen brain atlas: an integrated spatio-temporal portal for exploring the central nervous system. Nucleic acids research, 41(D1):D996-D1008, 2012.",
+    "title": "Allen brain atlas: an integrated spatio-temporal portal for exploring the central nervous system",
+    "authors": [
+      "Lydia Susan M Sunkin",
+      "Chris Ng",
+      "Tim Lau",
+      "Terri L Dolbeare",
+      "Carol L Gilbert",
+      "Michael Thompson",
+      "Chinh Hawrylycz",
+      "Dang"
+    ],
+    "venue": "Nucleic acids research",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "Bosiljka Tasic, Zizhen Yao, Lucas T Graybuck, Kimberly A Smith, Thuc Nghi Nguyen, Darren Bertagnolli, Jeff Goldy, Emma Garren, Michael N Economo, Sarada Viswanathan, et al. Shared and distinct transcriptomic cell types across neocortical areas. Nature, 563(7729):72-78, 2018.",
+    "title": "Shared and distinct transcriptomic cell types across neocortical areas",
+    "authors": [
+      "Bosiljka Tasic",
+      "Zizhen Yao",
+      "Lucas T Graybuck",
+      "Kimberly A Smith",
+      "Thuc Nghi Nguyen",
+      "Darren Bertagnolli",
+      "Jeff Goldy",
+      "Emma Garren",
+      "Sarada Michael N Economo",
+      "Viswanathan"
+    ],
+    "venue": "Nature",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Yonglong Tian, Dilip Krishnan, and Phillip Isola. Contrastive multiview coding. In Computer Vision-ECCV 2020: 16th European Conference, Glasgow, UK, August 23-28, 2020, Proceedings, Part XI 16, pp. 776-794. Springer, 2020.",
+    "title": "Contrastive multiview coding",
+    "authors": [
+      "Yonglong Tian",
+      "Dilip Krishnan",
+      "Phillip Isola"
+    ],
+    "venue": "Computer Vision-ECCV 2020: 16th European Conference",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "Gemechu B Tolossa, Aidan M Schneider, Eva L Dyer, and Keith B Hengen. A conserved code for anatomy: Neurons throughout the brain embed robust signatures of their anatomical location into spike trains. bioRxiv, pp. 2024-07, 2024.",
+    "title": "A conserved code for anatomy: Neurons throughout the brain embed robust signatures of their anatomical location into spike trains",
+    "authors": [
+      "Aidan M Gemechu B Tolossa",
+      "Eva L Schneider",
+      "Keith B Dyer",
+      "Hengen"
+    ],
+    "venue": "bioRxiv",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Eric M Trautmann, Janis K Hesse, Gabriel M Stine, Ruobing Xia, Shude Zhu, Daniel J O'Shea, Bill Karsh, Jennifer Colonell, Frank F Lanfranchi, Saurabh Vyas, et al. Large-scale high-density brain-wide neural recording in nonhuman primates. bioRxiv, pp. 2023-02, 2023.",
+    "title": "Large-scale high-density brain-wide neural recording in nonhuman primates",
+    "authors": [
+      "Janis K Eric M Trautmann",
+      "Gabriel M Hesse",
+      "Ruobing Stine",
+      "Shude Xia",
+      "Zhu",
+      "J O' Daniel",
+      "Bill Shea",
+      "Jennifer Karsh",
+      "Colonell",
+      "Saurabh Frank F Lanfranchi",
+      "Vyas"
+    ],
+    "venue": "bioRxiv",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Carolina Urzay, Nauman Ahad, Mehdi Azabou, Aidan Schneider, Geethika Atamkuri, Keith B Hengen, and Eva L Dyer. Detecting change points in neural population activity with contrastive metric learning. In 2023 11th International IEEE/EMBS Conference on Neural Engineering (NER), pp. 1-4. IEEE, 2023.",
+    "title": "Detecting change points in neural population activity with contrastive metric learning",
+    "authors": [
+      "Carolina Urzay",
+      "Nauman Ahad",
+      "Mehdi Azabou",
+      "Aidan Schneider",
+      "Geethika Atamkuri",
+      "Eva L Keith B Hengen",
+      "Dyer"
+    ],
+    "venue": "2023 11th International IEEE/EMBS Conference on Neural Engineering (NER)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Ganesh Vigneswaran, Alexander Kraskov, and Roger N Lemon. Large identified pyramidal cells in macaque motor and premotor cortex exhibit \"thin spikes\": implications for cell type classification. Journal of Neuroscience, 31(40):14235-14242, 2011.",
+    "title": "Large identified pyramidal cells in macaque motor and premotor cortex exhibit \"thin spikes\": implications for cell type classification",
+    "authors": [
+      "Ganesh Vigneswaran",
+      "Alexander Kraskov",
+      "Roger N Lemon"
+    ],
+    "venue": "Journal of Neuroscience",
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "Ankit Vishnubhotla, Charlotte Loh, Akash Srivastava, Liam Paninski, and Cole Hurwitz. Towards robust and generalizable representations of extracellular data using contrastive learning. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Towards robust and generalizable representations of extracellular data using contrastive learning",
+    "authors": [
+      "Ankit Vishnubhotla",
+      "Charlotte Loh",
+      "Akash Srivastava",
+      "Liam Paninski",
+      "Cole Hurwitz"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "Quanxin Wang, Song-Lin Ding, Yang Li, Josh Royall, David Feng, Phil Lesnar, Nile Graddis, Maitham Naeemi, Benjamin Facer, Anh Ho, et al. The allen mouse brain common coordinate framework: a 3d reference atlas. Cell, 181(4):936-953, 2020.",
+    "title": "The allen mouse brain common coordinate framework: a 3d reference atlas",
+    "authors": [
+      "Quanxin Wang",
+      "Song-Lin Ding",
+      "Yang Li",
+      "Josh Royall",
+      "David Feng",
+      "Phil Lesnar",
+      "Nile Graddis",
+      "Maitham Naeemi",
+      "Benjamin Facer",
+      "Anh Ho"
+    ],
+    "venue": "Cell",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R66",
+    "raw_text": "Keiko Weir, Oriane Blanquie, Werner Kilb, Heiko J Luhmann, and Anne Sinning. Comparison of spike parameters from optically identified gabaergic and glutamatergic neurons in sparse cortical cultures. Frontiers in cellular neuroscience, 8:460, 2015.",
+    "title": "Comparison of spike parameters from optically identified gabaergic and glutamatergic neurons in sparse cortical cultures",
+    "authors": [
+      "Keiko Weir",
+      "Oriane Blanquie",
+      "Werner Kilb",
+      "Anne Heiko J Luhmann",
+      "Sinning"
+    ],
+    "venue": "Frontiers in cellular neuroscience",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R67",
+    "raw_text": "Eric G Wu, Andra M Rudzite, Martin O Bohlen, Peter H Li, Alexandra Kling, Sam Cooler, Colleen Rhoades, Nora Brackbill, Alex R Gogliettino, Nishal P Shah, et al. Decomposition of retinal ganglion cell electrical images for cell type and functional inference. bioRxiv, 2023.",
+    "title": "Decomposition of retinal ganglion cell electrical images for cell type and functional inference",
+    "authors": [
+      "Eric G Wu",
+      "Andra M Rudzite",
+      "Martin O Bohlen",
+      "H Peter",
+      "Alexandra Li",
+      "Sam Kling",
+      "Colleen Cooler",
+      "Nora Rhoades",
+      "Alex R Brackbill",
+      "Gogliettino",
+      "P Nishal",
+      "Shah"
+    ],
+    "venue": "bioRxiv",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R68",
+    "raw_text": "Zizhen Yao, Cindy TJ Van Velthoven, Thuc Nghi Nguyen, Jeff Goldy, Adriana E Sedeno-Cortes, Fahimeh Baftizadeh, Darren Bertagnolli, Tamara Casper, Megan Chiang, Kirsten Crichton, et al. A taxonomy of transcriptomic cell types across the isocortex and hippocampal formation. Cell, 184(12):3222-3241, 2021.",
+    "title": "A taxonomy of transcriptomic cell types across the isocortex and hippocampal formation",
+    "authors": [
+      "Zizhen Yao",
+      "Cindy Tj Van Velthoven",
+      "Thuc Nghi Nguyen",
+      "Jeff Goldy",
+      "Adriana E Sedeno-Cortes",
+      "Fahimeh Baftizadeh",
+      "Darren Bertagnolli",
+      "Tamara Casper",
+      "Megan Chiang",
+      "Kirsten Crichton"
+    ],
+    "venue": "Cell",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R69",
+    "raw_text": "Zizhen Yao, Cindy TJ van Velthoven, Michael Kunst, Meng Zhang, Delissa McMillen, Changkyu Lee, Won Jung, Jeff Goldy, Aliya Abdelhak, Matthew Aitken, et al. A high-resolution transcriptomic and spatial atlas of cell types in the whole mouse brain. Nature, 624(7991):317-332, 2023.",
+    "title": "A high-resolution transcriptomic and spatial atlas of cell types in the whole mouse brain",
+    "authors": [
+      "Zizhen Yao",
+      "Cindy Tj Van Velthoven",
+      "Michael Kunst",
+      "Meng Zhang",
+      "Delissa Mcmillen",
+      "Changkyu Lee",
+      "Won Jung",
+      "Jeff Goldy",
+      "Aliya Abdelhak",
+      "Matthew Aitken"
+    ],
+    "venue": "Nature",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R70",
+    "raw_text": "Joel Ye, Jennifer Collinger, Leila Wehbe, and Robert Gaunt. Neural data transformer 2: multicontext pretraining for neural spiking activity. bioRxiv, pp. 2023-09, 2023a.",
+    "title": "Neural data transformer 2: multicontext pretraining for neural spiking activity",
+    "authors": [
+      "Joel Ye",
+      "Jennifer Collinger",
+      "Leila Wehbe",
+      "Robert Gaunt"
+    ],
+    "venue": "bioRxiv",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R71",
+    "raw_text": "Zhiwen Ye, Andrew M Shelton, Jordan R Shaker, Julien Boussard, Jennifer Colonell, Daniel Birman, Sahar Manavi, Susu Chen, Charlie Windolf, Cole Hurwitz, et al. Ultra-high density electrodes improve detection, yield, and cell type identification in neuronal recordings. bioRxiv, 2023b.",
+    "title": "Ultra-high density electrodes improve detection, yield, and cell type identification in neuronal recordings",
+    "authors": [
+      "Zhiwen Ye",
+      "Andrew M Shelton",
+      "Jordan R Shaker",
+      "Julien Boussard",
+      "Jennifer Colonell",
+      "Daniel Birman",
+      "Sahar Manavi",
+      "Susu Chen",
+      "Charlie Windolf",
+      "Cole Hurwitz"
+    ],
+    "venue": "bioRxiv",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R72",
+    "raw_text": "Yizi Zhang, Hanrui Lyu, Cole Hurwitz, Shuqi Wang, Charles Findling, Felix Hubert, Alexandre Pouget, International Brain Laboratory, Erdem Varol, and Liam Paninski. Exploiting correlations across trials and behavioral sessions to improve neural decoding. bioRxiv, 2024.",
+    "title": "Exploiting correlations across trials and behavioral sessions to improve neural decoding",
+    "authors": [
+      "Yizi Zhang",
+      "Hanrui Lyu",
+      "Cole Hurwitz",
+      "Shuqi Wang",
+      "Charles Findling",
+      "Felix Hubert"
+    ],
+    "venue": "bioRxiv",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R73",
+    "raw_text": "Yizi Zhang, Yanchen Wang, Donato Jiménez-Benetó, Zixuan Wang, Mehdi Azabou, Blake Richards, Renee Tung, Olivier Winter, Eva Dyer, Liam Paninski, et al. Towards a\" universal translator\" for neural dynamics at single-cell, single-spike resolution. Advances in Neural Information Processing Systems, 37:80495-80521, 2025.",
+    "title": "Towards a\" universal translator\" for neural dynamics at single-cell, single-spike resolution",
+    "authors": [
+      "Yizi Zhang",
+      "Yanchen Wang",
+      "Donato Jiménez-Benetó",
+      "Zixuan Wang",
+      "Mehdi Azabou",
+      "Blake Richards",
+      "Renee Tung",
+      "Olivier Winter",
+      "Eva Dyer",
+      "Liam Paninski"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

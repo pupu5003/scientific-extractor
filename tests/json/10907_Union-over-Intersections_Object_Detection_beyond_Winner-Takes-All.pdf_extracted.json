@@ -1,0 +1,937 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Josh Beal, Eric Kim, Eric Tzeng, Dong Huk Park, Andrew Zhai, and Kislyuk. Toward transformer-based object detection. arXiv preprint arXiv:2012.09958, 2020.",
+    "title": "Toward transformer-based object detection",
+    "authors": [
+      "Josh Beal",
+      "Eric Kim",
+      "Eric Tzeng",
+      "Dong Huk Park",
+      "Andrew Zhai",
+      "Kislyuk"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2012.09958"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Alexey Bochkovskiy, Chien-Yao Wang, and Hong-Yuan Mark Liao. Yolov4: Optimal speed and accuracy of object detection. arXiv preprint arXiv:2004.10934, 2020.",
+    "title": "Optimal speed and accuracy of object detection",
+    "authors": [
+      "Alexey Bochkovskiy",
+      "Chien-Yao Wang",
+      "Hong-Yuan Mark Liao"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2004.10934"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Navaneeth Bodla, Bharat Singh, Rama Chellappa, and Larry S Davis. Soft-nms-improving object detection with one line of code. In Proceedings of the IEEE international conference on computer vision, pp. 5561-5569, 2017.",
+    "title": "Soft-nms-improving object detection with one line of code",
+    "authors": [
+      "Navaneeth Bodla",
+      "Bharat Singh",
+      "Rama Chellappa",
+      "Larry S Davis"
+    ],
+    "venue": "Proceedings of the IEEE international conference on computer vision",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Michael C. Burl, Markus Weber, and Pietro Perona. A probabilistic approach to object recognition using local photometry and global geometry. In Proceedings of the European conference on computer vision, 1998.",
+    "title": "A probabilistic approach to object recognition using local photometry and global geometry",
+    "authors": [
+      "C Michael",
+      "Markus Burl",
+      "Pietro Weber",
+      "Perona"
+    ],
+    "venue": "Proceedings of the European conference on computer vision",
+    "year": 1998,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Zhaowei Cai and Nuno Vasconcelos. Cascade r-cnn: Delving into high quality object detection. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 6154-6162, 2018.",
+    "title": "Cascade r-cnn: Delving into high quality object detection",
+    "authors": [
+      "Zhaowei Cai",
+      "Nuno Vasconcelos"
+    ],
+    "venue": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, and Sergey Zagoruyko. End-to-end object detection with transformers. In Proceedings of the European conference on computer vision, pp. 213-229. Springer, 2020.",
+    "title": "End-to-end object detection with transformers",
+    "authors": [
+      "Nicolas Carion",
+      "Francisco Massa",
+      "Gabriel Synnaeve",
+      "Nicolas Usunier",
+      "Alexander Kirillov",
+      "Sergey Zagoruyko"
+    ],
+    "venue": "Proceedings of the European conference on computer vision",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Xiyang Dai, Yinpeng Chen, Jianwei Yang, Pengchuan Zhang, Lu Yuan, and Lei Zhang. Dynamic detr: End-to-end object detection with dynamic attention. In Proceedings of the IEEE/CVF international conference on computer vision, pp. 2988-2997, 2021a.",
+    "title": "Dynamic detr: End-to-end object detection with dynamic attention",
+    "authors": [
+      "Xiyang Dai",
+      "Yinpeng Chen",
+      "Jianwei Yang",
+      "Pengchuan Zhang",
+      "Lu Yuan",
+      "Lei Zhang"
+    ],
+    "venue": "Proceedings of the IEEE/CVF international conference on computer vision",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Zhigang Dai, Bolun Cai, Yugeng Lin, and Junying Chen. Up-detr: Unsupervised pre-training for object detection with transformers. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 1601-1610, 2021b.",
+    "title": "Up-detr: Unsupervised pre-training for object detection with transformers",
+    "authors": [
+      "Zhigang Dai",
+      "Bolun Cai",
+      "Yugeng Lin",
+      "Junying Chen"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, et al. An image is worth 16x16 words: Transformers for image recognition at scale. In Proceedings of the International conference on learning representations, 2021.",
+    "title": "An image is worth 16x16 words: Transformers for image recognition at scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "Matthias Minderer",
+      "Georg Heigold",
+      "Sylvain Gelly"
+    ],
+    "venue": "Proceedings of the International conference on learning representations",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang, and Qi Tian. Centernet: Keypoint triplets for object detection. In Proceedings of the IEEE/CVF international conference on computer vision, pp. 6569-6578, 2019.",
+    "title": "Centernet: Keypoint triplets for object detection",
+    "authors": [
+      "Kaiwen Duan",
+      "Song Bai",
+      "Lingxi Xie",
+      "Honggang Qi",
+      "Qingming Huang",
+      "Qi Tian"
+    ],
+    "venue": "Proceedings of the IEEE/CVF international conference on computer vision",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Mark Everingham, Luc Van Gool, Christopher KI Williams, John Winn, and Andrew Zisserman. The pascal visual object classes (voc) challenge. International Journal of Computer Vision, 88: 303-338, 2010.",
+    "title": "The pascal visual object classes (voc) challenge",
+    "authors": [
+      "Mark Everingham",
+      "Luc Van Gool",
+      "K I Christopher",
+      "John Williams",
+      "Andrew Winn",
+      "Zisserman"
+    ],
+    "venue": "International Journal of Computer Vision",
+    "year": 2010,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Pedro F. Felzenszwalb, Ross B. Girshick, David McAllester, and Deva Ramanan. Object detection with discriminatively trained part-based models. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2010.",
+    "title": "Object detection with discriminatively trained part-based models",
+    "authors": [
+      "Pedro F Felzenszwalb",
+      "Ross B Girshick",
+      "David Mcallester",
+      "Deva Ramanan"
+    ],
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "year": 2010,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Zheng Ge, Songtao Liu, Feng Wang, Zeming Li, and Jian Sun. Yolox: Exceeding yolo series in 2021. arXiv preprint arXiv:2107.08430, 2021.",
+    "title": "Exceeding yolo series in 2021",
+    "authors": [
+      "Zheng Ge",
+      "Songtao Liu",
+      "Feng Wang",
+      "Zeming Li",
+      "Jian Sun",
+      "Yolox"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2107.08430"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Ross Girshick. Fast r-cnn. In Proceedings of the IEEE international conference on computer vision, pp. 1440-1448, 2015.",
+    "title": "Fast r-cnn",
+    "authors": [
+      "Ross Girshick"
+    ],
+    "venue": "Proceedings of the IEEE international conference on computer vision",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Ross Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik. Rich feature hierarchies for accurate object detection and semantic segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 580-587, 2014.",
+    "title": "Rich feature hierarchies for accurate object detection and semantic segmentation",
+    "authors": [
+      "Ross Girshick",
+      "Jeff Donahue",
+      "Trevor Darrell",
+      "Jitendra Malik"
+    ],
+    "venue": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Jiabo He, Sarah Erfani, Xingjun Ma, James Bailey, Ying Chi, and Xian-Sheng Hua. Alpha-IoU: A family of power intersection over union losses for bounding box regression. In Advances in neural information processing systems, volume 34, pp. 20230-20242, 2021.",
+    "title": "Alpha-IoU: A family of power intersection over union losses for bounding box regression",
+    "authors": [
+      "Jiabo He",
+      "Sarah Erfani",
+      "Xingjun Ma",
+      "James Bailey",
+      "Ying Chi",
+      "Xian-Sheng Hua"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. r-cnn. In Proceedings of the IEEE international conference on computer vision, pp. 2961-2969, 2017.",
+    "title": "Proceedings of the IEEE international conference on computer vision",
+    "authors": [
+      "Kaiming He",
+      "Georgia Gkioxari",
+      "Piotr Dollár",
+      "Ross Girshick. R-Cnn"
+    ],
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Jan Hosang, Rodrigo Benenson, and Bernt Schiele. Learning non-maximum suppression. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 4507-4515, 2017.",
+    "title": "Learning non-maximum suppression",
+    "authors": [
+      "Jan Hosang",
+      "Rodrigo Benenson",
+      "Bernt Schiele"
+    ],
+    "venue": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Rachel Huang, Jonathan Pedoeem, and Cuixian Chen. Yolo-lite: a real-time object detection algorithm optimized for non-gpu computers. In Proceedings of the IEEE international conference on big data, pp. 2503-2510, 2018.",
+    "title": "Yolo-lite: a real-time object detection algorithm optimized for non-gpu computers",
+    "authors": [
+      "Rachel Huang",
+      "Jonathan Pedoeem",
+      "Cuixian Chen"
+    ],
+    "venue": "Proceedings of the IEEE international conference on big data",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Borui Jiang, Ruixuan Luo, Jiayuan Mao, Tete Xiao, and Yuning Jiang. Acquisition of localization confidence for accurate object detection. In Proceedings of the European conference on computer vision (ECCV), pp. 784-799, 2018.",
+    "title": "Acquisition of localization confidence for accurate object detection",
+    "authors": [
+      "Borui Jiang",
+      "Ruixuan Luo",
+      "Jiayuan Mao",
+      "Tete Xiao",
+      "Yuning Jiang"
+    ],
+    "venue": "Proceedings of the European conference on computer vision (ECCV)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Hei Law and Jia Deng. Cornernet: Detecting objects as paired keypoints. In Proceedings of the European conference on computer vision, pp. 734-750, 2018.",
+    "title": "Cornernet: Detecting objects as paired keypoints",
+    "authors": [
+      "Hei Law",
+      "Jia Deng"
+    ],
+    "venue": "Proceedings of the European conference on computer vision",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Shuai Li, Minghan Li, Ruihuang Li, Chenhang He, and Lei Zhang. One-to-few label assignment for end-to-end dense detection. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 7350-7359, 2023.",
+    "title": "One-to-few label assignment for end-to-end dense detection",
+    "authors": [
+      "Shuai Li",
+      "Minghan Li",
+      "Ruihuang Li",
+      "Chenhang He",
+      "Lei Zhang"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva Ramanan, Piotr Dollár, and C Lawrence Zitnick. Microsoft coco: Common objects in context. In Proceedings of the European conference on computer vision, pp. 740-755. Springer, 2014.",
+    "title": "Microsoft coco: Common objects in context",
+    "authors": [
+      "Tsung-Yi Lin",
+      "Michael Maire",
+      "Serge Belongie",
+      "James Hays",
+      "Pietro Perona",
+      "Deva Ramanan",
+      "Piotr Dollár",
+      "C Lawrence",
+      "Zitnick"
+    ],
+    "venue": "Proceedings of the European conference on computer vision",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Dollár. Focal loss for dense object detection. In Proceedings of the IEEE international conference on computer vision, pp. 2980-2988, 2017.",
+    "title": "Focal loss for dense object detection",
+    "authors": [
+      "Tsung-Yi Lin",
+      "Priya Goyal",
+      "Ross Girshick",
+      "Kaiming He",
+      "Piotr Dollár"
+    ],
+    "venue": "Proceedings of the IEEE international conference on computer vision",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, and Lei Zhang. Dab-detr: Dynamic anchor boxes are better queries for detr. In Proceedings of the international conference on learning representations, 2022.",
+    "title": "Dab-detr: Dynamic anchor boxes are better queries for detr",
+    "authors": [
+      "Shilong Liu",
+      "Feng Li",
+      "Hao Zhang",
+      "Xiao Yang",
+      "Xianbiao Qi",
+      "Hang Su",
+      "Jun Zhu",
+      "Lei Zhang"
+    ],
+    "venue": "Proceedings of the international conference on learning representations",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Songtao Liu, Di Huang, and Yunhong Wang. Adaptive nms: Refining pedestrian detection in a crowd. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 6459-6468, 2019.",
+    "title": "Adaptive nms: Refining pedestrian detection in a crowd",
+    "authors": [
+      "Songtao Liu",
+      "Di Huang",
+      "Yunhong Wang"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, and Alexander C Berg. Ssd: Single shot multibox detector. In Proceedings of the European conference on computer vision, pp. 21-37. Springer, 2016.",
+    "title": "Single shot multibox detector",
+    "authors": [
+      "Wei Liu",
+      "Dragomir Anguelov",
+      "Dumitru Erhan",
+      "Christian Szegedy",
+      "Scott Reed",
+      "Cheng-Yang Fu",
+      "Alexander C Berg",
+      "Ssd"
+    ],
+    "venue": "Proceedings of the European conference on computer vision",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, and Baining Guo. Swin transformer: Hierarchical vision transformer using shifted windows. In Proceedings of the IEEE/CVF international conference on computer vision, pp. 10012-10022, 2021.",
+    "title": "Swin transformer: Hierarchical vision transformer using shifted windows",
+    "authors": [
+      "Ze Liu",
+      "Yutong Lin",
+      "Yue Cao",
+      "Han Hu",
+      "Yixuan Wei",
+      "Zheng Zhang",
+      "Stephen Lin",
+      "Baining Guo"
+    ],
+    "venue": "Proceedings of the IEEE/CVF international conference on computer vision",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Xin Lu, Buyu Li, Yuxin Yue, Quanquan Li, and Junjie Yan. Grid r-cnn. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 7363-7372, 2019.",
+    "title": "Grid r-cnn",
+    "authors": [
+      "Xin Lu",
+      "Buyu Li",
+      "Yuxin Yue",
+      "Quanquan Li",
+      "Junjie Yan"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Depu Meng, Xiaokang Chen, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun, and Jingdong Wang. Conditional detr for fast training convergence. In Proceedings of the IEEE/CVF international conference on computer vision, pp. 3651-3660, 2021.",
+    "title": "Conditional detr for fast training convergence",
+    "authors": [
+      "Depu Meng",
+      "Xiaokang Chen",
+      "Zejia Fan",
+      "Gang Zeng",
+      "Houqiang Li",
+      "Yuhui Yuan",
+      "Lei Sun",
+      "Jingdong Wang"
+    ],
+    "venue": "Proceedings of the IEEE/CVF international conference on computer vision",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Duy-Kien Nguyen, Jihong Ju, Olaf Booij, Martin R Oswald, and Cees GM Snoek. Boxer: Boxattention for 2d and 3d transformers. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 4773-4782, 2022.",
+    "title": "Boxer: Boxattention for 2d and 3d transformers",
+    "authors": [
+      "Duy-Kien Nguyen",
+      "Jihong Ju",
+      "Olaf Booij",
+      "Martin R Oswald",
+      "G M Cees",
+      "Snoek"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Kemal Oksuz, Baris Can Cam, Sinan Kalkan, and Emre Akbas. One metric to measure them all: Localisation recall precision (lrp) for evaluating visual detection tasks. IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(12):9446-9463, 2021.",
+    "title": "One metric to measure them all: Localisation recall precision (lrp) for evaluating visual detection tasks",
+    "authors": [
+      "Kemal Oksuz",
+      "Can Baris",
+      "Sinan Cam",
+      "Emre Kalkan",
+      "Akbas"
+    ],
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Jiangmiao Pang, Kai Chen, Jianping Shi, Huajun Feng, Wanli Ouyang, and Dahua Lin. Libra r-cnn: Towards balanced learning for object detection. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 821-830, 2019.",
+    "title": "Libra r-cnn: Towards balanced learning for object detection",
+    "authors": [
+      "Jiangmiao Pang",
+      "Kai Chen",
+      "Jianping Shi",
+      "Huajun Feng",
+      "Wanli Ouyang",
+      "Dahua Lin"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "David Paz, Hengyuan Zhang, and Henrik I Christensen. Tridentnet: A conditional generative model dynamic trajectory generation. In Proceedings of the international conference on intelligent autonomous systems, pp. 403-416. Springer, 2021.",
+    "title": "Tridentnet: A conditional generative model dynamic trajectory generation",
+    "authors": [
+      "David Paz",
+      "Hengyuan Zhang",
+      "Henrik I Christensen"
+    ],
+    "venue": "Proceedings of the international conference on intelligent autonomous systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Joseph Redmon and Ali Farhadi. Yolov3: An incremental improvement. arXiv preprint arXiv:1804.02767, 2018.",
+    "title": "Yolov3: An incremental improvement",
+    "authors": [
+      "Joseph Redmon",
+      "Ali Farhadi"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1804.02767"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Joseph Redmon, Santosh Divvala, Ross Girshick, and Ali Farhadi. You only look once: Unified, real-time object detection. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 779-788, 2016.",
+    "title": "You only look once: Unified, real-time object detection",
+    "authors": [
+      "Joseph Redmon",
+      "Santosh Divvala",
+      "Ross Girshick",
+      "Ali Farhadi"
+    ],
+    "venue": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. Faster r-cnn: Towards real-time object detection with region proposal networks. In Advances in neural information processing systems, volume 28, 2015.",
+    "title": "Faster r-cnn: Towards real-time object detection with region proposal networks",
+    "authors": [
+      "Kaiming Shaoqing Ren",
+      "Ross He",
+      "Jian Girshick",
+      "Sun"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Hamid Rezatofighi, Nathan Tsoi, JunYoung Gwak, Amir Sadeghian, Ian Reid, and Silvio Savarese. Generalized intersection over union: A metric and a loss for bounding box regression. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 658-666, 2019.",
+    "title": "Generalized intersection over union: A metric and a loss for bounding box regression",
+    "authors": [
+      "Hamid Rezatofighi",
+      "Nathan Tsoi",
+      "Junyoung Gwak",
+      "Amir Sadeghian",
+      "Ian Reid",
+      "Silvio Savarese"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Solovyev Roman, Weimin Wang, and Tatiana Gabruseva. Weighted boxes fusion: ensembling boxes for object detection models. arXiv preprint arXiv:1910.13302, 2019.",
+    "title": "Weighted boxes fusion: ensembling boxes for object detection models",
+    "authors": [
+      "Solovyev Roman",
+      "Weimin Wang",
+      "Tatiana Gabruseva"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1910.13302"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Zhiqing Sun, Shengcao Cao, Yiming Yang, and Kris M Kitani. Rethinking transformer-based set prediction for object detection. In Proceedings of the IEEE/CVF international conference on computer vision, pp. 3611-3620, 2021.",
+    "title": "Rethinking transformer-based set prediction for object detection",
+    "authors": [
+      "Zhiqing Sun",
+      "Shengcao Cao",
+      "Yiming Yang",
+      "Kris M Kitani"
+    ],
+    "venue": "Proceedings of the IEEE/CVF international conference on computer vision",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Mingxing Tan and Quoc Le. EfficientNet: Rethinking model scaling for convolutional neural networks. In International conference on machine learning, pp. 6105-6114. PMLR, 2019.",
+    "title": "Rethinking model scaling for convolutional neural networks",
+    "authors": [
+      "Mingxing Tan",
+      "Quoc Le",
+      "Efficientnet"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Mingxing Tan, Ruoming Pang, and Quoc V Le. EfficientDet: Scalable and efficient object detection. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 10781-10790, 2020.",
+    "title": "EfficientDet: Scalable and efficient object detection",
+    "authors": [
+      "Mingxing Tan",
+      "Ruoming Pang",
+      "Quoc V Le"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Zhi Tian, Chunhua Shen, Hao Chen, and Tong He. Fcos: Fully convolutional one-stage object detection. In Proceedings of the IEEE/CVF international conference on computer vision, pp. 9627-9636, 2019.",
+    "title": "Fcos: Fully convolutional one-stage object detection",
+    "authors": [
+      "Chunhua Zhi Tian",
+      "Hao Shen",
+      "Tong Chen",
+      "He"
+    ],
+    "venue": "Proceedings of the IEEE/CVF international conference on computer vision",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Rohun Tripathi, Vasu Singla, Mahyar Najibi, Bharat Singh, Abhishek Sharma, and Larry Davis. Asap-nms: Accelerating non-maximum suppression using spatially aware priors. arXiv preprint arXiv:2007.09785, 2020.",
+    "title": "Asap-nms: Accelerating non-maximum suppression using spatially aware priors",
+    "authors": [
+      "Rohun Tripathi",
+      "Vasu Singla",
+      "Mahyar Najibi",
+      "Bharat Singh",
+      "Abhishek Sharma",
+      "Larry Davis"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2007.09785"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Lachlan Tychsen-Smith and Lars Petersson. Improving object localization with fitness nms and bounded iou loss. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 6877-6885, 2018.",
+    "title": "Improving object localization with fitness nms and bounded iou loss",
+    "authors": [
+      "Lachlan Tychsen",
+      "- Smith",
+      "Lars Petersson"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Paul Viola and Michael J. Jones. Robust real-time face detection. International Journal of Computer Vision, 2004.",
+    "title": "Robust real-time face detection",
+    "authors": [
+      "Paul Viola",
+      "Michael J Jones"
+    ],
+    "venue": "International Journal of Computer Vision",
+    "year": 2004,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Xinlong Wang, Rufeng Zhang, Tao Kong, Lei Li, and Chunhua Shen. Solov2: Dynamic and fast instance segmentation. In Advances in neural information processing systems, volume 33, pp. 17721-17732, 2020.",
+    "title": "Solov2: Dynamic and fast instance segmentation",
+    "authors": [
+      "Xinlong Wang",
+      "Rufeng Zhang",
+      "Tao Kong",
+      "Lei Li",
+      "Chunhua Shen"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Shengkai Wu, Xiaoping Li, and Xinggang Wang. Iou-aware single-stage object detector for accurate localization. Image and Vision Computing, 97:103911, 2020a.",
+    "title": "Iou-aware single-stage object detector for accurate localization",
+    "authors": [
+      "Shengkai Wu",
+      "Xiaoping Li",
+      "Xinggang Wang"
+    ],
+    "venue": "Image and Vision Computing",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Yue Wu, Yinpeng Chen, Lu Yuan, Zicheng Liu, Lijuan Wang, Hongzhi Li, and Yun Fu. Rethinking classification and localization for object detection. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 10186-10195, 2020b.",
+    "title": "Rethinking classification and localization for object detection",
+    "authors": [
+      "Yue Wu",
+      "Yinpeng Chen",
+      "Lu Yuan",
+      "Zicheng Liu",
+      "Lijuan Wang",
+      "Hongzhi Li",
+      "Yun Fu"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Jiahui Yu, Yuning Jiang, Zhangyang Wang, Zhimin Cao, and Thomas Huang. Unitbox: An advanced object detection network. In Proceedings of the ACM international conference on multimedia, pp. 516-520, 2016.",
+    "title": "Unitbox: An advanced object detection network",
+    "authors": [
+      "Jiahui Yu",
+      "Yuning Jiang",
+      "Zhangyang Wang",
+      "Zhimin Cao",
+      "Thomas Huang"
+    ],
+    "venue": "Proceedings of the ACM international conference on multimedia",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Hao Zhang, Feng Li, Shilong Liu, Lei Zhang, Hang Jun Zhu, Lionel M Ni, and Heung-Yeung Shum. Dino: Detr with improved denoising anchor boxes for end-to-end object detection. arXiv preprint arXiv:2203.03605, 2022.",
+    "title": "Detr with improved denoising anchor boxes for end-to-end object detection",
+    "authors": [
+      "Hao Zhang",
+      "Feng Li",
+      "Shilong Liu",
+      "Lei Zhang",
+      "Hang Jun Zhu",
+      "Lionel M Ni",
+      "Heung-Yeung Shum",
+      "Dino"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2203.03605"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Haoyang Zhang, Ying Wang, Feras Dayoub, and Niko Sunderhauf. Varifocalnet: An iou-aware dense object detector. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 8514-8523, 2021.",
+    "title": "Varifocalnet: An iou-aware dense object detector",
+    "authors": [
+      "Haoyang Zhang",
+      "Ying Wang",
+      "Feras Dayoub",
+      "Niko Sunderhauf"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Zhaohui Zheng, Ping Wang, Wei Liu, Jinze Li, Rongguang Ye, and Dongwei Ren. Distance-iou loss: Faster and better learning for bounding box regression. In Proceedings of the AAAI conference on artificial intelligence, volume 34, pp. 12993-13000, 2020.",
+    "title": "Distance-iou loss: Faster and better learning for bounding box regression",
+    "authors": [
+      "Zhaohui Zheng",
+      "Ping Wang",
+      "Wei Liu",
+      "Jinze Li",
+      "Rongguang Ye",
+      "Dongwei Ren"
+    ],
+    "venue": "Proceedings of the AAAI conference on artificial intelligence",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Zhaohui Zheng, Ping Wang, Dongwei Ren, Wei Liu, Rongguang Ye, Qinghua Hu, and Wangmeng Zuo. Enhancing geometric factors in model learning and inference for object detection and instance segmentation. IEEE Transactions on Cybernetics, 52(8):8574-8586, 2021.",
+    "title": "Enhancing geometric factors in model learning and inference for object detection and instance segmentation",
+    "authors": [
+      "Zhaohui Zheng",
+      "Ping Wang",
+      "Dongwei Ren",
+      "Wei Liu",
+      "Rongguang Ye",
+      "Qinghua Hu",
+      "Wangmeng Zuo"
+    ],
+    "venue": "IEEE Transactions on Cybernetics",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, and Jifeng Dai. Deformable detr: Deformable transformers for end-to-end object detection. In Proceedings of the international conference on learning representations, 2021.",
+    "title": "Deformable detr: Deformable transformers for end-to-end object detection",
+    "authors": [
+      "Xizhou Zhu",
+      "Weijie Su",
+      "Lewei Lu",
+      "Bin Li",
+      "Xiaogang Wang",
+      "Jifeng Dai"
+    ],
+    "venue": "Proceedings of the international conference on learning representations",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

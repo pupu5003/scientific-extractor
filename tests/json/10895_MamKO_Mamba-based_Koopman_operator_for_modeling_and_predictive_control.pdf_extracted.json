@@ -1,0 +1,1074 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Jens Alex, Lorenzo Benedetti, JB Copp, KV Gernaey, Ulf Jeppsson, Ingmar Nopens, MN Pons, Leiv Rieger, Christian Rosen, JP Steyer, et al. Benchmark simulation model no. 1 (BSM1). Report by the IWA Taskgroup on benchmarking of control strategies for WWTPs, 1, 2008.",
+    "title": "Benchmark simulation model no. 1 (BSM1)",
+    "authors": [
+      "Jens Alex",
+      "Lorenzo Benedetti",
+      "Copp",
+      "Ulf Gernaey",
+      "Ingmar Jeppsson",
+      "Nopens",
+      "Leiv Pons",
+      "Christian Rieger",
+      "Rosen",
+      "Steyer"
+    ],
+    "venue": "Report by the IWA Taskgroup on benchmarking of control strategies for WWTPs",
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Joel A. E. Andersson, Joris Gillis, Greg Horn, James B. Rawlings, and Moritz Diehl. CasADi -A software framework for nonlinear optimization and optimal control. Mathematical Programming Computation, 11(1):1-36, 2019.",
+    "title": "CasADi -A software framework for nonlinear optimization and optimal control",
+    "authors": [
+      "A E Joel",
+      "Joris Andersson",
+      "Greg Gillis",
+      "James B Horn",
+      "Moritz Rawlings",
+      "Diehl"
+    ],
+    "venue": "Mathematical Programming Computation",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Jonathan T Barron. Continuously differentiable exponential linear units. arXiv preprint arXiv:1704.07483, 2017.",
+    "title": "Continuously differentiable exponential linear units",
+    "authors": [
+      "Jonathan T Barron"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1704.07483"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Julian Berberich, Johannes Köhler, Matthias A Müller, and Frank Allgöwer. Data-driven model predictive control with stability and robustness guarantees. IEEE Transactions on Automatic Control, 66(4):1702-1717, 2020.",
+    "title": "Data-driven model predictive control with stability and robustness guarantees",
+    "authors": [
+      "Julian Berberich",
+      "Johannes Köhler",
+      "Matthias A Müller",
+      "Frank Allgöwer"
+    ],
+    "venue": "IEEE Transactions on Automatic Control",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Greg Brockman, Vicki Cheung, Ludwig Pettersson, Jonas Schneider, John Schulman, Jie Tang, and Wojciech Zaremba. OpenAI Gym. arXiv preprint arXiv:1606.01540, 2016.",
+    "authors": [
+      "Greg Brockman",
+      "Vicki Cheung",
+      "Ludwig Pettersson",
+      "Jonas Schneider",
+      "John Schulman",
+      "Jie Tang",
+      "Wojciech Zaremba"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "doi": "",
+      "arxiv_id": "arXiv:1606.01540",
+      "url": ""
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Steven L Brunton, Marko Budišić, Eurika Kaiser, and J Nathan Kutz. Modern Koopman theory for dynamical systems. SIAM Review, 64(2):229-340, 2022.",
+    "title": "Modern Koopman theory for dynamical systems",
+    "authors": [
+      "Marko Steven L Brunton",
+      "Eurika Budišić",
+      "Nathan Kaiser",
+      "Kutz"
+    ],
+    "venue": "SIAM Review",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Hao Chen and Chen Lv. Incorporating ESO into deep Koopman operator modeling for control of autonomous vehicles. IEEE Transactions on Control Systems Technology, 32(5):1854-1864, 2024.",
+    "title": "Incorporating ESO into deep Koopman operator modeling for control of autonomous vehicles",
+    "authors": [
+      "Hao Chen",
+      "Chen Lv"
+    ],
+    "venue": "IEEE Transactions on Control Systems Technology",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Tianze Chen, Yongqiang Huang, and Yu Sun. Accurate pouring using model predictive control enabled by recurrent neural network. In IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 7688-7694. IEEE, 2019.",
+    "title": "Accurate pouring using model predictive control enabled by recurrent neural network",
+    "authors": [
+      "Tianze Chen",
+      "Yongqiang Huang",
+      "Yu Sun"
+    ],
+    "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Zhong Chen, Xiaofang Chen, Jinping Liu, Lihui Cen, and Weihua Gui. Learning model predictive control of nonlinear systems with time-varying parameters using Koopman operator. Applied Mathematics and Computation, 470:128577, 2024.",
+    "title": "Learning model predictive control of nonlinear systems with time-varying parameters using Koopman operator",
+    "authors": [
+      "Zhong Chen",
+      "Xiaofang Chen",
+      "Jinping Liu",
+      "Lihui Cen",
+      "Weihua Gui"
+    ],
+    "venue": "Applied Mathematics and Computation",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Kurtland Chua, Roberto Calandra, Rowan McAllister, and Sergey Levine. Deep reinforcement learning in a handful of trials using probabilistic dynamics models. In Advances in Neural Information Processing Systems, volume 31, 2018.",
+    "title": "Deep reinforcement learning in a handful of trials using probabilistic dynamics models",
+    "authors": [
+      "Kurtland Chua",
+      "Roberto Calandra",
+      "Rowan Mcallister",
+      "Sergey Levine"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Tri Dao and Albert Gu. Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality. arXiv preprint arXiv:2405.21060, 2024.",
+    "title": "Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality",
+    "authors": [
+      "Tri Dao",
+      "Albert Gu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.21060"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Michael B Elowitz and Stanislas Leibler. A synthetic oscillatory network of transcriptional regulators. Nature, 403(6767):335-338, 2000.",
+    "title": "A synthetic oscillatory network of transcriptional regulators",
+    "authors": [
+      "B Michael",
+      "Stanislas Elowitz",
+      "Leibler"
+    ],
+    "venue": "Nature",
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Karan Goel, Albert Gu, Chris Donahue, and Christopher Re. It's Raw! Audio generation with statespace models. In International Conference on Machine Learning, volume 162, pp. 7616-7633. PMLR, 2022.",
+    "title": "It's Raw! Audio generation with statespace models",
+    "authors": [
+      "Karan Goel",
+      "Albert Gu",
+      "Chris Donahue",
+      "Christopher Re"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Albert Gu and Tri Dao. Mamba: Linear-time sequence modeling with selective state spaces. arXiv preprint arXiv:2312.00752, 2023.",
+    "title": "Linear-time sequence modeling with selective state spaces",
+    "authors": [
+      "Albert Gu",
+      "Tri Dao",
+      "Mamba"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2312.00752"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Albert Gu, Tri Dao, Stefano Ermon, Atri Rudra, and Christopher Ré. Hippo: Recurrent memory with optimal polynomial projections. In Advances in Neural Information Processing Systems, volume 33, pp. 1474-1487, 2020.",
+    "title": "Hippo: Recurrent memory with optimal polynomial projections",
+    "authors": [
+      "Albert Gu",
+      "Tri Dao",
+      "Stefano Ermon",
+      "Atri Rudra",
+      "Christopher Ré"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Albert Gu, Karan Goel, and Christopher Ré. Efficiently modeling long sequences with structured state spaces. In International Conference on Learning Representations, 2022a.",
+    "title": "Efficiently modeling long sequences with structured state spaces",
+    "authors": [
+      "Albert Gu",
+      "Karan Goel",
+      "Christopher Ré"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Albert Gu, Isys Johnson, Aman Timalsina, Atri Rudra, and Christopher Ré. How to train your HiPPO: State space models with generalized orthogonal basis projections. arXiv preprint arXiv:2206.12037, 2022b.",
+    "title": "How to train your HiPPO: State space models with generalized orthogonal basis projections",
+    "authors": [
+      "Albert Gu",
+      "Isys Johnson",
+      "Aman Timalsina",
+      "Atri Rudra",
+      "Christopher Ré"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2206.12037"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "David Ha and Jürgen Schmidhuber. World models. arXiv preprint arXiv:1803.10122, 2018.",
+    "authors": [
+      "David Ha",
+      "Jürgen Schmidhuber"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1803.10122"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, and Sergey Levine. Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor. In International Conference on Machine Learning, pp. 1861-1870. PMLR, 2018.",
+    "title": "Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Aurick Zhou",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Danijar Hafner, Timothy Lillicrap, Jimmy Ba, and Mohammad Norouzi. Dream to control: Learning behaviors by latent imagination. arXiv preprint arXiv:1912.01603, 2019.",
+    "title": "Dream to control: Learning behaviors by latent imagination",
+    "authors": [
+      "Danijar Hafner",
+      "Timothy Lillicrap",
+      "Jimmy Ba",
+      "Mohammad Norouzi"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1912.01603"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Danijar Hafner, Timothy Lillicrap, Mohammad Norouzi, and Jimmy Ba. Mastering atari with discrete world models. arXiv preprint arXiv:2010.02193, 2020.",
+    "title": "Mastering atari with discrete world models",
+    "authors": [
+      "Danijar Hafner",
+      "Timothy Lillicrap",
+      "Mohammad Norouzi",
+      "Jimmy Ba"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2010.02193"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, and Timothy Lillicrap. Mastering diverse domains through world models. arXiv preprint arXiv:2301.04104, 2023.",
+    "title": "Mastering diverse domains through world models",
+    "authors": [
+      "Danijar Hafner",
+      "Jurgis Pasukonis",
+      "Jimmy Ba",
+      "Timothy Lillicrap"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2301.04104"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Minghao Han, Jacob Euler-Rolle, and Robert K Katzschmann. Desko: Stability-assured robust control with a deep stochastic Koopman operator. In International Conference on Learning Representations, 2021.",
+    "title": "Desko: Stability-assured robust control with a deep stochastic Koopman operator",
+    "authors": [
+      "Minghao Han",
+      "Jacob Euler-Rolle",
+      "Robert K Katzschmann"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Minghao Han, Kiwan Wong, Jacob Euler-Rolle, Lixian Zhang, and Robert K. Katzschmann. Robust learning-based control for uncertain nonlinear systems with validation on a soft robot. IEEE Transactions on Neural Networks and Learning Systems, pp. 1-15, 2023.",
+    "title": "Robust learning-based control for uncertain nonlinear systems with validation on a soft robot",
+    "authors": [
+      "Minghao Han",
+      "Kiwan Wong",
+      "Jacob Euler-Rolle",
+      "Lixian Zhang",
+      "Robert K Katzschmann"
+    ],
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Minghao Han, Zhaojian Li, Xiang Yin, and Xunyuan Yin. Robust learning and control of timedelay nonlinear systems with deep recurrent Koopman operators. IEEE Transactions on Industrial Informatics, 20(3):4675-4684, 2024a.",
+    "title": "Xiang Yin, and Xunyuan Yin. Robust learning and control of timedelay nonlinear systems with deep recurrent Koopman operators",
+    "authors": [
+      "Minghao Han",
+      "Zhaojian Li"
+    ],
+    "venue": "IEEE Transactions on Industrial Informatics",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Minghao Han, Jingshi Yao, Adrian Wing-Keung Law, and Xunyuan Yin. Efficient economic model predictive control of water treatment process with learning-based Koopman operator. Control Engineering Practice, 149:105975, 2024b.",
+    "title": "Efficient economic model predictive control of water treatment process with learning-based Koopman operator",
+    "authors": [
+      "Minghao Han",
+      "Jingshi Yao"
+    ],
+    "venue": "Control Engineering Practice",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Yiqiang Han, Wenjian Hao, and Umesh Vaidya. Deep learning of Koopman representation for control. In IEEE Conference on Decision and Control, pp. 1890-1895. IEEE, 2020.",
+    "title": "Deep learning of Koopman representation for control",
+    "authors": [
+      "Yiqiang Han",
+      "Wenjian Hao",
+      "Umesh Vaidya"
+    ],
+    "venue": "IEEE Conference on Decision and Control",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Wenjian Hao, Bowen Huang, Wei Pan, Di Wu, and Shaoshuai Mou. Deep Koopman learning of nonlinear time-varying systems. arXiv e-prints, pp. arXiv-2210, 2022.",
+    "title": "Deep Koopman learning of nonlinear time-varying systems. arXiv e-prints",
+    "authors": [
+      "Wenjian Hao",
+      "Bowen Huang",
+      "Wei Pan",
+      "Di Wu",
+      "Shaoshuai Mou"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Lukas Hewing, Juraj Kabzan, and Melanie N Zeilinger. Cautious model predictive control using Gaussian process regression. IEEE Transactions on Control Systems Technology, 28(6):27362743, 2019.",
+    "title": "Cautious model predictive control using Gaussian process regression",
+    "authors": [
+      "Lukas Hewing",
+      "Juraj Kabzan",
+      "Melanie N Zeilinger"
+    ],
+    "venue": "IEEE Transactions on Control Systems Technology",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Lukas Hewing, Kim P Wabersich, Marcel Menner, and Melanie N Zeilinger. Learning-based model predictive control: Toward safe learning in control. Annual Review of Control, Robotics, and Autonomous Systems, 3(1):269-296, 2020.",
+    "title": "Learning-based model predictive control: Toward safe learning in control",
+    "authors": [
+      "Lukas Hewing",
+      "Marcel Kim P Wabersich",
+      "Melanie N Menner",
+      "Zeilinger"
+    ],
+    "venue": "Robotics, and Autonomous Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Rudolph Emil Kalman. A new approach to linear filtering and prediction problems. 1960.",
+    "title": "A new approach to linear filtering and prediction problems",
+    "authors": [
+      "Rudolph Emil",
+      "Kalman"
+    ],
+    "year": 1960,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Diederik P Kingma. Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980, 2014.",
+    "title": "Adam: A method for stochastic optimization",
+    "authors": [
+      "P Diederik",
+      "Kingma"
+    ],
+    "year": 2014,
+    "identifiers": {
+      "arxiv_id": "arXiv:1412.6980"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Bernard O Koopman. Hamiltonian systems and transformation in Hilbert space. Proceedings of the National Academy of Sciences, 17(5):315-318, 1931.",
+    "title": "Hamiltonian systems and transformation in Hilbert space",
+    "authors": [
+      "Bernard O Koopman"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 1931,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Milan Korda and Igor Mezić. Linear predictors for nonlinear dynamical systems: Koopman operator meets model predictive control. Automatica, 93:149-160, 2018.",
+    "title": "Linear predictors for nonlinear dynamical systems: Koopman operator meets model predictive control",
+    "authors": [
+      "Milan Korda",
+      "Igor Mezić"
+    ],
+    "venue": "Automatica",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Fuxian Li, Jie Feng, Huan Yan, Guangyin Jin, Fan Yang, Funing Sun, Depeng Jin, and Yong Li. Dynamic graph convolutional recurrent network for traffic prediction: Benchmark and solution. ACM Transactions on Knowledge Discovery from Data, 17(1):1-21, 2023.",
+    "title": "Dynamic graph convolutional recurrent network for traffic prediction: Benchmark and solution",
+    "authors": [
+      "Fuxian Li",
+      "Jie Feng",
+      "Huan Yan",
+      "Guangyin Jin",
+      "Fan Yang",
+      "Funing Sun",
+      "Depeng Jin",
+      "Yong Li"
+    ],
+    "venue": "ACM Transactions on Knowledge Discovery from Data",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, and Yu Qiao. VideoMamba: State space model for efficient video understanding. arXiv preprint arXiv:2403.06977, 2024.",
+    "title": "VideoMamba: State space model for efficient video understanding",
+    "authors": [
+      "Kunchang Li",
+      "Xinhao Li",
+      "Yi Wang",
+      "Yinan He",
+      "Yali Wang",
+      "Limin Wang",
+      "Yu Qiao"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.06977"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Yunzhu Li, Hao He, Jiajun Wu, Dina Katabi, and Antonio Torralba. Learning compositional Koopman operators for model-based control. In International Conference on Learning Representations, 2020.",
+    "title": "Learning compositional Koopman operators for model-based control",
+    "authors": [
+      "Yunzhu Li",
+      "Hao He",
+      "Jiajun Wu",
+      "Dina Katabi",
+      "Antonio Torralba"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Opher Lieber, Barak Lenz, Hofit Bata, Gal Cohen, Jhonathan Osin, Itay Dalmedigos, Erez Safahi, Shaked Meirom, Yonatan Belinkov, Shai Shalev-Shwartz, et al. Jamba: A hybrid TransformerMamba language model. arXiv preprint arXiv:2403.19887, 2024.",
+    "title": "A hybrid TransformerMamba language model",
+    "authors": [
+      "Opher Lieber",
+      "Barak Lenz",
+      "Hofit Bata",
+      "Gal Cohen",
+      "Jhonathan Osin",
+      "Itay Dalmedigos",
+      "Erez Safahi",
+      "Shaked Meirom",
+      "Yonatan Belinkov",
+      "Shai Shalev-Shwartz"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.19887"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "TP Lillicrap. Continuous control with deep reinforcement learning. arXiv preprint arXiv:1509.02971, 2015.",
+    "title": "Continuous control with deep reinforcement learning",
+    "authors": [
+      "Tp Lillicrap"
+    ],
+    "year": 2015,
+    "identifiers": {
+      "arxiv_id": "arXiv:1509.02971"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Jinfeng Liu, David Muñoz de la Peña, Benjamin J Ohran, Panagiotis D Christofides, and James F Davis. A two-tier architecture for networked process control. Chemical Engineering Science, 63 (22):5394-5409, 2008.",
+    "title": "A two-tier architecture for networked process control",
+    "authors": [
+      "Jinfeng Liu",
+      "David Muñoz De La Peña",
+      "Benjamin J Ohran",
+      "Panagiotis D Christofides",
+      "James F Davis"
+    ],
+    "venue": "Chemical Engineering Science",
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Yong Liu, Chenyu Li, Jianmin Wang, and Mingsheng Long. Koopa: Learning non-stationary time series dynamics with Koopman predictors. In Advances in Neural Information Processing Systems, volume 36, pp. 12271-12290, 2023.",
+    "title": "Learning non-stationary time series dynamics with Koopman predictors",
+    "authors": [
+      "Yong Liu",
+      "Chenyu Li",
+      "Jianmin Wang",
+      "Mingsheng Long",
+      "Koopa"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Bethany Lusch, J Nathan Kutz, and Steven L Brunton. Deep learning for universal linear embeddings of nonlinear dynamics. Nature Communications, 9(1):4950, 2018.",
+    "title": "Deep learning for universal linear embeddings of nonlinear dynamics",
+    "authors": [
+      "Bethany Lusch",
+      "Nathan Kutz",
+      "Steven L Brunton"
+    ],
+    "venue": "Nature Communications",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Jeremy Morton, Antony Jameson, Mykel J Kochenderfer, and Freddie Witherden. Deep dynamical modeling and control of unsteady fluid flows. In Advances in Neural Information Processing Systems, volume 31, 2018.",
+    "title": "Deep dynamical modeling and control of unsteady fluid flows",
+    "authors": [
+      "Jeremy Morton",
+      "Antony Jameson",
+      "J Mykel",
+      "Freddie Kochenderfer",
+      "Witherden"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Eric Nguyen, Karan Goel, Albert Gu, Gordon Downs, Preey Shah, Tri Dao, Stephen Baccus, and Christopher Ré. S4nd: Modeling images and videos as multidimensional signals with state spaces. In Advances in Neural Information Processing Systems, volume 35, pp. 2846-2861, 2022.",
+    "title": "S4nd: Modeling images and videos as multidimensional signals with state spaces",
+    "authors": [
+      "Eric Nguyen",
+      "Karan Goel",
+      "Albert Gu",
+      "Gordon Downs",
+      "Preey Shah",
+      "Tri Dao",
+      "Stephen Baccus",
+      "Christopher Ré"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "M Nikravesh, AE Farell, and TG Stanford. Control of nonisothermal CSTR with time varying parameters via dynamic neural network control (DNNC). Chemical Engineering Journal, 76(1): 1-16, 2000.",
+    "title": "Control of nonisothermal CSTR with time varying parameters via dynamic neural network control (DNNC)",
+    "authors": [
+      "Nikravesh",
+      "Farell",
+      "Stanford"
+    ],
+    "venue": "Chemical Engineering Journal",
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Julian Nubert, Johannes Köhler, Vincent Berenz, Frank Allgöwer, and Sebastian Trimpe. Safe and fast tracking on a robot manipulator: Robust MPC and neural network control. IEEE Robotics and Automation Letters, 5(2):3050-3057, 2020.",
+    "title": "Safe and fast tracking on a robot manipulator: Robust MPC and neural network control",
+    "authors": [
+      "Julian Nubert",
+      "Johannes Köhler",
+      "Vincent Berenz",
+      "Frank Allgöwer",
+      "Sebastian Trimpe"
+    ],
+    "venue": "IEEE Robotics and Automation Letters",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Jiacheng Ruan and Suncheng Xiang. VM-UNet: Vision Mamba UNet for medical image segmentation. arXiv preprint arXiv:2402.02491, 2024.",
+    "title": "VM-UNet: Vision Mamba UNet for medical image segmentation",
+    "authors": [
+      "Jiacheng Ruan",
+      "Suncheng Xiang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.02491"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Jan C Schulze, Danimir T Doncevic, and Alexander Mitsos. Identification of MIMO Wiener-type Koopman models for data-driven model reduction using deep learning. Computers & Chemical Engineering, 161:107781, 2022.",
+    "title": "Identification of MIMO Wiener-type Koopman models for data-driven model reduction using deep learning",
+    "authors": [
+      "Jan C Schulze",
+      "Danimir T Doncevic",
+      "Alexander Mitsos"
+    ],
+    "venue": "Computers & Chemical Engineering",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Haojie Shi and Max Q-H Meng. Deep Koopman operator with control for nonlinear systems. IEEE Robotics and Automation Letters, 7(3):7700-7707, 2022.",
+    "title": "Deep Koopman operator with control for nonlinear systems",
+    "authors": [
+      "Haojie Shi",
+      "Max Q-H Meng"
+    ],
+    "venue": "IEEE Robotics and Automation Letters",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Aivar Sootla, Natalja Strelkowa, Damien Ernst, Mauricio Barahona, and Guy-Bart Stan. On periodic reference tracking using batch-mode reinforcement learning with application to gene regulatory network control. In IEEE Conference on Decision and Control, pp. 4086-4091, 2013.",
+    "title": "On periodic reference tracking using batch-mode reinforcement learning with application to gene regulatory network control",
+    "authors": [
+      "Aivar Sootla",
+      "Natalja Strelkowa",
+      "Damien Ernst",
+      "Mauricio Barahona",
+      "Guy-Bart Stan"
+    ],
+    "venue": "IEEE Conference on Decision and Control",
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Natalja Strelkowa and Mauricio Barahona. Switchable genetic oscillator operating in quasi-stable mode. Journal of The Royal Society Interface, 7(48):1071-1082, 2010.",
+    "title": "Switchable genetic oscillator operating in quasi-stable mode",
+    "authors": [
+      "Natalja Strelkowa",
+      "Mauricio Barahona"
+    ],
+    "venue": "Journal of The Royal Society Interface",
+    "year": 2010,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Naoya Takeishi, Yoshinobu Kawahara, and Takehisa Yairi. Learning Koopman invariant subspaces for dynamic mode decomposition. In Advances in Neural Information Processing Systems, volume 30, 2017.",
+    "title": "Learning Koopman invariant subspaces for dynamic mode decomposition",
+    "authors": [
+      "Naoya Takeishi",
+      "Yoshinobu Kawahara",
+      "Takehisa Yairi"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Peter Van Overschee and BL0888 De Moor. Subspace identification for linear systems: Theory-Implementation-Applications. Springer Science & Business Media, 2012.",
+    "title": "Peter Van Overschee and BL0888 De Moor. Subspace identification for linear systems: Theory-Implementation-Applications",
+    "authors": [],
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, and Illia Polosukhin. Attention is all you need. In Advances in Neural Information Processing Systems, volume 30. Curran Associates, Inc., 2017.",
+    "title": "Attention is all you need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N Gomez",
+      "Łukasz Kaiser",
+      "Illia Polosukhin"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Yogesh Verma, Markus Heinonen, and Vikas Garg. Climode: Climate and weather forecasting with physics-informed neural odes. In International Conference on Learning Representations, 2024.",
+    "title": "Climode: Climate and weather forecasting with physics-informed neural odes",
+    "authors": [
+      "Yogesh Verma",
+      "Markus Heinonen",
+      "Vikas Garg"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Andreas Wächter and Lorenz T Biegler. On the implementation of an interior-point filter linesearch algorithm for large-scale nonlinear programming. Mathematical Programming, 106(1): 25-57, 2006.",
+    "title": "On the implementation of an interior-point filter linesearch algorithm for large-scale nonlinear programming",
+    "authors": [
+      "Andreas Wächter",
+      "T Lorenz",
+      "Biegler"
+    ],
+    "venue": "Mathematical Programming",
+    "year": 2006,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Kun Wang, Hao Wu, Yifan Duan, Guibin Zhang, Kai Wang, Xiaojiang Peng, Yu Zheng, Yuxuan Liang, and Yang Wang. Nuwadynamics: Discovering and updating in causal spatio-temporal modeling. In International Conference on Learning Representations, 2024.",
+    "title": "Nuwadynamics: Discovering and updating in causal spatio-temporal modeling",
+    "authors": [
+      "Kun Wang",
+      "Hao Wu",
+      "Yifan Duan",
+      "Guibin Zhang",
+      "Kai Wang",
+      "Xiaojiang Peng",
+      "Yu Zheng",
+      "Yuxuan Liang",
+      "Yang Wang"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "Matthew O Williams, Ioannis G Kevrekidis, and Clarence W Rowley. A data-driven approximation of the Koopman operator: Extending dynamic mode decomposition. Journal of Nonlinear Science, 25:1307-1346, 2015.",
+    "title": "A data-driven approximation of the Koopman operator: Extending dynamic mode decomposition",
+    "authors": [
+      "Ioannis G Matthew O Williams",
+      "Clarence W Kevrekidis",
+      "Rowley"
+    ],
+    "venue": "Journal of Nonlinear Science",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, and Alexander M. Rush. Transformers: State-of-the-art natural language processing. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations, pp. 38-45, Online, 2020.",
+    "title": "Transformers: State-of-the-art natural language processing",
+    "authors": [
+      "Thomas Wolf",
+      "Lysandre Debut",
+      "Victor Sanh",
+      "Julien Chaumond",
+      "Clement Delangue",
+      "Anthony Moi",
+      "Pierric Cistac",
+      "Tim Rault",
+      "Rémi Louf",
+      "Morgan Funtowicz",
+      "Joe Davison",
+      "Sam Shleifer",
+      "Clara Patrick Von Platen",
+      "Yacine Ma",
+      "Julien Jernite",
+      "Canwen Plu",
+      "Teven Xu",
+      "Sylvain Le Scao",
+      "Mariama Gugger",
+      "Quentin Drame",
+      "Alexander M Lhoest",
+      "Rush"
+    ],
+    "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "Xunyuan Yin and Jinfeng Liu. Subsystem decomposition of process networks for simultaneous distributed state estimation and control. AIChE Journal, 65(3):904-914, 2019.",
+    "title": "Subsystem decomposition of process networks for simultaneous distributed state estimation and control",
+    "authors": [
+      "Xunyuan Yin",
+      "Jinfeng Liu"
+    ],
+    "venue": "AIChE Journal",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Jing Zeng and Jinfeng Liu. Economic model predictive control of wastewater treatment processes. Industrial & Engineering Chemistry Research, 54(21):5710-5721, 2015.",
+    "title": "Economic model predictive control of wastewater treatment processes",
+    "authors": [
+      "Jing Zeng",
+      "Jinfeng Liu"
+    ],
+    "venue": "Industrial & Engineering Chemistry Research",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Hao Zhang, Clarence W Rowley, Eric A Deem, and Louis N Cattafesta. Online dynamic mode decomposition for time-varying systems. SIAM Journal on Applied Dynamical Systems, 18(3): 1586-1609, 2019.",
+    "title": "Online dynamic mode decomposition for time-varying systems",
+    "authors": [
+      "Hao Zhang",
+      "Clarence W Rowley",
+      "Eric A Deem",
+      "Louis N Cattafesta"
+    ],
+    "venue": "SIAM Journal on Applied Dynamical Systems",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Xuewen Zhang, Minghao Han, and Xunyuan Yin. Reduced-order Koopman modeling and predictive control of nonlinear processes. Computers & Chemical Engineering, 179:108440, 2023.",
+    "title": "Reduced-order Koopman modeling and predictive control of nonlinear processes",
+    "authors": [
+      "Xuewen Zhang",
+      "Minghao Han",
+      "Xunyuan Yin"
+    ],
+    "venue": "Computers & Chemical Engineering",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, et al. A survey of large language models. arXiv preprint arXiv:2303.18223, 2023.",
+    "title": "A survey of large language models",
+    "authors": [
+      "Kun Wayne Xin Zhao",
+      "Junyi Zhou",
+      "Tianyi Li",
+      "Xiaolei Tang",
+      "Yupeng Wang",
+      "Yingqian Hou",
+      "Beichen Min",
+      "Junjie Zhang",
+      "Zican Zhang",
+      "Dong"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2303.18223"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "Lianghui Zhu, Bencheng Liao, Qian Zhang, Xinlong Wang, Wenyu Liu, and Xinggang Wang. Vision Mamba: Efficient visual representation learning with bidirectional state space model. arXiv preprint arXiv:2401.09417, 2024.",
+    "title": "Vision Mamba: Efficient visual representation learning with bidirectional state space model",
+    "authors": [
+      "Lianghui Zhu",
+      "Bencheng Liao",
+      "Qian Zhang",
+      "Xinlong Wang",
+      "Wenyu Liu",
+      "Xinggang Wang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.09417"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

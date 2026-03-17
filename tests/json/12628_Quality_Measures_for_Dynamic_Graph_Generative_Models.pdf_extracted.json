@@ -1,0 +1,730 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Abdulrahman Aldhaheri and Jeongkyu Lee. Event detection on large social media using temporal analysis. In 2017 IEEE 7th Annual Computing and Communication Workshop and Conference (CCWC), pp. 1-6. IEEE, 2017.",
+    "title": "Event detection on large social media using temporal analysis",
+    "authors": [
+      "Abdulrahman Aldhaheri",
+      "Jeongkyu Lee"
+    ],
+    "venue": "2017 IEEE 7th Annual Computing and Communication Workshop and Conference (CCWC)",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Ella Bingham and Heikki Mannila. Random projection in dimensionality reduction: applications to image and text data. In Proceedings of the seventh ACM SIGKDD international conference on Knowledge discovery and data mining, pp. 245-250, 2001.",
+    "title": "Random projection in dimensionality reduction: applications to image and text data",
+    "authors": [
+      "Ella Bingham",
+      "Heikki Mannila"
+    ],
+    "venue": "Proceedings of the seventh ACM SIGKDD international conference on Knowledge discovery and data mining",
+    "year": 2001,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Mikołaj Bińkowski, Danica J Sutherland, Michael Arbel, and Arthur Gretton. Demystifying mmd gans. arXiv preprint arXiv:1801.01401, 2018.",
+    "title": "Demystifying mmd gans",
+    "authors": [
+      "Mikołaj Bińkowski",
+      "Danica J Sutherland",
+      "Michael Arbel",
+      "Arthur Gretton"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1801.01401"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Xiaohui Chen, Xu Han, Jiajing Hu, Francisco JR Ruiz, and Liping Liu. Order matters: Probabilistic modeling of node sequence for graph generation. arXiv preprint arXiv:2106.06189, 2021.",
+    "title": "Order matters: Probabilistic modeling of node sequence for graph generation",
+    "authors": [
+      "Xiaohui Chen",
+      "Xu Han",
+      "Jiajing Hu",
+      "Francisco Jr Ruiz",
+      "Liping Liu"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2106.06189"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Krzysztof M Choromanski, Mark Rowland, and Adrian Weller. The unreasonable effectiveness of structured random orthogonal embeddings. Advances in neural information processing systems, 30, 2017.",
+    "title": "The unreasonable effectiveness of structured random orthogonal embeddings",
+    "authors": [
+      "M Krzysztof",
+      "Mark Choromanski",
+      "Adrian Rowland",
+      "Weller"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Anirban Dutta Choudhury and Ananda S Chowdhury. Change: Cardiac health analysis using graph eigenvalues. In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 4025-4029. IEEE, 2018.",
+    "title": "Change: Cardiac health analysis using graph eigenvalues",
+    "authors": [
+      "Anirban Dutta",
+      "Choudhury",
+      "Ananda S Chowdhury"
+    ],
+    "venue": "2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Amit Daniely, Roy Frostig, and Yoram Singer. Toward deeper understanding of neural networks: The power of initialization and a dual view on expressivity. Advances in neural information processing systems, 29, 2016.",
+    "title": "Toward deeper understanding of neural networks: The power of initialization and a dual view on expressivity",
+    "authors": [
+      "Amit Daniely",
+      "Roy Frostig",
+      "Yoram Singer"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Sanjoy Dasgupta and Anupam Gupta. An elementary proof of a theorem of johnson and lindenstrauss. Random Structures & Algorithms, 22(1):60-65, 2003.",
+    "title": "An elementary proof of a theorem of johnson and lindenstrauss",
+    "authors": [
+      "Sanjoy Dasgupta",
+      "Anupam Gupta"
+    ],
+    "venue": "Random Structures & Algorithms",
+    "year": 2003,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Michael Defferrard, Xavier Bresson, and Pierre Vandergheynst. Convolutional neural networks on graphs with fast localized spectral filtering. Advances in neural information processing systems, 29, 2016.",
+    "title": "Convolutional neural networks on graphs with fast localized spectral filtering",
+    "authors": [
+      "Michael Defferrard",
+      "Xavier Bresson",
+      "Pierre Vandergheynst"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Matthias Fey and Jan Eric Lenssen. Fast graph representation learning with pytorch geometric. arXiv preprint arXiv:1903.02428, 2019.",
+    "title": "Fast graph representation learning with pytorch geometric",
+    "authors": [
+      "Matthias Fey",
+      "Jan Eric Lenssen"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1903.02428"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Brendan J Frey and Delbert Dueck. Clustering by passing messages between data points. science, 315(5814):972-976, 2007.",
+    "title": "Clustering by passing messages between data points",
+    "authors": [
+      "J Brendan",
+      "Delbert Frey",
+      "Dueck"
+    ],
+    "venue": "science",
+    "year": 2007,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Bent Fuglede and Flemming Topsoe. Jensen-shannon divergence and hilbert space embedding. In International symposium onInformation theory, 2004. ISIT 2004. Proceedings., pp. 31. IEEE, 2004.",
+    "title": "Jensen-shannon divergence and hilbert space embedding",
+    "authors": [
+      "Bent Fuglede",
+      "Flemming Topsoe"
+    ],
+    "venue": "International symposium onInformation theory",
+    "year": 2004,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Raja Giryes, Guillermo Sapiro, and Alex M Bronstein. Deep neural networks with random gaussian weights: A universal classification strategy? IEEE Transactions on Signal Processing, 64(13): 3444-3457, 2016.",
+    "title": "Deep neural networks with random gaussian weights: A universal classification strategy? IEEE Transactions on Signal Processing",
+    "authors": [
+      "Raja Giryes",
+      "Guillermo Sapiro",
+      "Alex M Bronstein"
+    ],
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Arthur Gretton, Karsten Borgwardt, Malte Rasch, Bernhard Schölkopf, and Alex Smola. A kernel method for the two-sample-problem. Advances in neural information processing systems, 19, 2006.",
+    "title": "A kernel method for the two-sample-problem",
+    "authors": [
+      "Arthur Gretton",
+      "Karsten Borgwardt",
+      "Malte Rasch",
+      "Bernhard Schölkopf",
+      "Alex Smola"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2006,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Shubham Gupta, Sahil Manchanda, Srikanta Bedathur, and Sayan Ranu. Tigger: Scalable generative modelling for temporal interaction graphs. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 36, pp. 6819-6828, 2022.",
+    "title": "Tigger: Scalable generative modelling for temporal interaction graphs",
+    "authors": [
+      "Shubham Gupta",
+      "Sahil Manchanda",
+      "Srikanta Bedathur",
+      "Sayan Ranu"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Aric Hagberg, Pieter J Swart, and Daniel A Schult. Exploring network structure, dynamics, and function using networkx. Technical report, Los Alamos National Laboratory (LANL), Los Alamos, NM (United States), 2008.",
+    "title": "Exploring network structure, dynamics, and function using networkx",
+    "authors": [
+      "Aric Hagberg",
+      "Pieter J Swart",
+      "Daniel A Schult"
+    ],
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, and Sepp Hochreiter. Gans trained by a two time-scale update rule converge to a local nash equilibrium. Advances in neural information processing systems, 30, 2017a.",
+    "title": "Gans trained by a two time-scale update rule converge to a local nash equilibrium",
+    "authors": [
+      "Martin Heusel",
+      "Hubert Ramsauer",
+      "Thomas Unterthiner",
+      "Bernhard Nessler",
+      "Sepp Hochreiter"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, and Sepp Hochreiter. Gans trained by a two time-scale update rule converge to a local nash equilibrium. Advances in neural information processing systems, 30, 2017b.",
+    "title": "Gans trained by a two time-scale update rule converge to a local nash equilibrium",
+    "authors": [
+      "Martin Heusel",
+      "Hubert Ramsauer",
+      "Thomas Unterthiner",
+      "Bernhard Nessler",
+      "Sepp Hochreiter"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "William B Johnson and Joram Lindenstrauss. Extensions of lipschitz mapping into hilbert space. Contemporary mathematics, 26(189-206):323, 1984.",
+    "title": "Extensions of lipschitz mapping into hilbert space",
+    "authors": [
+      "B William",
+      "Joram Johnson",
+      "Lindenstrauss"
+    ],
+    "venue": "Contemporary mathematics",
+    "year": 1984,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Seyed Mehran Kazemi. Dynamic graph neural networks. Graph Neural Networks: Foundations, Frontiers, and Applications, pp. 323-349, 2022.",
+    "title": "Dynamic graph neural networks",
+    "authors": [
+      "Seyed Mehran",
+      "Kazemi"
+    ],
+    "venue": "Graph Neural Networks: Foundations, Frontiers, and Applications",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Thomas N Kipf and Max Welling. Semi-supervised classification with graph convolutional networks. arXiv preprint arXiv:1609.02907, 2016a.",
+    "title": "Semi-supervised classification with graph convolutional networks",
+    "authors": [
+      "N Thomas",
+      "Max Kipf",
+      "Welling"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1609.02907"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Thomas N Kipf and Max Welling. Semi-supervised classification with graph convolutional networks. arXiv preprint arXiv:1609.02907, 2016b.",
+    "title": "Semi-supervised classification with graph convolutional networks",
+    "authors": [
+      "N Thomas",
+      "Max Kipf",
+      "Welling"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1609.02907"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Solomon Kullback. Kullback-leibler divergence, 1951.",
+    "title": "Kullback-leibler divergence",
+    "authors": [
+      "Solomon Kullback"
+    ],
+    "year": 1951,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Srijan Kumar, Xikun Zhang, and Jure Leskovec. Predicting dynamic embedding trajectory in temporal interaction networks. In Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining, pp. 1269-1278, 2019.",
+    "title": "Predicting dynamic embedding trajectory in temporal interaction networks",
+    "authors": [
+      "Srijan Kumar",
+      "Xikun Zhang",
+      "Jure Leskovec"
+    ],
+    "venue": "Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Frank J Massey Jr. The kolmogorov-smirnov test for goodness of fit. Journal of the American statistical Association, 46(253):68-78, 1951.",
+    "title": "The kolmogorov-smirnov test for goodness of fit",
+    "authors": [
+      "J Frank",
+      "Massey"
+    ],
+    "venue": "Journal of the American statistical Association",
+    "year": 1951,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Priyanka Mathur and Vijay Kumar Chakka. Graph signal processing of eeg signals for detection of epilepsy. In 2020 7th International Conference on Signal Processing and Integrated Networks (SPIN), pp. 839-843. IEEE, 2020.",
+    "title": "Graph signal processing of eeg signals for detection of epilepsy",
+    "authors": [
+      "Priyanka Mathur",
+      "Vijay Kumar",
+      "Chakka"
+    ],
+    "venue": "2020 7th International Conference on Signal Processing and Integrated Networks (SPIN)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Christopher Morris, Martin Ritzert, Matthias Fey, William L Hamilton, Jan Eric Lenssen, Gaurav Rattan, and Martin Grohe. Weisfeiler and leman go neural: Higher-order graph neural networks. In Proceedings of the AAAI conference on artificial intelligence, volume 33, pp. 4602-4609, 2019.",
+    "title": "Weisfeiler and leman go neural: Higher-order graph neural networks",
+    "authors": [
+      "Christopher Morris",
+      "Martin Ritzert",
+      "Matthias Fey",
+      "Jan William L Hamilton",
+      "Gaurav Eric Lenssen",
+      "Martin Rattan",
+      "Grohe"
+    ],
+    "venue": "Proceedings of the AAAI conference on artificial intelligence",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Ido Nachum, Jan Hazla, Michael Gastpar, and Anatoly Khina. A johnson-lindenstrauss framework for randomly initialized cnns. arXiv preprint arXiv:2111.02155, 2021.",
+    "title": "A johnson-lindenstrauss framework for randomly initialized cnns",
+    "authors": [
+      "Ido Nachum",
+      "Jan Hazla",
+      "Michael Gastpar",
+      "Anatoly Khina"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2111.02155"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Muhammad Ferjad Naeem, Seong Joon Oh, Youngjung Uh, Yunjey Choi, and Jaejun Yoo. Reliable fidelity and diversity metrics for generative models. In International Conference on Machine Learning, pp. 7176-7185. PMLR, 2020.",
+    "title": "Reliable fidelity and diversity metrics for generative models",
+    "authors": [
+      "Muhammad Ferjad Naeem",
+      "Seong Joon Oh",
+      "Youngjung Uh",
+      "Yunjey Choi",
+      "Jaejun Yoo"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Vincenzo Nicosia, John Tang, Cecilia Mascolo, Mirco Musolesi, Giovanni Russo, and Vito Latora. Graph metrics for temporal networks. Temporal networks, pp. 15-40, 2013.",
+    "title": "Graph metrics for temporal networks",
+    "authors": [
+      "Vincenzo Nicosia",
+      "John Tang",
+      "Cecilia Mascolo",
+      "Mirco Musolesi",
+      "Giovanni Russo",
+      "Vito Latora"
+    ],
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Leslie O'Bray, Max Horn, Bastian Rieck, and Karsten Borgwardt. Evaluation metrics for graph generative models: Problems, pitfalls, and practical solutions. arXiv preprint arXiv:2106.01098, 2021.",
+    "title": "Evaluation metrics for graph generative models: Problems, pitfalls, and practical solutions",
+    "authors": [
+      "O' Leslie",
+      "Max Bray",
+      "Bastian Horn",
+      "Karsten Rieck",
+      "Borgwardt"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2106.01098"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Hardik Patel, Pavlos Paraskevopoulos, and Matthias Renz. Geotegra: A system for the creation of knowledge graph based on social network data with geographical and temporal information. In 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), pp. 617-620. IEEE, 2018.",
+    "title": "Geotegra: A system for the creation of knowledge graph based on social network data with geographical and temporal information",
+    "authors": [
+      "Hardik Patel",
+      "Pavlos Paraskevopoulos",
+      "Matthias Renz"
+    ],
+    "venue": "2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "S Patro. Normalization: A preprocessing stage. arXiv preprint arXiv:1503.06462, 2015.",
+    "title": "Normalization: A preprocessing stage",
+    "authors": [
+      "Patro"
+    ],
+    "year": 2015,
+    "identifiers": {
+      "arxiv_id": "arXiv:1503.06462"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Nitendra Rajput and Karamjit Singh. Temporal graph learning for financial world: Algorithms, scalability, explainability & fairness. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, pp. 4818-4819, 2022.",
+    "title": "Temporal graph learning for financial world: Algorithms, scalability, explainability & fairness",
+    "authors": [
+      "Nitendra Rajput",
+      "Karamjit Singh"
+    ],
+    "venue": "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Emanuele Rossi, Ben Chamberlain, Fabrizio Frasca, Davide Eynard, Federico Monti, and Michael Bronstein. Temporal graph networks for deep learning on dynamic graphs. arXiv preprint arXiv:2006.10637, 2020.",
+    "title": "Temporal graph networks for deep learning on dynamic graphs",
+    "authors": [
+      "Emanuele Rossi",
+      "Ben Chamberlain",
+      "Fabrizio Frasca",
+      "Davide Eynard",
+      "Federico Monti",
+      "Michael Bronstein"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2006.10637"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Ryoma Sato. A survey on the expressive power of graph neural networks. arXiv preprint arXiv:2003.04078, 2020.",
+    "title": "A survey on the expressive power of graph neural networks",
+    "authors": [
+      "Ryoma Sato"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2003.04078"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Ann E Sizemore and Danielle S Bassett. Dynamic graph metrics: Tutorial, toolbox, and tale. NeuroImage, 180:417-427, 2018.",
+    "title": "Dynamic graph metrics: Tutorial, toolbox, and tale",
+    "authors": [
+      "Ann E Sizemore",
+      "Danielle S Bassett"
+    ],
+    "venue": "NeuroImage",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Lucas Theis, Aäron van den Oord, and Matthias Bethge. A note on the evaluation of generative models. arXiv preprint arXiv:1511.01844, 2015.",
+    "title": "Aäron van den Oord, and Matthias Bethge. A note on the evaluation of generative models",
+    "authors": [
+      "Lucas Theis"
+    ],
+    "year": 2015,
+    "identifiers": {
+      "arxiv_id": "arXiv:1511.01844"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Rylee Thompson, Boris Knyazev, Elahe Ghalebi, Jungtaek Kim, and Graham W Taylor. On evaluation metrics for graph generative models. arXiv preprint arXiv:2201.09871, 2022.",
+    "title": "On evaluation metrics for graph generative models",
+    "authors": [
+      "Rylee Thompson",
+      "Boris Knyazev",
+      "Elahe Ghalebi",
+      "Jungtaek Kim",
+      "Graham W Taylor"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2201.09871"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Daixin Wang, Zhiqiang Zhang, Jun Zhou, Peng Cui, Jingli Fang, Quanhui Jia, Yanming Fang, and Yuan Qi. Temporal-aware graph neural network for credit risk prediction. In Proceedings of the 2021 SIAM International Conference on Data Mining (SDM), pp. 702-710. SIAM, 2021.",
+    "title": "Temporal-aware graph neural network for credit risk prediction",
+    "authors": [
+      "Daixin Wang",
+      "Zhiqiang Zhang",
+      "Jun Zhou",
+      "Peng Cui",
+      "Jingli Fang",
+      "Quanhui Jia",
+      "Yanming Fang",
+      "Yuan Qi"
+    ],
+    "venue": "Proceedings of the 2021 SIAM International Conference on Data Mining (SDM)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Felix Wu, Amauri Souza, Tianyi Zhang, Christopher Fifty, Tao Yu, and Kilian Weinberger. Simplifying graph convolutional networks. In International conference on machine learning, pp. 6861-6871. PMLR, 2019.",
+    "title": "Simplifying graph convolutional networks",
+    "authors": [
+      "Felix Wu",
+      "Amauri Souza",
+      "Tianyi Zhang",
+      "Christopher Fifty",
+      "Tao Yu",
+      "Kilian Weinberger"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Keyulu Xu, Weihua Hu, Jure Leskovec, and Stefanie Jegelka. How powerful are graph neural networks? In International Conference on Learning Representations, 2019. URL https: //openreview.net/forum?id=ryGs6iA5Km.",
+    "title": "How powerful are graph neural networks?",
+    "authors": [
+      "Keyulu Xu",
+      "Weihua Hu",
+      "Jure Leskovec",
+      "Stefanie Jegelka"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2019,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=ryGs6iA5Km"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Qiantong Xu, Gao Huang, Yang Yuan, Chuan Guo, Yu Sun, Felix Wu, and Kilian Weinberger. An empirical study on evaluation metrics of generative adversarial networks. arXiv preprint arXiv:1806.07755, 2018.",
+    "title": "An empirical study on evaluation metrics of generative adversarial networks",
+    "authors": [
+      "Qiantong Xu",
+      "Gao Huang",
+      "Yang Yuan",
+      "Chuan Guo",
+      "Yu Sun",
+      "Felix Wu",
+      "Kilian Weinberger"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1806.07755"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Giselle Zeno, Timothy La Fond, and Jennifer Neville. Dymond: Dynamic motif-nodes network generative model. In Proceedings of the Web Conference 2021, pp. 718-729, 2021.",
+    "title": "Dymond: Dynamic motif-nodes network generative model",
+    "authors": [
+      "Giselle Zeno",
+      "Timothy La Fond",
+      "Jennifer Neville"
+    ],
+    "venue": "Proceedings of the Web Conference 2021",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Liming Zhang, Liang Zhao, Shan Qin, Dieter Pfoser, and Chen Ling. Tg-gan: Continuous-time temporal graph deep generative models with time-validity constraints. In Proceedings of the Web Conference 2021, pp. 2104-2116, 2021.",
+    "title": "Tg-gan: Continuous-time temporal graph deep generative models with time-validity constraints",
+    "authors": [
+      "Liming Zhang",
+      "Liang Zhao",
+      "Shan Qin",
+      "Dieter Pfoser",
+      "Chen Ling"
+    ],
+    "venue": "Proceedings of the Web Conference 2021",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Dawei Zhou, Lecheng Zheng, Jiawei Han, and Jingrui He. A data-driven graph generative model for temporal interaction networks. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, pp. 401-411, 2020.",
+    "title": "A data-driven graph generative model for temporal interaction networks",
+    "authors": [
+      "Dawei Zhou",
+      "Lecheng Zheng",
+      "Jiawei Han",
+      "Jingrui He"
+    ],
+    "venue": "Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

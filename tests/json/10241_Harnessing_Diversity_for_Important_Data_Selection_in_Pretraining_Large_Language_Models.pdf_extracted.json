@@ -1,0 +1,1446 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Amro Abbas, Kushal Tirumala, Dániel Simig, Surya Ganguli, and Ari S Morcos. Semdedup: Dataefficient learning at web-scale through semantic deduplication. arXiv preprint arXiv:2303.09540, 2023.",
+    "title": "Semdedup: Dataefficient learning at web-scale through semantic deduplication",
+    "authors": [
+      "Amro Abbas",
+      "Kushal Tirumala",
+      "Dániel Simig",
+      "Surya Ganguli",
+      "Ari S Morcos"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2303.09540"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Ken Aho, DeWayne Derryberry, and Teri Peterson. Model selection for ecologists: the worldviews of aic and bic. Ecology, 95(3):631-636, 2014.",
+    "title": "Model selection for ecologists: the worldviews of aic and bic",
+    "authors": [
+      "Ken Aho",
+      "Dewayne Derryberry",
+      "Teri Peterson"
+    ],
+    "venue": "Ecology",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Alon Albalak, Liangming Pan, Colin Raffel, and William Yang Wang. Efficient online data mixing for language model pre-training. In R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Large Foundation Models, 2023.",
+    "title": "Efficient online data mixing for language model pre-training",
+    "authors": [
+      "Alon Albalak",
+      "Liangming Pan",
+      "Colin Raffel",
+      "William Yang",
+      "Wang"
+    ],
+    "venue": "R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Large Foundation Models",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "P Auer. Finite-time analysis of the multiarmed bandit problem, 2002.",
+    "title": "Finite-time analysis of the multiarmed bandit problem",
+    "authors": [
+      "Auer"
+    ],
+    "year": 2002,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Zhangir Azerbayev, Hailey Schoelkopf, Keiran Paster, Marco Dos Santos, Stephen McAleer, Albert Q Jiang, Jia Deng, Stella Biderman, and Sean Welleck. Llemma: An open language model for mathematics. arXiv preprint arXiv:2310.10631, 2023.",
+    "title": "Llemma: An open language model for mathematics",
+    "authors": [
+      "Zhangir Azerbayev",
+      "Hailey Schoelkopf",
+      "Keiran Paster",
+      "Marco Dos Santos",
+      "Stephen Mcaleer",
+      "Albert Q Jiang",
+      "Jia Deng",
+      "Stella Biderman",
+      "Sean Welleck"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.10631"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Juhan Bae, Nathan Ng, Alston Lo, Marzyeh Ghassemi, and Roger B Grosse. If influence functions are the answer, then what is the question? Advances in Neural Information Processing Systems, 35:17953-17967, 2022.",
+    "title": "If influence functions are the answer, then what is the question?",
+    "authors": [
+      "Juhan Bae",
+      "Nathan Ng",
+      "Alston Lo",
+      "Marzyeh Ghassemi",
+      "Roger B Grosse"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Tom B Brown. Language models are few-shot learners. arXiv preprint arXiv:2005.14165, 2020.",
+    "title": "Language models are few-shot learners",
+    "authors": [
+      "Tom B Brown"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2005.14165"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Chengliang Chai, Jiabin Liu, Nan Tang, Guoliang Li, and Yuyu Luo. Selective data acquisition in the wild for model charging. Proc. VLDB Endow., 15(7):1466-1478, 2022. doi: 10.14778/ 3523210.3523223. URL https://www.vldb.org/pvldb/vol15/p1466-li.pdf.",
+    "title": "Selective data acquisition in the wild for model charging",
+    "authors": [
+      "Chengliang Chai",
+      "Jiabin Liu",
+      "Nan Tang",
+      "Guoliang Li",
+      "Yuyu Luo"
+    ],
+    "venue": "Proc. VLDB Endow",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.14778/3523210.3523223",
+      "arxiv_id": "3210.35232",
+      "url": "https://www.vldb.org/pvldb/vol15/p1466-li.pdf"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Chengliang Chai, Jiayi Wang, Nan Tang, Ye Yuan, Jiabin Liu, Yuhao Deng, and Guoren Wang. Efficient coreset selection with cluster-based methods. In Ambuj K. Singh, Yizhou Sun, Leman Akoglu, Dimitrios Gunopulos, Xifeng Yan, Ravi Kumar, Fatma Ozcan, and Jieping Ye (eds.), Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD 2023, Long Beach, CA, USA, August 6-10, 2023, pp. 167-178. ACM, 2023. doi: 10.1145/ 3580305.3599326. URL https://doi.org/10.1145/3580305.3599326.",
+    "title": "Efficient coreset selection with cluster-based methods",
+    "authors": [
+      "Chengliang Chai",
+      "Jiayi Wang",
+      "Nan Tang",
+      "Ye Yuan",
+      "Jiabin Liu",
+      "Yuhao Deng",
+      "Guoren Wang",
+      "; Ambuj",
+      "K Singh",
+      "Yizhou Sun",
+      "Leman Akoglu",
+      "Dimitrios Gunopulos",
+      "Xifeng Yan",
+      "Ravi Kumar"
+    ],
+    "venue": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.1145/3580305.3599326",
+      "arxiv_id": "0305.35993",
+      "url": "https://doi.org/10.1145/3580305.3599326"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Jie Chen, Zhipeng Chen, Jiapeng Wang, Kun Zhou, Yutao Zhu, Jinhao Jiang, Yingqian Min, Wayne Xin Zhao, Zhicheng Dou, Jiaxin Mao, et al. Towards effective and efficient continual pre-training of large language models. arXiv preprint arXiv:2407.18743, 2024.",
+    "title": "Towards effective and efficient continual pre-training of large language models",
+    "authors": [
+      "Jie Chen",
+      "Zhipeng Chen",
+      "Jiapeng Wang",
+      "Kun Zhou",
+      "Yutao Zhu",
+      "Jinhao Jiang",
+      "Yingqian Min",
+      "Wayne Xin Zhao",
+      "Zhicheng Dou",
+      "Jiaxin Mao"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2407.18743"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Yizong Cheng. Mean shift, mode seeking, and clustering. IEEE transactions on pattern analysis and machine intelligence, 17(8):790-799, 1995.",
+    "title": "Mean shift, mode seeking, and clustering",
+    "authors": [
+      "Yizong Cheng"
+    ],
+    "venue": "IEEE transactions on pattern analysis and machine intelligence",
+    "year": 1995,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Sang Keun Choe, Hwijeen Ahn, Juhan Bae, Kewen Zhao, Minsoo Kang, Youngseog Chung, Adithya Pratapa, Willie Neiswanger, Emma Strubell, Teruko Mitamura, et al. What is your data worth to gpt? llm-scale data valuation with influence functions. arXiv preprint arXiv:2405.13954, 2024.",
+    "title": "What is your data worth to gpt? llm-scale data valuation with influence functions",
+    "authors": [
+      "Sang Keun Choe",
+      "Hwijeen Ahn",
+      "Juhan Bae",
+      "Kewen Zhao",
+      "Minsoo Kang",
+      "Youngseog Chung",
+      "Adithya Pratapa",
+      "Willie Neiswanger",
+      "Emma Strubell",
+      "Teruko Mitamura"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.13954"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, et al. Scaling instruction-finetuned language models. Journal of Machine Learning Research, 25(70):1-53, 2024.",
+    "title": "Scaling instruction-finetuned language models",
+    "authors": [
+      "Chung Hyung Won",
+      "Le Hou",
+      "Shayne Longpre",
+      "Barret Zoph",
+      "Yi Tay",
+      "William Fedus",
+      "Yunxuan Li",
+      "Xuezhi Wang",
+      "Mostafa Dehghani",
+      "Siddhartha Brahma"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Christopher Clark, Kenton Lee, Ming-Wei Chang, Tom Kwiatkowski, Michael Collins, and Kristina Toutanova. Boolq: Exploring the surprising difficulty of natural yes/no questions. arXiv preprint arXiv:1905.10044, 2019.",
+    "title": "Exploring the surprising difficulty of natural yes/no questions",
+    "authors": [
+      "Christopher Clark",
+      "Kenton Lee",
+      "Ming-Wei Chang",
+      "Tom Kwiatkowski",
+      "Michael Collins",
+      "Kristina Toutanova",
+      "Boolq"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1905.10044"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Peter Clark, Isaac Cowhey, Oren Etzioni, Tushar Khot, Ashish Sabharwal, Carissa Schoenick, and Oyvind Tafjord. Think you have solved question answering? try arc, the ai2 reasoning challenge. arXiv preprint arXiv:1803.05457, 2018.",
+    "title": "Think you have solved question answering? try arc, the ai2 reasoning challenge",
+    "authors": [
+      "Peter Clark",
+      "Isaac Cowhey",
+      "Oren Etzioni",
+      "Tushar Khot",
+      "Ashish Sabharwal",
+      "Carissa Schoenick",
+      "Oyvind Tafjord"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1803.05457"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, et al. Training verifiers to solve math word problems. arXiv preprint arXiv:2110.14168, 2021.",
+    "title": "Training verifiers to solve math word problems",
+    "authors": [
+      "Karl Cobbe",
+      "Vineet Kosaraju",
+      "Mohammad Bavarian",
+      "Mark Chen",
+      "Heewoo Jun",
+      "Lukasz Kaiser",
+      "Matthias Plappert",
+      "Jerry Tworek",
+      "Jacob Hilton",
+      "Reiichiro Nakano"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2110.14168"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Yuhao Deng, Chengliang Chai, Lei Cao, Nan Tang, Ju Fan, Jiayi Wang, Ye Yuan, and Guoren Wang. Misdetect: Iterative mislabel detection using early loss.",
+    "title": "Misdetect: Iterative mislabel detection using early loss",
+    "authors": [
+      "Yuhao Deng",
+      "Chengliang Chai",
+      "Lei Cao",
+      "Nan Tang",
+      "Ju Fan",
+      "Jiayi Wang",
+      "Ye Yuan",
+      "Guoren Wang"
+    ],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Nan Du, Yanping Huang, Andrew M Dai, Simon Tong, Dmitry Lepikhin, Yuanzhong Xu, Maxim Krikun, Yanqi Zhou, Adams Wei Yu, Orhan Firat, et al. Glam: Efficient scaling of language models with mixture-of-experts. In International Conference on Machine Learning, pp. 55475569. PMLR, 2022.",
+    "title": "Glam: Efficient scaling of language models with mixture-of-experts",
+    "authors": [
+      "Nan Du",
+      "Yanping Huang",
+      "Andrew M Dai",
+      "Simon Tong",
+      "Dmitry Lepikhin",
+      "Yuanzhong Xu",
+      "Maxim Krikun",
+      "Yanqi Zhou",
+      "Adams Wei Yu",
+      "Orhan Firat"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, Ahmad Al-Dahle, Aiesha Letman, Akhil Mathur, Alan Schelten, Amy Yang, Angela Fan, et al. The llama 3 herd of models. arXiv preprint arXiv:2407.21783, 2024.",
+    "title": "The llama 3 herd of models",
+    "authors": [
+      "Abhimanyu Dubey",
+      "Abhinav Jauhri",
+      "Abhinav Pandey",
+      "Abhishek Kadian",
+      "Ahmad Al-Dahle",
+      "Aiesha Letman",
+      "Akhil Mathur",
+      "Alan Schelten",
+      "Amy Yang",
+      "Angela Fan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2407.21783"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Logan Engstrom, Axel Feldmann, and Aleksander Madry. Dsdm: Model-aware dataset selection with datamodels. arXiv preprint arXiv:2401.12926, 2024.",
+    "title": "Dsdm: Model-aware dataset selection with datamodels",
+    "authors": [
+      "Logan Engstrom",
+      "Axel Feldmann",
+      "Aleksander Madry"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.12926"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Martin Ester, Hans-Peter Kriegel, Jörg Sander, Xiaowei Xu, et al. A density-based algorithm for discovering clusters in large spatial databases with noise. In kdd, volume 96, pp. 226-231, 1996.",
+    "title": "A density-based algorithm for discovering clusters in large spatial databases with noise",
+    "authors": [
+      "Martin Ester",
+      "Hans-Peter Kriegel",
+      "Jörg Sander",
+      "Xiaowei Xu"
+    ],
+    "year": 1996,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Mario A. T. Figueiredo and Anil K. Jain. Unsupervised learning of finite mixture models. IEEE Transactions on pattern analysis and machine intelligence, 24(3):381-396, 2002.",
+    "title": "Unsupervised learning of finite mixture models",
+    "authors": [
+      "A T Mario",
+      "Anil K Figueiredo",
+      "Jain"
+    ],
+    "venue": "IEEE Transactions on pattern analysis and machine intelligence",
+    "year": 2002,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "L Gao, J Tow, B Abbasi, S Biderman, S Black, A DiPofi, C Foster, L Golding, J Hsu, A Le Noac'h, et al. A framework for few-shot language model evaluation, 12 2023. URL https://zenodo. org/records/10256836, 7, 2023.",
+    "title": "A framework for few-shot language model evaluation",
+    "authors": [
+      "Gao",
+      "B Tow",
+      "S Abbasi",
+      "S Biderman",
+      "Black",
+      "C Dipofi",
+      "L Foster",
+      "J Golding",
+      "A Hsu",
+      "Le Noac'h"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://zenodo.org/records/10256836"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, et al. The pile: An 800gb dataset of diverse text for language modeling. arXiv preprint arXiv:2101.00027, 2020.",
+    "title": "The pile: An 800gb dataset of diverse text for language modeling",
+    "authors": [
+      "Leo Gao",
+      "Stella Biderman",
+      "Sid Black",
+      "Laurence Golding",
+      "Travis Hoppe",
+      "Charles Foster",
+      "Jason Phang",
+      "Horace He",
+      "Anish Thite",
+      "Noa Nabeshima"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2101.00027"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Roger Grosse, Juhan Bae, Cem Anil, Nelson Elhage, Alex Tamkin, Amirhossein Tajdini, Benoit Steiner, Dustin Li, Esin Durmus, Ethan Perez, et al. Studying large language model generalization with influence functions. arXiv preprint arXiv:2308.03296, 2023.",
+    "title": "Studying large language model generalization with influence functions",
+    "authors": [
+      "Roger Grosse",
+      "Juhan Bae",
+      "Cem Anil",
+      "Nelson Elhage",
+      "Alex Tamkin",
+      "Amirhossein Tajdini",
+      "Benoit Steiner",
+      "Dustin Li",
+      "Esin Durmus",
+      "Ethan Perez"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2308.03296"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, Olli Saarikivi, et al. Textbooks are all you need. arXiv preprint arXiv:2306.11644, 2023.",
+    "title": "Textbooks are all you need",
+    "authors": [
+      "Suriya Gunasekar",
+      "Yi Zhang",
+      "Jyoti Aneja",
+      "Caio César",
+      "Teodoro Mendes",
+      "Allie Del Giorno",
+      "Sivakanth Gopi",
+      "Mojan Javaheripi",
+      "Piero Kauffmann",
+      "Gustavo De Rosa",
+      "Olli Saarikivi"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.11644"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, and Noah A Smith. Don't stop pretraining: Adapt language models to domains and tasks. arXiv preprint arXiv:2004.10964, 2020.",
+    "title": "Don't stop pretraining: Adapt language models to domains and tasks",
+    "authors": [
+      "Suchin Gururangan",
+      "Ana Marasović",
+      "Swabha Swayamdipta",
+      "Kyle Lo",
+      "Iz Beltagy",
+      "Doug Downey",
+      "Noah A Smith"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2004.10964"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Muhammad Usman Hadi, Rizwan Qureshi, Abbas Shah, Muhammad Irfan, Anas Zafar, Muhammad Bilal Shaikh, Naveed Akhtar, Jia Wu, Seyedali Mirjalili, et al. A survey on large language models: Applications, challenges, limitations, and practical usage. Authorea Preprints, 2023.",
+    "title": "A survey on large language models: Applications, challenges, limitations, and practical usage",
+    "authors": [
+      "Rizwan Muhammad Usman Hadi",
+      "Abbas Qureshi",
+      "Muhammad Shah",
+      "Anas Irfan",
+      "Muhammad Zafar",
+      "Naveed Bilal Shaikh",
+      "Jia Akhtar",
+      "Seyedali Wu",
+      "Mirjalili"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt. Measuring massive multitask language understanding. arXiv preprint arXiv:2009.03300, 2020.",
+    "title": "Measuring massive multitask language understanding",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Steven Basart",
+      "Andy Zou",
+      "Mantas Mazeika",
+      "Dawn Song",
+      "Jacob Steinhardt"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2009.03300"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, and Jacob Steinhardt. Measuring mathematical problem solving with the math dataset. arXiv preprint arXiv:2103.03874, 2021.",
+    "title": "Measuring mathematical problem solving with the math dataset",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Saurav Kadavath",
+      "Akul Arora",
+      "Steven Basart",
+      "Eric Tang",
+      "Dawn Song",
+      "Jacob Steinhardt"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2103.03874"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, et al. An empirical analysis of compute-optimal large language model training. Advances in Neural Information Processing Systems, 35:30016-30030, 2022.",
+    "title": "An empirical analysis of compute-optimal large language model training",
+    "authors": [
+      "Jordan Hoffmann",
+      "Sebastian Borgeaud",
+      "Arthur Mensch",
+      "Elena Buchatskaya",
+      "Trevor Cai",
+      "Eliza Rutherford",
+      "Diego De Las",
+      "Lisa Anne Casas",
+      "Johannes Hendricks",
+      "Aidan Welbl",
+      "Clark"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "William B Johnson. Extensions of lipshitz mapping into hilbert space. In Conference modern analysis and probability, 1984, pp. 189-206, 1984.",
+    "title": "Extensions of lipshitz mapping into hilbert space",
+    "authors": [
+      "Johnson William"
+    ],
+    "venue": "Conference modern analysis and probability",
+    "year": 1984,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Pang Wei Koh and Percy Liang. Understanding black-box predictions via influence functions. In International conference on machine learning, pp. 1885-1894. PMLR, 2017.",
+    "title": "Understanding black-box predictions via influence functions",
+    "authors": [
+      "Pang Wei",
+      "Koh",
+      "Percy Liang"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, et al. Solving quantitative reasoning problems with language models. Advances in Neural Information Processing Systems, 35:3843-3857, 2022.",
+    "title": "Solving quantitative reasoning problems with language models",
+    "authors": [
+      "Aitor Lewkowycz",
+      "Anders Andreassen",
+      "David Dohan",
+      "Ethan Dyer",
+      "Henryk Michalewski",
+      "Vinay Ramasesh",
+      "Ambrose Slone",
+      "Cem Anil",
+      "Imanol Schlag",
+      "Theo Gutman-Solo"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, et al. Rho-1: Not all tokens are what you need. arXiv preprint arXiv:2404.07965, 2024.",
+    "title": "Rho-1: Not all tokens are what you need",
+    "authors": [
+      "Zhenghao Lin",
+      "Zhibin Gou",
+      "Yeyun Gong",
+      "Xiao Liu",
+      "Yelong Shen",
+      "Ruochen Xu",
+      "Chen Lin",
+      "Yujiu Yang",
+      "Jian Jiao",
+      "Nan Duan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.07965"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Jiabin Liu, Fu Zhu, Chengliang Chai, Yuyu Luo, and Nan Tang. Automatic data acquisition for deep learning. Proceedings of the VLDB Endowment, pp. 2739-2742, Jul 2021. doi: 10.14778/ 3476311.3476333. URL http://dx.doi.org/10.14778/3476311.3476333.",
+    "title": "Automatic data acquisition for deep learning",
+    "authors": [
+      "Jiabin Liu",
+      "Fu Zhu",
+      "Chengliang Chai",
+      "Yuyu Luo",
+      "Nan Tang"
+    ],
+    "venue": "Proceedings of the VLDB Endowment",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.14778/3476311.3476333",
+      "arxiv_id": "6311.34763",
+      "url": "http://dx.doi.org/10.14778/3476311.3476333"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Jian Liu, Leyang Cui, Hanmeng Liu, Dandan Huang, Yile Wang, and Yue Zhang. Logiqa: A challenge dataset for machine reading comprehension with logical reasoning. arXiv preprint arXiv:2007.08124, 2020.",
+    "title": "Logiqa: A challenge dataset for machine reading comprehension with logical reasoning",
+    "authors": [
+      "Jian Liu",
+      "Leyang Cui",
+      "Hanmeng Liu",
+      "Dandan Huang",
+      "Yile Wang",
+      "Yue Zhang"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2007.08124"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Max Marion, Ahmet Üstün, Luiza Pozzobon, Alex Wang, Marzieh Fadaee, and Sara Hooker. When less is more: Investigating data pruning for pretraining llms at scale. arXiv preprint arXiv:2309.04564, 2023.",
+    "title": "When less is more: Investigating data pruning for pretraining llms at scale",
+    "authors": [
+      "Max Marion",
+      "Ahmet Üstün",
+      "Luiza Pozzobon",
+      "Alex Wang",
+      "Marzieh Fadaee",
+      "Sara Hooker"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2309.04564"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "James Martens and Roger Grosse. Optimizing neural networks with kronecker-factored approximate curvature. In International conference on machine learning, pp. 2408-2417. PMLR, 2015.",
+    "title": "Optimizing neural networks with kronecker-factored approximate curvature",
+    "authors": [
+      "James Martens",
+      "Roger Grosse"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Stephen Merity, Caiming Xiong, James Bradbury, and Richard Socher. Pointer sentinel mixture models. arXiv preprint arXiv:1609.07843, 2016.",
+    "title": "Pointer sentinel mixture models",
+    "authors": [
+      "Stephen Merity",
+      "Caiming Xiong",
+      "James Bradbury",
+      "Richard Socher"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1609.07843"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Todor Mihaylov, Peter Clark, Tushar Khot, and Ashish Sabharwal. Can a suit of armor conduct electricity? a new dataset for open book question answering. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pp. 2381-2391, 2018.",
+    "title": "Can a suit of armor conduct electricity? a new dataset for open book question answering",
+    "authors": [
+      "Todor Mihaylov",
+      "Peter Clark",
+      "Tushar Khot",
+      "Ashish Sabharwal"
+    ],
+    "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Shervin Minaee, Tomas Mikolov, Narjes Nikzad, Meysam Chenaghlu, Richard Socher, Xavier Amatriain, and Jianfeng Gao. Large language models: A survey. arXiv preprint arXiv:2402.06196, 2024.",
+    "title": "Large language models: A survey",
+    "authors": [
+      "Shervin Minaee",
+      "Tomas Mikolov",
+      "Narjes Nikzad",
+      "Meysam Chenaghlu",
+      "Richard Socher",
+      "Xavier Amatriain",
+      "Jianfeng Gao"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.06196"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Niklas Muennighoff, Alexander Rush, Boaz Barak, Teven Le Scao, Nouamane Tazi, Aleksandra Piktus, Sampo Pyysalo, Thomas Wolf, and Colin A Raffel. Scaling data-constrained language models. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Scaling data-constrained language models",
+    "authors": [
+      "Niklas Muennighoff",
+      "Alexander Rush",
+      "Boaz Barak",
+      "Teven Le Scao",
+      "Nouamane Tazi",
+      "Aleksandra Piktus",
+      "Sampo Pyysalo",
+      "Thomas Wolf",
+      "Colin A Raffel"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Denis Paperno, Germán Kruszewski, Angeliki Lazaridou, Quan Ngoc Pham, Raffaella Bernardi, Sandro Pezzelle, Marco Baroni, Gemma Boleda, and Raquel Fernández. The lambada dataset: Word prediction requiring a broad discourse context. arXiv preprint arXiv:1606.06031, 2016.",
+    "title": "Gemma Boleda, and Raquel Fernández. The lambada dataset: Word prediction requiring a broad discourse context",
+    "authors": [
+      "Denis Paperno",
+      "Germán Kruszewski",
+      "Angeliki Lazaridou",
+      "Ngoc Quan",
+      "Raffaella Pham",
+      "Sandro Bernardi",
+      "Marco Pezzelle",
+      "Baroni"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1606.06031"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Keiran Paster, Marco Dos Santos, Zhangir Azerbayev, and Jimmy Ba. Openwebmath: An open dataset of high-quality mathematical web text. arXiv preprint arXiv:2310.06786, 2023.",
+    "title": "Openwebmath: An open dataset of high-quality mathematical web text",
+    "authors": [
+      "Keiran Paster",
+      "Marco Dos Santos",
+      "Zhangir Azerbayev",
+      "Jimmy Ba"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.06786"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Guilherme Penedo, Quentin Malartic, Daniel Hesslow, Ruxandra Cojocaru, Alessandro Cappelli, Hamza Alobeidli, Baptiste Pannier, Ebtesam Almazrouei, and Julien Launay. The refinedweb dataset for falcon llm: outperforming curated corpora with web data, and web data only. arXiv preprint arXiv:2306.01116, 2023.",
+    "title": "The refinedweb dataset for falcon llm: outperforming curated corpora with web data, and web data only",
+    "authors": [
+      "Guilherme Penedo",
+      "Quentin Malartic",
+      "Daniel Hesslow",
+      "Ruxandra Cojocaru",
+      "Alessandro Cappelli",
+      "Hamza Alobeidli",
+      "Baptiste Pannier",
+      "Ebtesam Almazrouei",
+      "Julien Launay"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.01116"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Guilherme Penedo, Hynek Kydlíček, Anton Lozhkov, Margaret Mitchell, Colin Raffel, Leandro Von Werra, Thomas Wolf, et al. The fineweb datasets: Decanting the web for the finest text data at scale. arXiv preprint arXiv:2406.17557, 2024.",
+    "title": "The fineweb datasets: Decanting the web for the finest text data at scale",
+    "authors": [
+      "Guilherme Penedo",
+      "Hynek Kydlíček",
+      "Anton Lozhkov",
+      "Margaret Mitchell",
+      "Colin Raffel",
+      "Leandro Von Werra",
+      "Thomas Wolf"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.17557"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Jiahui Peng, Xinlin Zhuang, Qiu Jiantao, Ren Ma, Jing Yu, Tianyi Bai, and Conghui He. Unsupervised topic models are data mixers for pre-training language models, 2025. URL https: //arxiv.org/abs/2502.16802.",
+    "title": "Unsupervised topic models are data mixers for pre-training language models",
+    "authors": [
+      "Jiahui Peng",
+      "Xinlin Zhuang",
+      "Qiu Jiantao",
+      "Ren Ma",
+      "Jing Yu",
+      "Tianyi Bai",
+      "Conghui He"
+    ],
+    "year": 2025,
+    "identifiers": {
+      "arxiv_id": "2502.16802",
+      "url": "https://arxiv.org/abs/2502.16802"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Garima Pruthi, Frederick Liu, Satyen Kale, and Mukund Sundararajan. Estimating training data influence by tracing gradient descent. Advances in Neural Information Processing Systems, 33: 19920-19930, 2020.",
+    "title": "Estimating training data influence by tracing gradient descent",
+    "authors": [
+      "Garima Pruthi",
+      "Frederick Liu",
+      "Satyen Kale",
+      "Mukund Sundararajan"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Haoran Que, Feiyu Duan, Liqun He, Yutao Mou, Wangchunshu Zhou, Jiaheng Liu, Wenge Rong, Zekun Moore Wang, Jian Yang, Ge Zhang, et al. Hellobench: Evaluating long text generation capabilities of large language models. arXiv preprint arXiv:2409.16191, 2024.",
+    "title": "Evaluating long text generation capabilities of large language models",
+    "authors": [
+      "Haoran Que",
+      "Feiyu Duan",
+      "Liqun He",
+      "Yutao Mou",
+      "Wangchunshu Zhou",
+      "Jiaheng Liu",
+      "Wenge Rong",
+      "Moore Zekun",
+      "Jian Wang",
+      "Ge Yang",
+      "Zhang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2409.16191"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Jack W Rae, Sebastian Borgeaud, Trevor Cai, Katie Millican, Jordan Hoffmann, Francis Song, John Aslanides, Sarah Henderson, Roman Ring, Susannah Young, et al. Scaling language models: Methods, analysis & insights from training gopher. arXiv preprint arXiv:2112.11446, 2021.",
+    "title": "Scaling language models: Methods, analysis & insights from training gopher",
+    "authors": [
+      "Sebastian Jack W Rae",
+      "Trevor Borgeaud",
+      "Katie Cai",
+      "Jordan Millican",
+      "Francis Hoffmann",
+      "John Song",
+      "Sarah Aslanides",
+      "Roman Henderson",
+      "Susannah Ring",
+      "Young"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2112.11446"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, and Peter J Liu. Exploring the limits of transfer learning with a unified text-to-text transformer. Journal of machine learning research, 21(140):1-67, 2020.",
+    "title": "Exploring the limits of transfer learning with a unified text-to-text transformer",
+    "authors": [
+      "Colin Raffel",
+      "Noam Shazeer",
+      "Adam Roberts",
+      "Katherine Lee",
+      "Sharan Narang",
+      "Michael Matena",
+      "Yanqi Zhou",
+      "Wei Li",
+      "Peter J Liu"
+    ],
+    "venue": "Journal of machine learning research",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Noveen Sachdeva, Benjamin Coleman, Wang-Cheng Kang, Jianmo Ni, Lichan Hong, Ed H Chi, James Caverlee, Julian McAuley, and Derek Zhiyuan Cheng. How to train data-efficient llms. arXiv preprint arXiv:2402.09668, 2024.",
+    "title": "How to train data-efficient llms",
+    "authors": [
+      "Noveen Sachdeva",
+      "Benjamin Coleman",
+      "Wang-Cheng Kang",
+      "Jianmo Ni",
+      "Lichan Hong",
+      "Ed H Chi",
+      "James Caverlee",
+      "Julian Mcauley",
+      "Derek Zhiyuan Cheng"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.09668"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Keisuke Sakaguchi, Ronan Le Bras, Chandra Bhagavatula, and Yejin Choi. Winogrande: An adversarial winograd schema challenge at scale. Communications of the ACM, 64(9):99-106, 2021.",
+    "title": "Winogrande: An adversarial winograd schema challenge at scale",
+    "authors": [
+      "Keisuke Sakaguchi",
+      "Le Ronan",
+      "Chandra Bras",
+      "Yejin Bhagavatula",
+      "Choi"
+    ],
+    "venue": "Communications of the ACM",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Maarten Sap, Hannah Rashkin, Derek Chen, Ronan Le Bras, and Yejin Choi. Social iqa: Commonsense reasoning about social interactions. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pp. 4463-4473, 2019.",
+    "title": "Social iqa: Commonsense reasoning about social interactions",
+    "authors": [
+      "Maarten Sap",
+      "Hannah Rashkin",
+      "Derek Chen",
+      "Ronan Le Bras",
+      "Yejin Choi"
+    ],
+    "venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Erich Schubert, Jörg Sander, Martin Ester, Hans Peter Kriegel, and Xiaowei Xu. Dbscan revisited, revisited: why and how you should (still) use dbscan. ACM Transactions on Database Systems (TODS), 42(3):1-21, 2017.",
+    "title": "Dbscan revisited, revisited: why and how you should (still) use dbscan",
+    "authors": [
+      "Erich Schubert",
+      "Jörg Sander",
+      "Martin Ester",
+      "Hans Peter Kriegel",
+      "Xiaowei Xu"
+    ],
+    "venue": "ACM Transactions on Database Systems (TODS)",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Mingchuan Zhang, YK Li, Yu Wu, and Daya Guo. Deepseekmath: Pushing the limits of mathematical reasoning in open language models. arXiv preprint arXiv:2402.03300, 2024.",
+    "title": "Deepseekmath: Pushing the limits of mathematical reasoning in open language models",
+    "authors": [
+      "Zhihong Shao",
+      "Peiyi Wang",
+      "Qihao Zhu",
+      "Runxin Xu",
+      "Junxiao Song",
+      "Mingchuan Zhang",
+      "Y K Li",
+      "Yu Wu",
+      "Daya Guo"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.03300"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "Daria Soboleva, Faisal Al-Khateeb, Robert Myers, Jacob R Steeves, Joel Hestness, and Nolan Dey. SlimPajama: A 627B token cleaned and deduplicated version of RedPajama. https://cerebras.ai/blog/ slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama, 2023. URL https://huggingface.co/datasets/cerebras/SlimPajama-627B.",
+    "title": "SlimPajama: A 627B token cleaned and deduplicated version of RedPajama",
+    "authors": [
+      "Daria Soboleva",
+      "Faisal Al-Khateeb",
+      "Robert Myers",
+      "Jacob R Steeves",
+      "Joel Hestness",
+      "Nolan Dey"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://huggingface.co/datasets/cerebras/SlimPajama-627B"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Luca Soldaini, Rodney Kinney, Akshita Bhagia, Dustin Schwenk, David Atkinson, Russell Authur, Ben Bogin, Khyathi Chandu, Jennifer Dumas, Yanai Elazar, et al. Dolma: An open corpus of three trillion tokens for language model pretraining research. arXiv preprint arXiv:2402.00159, 2024.",
+    "title": "An open corpus of three trillion tokens for language model pretraining research",
+    "authors": [
+      "Luca Soldaini",
+      "Rodney Kinney",
+      "Akshita Bhagia",
+      "Dustin Schwenk",
+      "David Atkinson",
+      "Russell Authur",
+      "Ben Bogin",
+      "Khyathi Chandu",
+      "Jennifer Dumas",
+      "Yanai Elazar"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.00159"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "J Su, Y Lu, S Pan, A Murtadha, B Wen, and Y Liu Roformer. Enhanced transformer with rotary position embedding., 2021. DOI: https://doi. org/10.1016/j. neucom, 2023.",
+    "title": "Enhanced transformer with rotary position embedding",
+    "authors": [
+      "Y Su",
+      "S Lu",
+      "Pan",
+      "B Murtadha",
+      "Y Wen",
+      "Roformer Liu"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.1016/j.neucom",
+      "url": "https://doi.org/10.1016/j.neucom"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Muhammad Ali Syakur, B Khusnul Khotimah, EMS Rochman, and Budi Dwi Satoto. Integration k-means clustering method and elbow method for identification of the best customer profile cluster. In IOP conference series: materials science and engineering, volume 336, pp. 012017. IOP Publishing, 2018.",
+    "title": "Integration k-means clustering method and elbow method for identification of the best customer profile cluster",
+    "authors": [
+      "Muhammad Ali Syakur",
+      "B Khusnul Khotimah",
+      "Budi Ems Rochman",
+      "Satoto Dwi"
+    ],
+    "venue": "IOP conference series: materials science and engineering",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Kushal Tirumala, Daniel Simig, Armen Aghajanyan, and Ari Morcos. D4: Improving llm pretraining via document de-duplication and diversification. Advances in Neural Information Processing Systems, 36:53983-53995, 2023.",
+    "title": "Improving llm pretraining via document de-duplication and diversification",
+    "authors": [
+      "Kushal Tirumala",
+      "Daniel Simig",
+      "Armen Aghajanyan",
+      "Ari Morcos"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, et al. Llama 2: Open foundation and fine-tuned chat models. arXiv preprint arXiv:2307.09288, 2023.",
+    "title": "Llama 2: Open foundation and fine-tuned chat models",
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Nikolay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.09288"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "Yuichiro Ueno, Kazuki Osawa, Yohei Tsuji, Akira Naruse, and Rio Yokota. Rich information is affordable: A systematic performance analysis of second-order optimization using k-fac. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, pp. 2145-2153, 2020.",
+    "title": "Rich information is affordable: A systematic performance analysis of second-order optimization using k-fac",
+    "authors": [
+      "Yuichiro Ueno",
+      "Kazuki Osawa",
+      "Yohei Tsuji",
+      "Akira Naruse",
+      "Rio Yokota"
+    ],
+    "venue": "Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "Joannes Vermorel and Mehryar Mohri. Multi-armed bandit algorithms and empirical evaluation. In European conference on machine learning, pp. 437-448. Springer, 2005.",
+    "title": "Multi-armed bandit algorithms and empirical evaluation",
+    "authors": [
+      "Joannes Vermorel",
+      "Mehryar Mohri"
+    ],
+    "venue": "European conference on machine learning",
+    "year": 2005,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R66",
+    "raw_text": "Johannes Welbl, Nelson F Liu, and Matt Gardner. Crowdsourcing multiple choice science questions. arXiv preprint arXiv:1707.06209, 2017.",
+    "title": "Crowdsourcing multiple choice science questions",
+    "authors": [
+      "Johannes Welbl",
+      "Nelson F Liu",
+      "Matt Gardner"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1707.06209"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R67",
+    "raw_text": "Guillaume Wenzek, Marie-Anne Lachaux, Alexis Conneau, Vishrav Chaudhary, Francisco Guzmán, Armand Joulin, and Edouard Grave. Ccnet: Extracting high quality monolingual datasets from web crawl data. arXiv preprint arXiv:1911.00359, 2019.",
+    "title": "Extracting high quality monolingual datasets from web crawl data",
+    "authors": [
+      "Guillaume Wenzek",
+      "Marie-Anne Lachaux",
+      "Alexis Conneau",
+      "Vishrav Chaudhary",
+      "Francisco Guzmán",
+      "Armand Joulin",
+      "Edouard Grave",
+      "Ccnet"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1911.00359"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R68",
+    "raw_text": "Alexander Wettig, Aatmik Gupta, Saumya Malik, and Danqi Chen. Qurating: Selecting high-quality data for training language models. In Forty-first International Conference on Machine Learning, 2024. URL https://openreview.net/forum?id=GLGYYqPwjy.",
+    "title": "Qurating: Selecting high-quality data for training language models",
+    "authors": [
+      "Alexander Wettig",
+      "Aatmik Gupta",
+      "Saumya Malik",
+      "Danqi Chen"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=GLGYYqPwjy"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R69",
+    "raw_text": "Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, and Danqi Chen. Less: Selecting influential data for targeted instruction tuning. In Forty-first International Conference on Machine Learning, 2024.",
+    "title": "Less: Selecting influential data for targeted instruction tuning",
+    "authors": [
+      "Mengzhou Xia",
+      "Sadhika Malladi",
+      "Suchin Gururangan",
+      "Sanjeev Arora",
+      "Danqi Chen"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R70",
+    "raw_text": "Sang Michael Xie, Shibani Santurkar, Tengyu Ma, and Percy S Liang. Data selection for language models via importance resampling. Advances in Neural Information Processing Systems, 36: 34201-34227, 2023.",
+    "title": "Data selection for language models via importance resampling",
+    "authors": [
+      "Sang Michael Xie",
+      "Shibani Santurkar",
+      "Tengyu Ma",
+      "Percy S Liang"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R71",
+    "raw_text": "Zichun Yu, Spandan Das, and Chenyan Xiong. Mates: Model-aware data selection for efficient pretraining with data influence models. arXiv preprint arXiv:2406.06046, 2024.",
+    "title": "Mates: Model-aware data selection for efficient pretraining with data influence models",
+    "authors": [
+      "Zichun Yu",
+      "Spandan Das",
+      "Chenyan Xiong"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.06046"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R72",
+    "raw_text": "Rowan Zellers, Ari Holtzman, Yonatan Bisk, Ali Farhadi, and Yejin Choi. Hellaswag: Can a machine really finish your sentence? In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pp. 4791-4800, 2019.",
+    "title": "Hellaswag: Can a machine really finish your sentence?",
+    "authors": [
+      "Rowan Zellers",
+      "Ari Holtzman",
+      "Yonatan Bisk",
+      "Ali Farhadi",
+      "Yejin Choi"
+    ],
+    "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R73",
+    "raw_text": "Meihui Zhang, Zhaoxuan Ji, Zhaojing Luo, Yuncheng Wu, and Chengliang Chai. Applications and challenges for large language models: From data management perspective. In 40th IEEE International Conference on Data Engineering, ICDE 2024, Utrecht, The Netherlands, May 1316, 2024, pp. 5530-5541. IEEE, 2024a. doi: 10.1109/ICDE60146.2024.00441. URL https: //doi.org/10.1109/ICDE60146.2024.00441.",
+    "title": "Applications and challenges for large language models: From data management perspective",
+    "authors": [
+      "Meihui Zhang",
+      "Zhaoxuan Ji",
+      "Zhaojing Luo",
+      "Yuncheng Wu",
+      "Chengliang Chai"
+    ],
+    "venue": "40th IEEE International Conference on Data Engineering, ICDE 2024",
+    "identifiers": {
+      "doi": "10.1109/ICDE60146.2024.00441",
+      "arxiv_id": "0146.2024",
+      "url": "https://doi.org/10.1109/ICDE60146.2024.00441"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R74",
+    "raw_text": "Yifan Zhang, Yifan Luo, Yang Yuan, and Andrew C Yao. Autonomous data selection with language models for mathematical texts. In ICLR 2024 Workshop on Navigating and Addressing Data Problems for Foundation Models, 2024b.",
+    "title": "Autonomous data selection with language models for mathematical texts",
+    "authors": [
+      "Yifan Zhang",
+      "Yifan Luo",
+      "Yang Yuan",
+      "Andrew C Yao"
+    ],
+    "venue": "ICLR 2024 Workshop on Navigating and Addressing Data Problems for Foundation Models",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R75",
+    "raw_text": "Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, et al. A survey of large language models. arXiv preprint arXiv:2303.18223, 2023.",
+    "title": "A survey of large language models",
+    "authors": [
+      "Kun Wayne Xin Zhao",
+      "Junyi Zhou",
+      "Tianyi Li",
+      "Xiaolei Tang",
+      "Yupeng Wang",
+      "Yingqian Hou",
+      "Beichen Min",
+      "Junjie Zhang",
+      "Zican Zhang",
+      "Dong"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2303.18223"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

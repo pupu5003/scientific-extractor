@@ -1,0 +1,1557 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Aakanksha, Arash Ahmadian, Seraphina Goldfarb-Tarrant, Beyza Ermis, Marzieh Fadaee, and Sara Hooker. Mix data or merge models? optimizing for performance and safety in multilingual contexts. In Neurips Safe Generative AI Workshop 2024, 2024. URL https://openreview. net/forum?id=L1Hxp8ktiT.",
+    "title": "Mix data or merge models? optimizing for performance and safety in multilingual contexts",
+    "authors": [
+      "Arash Aakanksha",
+      "Seraphina Ahmadian",
+      "Beyza Goldfarb-Tarrant",
+      "Marzieh Ermis",
+      "Sara Fadaee",
+      "Hooker"
+    ],
+    "venue": "Neurips Safe Generative AI Workshop 2024",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=L1Hxp8ktiT"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Samuel Ainsworth, Jonathan Hayase, and Siddhartha Srinivasa. Git re-basin: Merging models modulo permutation symmetries. In The Eleventh International Conference on Learning Representations, 2023. URL https://openreview.net/forum?id=CQsmMYmlP5T.",
+    "title": "Git re-basin: Merging models modulo permutation symmetries",
+    "authors": [
+      "Samuel Ainsworth",
+      "Jonathan Hayase",
+      "Siddhartha Srinivasa"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=CQsmMYmlP5T"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Jesujoba Alabi, Marius Mosbach, Matan Eyal, Dietrich Klakow, and Mor Geva. The hidden space of transformer language adapters. In Lun-Wei Ku, Andre Martins, and Vivek Srikumar (eds.), Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 6588-6607, Bangkok, Thailand, August 2024. Association for Computational Linguistics. URL https://aclanthology.org/2024.acl-long.356.",
+    "title": "The hidden space of transformer language adapters",
+    "authors": [
+      "Jesujoba Alabi",
+      "Marius Mosbach",
+      "Matan Eyal",
+      "Dietrich Klakow",
+      "Mor Geva"
+    ],
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://aclanthology.org/2024.acl-long.356"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Alan Ansell, Edoardo Ponti, Anna Korhonen, and Ivan Vulić. Composable sparse fine-tuning for cross-lingual transfer. In Smaranda Muresan, Preslav Nakov, and Aline Villavicencio (eds.), Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 1778-1796, Dublin, Ireland, May 2022. Association for Computational Linguistics. doi: 10.18653/v1/2022.acl-long.125. URL https://aclanthology.org/2022. acl-long.125.",
+    "title": "Composable sparse fine-tuning for cross-lingual transfer",
+    "authors": [
+      "Alan Ansell",
+      "Edoardo Ponti",
+      "Anna Korhonen",
+      "Ivan Vulić"
+    ],
+    "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.18653/v1/2022.acl-long.125",
+      "url": "https://aclanthology.org/2022.acl-long.125"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Alan Ansell, Ivan Vulić, Hannah Sterz, Anna Korhonen, and Edoardo M. Ponti. Scaling sparse finetuning to large language models, 2024. URL https://arxiv.org/abs/2401.16405.",
+    "title": "Scaling sparse finetuning to large language models",
+    "authors": [
+      "Alan Ansell",
+      "Ivan Vulić",
+      "Hannah Sterz",
+      "Anna Korhonen",
+      "Edoardo M Ponti"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2401.16405",
+      "url": "https://arxiv.org/abs/2401.16405"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Jacob Austin, Augustus Odena, Maxwell Nye, Maarten Bosma, Henryk Michalewski, David Dohan, Ellen Jiang, Carrie Cai, Michael Terry, Quoc Le, et al. Program synthesis with large language models. arXiv preprint arXiv:2108.07732, 2021.",
+    "title": "Program synthesis with large language models",
+    "authors": [
+      "Jacob Austin",
+      "Augustus Odena",
+      "Maxwell Nye",
+      "Maarten Bosma",
+      "Henryk Michalewski",
+      "David Dohan",
+      "Ellen Jiang",
+      "Carrie Cai",
+      "Michael Terry",
+      "Quoc Le"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2108.07732"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Lucas Bandarkar, Davis Liang, Benjamin Muller, Mikel Artetxe, Satya Narayan Shukla, Donald Husa, Naman Goyal, Abhinandan Krishnan, Luke Zettlemoyer, and Madian Khabsa. The belebele benchmark: a parallel reading comprehension dataset in 122 language variants. In LunWei Ku, Andre Martins, and Vivek Srikumar (eds.), Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 749-775, Bangkok, Thailand, August 2024. Association for Computational Linguistics. URL https: //aclanthology.org/2024.acl-long.44.",
+    "title": "The belebele benchmark: a parallel reading comprehension dataset in 122 language variants",
+    "authors": [
+      "Lucas Bandarkar",
+      "Davis Liang",
+      "Benjamin Muller",
+      "Mikel Artetxe",
+      "Donald Satya Narayan Shukla",
+      "Naman Husa",
+      "Abhinandan Goyal",
+      "Luke Krishnan",
+      "Madian Zettlemoyer",
+      "Khabsa"
+    ],
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://aclanthology.org/2024.acl-long.44"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "L. Breiman. Bagging predictors. Machine Learning, 24:123-140, 1996. URL https://api. semanticscholar.org/CorpusID:47328136.",
+    "title": "Bagging predictors",
+    "authors": [
+      "L Breiman"
+    ],
+    "venue": "Machine Learning",
+    "year": 1996,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Linzheng Chai, Jian Yang, Tao Sun, Hongcheng Guo, Jiaheng Liu, Bing Wang, Xiannian Liang, Jiaqi Bai, Tongliang Li, Qiyao Peng, and Zhoujun Li. xcot: Cross-lingual instruction tuning for cross-lingual chain-of-thought reasoning, 2024. URL https://arxiv.org/abs/2401. 07037.",
+    "title": "xcot: Cross-lingual instruction tuning for cross-lingual chain-of-thought reasoning",
+    "authors": [
+      "Linzheng Chai",
+      "Jian Yang",
+      "Tao Sun",
+      "Hongcheng Guo",
+      "Jiaheng Liu",
+      "Bing Wang",
+      "Xiannian Liang",
+      "Jiaqi Bai",
+      "Tongliang Li",
+      "Qiyao Peng",
+      "Zhoujun Li"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://arxiv.org/abs/2401.07037"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Tyler Chang, Zhuowen Tu, and Benjamin Bergen. The geometry of multilingual language model representations. In Yoav Goldberg, Zornitsa Kozareva, and Yue Zhang (eds.), Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pp. 119-136, Abu Dhabi, United Arab Emirates, December 2022. Association for Computational Linguistics. doi: 10.18653/v1/2022.emnlp-main.9. URL https://aclanthology.org/2022. emnlp-main.9.",
+    "title": "The geometry of multilingual language model representations",
+    "authors": [
+      "Tyler Chang",
+      "Zhuowen Tu",
+      "Benjamin Bergen"
+    ],
+    "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.18653/v1/2022.emnlp-main.9",
+      "url": "https://aclanthology.org/2022.emnlp-main.9"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Rochelle Choenni, Dan Garrette, and Ekaterina Shutova. How do languages influence each other? studying cross-lingual data sharing during LM fine-tuning. In Houda Bouamor, Juan Pino, and Kalika Bali (eds.), Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pp. 13244-13257, Singapore, December 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023.emnlp-main.818. URL https://aclanthology.org/ 2023.emnlp-main.818.",
+    "title": "How do languages influence each other? studying cross-lingual data sharing during LM fine-tuning",
+    "authors": [
+      "Rochelle Choenni",
+      "Dan Garrette",
+      "Ekaterina Shutova"
+    ],
+    "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.emnlp-main.818",
+      "url": "https://aclanthology.org/2023.emnlp-main.818"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Rochelle Choenni, Ekaterina Shutova, and Dan Garrette. Examining modularity in multilingual LMs via language-specialized subnetworks. In Kevin Duh, Helena Gomez, and Steven Bethard (eds.), Findings of the Association for Computational Linguistics: NAACL 2024, pp. 287-301, Mexico City, Mexico, June 2024. Association for Computational Linguistics. doi: 10.18653/v1/2024. findings-naacl.21. URL https://aclanthology.org/2024.findings-naacl.21.",
+    "title": "Examining modularity in multilingual LMs via language-specialized subnetworks",
+    "authors": [
+      "Rochelle Choenni",
+      "Ekaterina Shutova",
+      "Dan Garrette"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics: NAACL 2024",
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.18653/v1/2024.findings-naacl.21",
+      "url": "https://aclanthology.org/2024.findings-naacl.21"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, and John Schulman. Training verifiers to solve math word problems. arXiv preprint arXiv: 2110.14168, 2021.",
+    "title": "Training verifiers to solve math word problems",
+    "authors": [
+      "Karl Cobbe",
+      "Vineet Kosaraju",
+      "Mohammad Bavarian",
+      "Mark Chen",
+      "Heewoo Jun",
+      "Lukasz Kaiser",
+      "Matthias Plappert",
+      "Jerry Tworek",
+      "Jacob Hilton",
+      "Reiichiro Nakano",
+      "Christopher Hesse",
+      "John Schulman"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2110.14168"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Alexis Conneau, Kartikay Khandelwal, Naman Goyal, Vishrav Chaudhary, Guillaume Wenzek, Francisco Guzmán, Edouard Grave, Myle Ott, Luke Zettlemoyer, and Veselin Stoyanov. Unsupervised cross-lingual representation learning at scale. In Dan Jurafsky, Joyce Chai, Natalie Schluter, and Joel Tetreault (eds.), Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 8440-8451, Online, July 2020. Association for Computational Linguistics. doi: 10.18653/v1/2020.acl-main.747. URL https://aclanthology.org/ 2020.acl-main.747.",
+    "title": "Unsupervised cross-lingual representation learning at scale",
+    "authors": [
+      "Alexis Conneau",
+      "Kartikay Khandelwal",
+      "Naman Goyal",
+      "Vishrav Chaudhary",
+      "Guillaume Wenzek",
+      "Francisco Guzmán",
+      "Edouard Grave",
+      "Myle Ott",
+      "Luke Zettlemoyer",
+      "Veselin Stoyanov"
+    ],
+    "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    "year": 2020,
+    "identifiers": {
+      "doi": "10.18653/v1/2020.acl-main.747",
+      "url": "https://aclanthology.org/2020.acl-main.747"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "John Dang, Arash Ahmadian, Kelly Marchisio, Julia Kreutzer, Ahmet Üstün, and Sara Hooker. Rlhf can speak many languages: Unlocking multilingual preference optimization for llms, 2024. URL https://arxiv.org/abs/2407.02552.",
+    "title": "Rlhf can speak many languages: Unlocking multilingual preference optimization for llms",
+    "authors": [
+      "John Dang",
+      "Arash Ahmadian",
+      "Kelly Marchisio",
+      "Julia Kreutzer",
+      "Ahmet Üstün",
+      "Sara Hooker"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2407.02552",
+      "url": "https://arxiv.org/abs/2407.02552"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "MohammadReza Davari and Eugene Belilovsky. Model breadcrumbs: Scalable upcycling of finetuned foundation models via sparse task vectors merging. In ICML 2024 Workshop on Foundation Models in the Wild, 2024. URL https://openreview.net/forum?id=vuyP3tupig.",
+    "title": "Model breadcrumbs: Scalable upcycling of finetuned foundation models via sparse task vectors merging",
+    "authors": [
+      "Mohammadreza Davari",
+      "Eugene Belilovsky"
+    ],
+    "venue": "ICML 2024 Workshop on Foundation Models in the Wild",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=vuyP3tupig"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Thomas G. Dietterich. Multiple classifier systems. In Lecture Notes in Computer Science, 2000. URL https://api.semanticscholar.org/CorpusID:56776745.",
+    "title": "Multiple classifier systems",
+    "authors": [
+      "G Thomas",
+      "Dietterich"
+    ],
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID:56776745"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Mostafa Elhoushi, Akshat Shrivastava, Diana Liskovich, Basil Hosmer, Bram Wasti, Liangzhen Lai, Anas Mahmoud, Bilge Acun, Saurabh Agarwal, Ahmed Roman, Ahmed Aly, Beidi Chen, and Carole-Jean Wu. Layerskip: Enabling early exit inference and self-speculative decoding. Meta Research, 2024. URL https://ai.meta.com/research/publications/ layerskip-enabling-early-exit-inference-and-self-speculative-decoding/.",
+    "title": "Layerskip: Enabling early exit inference and self-speculative decoding",
+    "authors": [
+      "Mostafa Elhoushi",
+      "Akshat Shrivastava",
+      "Diana Liskovich",
+      "Basil Hosmer",
+      "Bram Wasti",
+      "Liangzhen Lai",
+      "Anas Mahmoud",
+      "Bilge Acun",
+      "Saurabh Agarwal",
+      "Ahmed Roman",
+      "Ahmed Aly",
+      "Beidi Chen",
+      "Carole-Jean Wu"
+    ],
+    "venue": "Meta Research",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://ai.meta.com/research/publications/layerskip-enabling-early-exit-inference-and-self-speculative-decoding/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "William Fedus, Barret Zoph, and Noam Shazeer. Switch transformers: scaling to trillion parameter models with simple and efficient sparsity. The Journal of Machine Learning Research, 23(1), January 2022. ISSN 1532-4435.",
+    "title": "Switch transformers: scaling to trillion parameter models with simple and efficient sparsity",
+    "authors": [
+      "William Fedus",
+      "Barret Zoph",
+      "Noam Shazeer"
+    ],
+    "venue": "The Journal of Machine Learning Research",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Felix Gaschi, Patricio Cerda, Parisa Rastin, and Yannick Toussaint. Exploring the relationship between alignment and cross-lingual transfer in multilingual transformers. In Anna Rogers, Jordan Boyd-Graber, and Naoaki Okazaki (eds.), Findings of the Association for Computational Linguistics: ACL 2023, pp. 3020-3042, Toronto, Canada, July 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023.findings-acl.189. URL https://aclanthology.org/ 2023.findings-acl.189.",
+    "title": "Exploring the relationship between alignment and cross-lingual transfer in multilingual transformers",
+    "authors": [
+      "Felix Gaschi",
+      "Patricio Cerda",
+      "Parisa Rastin",
+      "Yannick Toussaint"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2023",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.findings-acl.189",
+      "url": "https://aclanthology.org/2023.findings-acl.189"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Demi Guo, Alexander Rush, and Yoon Kim. Parameter-efficient transfer learning with diff pruning. In Chengqing Zong, Fei Xia, Wenjie Li, and Roberto Navigli (eds.), Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pp. 4884-4896, Online, August 2021. Association for Computational Linguistics. doi: 10.18653/v1/2021.acl-long.378. URL https://aclanthology.org/2021.acl-long.378.",
+    "title": "Parameter-efficient transfer learning with diff pruning",
+    "authors": [
+      "Demi Guo",
+      "Alexander Rush",
+      "Yoon Kim"
+    ],
+    "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.18653/v1/2021.acl-long.378",
+      "url": "https://aclanthology.org/2021.acl-long.378"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt. Measuring massive multitask language understanding. In International Conference on Learning Representations, 2021. URL https://openreview.net/forum?id= d7KBjmI3GmQ.",
+    "title": "Measuring massive multitask language understanding",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Steven Basart",
+      "Andy Zou",
+      "Mantas Mazeika",
+      "Dawn Song",
+      "Jacob Steinhardt"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2021,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=d7KBjmI3GmQ"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Masanori Hirano, Masahiro Suzuki, and Hiroki Sakaji. llm-japanese-dataset v0: Construction of japanese chat dataset for large language models and its methodology, 2023. URL https:// arxiv.org/abs/2305.12720.",
+    "title": "llm-japanese-dataset v0: Construction of japanese chat dataset for large language models and its methodology",
+    "authors": [
+      "Masanori Hirano",
+      "Masahiro Suzuki",
+      "Hiroki Sakaji"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2305.12720",
+      "url": "https://arxiv.org/abs/2305.12720"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Edward J Hu, yelong shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen. LoRA: Low-rank adaptation of large language models. In International Conference on Learning Representations, 2022. URL https://openreview.net/forum? id=nZeVKeeFYf9.",
+    "title": "LoRA: Low-rank adaptation of large language models",
+    "authors": [
+      "J Edward",
+      "Phillip Hu",
+      "Zeyuan Wallis",
+      "Yuanzhi Allen-Zhu",
+      "Shean Li",
+      "Lu Wang",
+      "Weizhu Wang",
+      "Chen"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=nZeVKeeFYf9"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Ludwig Schmidt, Hannaneh Hajishirzi, and Ali Farhadi. Editing models with task arithmetic. In The Eleventh International Conference on Learning Representations, 2023. URL https://openreview.net/forum?id= 6t0Kwf8-jrj.",
+    "title": "Editing models with task arithmetic",
+    "authors": [
+      "Gabriel Ilharco",
+      "Marco Tulio Ribeiro",
+      "Mitchell Wortsman",
+      "Ludwig Schmidt",
+      "Hannaneh Hajishirzi",
+      "Ali Farhadi"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Pavel Izmailov, Dmitrii Podoprikhin, T. Garipov, Dmitry P. Vetrov, and Andrew Gordon Wilson. Averaging weights leads to wider optima and better generalization. In Conference on Uncertainty in Artificial Intelligence, 2018. URL https://api.semanticscholar.org/CorpusID: 3833416.",
+    "title": "Averaging weights leads to wider optima and better generalization",
+    "authors": [
+      "Pavel Izmailov",
+      "T Dmitrii Podoprikhin",
+      "Garipov",
+      "P Dmitry",
+      "Andrew Vetrov",
+      "Wilson Gordon"
+    ],
+    "venue": "Conference on Uncertainty in Artificial Intelligence",
+    "year": 2018,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Nihal Jain, Dejiao Zhang, Wasi Uddin Ahmad, Zijian Wang, Feng Nan, Xiaopeng Li, Ming Tan, Ramesh Nallapati, Baishakhi Ray, Parminder Bhatia, Xiaofei Ma, and Bing Xiang. ContraCLM: Contrastive learning for causal language model. In Anna Rogers, Jordan Boyd-Graber, and Naoaki Okazaki (eds.), Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 6436-6459, Toronto, Canada, July 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023.acl-long.355. URL https://aclanthology.org/2023.acl-long.355.",
+    "title": "ContraCLM: Contrastive learning for causal language model",
+    "authors": [
+      "Nihal Jain",
+      "Dejiao Zhang",
+      "Uddin Wasi",
+      "Zijian Ahmad",
+      "Feng Wang",
+      "Xiaopeng Nan",
+      "Ming Li",
+      "Ramesh Tan",
+      "Baishakhi Nallapati",
+      "Parminder Ray",
+      "Xiaofei Bhatia",
+      "Bing Ma",
+      "Xiang"
+    ],
+    "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.acl-long.355",
+      "url": "https://aclanthology.org/2023.acl-long.355"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Albert Q. Jiang, Alexandre Sablayrolles, Arthur Mensch, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Florian Bressand, Gianna Lengyel, Guillaume Lample, Lucile Saulnier, Lélio Renard Lavaud, Marie-Anne Lachaux, Pierre Stock, Teven Le Scao, Thibaut Lavril, Thomas Wang, Timothée Lacroix, and William El Sayed. Mistral 7b, 2023. URL https: //arxiv.org/abs/2310.06825.",
+    "authors": [
+      "Albert Q Jiang",
+      "Alexandre Sablayrolles",
+      "Arthur Mensch",
+      "Chris Bamford",
+      "Devendra Singh Chaplot",
+      "Diego de las Casas",
+      "Florian Bressand",
+      "Gianna Lengyel",
+      "Guillaume Lample",
+      "Lucile Saulnier",
+      "Lélio Renard Lavaud",
+      "Marie-Anne Lachaux",
+      "Pierre Stock",
+      "Teven Le Scao",
+      "Thibaut Lavril",
+      "Thomas Wang",
+      "Timothée Lacroix",
+      "William El Sayed"
+    ],
+    "venue": "Mistral 7b",
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2310.06825",
+      "url": "https://arxiv.org/abs/2310.06825"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Mohammed Safi Ur Rahman Khan, Priyam Mehta, Ananth Sankar, Umashankar Kumaravelan, Sumanth Doddapaneni, Suriyaprasaad G, Varun Balan G, Sparsh Jain, Anoop Kunchukuttan, Pratyush Kumar, Raj Dabre, and Mitesh M. Khapra. Indicllmsuite: A blueprint for creating pretraining and fine-tuning datasets for indian languages. arXiv preprint arXiv: 2403.06350, 2024.",
+    "title": "Indicllmsuite: A blueprint for creating pretraining and fine-tuning datasets for indian languages",
+    "authors": [
+      "Mohammed Safi Ur Rahman Khan",
+      "Priyam Mehta",
+      "Ananth Sankar",
+      "Umashankar Kumaravelan",
+      "Sumanth Doddapaneni",
+      "G Suriyaprasaad",
+      "Varun Balan",
+      "G",
+      "Sparsh Jain",
+      "Anoop Kunchukuttan",
+      "Pratyush Kumar",
+      "Raj Dabre",
+      "Mitesh M Khapra"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.06350"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Simran Khanuja, Srinivas Gowriraj, Lucio Dery, and Graham Neubig. DeMuX: Data-efficient multilingual learning. In Kevin Duh, Helena Gomez, and Steven Bethard (eds.), Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pp. 7423-7436, Mexico City, Mexico, June 2024. Association for Computational Linguistics. doi: 10.18653/v1/2024. naacl-long.412. URL https://aclanthology.org/2024.naacl-long.412.",
+    "title": "DeMuX: Data-efficient multilingual learning",
+    "authors": [
+      "Simran Khanuja",
+      "Srinivas Gowriraj",
+      "Lucio Dery",
+      "Graham Neubig"
+    ],
+    "venue": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.18653/v1/2024.naacl-long.412",
+      "url": "https://aclanthology.org/2024.naacl-long.412"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Takeshi Kojima, Itsuki Okimura, Yusuke Iwasawa, Hitomi Yanaka, and Yutaka Matsuo. On the multilingual ability of decoder-based pre-trained language models: Finding and controlling languagespecific neurons. In Kevin Duh, Helena Gomez, and Steven Bethard (eds.), Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pp. 6919-6971, Mexico City, Mexico, June 2024. Association for Computational Linguistics. doi: 10.18653/v1/2024. naacl-long.384. URL https://aclanthology.org/2024.naacl-long.384.",
+    "title": "On the multilingual ability of decoder-based pre-trained language models: Finding and controlling languagespecific neurons",
+    "authors": [
+      "Takeshi Kojima",
+      "Itsuki Okimura",
+      "Yusuke Iwasawa",
+      "Hitomi Yanaka",
+      "Yutaka Matsuo"
+    ],
+    "venue": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.18653/v1/2024.naacl-long.384",
+      "url": "https://aclanthology.org/2024.naacl-long.384"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Wen Lai, Mohsen Mesgar, and Alexander Fraser. LLMs beyond English: Scaling the multilingual capability of LLMs with cross-lingual feedback. In Lun-Wei Ku, Andre Martins, and Vivek Srikumar (eds.), Findings of the Association for Computational Linguistics ACL 2024, pp. 8186-8213, Bangkok, Thailand and virtual meeting, August 2024. Association for Computational Linguistics. URL https://aclanthology.org/2024.findings-acl.488.",
+    "title": "LLMs beyond English: Scaling the multilingual capability of LLMs with cross-lingual feedback",
+    "authors": [
+      "Wen Lai",
+      "Mohsen Mesgar",
+      "Alexander Fraser"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics ACL 2024",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://aclanthology.org/2024.findings-acl.488"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Davis Liang, Hila Gonen, Yuning Mao, Rui Hou, Naman Goyal, Marjan Ghazvininejad, Luke Zettlemoyer, and Madian Khabsa. XLM-V: Overcoming the vocabulary bottleneck in multilingual masked language models. In Houda Bouamor, Juan Pino, and Kalika Bali (eds.), Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pp. 13142-13152, Singapore, December 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023. emnlp-main.813. URL https://aclanthology.org/2023.emnlp-main.813.",
+    "title": "XLM-V: Overcoming the vocabulary bottleneck in multilingual masked language models",
+    "authors": [
+      "Davis Liang",
+      "Hila Gonen",
+      "Yuning Mao",
+      "Rui Hou",
+      "Naman Goyal",
+      "Marjan Ghazvininejad",
+      "Luke Zettlemoyer",
+      "Madian Khabsa"
+    ],
+    "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.emnlp-main.813",
+      "url": "https://aclanthology.org/2023.emnlp-main.813"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Meizhen Liu, Xu Guo, He Jiakai, Jianye Chen, Fengyu Zhou, and Siu Hui. InteMATs: Integrating granularity-specific multilingual adapters for cross-lingual transfer. In Houda Bouamor, Juan Pino, and Kalika Bali (eds.), Findings of the Association for Computational Linguistics: EMNLP 2023, pp. 5035-5049, Singapore, December 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023.findings-emnlp.335. URL https://aclanthology.org/2023. findings-emnlp.335.",
+    "title": "InteMATs: Integrating granularity-specific multilingual adapters for cross-lingual transfer",
+    "authors": [
+      "Meizhen Liu",
+      "Xu Guo",
+      "He Jiakai",
+      "Jianye Chen",
+      "Fengyu Zhou",
+      "Siu Hui"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.findings-emnlp.335",
+      "url": "https://aclanthology.org/2023.findings-emnlp.335"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Team Llama, Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian andAhmad Al-Dahle, Aiesha Letman, Akhil Mathur, Alan Schelten, Amy Yang, Angela Fan, and et al. The llama 3 herd of models. Meta Research, 2024.",
+    "title": "The llama 3 herd of models",
+    "authors": [
+      "Team Llama",
+      "Abhimanyu Dubey",
+      "Abhinav Jauhri",
+      "Abhinav Pandey",
+      "Abhishek Kadian Andahmad Al-Dahle",
+      "Aiesha Letman",
+      "Akhil Mathur",
+      "Alan Schelten",
+      "Amy Yang",
+      "Angela Fan"
+    ],
+    "venue": "Meta Research",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Michael S Matena and Colin A Raffel. Merging models with fisher-weighted averaging. In S. Koyejo, S. Mohamed, A. Agarwal, D. Belgrave, K. Cho, and A. Oh (eds.), Advances in Neural Information Processing Systems, volume 35, pp. 17703-17716. Curran Associates, Inc., 2022. URL https://proceedings.neurips.cc/paper_files/paper/2022/ file/70c26937fbf3d4600b69a129031b66ec-Paper-Conference.pdf.",
+    "title": "Merging models with fisher-weighted averaging",
+    "authors": [
+      "S Michael",
+      "Colin A Matena",
+      "Raffel"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2022/file/70"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Arindam Mitra, Hamed Khanpour, Corby Rosset, and Ahmed Awadallah. Orca-math: Unlocking the potential of slms in grade school math, 2024.",
+    "title": "Orca-math: Unlocking the potential of slms in grade school math",
+    "authors": [
+      "Arindam Mitra",
+      "Hamed Khanpour",
+      "Corby Rosset",
+      "Ahmed Awadallah"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Niklas Muennighoff, Thomas Wang, Lintang Sutawika, Adam Roberts, Stella Biderman, Teven Le Scao, M Saiful Bari, Sheng Shen, Zheng-Xin Yong, Hailey Schoelkopf, Xiangru Tang, Dragomir Radev, Alham Fikri Aji, Khalid Almubarak, Samuel Albanie, Zaid Alyafeai, Albert Webson, Edward Raff, and Colin Raffel. Crosslingual generalization through multitask finetuning, 2022.",
+    "title": "Crosslingual generalization through multitask finetuning",
+    "authors": [
+      "Niklas Muennighoff",
+      "Thomas Wang",
+      "Lintang Sutawika",
+      "Adam Roberts",
+      "Stella Biderman",
+      "Teven Le Scao",
+      "M Saiful Bari",
+      "Sheng Shen",
+      "Zheng-Xin Yong",
+      "Hailey Schoelkopf"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Benjamin Muller, Yanai Elazar, Benoît Sagot, and Djamé Seddah. First align, then predict: Understanding the cross-lingual ability of multilingual BERT. In Paola Merlo, Jorg Tiedemann, and Reut Tsarfaty (eds.), Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, pp. 2214-2231, Online, April 2021. Association for Computational Linguistics. doi: 10.18653/v1/2021.eacl-main.189. URL https://aclanthology.org/2021.eacl-main.189.",
+    "title": "First align, then predict: Understanding the cross-lingual ability of multilingual BERT",
+    "authors": [
+      "Benjamin Muller",
+      "Yanai Elazar",
+      "Benoît Sagot",
+      "Djamé Seddah"
+    ],
+    "venue": "Proceedings of the 16th Conference of the European Chapter",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.18653/v1/2021.eacl-main.189",
+      "url": "https://aclanthology.org/2021.eacl-main.189"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Team NLLB, Marta R. Costa-jussà, James Cross, Onur C ¸elebi, Maha Elbayad, Kenneth Heafield, Kevin Heffernan, Elahe Kalbassi, Janice Lam, Daniel Licht, Jean Maillard, Anna Sun, Skyler Wang, Guillaume Wenzek, Al Youngblood, Bapi Akula, Loic Barrault, Gabriel Mejia Gonzalez, Prangthip Hansanti, John Hoffman, Semarley Jarrett, Kaushik Ram Sadagopan, Dirk Rowe, Shannon Spruit, Chau Tran, Pierre Andrews, Necip Fazil Ayan, Shruti Bhosale, Sergey Edunov, Angela Fan, Cynthia Gao, Vedanuj Goswami, Francisco Guzmán, Philipp Koehn, Alexandre Mourachko, Christophe Ropers, Safiyyah Saleem, Holger Schwenk, and Jeff Wang. No language left behind: Scaling human-centered machine translation. Meta Research, 2022.",
+    "title": "No language left behind: Scaling human-centered machine translation",
+    "authors": [
+      "Nllb Team",
+      "Marta R Costa-Jussà",
+      "James Cross",
+      "Maha Onur C ¸elebi",
+      "Kenneth Elbayad",
+      "Kevin Heafield",
+      "Elahe Heffernan",
+      "Janice Kalbassi",
+      "Daniel Lam",
+      "Jean Licht",
+      "Anna Maillard",
+      "Skyler Sun",
+      "Guillaume Wang",
+      "Al Wenzek",
+      "Bapi Youngblood",
+      "Loic Akula",
+      "Gabriel Mejia Barrault",
+      "Prangthip Gonzalez",
+      "John Hansanti",
+      "Semarley Hoffman",
+      "Jarrett",
+      "Ram Kaushik",
+      "Dirk Sadagopan",
+      "Shannon Rowe",
+      "Chau Spruit",
+      "Pierre Tran",
+      "Necip Andrews",
+      "Shruti Fazil Ayan",
+      "Sergey Bhosale",
+      "Angela Edunov",
+      "Cynthia Fan",
+      "Vedanuj Gao",
+      "Francisco Goswami",
+      "Philipp Guzmán",
+      "Alexandre Koehn",
+      "Christophe Mourachko",
+      "Safiyyah Ropers",
+      "Holger Saleem",
+      "Jeff Schwenk",
+      "Wang"
+    ],
+    "venue": "Meta Research",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Guillermo Ortiz-Jimenez, Alessandro Favero, and Pascal Frossard. Task arithmetic in the tangent space: Improved editing of pre-trained models. In Thirty-seventh Conference on Neural Information Processing Systems, 2023. URL https://openreview.net/forum?id= 0A9f2jZDGW.",
+    "title": "Task arithmetic in the tangent space: Improved editing of pre-trained models",
+    "authors": [
+      "Guillermo Ortiz-Jimenez",
+      "Alessandro Favero",
+      "Pascal Frossard"
+    ],
+    "venue": "Thirty-seventh Conference on Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Xuan Ouyang, Shuohuan Wang, Chao Pang, Yu Sun, Hao Tian, Hua Wu, and Haifeng Wang. ERNIE-M: Enhanced multilingual representation by aligning cross-lingual semantics with monolingual corpora. In Marie-Francine Moens, Xuanjing Huang, Lucia Specia, and Scott Wen-tau Yih (eds.), Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pp. 27-38, Online and Punta Cana, Dominican Republic, November 2021. Association for Computational Linguistics. doi: 10.18653/v1/2021.emnlp-main.3. URL https: //aclanthology.org/2021.emnlp-main.3.",
+    "title": "ERNIE-M: Enhanced multilingual representation by aligning cross-lingual semantics with monolingual corpora",
+    "authors": [
+      "Xuan Ouyang",
+      "Shuohuan Wang",
+      "Chao Pang",
+      "Yu Sun",
+      "Hua Hao Tian",
+      "Haifeng Wu",
+      "Wang"
+    ],
+    "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.18653/v1/2021.emnlp-main.3",
+      "url": "https://aclanthology.org/2021.emnlp-main.3"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Barun Patra, Saksham Singhal, Shaohan Huang, Zewen Chi, Li Dong, Furu Wei, Vishrav Chaudhary, and Xia Song. Beyond English-centric bitexts for better multilingual language representation learning. In Anna Rogers, Jordan Boyd-Graber, and Naoaki Okazaki (eds.), Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 15354-15373, Toronto, Canada, July 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023.acl-long.856. URL https://aclanthology.org/2023. acl-long.856.",
+    "title": "Beyond English-centric bitexts for better multilingual language representation learning",
+    "authors": [
+      "Barun Patra",
+      "Saksham Singhal",
+      "Shaohan Huang",
+      "Zewen Chi",
+      "Li Dong",
+      "Furu Wei",
+      "Vishrav Chaudhary",
+      "Xia Song"
+    ],
+    "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.acl-long.856",
+      "url": "https://aclanthology.org/2023.acl-long.856"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Jonas Pfeiffer, Ivan Vulić, Iryna Gurevych, and Sebastian Ruder. MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer. In Bonnie Webber, Trevor Cohn, Yulan He, and Yang Liu (eds.), Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 7654-7673, Online, November 2020. Association for Computational Linguistics. doi: 10.18653/v1/2020.emnlp-main.617. URL https://aclanthology. org/2020.emnlp-main.617.",
+    "title": "MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer",
+    "authors": [
+      "Jonas Pfeiffer",
+      "Ivan Vulić",
+      "Iryna Gurevych",
+      "Sebastian Ruder"
+    ],
+    "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2020,
+    "identifiers": {
+      "doi": "10.18653/v1/2020.emnlp-main.617",
+      "url": "https://aclanthology.org/2020.emnlp-main.617"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Jonas Pfeiffer, Naman Goyal, Xi Lin, Xian Li, James Cross, Sebastian Riedel, and Mikel Artetxe. Lifting the curse of multilinguality by pre-training modular transformers. In Marine Carpuat, Marie-Catherine de Marneffe, and Ivan Vladimir Meza Ruiz (eds.), Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 3479-3495, Seattle, United States, July 2022. Association for Computational Linguistics. doi: 10.18653/v1/2022.naacl-main.255. URL https: //aclanthology.org/2022.naacl-main.255.",
+    "title": "Lifting the curse of multilinguality by pre-training modular transformers",
+    "authors": [
+      "Jonas Pfeiffer",
+      "Naman Goyal",
+      "Xi Lin",
+      "Xian Li",
+      "James Cross",
+      "Sebastian Riedel",
+      "Mikel Artetxe"
+    ],
+    "venue": "Proceedings of the 2022 Conference of the North American Chapter",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.18653/v1/2022.naacl-main.255",
+      "url": "https://aclanthology.org/2022.naacl-main.255"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Fred Philippy, Siwen Guo, and Shohreh Haddadan. Towards a common understanding of contributing factors for cross-lingual transfer in multilingual language models: A review. In Anna Rogers, Jordan Boyd-Graber, and Naoaki Okazaki (eds.), Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 5877-5891, Toronto, Canada, July 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023.acl-long.",
+    "title": "Towards a common understanding of contributing factors for cross-lingual transfer in multilingual language models: A review",
+    "authors": [
+      "Fred Philippy",
+      "Siwen Guo",
+      "Shohreh Haddadan"
+    ],
+    "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.acl-long",
+      "url": "1/2023.acl-long"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "URL https://aclanthology.org/2023.acl-long.323.",
+    "title": "URL",
+    "authors": [],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://aclanthology.org/2023.acl-long.323"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Libo Qin, Qiguang Chen, Fuxuan Wei, Shijue Huang, and Wanxiang Che. Cross-lingual prompting: Improving zero-shot chain-of-thought reasoning across languages. In Houda Bouamor, Juan Pino, and Kalika Bali (eds.), Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pp. 2695-2709, Singapore, December 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023.emnlp-main.163. URL https: //aclanthology.org/2023.emnlp-main.163.",
+    "title": "Cross-lingual prompting: Improving zero-shot chain-of-thought reasoning across languages",
+    "authors": [
+      "Libo Qin",
+      "Qiguang Chen",
+      "Fuxuan Wei",
+      "Shijue Huang",
+      "Wanxiang Che"
+    ],
+    "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.emnlp-main.163",
+      "url": "https://aclanthology.org/2023.emnlp-main.163"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Alexandre Ramé, Kartik Ahuja, Jianyu Zhang, Matthieu Cord, Léon Bottou, and David Lopez-Paz. Model ratatouille: Recycling diverse models for out-of-distribution generalization. In International Conference on Machine Learning, 2022. URL https://api.semanticscholar. org/CorpusID:254877458.",
+    "title": "Model ratatouille: Recycling diverse models for out-of-distribution generalization",
+    "authors": [
+      "Alexandre Ramé",
+      "Kartik Ahuja",
+      "Jianyu Zhang",
+      "Matthieu Cord",
+      "Léon Bottou",
+      "David Lopez-Paz"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Shuaijie She, Wei Zou, Shujian Huang, Wenhao Zhu, Xiang Liu, Xiang Geng, and Jiajun Chen. MAPO: Advancing multilingual reasoning through multilingual-alignment-as-preference optimization. In Lun-Wei Ku, Andre Martins, and Vivek Srikumar (eds.), Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 10015-10027, Bangkok, Thailand, August 2024. Association for Computational Linguistics. URL https://aclanthology.org/2024.acl-long.539.",
+    "title": "MAPO: Advancing multilingual reasoning through multilingual-alignment-as-preference optimization",
+    "authors": [
+      "Shuaijie She",
+      "Wei Zou",
+      "Shujian Huang",
+      "Wenhao Zhu",
+      "Xiang Liu",
+      "Xiang Geng",
+      "Jiajun Chen"
+    ],
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://aclanthology.org/2024.acl-long.539"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, and Jason Wei. Language models are multilingual chain-of-thought reasoners. In The Eleventh International Conference on Learning Representations, 2023. URL https://openreview.net/forum?id= fR3wGCk-IXp.",
+    "title": "Language models are multilingual chain-of-thought reasoners",
+    "authors": [
+      "Freda Shi",
+      "Mirac Suzgun",
+      "Markus Freitag",
+      "Xuezhi Wang",
+      "Suraj Srivats",
+      "Soroush Vosoughi",
+      "Hyung Won Chung",
+      "Yi Tay",
+      "Sebastian Ruder",
+      "Denny Zhou",
+      "Dipanjan Das",
+      "Jason Wei"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=fR"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Shivalika Singh, Freddie Vargus, Daniel D'souza, Börje Karlsson, Abinaya Mahendiran, Wei-Yin Ko, Herumb Shandilya, Jay Patel, Deividas Mataciunas, Laura O'Mahony, Mike Zhang, Ramith Hettiarachchi, Joseph Wilson, Marina Machado, Luisa Moura, Dominik Krzemiński, Hakimeh Fadaei, Irem Ergun, Ifeoma Okoh, Aisha Alaagib, Oshan Mudannayake, Zaid Alyafeai, Vu Chien, Sebastian Ruder, Surya Guthikonda, Emad Alghamdi, Sebastian Gehrmann, Niklas Muennighoff, Max Bartolo, Julia Kreutzer, Ahmet Üstün, Marzieh Fadaee, and Sara Hooker. Aya dataset: An open-access collection for multilingual instruction tuning. In Lun-Wei Ku, Andre Martins, and Vivek Srikumar (eds.), Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 11521-11567, Bangkok, Thailand, August 2024a. Association for Computational Linguistics. URL https://aclanthology.org/ 2024.acl-long.620.",
+    "title": "Aya dataset: An open-access collection for multilingual instruction tuning",
+    "authors": [
+      "Shivalika Singh",
+      "Freddie Vargus",
+      "D' Daniel",
+      "Börje Souza",
+      "Abinaya Karlsson",
+      "Wei-Yin Mahendiran",
+      "Herumb Ko",
+      "Jay Shandilya",
+      "Deividas Patel",
+      "Mataciunas",
+      "O' Laura",
+      "Mike Mahony",
+      "Ramith Zhang",
+      "Joseph Hettiarachchi",
+      "Marina Wilson",
+      "Luisa Machado",
+      "Dominik Moura",
+      "Hakimeh Krzemiński",
+      "Irem Fadaei",
+      "Ifeoma Ergun",
+      "Aisha Okoh",
+      "Oshan Alaagib",
+      "Zaid Mudannayake",
+      "Alyafeai",
+      "Sebastian Vu Chien",
+      "Surya Ruder",
+      "Emad Guthikonda",
+      "Sebastian Alghamdi",
+      "Niklas Gehrmann",
+      "Max Muennighoff",
+      "Julia Bartolo",
+      "Ahmet Kreutzer",
+      "Marzieh Üstün",
+      "Sara Fadaee",
+      "Hooker"
+    ],
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://aclanthology.org/2024.acl-long.620"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Shivalika Singh, Freddie Vargus, Daniel Dsouza, Börje F. Karlsson, Abinaya Mahendiran, Wei-Yin Ko, Herumb Shandilya, Jay Patel, Deividas Mataciunas, Laura OMahony, Mike Zhang, Ramith Hettiarachchi, Joseph Wilson, Marina Machado, Luisa Souza Moura, Dominik Krzemiński, Hakimeh Fadaei, Irem Ergün, Ifeoma Okoh, Aisha Alaagib, Oshan Mudannayake, Zaid Alyafeai, Vu Minh Chien, Sebastian Ruder, Surya Guthikonda, Emad A. Alghamdi, Sebastian Gehrmann, Niklas Muennighoff, Max Bartolo, Julia Kreutzer, Ahmet Üstün, Marzieh Fadaee, and Sara Hooker. Aya dataset: An open-access collection for multilingual instruction tuning, 2024b.",
+    "title": "Aya dataset: An open-access collection for multilingual instruction tuning",
+    "authors": [
+      "Shivalika Singh",
+      "Freddie Vargus",
+      "Daniel Dsouza",
+      "F Börje",
+      "Abinaya Karlsson",
+      "Wei-Yin Mahendiran",
+      "Herumb Ko",
+      "Jay Shandilya",
+      "Deividas Patel",
+      "Laura Mataciunas",
+      "Mike Omahony",
+      "Ramith Zhang",
+      "Joseph Hettiarachchi",
+      "Marina Wilson",
+      "Luisa Machado",
+      "Dominik Souza Moura",
+      "Hakimeh Krzemiński",
+      "Irem Fadaei",
+      "Ifeoma Ergün",
+      "Aisha Okoh",
+      "Oshan Alaagib",
+      "Zaid Mudannayake",
+      "Alyafeai",
+      "Minh Vu",
+      "Sebastian Chien",
+      "Surya Ruder",
+      "Emad A Guthikonda",
+      "Sebastian Alghamdi",
+      "Niklas Gehrmann",
+      "Max Muennighoff",
+      "Julia Bartolo",
+      "Ahmet Kreutzer",
+      "Marzieh Üstün",
+      "Sara Fadaee",
+      "Hooker"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Yi-Lin Sung, Varun Nair, and Colin Raffel. Training neural networks with fixed sparse masks. In A. Beygelzimer, Y. Dauphin, P. Liang, and J. Wortman Vaughan (eds.), Advances in Neural Information Processing Systems, 2021. URL https://openreview.net/forum?id= Uwh-v1HSw-x.",
+    "title": "Training neural networks with fixed sparse masks",
+    "authors": [
+      "Yi-Lin Sung",
+      "Varun Nair",
+      "Colin Raffel"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=Uwh-v1HSw-x"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Tianyi Tang, Wenyang Luo, Haoyang Huang, Dongdong Zhang, Xiaolei Wang, Xin Zhao, Furu Wei, and Ji-Rong Wen. Language-specific neurons: The key to multilingual capabilities in large language models. In Lun-Wei Ku, Andre Martins, and Vivek Srikumar (eds.), Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 5701-5715, Bangkok, Thailand, August 2024. Association for Computational Linguistics. URL https://aclanthology.org/2024.acl-long.309.",
+    "title": "Language-specific neurons: The key to multilingual capabilities in large language models",
+    "authors": [
+      "Tianyi Tang",
+      "Wenyang Luo",
+      "Haoyang Huang",
+      "Dongdong Zhang",
+      "Xiaolei Wang",
+      "Xin Zhao",
+      "Furu Wei",
+      "Ji-Rong Wen"
+    ],
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://aclanthology.org/2024.acl-long.309"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Atnafu Lambebo Tonja, Bonaventure FP Dossou, Jessica Ojo, Jenalea Rajab, Fadel Thior, Eric Peter Wairagala, Aremu Anuoluwapo, Pelonomi Moiloa, Jade Abbott, Vukosi Marivate, et al. Inkubalm: A small language model for low-resource african languages. arXiv preprint arXiv:2408.17024, 2024.",
+    "title": "A small language model for low-resource african languages",
+    "authors": [
+      "Atnafu Lambebo",
+      "Tonja Bonaventure",
+      "F P Dossou",
+      "Jessica Ojo",
+      "Jenalea Rajab",
+      "Fadel Thior",
+      "Eric Peter Wairagala",
+      "Aremu Anuoluwapo",
+      "Pelonomi Moiloa",
+      "Jade Abbott",
+      "Vukosi Marivate"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2408.17024"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Zirui Wang, Zachary C. Lipton, and Yulia Tsvetkov. On negative interference in multilingual models: Findings and a meta-learning treatment. In Bonnie Webber, Trevor Cohn, Yulan He, and Yang Liu (eds.), Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 4438-4450, Online, November 2020. Association for Computational Linguistics. doi: 10.18653/v1/2020.emnlp-main.359. URL https://aclanthology.org/ 2020.emnlp-main.359.",
+    "title": "On negative interference in multilingual models: Findings and a meta-learning treatment",
+    "authors": [
+      "Zirui Wang",
+      "Zachary C Lipton",
+      "Yulia Tsvetkov"
+    ],
+    "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2020,
+    "identifiers": {
+      "doi": "10.18653/v1/2020.emnlp-main.359",
+      "url": "https://aclanthology.org/2020.emnlp-main.359"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "Chris Wendler, Veniamin Veselovsky, Giovanni Monea, and Robert West. Do llamas work in English? on the latent language of multilingual transformers. In Lun-Wei Ku, Andre Martins, and Vivek Srikumar (eds.), Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 15366-15394, Bangkok, Thailand, August 2024. Association for Computational Linguistics. URL https://aclanthology.org/2024. acl-long.820.",
+    "title": "Do llamas work in English? on the latent language of multilingual transformers",
+    "authors": [
+      "Chris Wendler",
+      "Veniamin Veselovsky",
+      "Giovanni Monea",
+      "Robert West"
+    ],
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://aclanthology.org/2024.acl-long.820"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Mitchell Wortsman, Gabriel Ilharco, Samir Ya Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, and Ludwig Schmidt. Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time. In Kamalika Chaudhuri, Stefanie Jegelka, Le Song, Csaba Szepesvari, Gang Niu, and Sivan Sabato (eds.), Proceedings of the 39th International Conference on Machine Learning, volume 162, pp. 23965-23998. PMLR, 9 2022. URL https: //proceedings.mlr.press/v162/wortsman22a.html.",
+    "title": "Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time",
+    "authors": [
+      "Mitchell Wortsman",
+      "Gabriel Ilharco",
+      "Ya Samir",
+      "Rebecca Gadre",
+      "Raphael Roelofs",
+      "Ari S Gontijo-Lopes",
+      "Hongseok Morcos",
+      "Ali Namkoong",
+      "Yair Farhadi",
+      "Simon Carmon",
+      "Ludwig Kornblith",
+      "Schmidt"
+    ],
+    "venue": "Proceedings of the 39th International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v162/wortsman22a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "Runxin Xu, Fuli Luo, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, and Fei Huang. Raise a child in large language model: Towards effective and generalizable finetuning. In Marie-Francine Moens, Xuanjing Huang, Lucia Specia, and Scott Wen-tau Yih (eds.), Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pp. 9514-9528, Online and Punta Cana, Dominican Republic, November 2021. Association for Computational Linguistics. doi: 10.18653/v1/2021.emnlp-main.749. URL https: //aclanthology.org/2021.emnlp-main.749.",
+    "title": "Raise a child in large language model: Towards effective and generalizable finetuning",
+    "authors": [
+      "Runxin Xu",
+      "Fuli Luo",
+      "Zhiyuan Zhang",
+      "Chuanqi Tan",
+      "Baobao Chang",
+      "Songfang Huang",
+      "Fei Huang"
+    ],
+    "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.18653/v1/2021.emnlp-main.749",
+      "url": "https://aclanthology.org/2021.emnlp-main.749"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Prateek Yadav, Derek Tam, Leshem Choshen, Colin Raffel, and Mohit Bansal. Ties-merging: Resolving interference when merging models. In Thirty-seventh Conference on Neural Information Processing Systems, 2023. URL https://openreview.net/forum?id=xtaX3WyCj1.",
+    "title": "Ties-merging: Resolving interference when merging models",
+    "authors": [
+      "Prateek Yadav",
+      "Derek Tam",
+      "Leshem Choshen",
+      "Colin Raffel",
+      "Mohit Bansal"
+    ],
+    "venue": "Thirty-seventh Conference on Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=xtaX3WyCj1"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "An Yang, Baosong Yang, Binyuan Hui, Bo Zheng, Bowen Yu, Chang Zhou, Chengpeng Li, Chengyuan Li, Dayiheng Liu, Fei Huang, Guanting Dong, Haoran Wei, Huan Lin, Jialong Tang, Jialin Wang, Jian Yang, Jianhong Tu, Jianwei Zhang, Jianxin Ma, Jin Xu, Jingren Zhou, Jinze Bai, Jinzheng He, Junyang Lin, Kai Dang, Keming Lu, Keqin Chen, Kexin Yang, Mei Li, Mingfeng Xue, Na Ni, Pei Zhang, Peng Wang, Ru Peng, Rui Men, Ruize Gao, Runji Lin, Shijie Wang, Shuai Bai, Sinan Tan, Tianhang Zhu, Tianhao Li, Tianyu Liu, Wenbin Ge, Xiaodong Deng, Xiaohuan Zhou, Xingzhang Ren, Xinyu Zhang, Xipin Wei, Xuancheng Ren, Yang Fan, Yang Yao, Yichang Zhang, Yu Wan, Yunfei Chu, Yuqiong Liu, Zeyu Cui, Zhenru Zhang, and Zhihao Fan. Qwen2 technical report. arXiv preprint arXiv:2407.10671, 2024a.",
+    "title": "Qwen2 technical report",
+    "authors": [
+      "An Yang",
+      "Baosong Yang",
+      "Binyuan Hui",
+      "Bo Zheng",
+      "Bowen Yu",
+      "Chang Zhou",
+      "Chengpeng Li",
+      "Chengyuan Li",
+      "Dayiheng Liu",
+      "Fei Huang",
+      "Guanting Dong",
+      "Haoran Wei",
+      "Huan Lin",
+      "Jialong Tang",
+      "Jialin Wang",
+      "Jian Yang",
+      "Jianhong Tu",
+      "Jianwei Zhang",
+      "Jianxin Ma",
+      "Jin Xu",
+      "Jingren Zhou",
+      "Jinze Bai",
+      "Jinzheng He",
+      "Junyang Lin",
+      "Kai Dang",
+      "Keming Lu",
+      "Keqin Chen",
+      "Kexin Yang",
+      "Mei Li",
+      "Mingfeng Xue",
+      "Na Ni",
+      "Pei Zhang",
+      "Peng Wang",
+      "Ru Peng",
+      "Rui Men",
+      "Ruize Gao",
+      "Runji Lin",
+      "Shijie Wang",
+      "Shuai Bai",
+      "Sinan Tan",
+      "Tianhang Zhu",
+      "Tianhao Li",
+      "Tianyu Liu",
+      "Wenbin Ge",
+      "Xiaodong Deng",
+      "Xiaohuan Zhou",
+      "Xingzhang Ren",
+      "Xinyu Zhang",
+      "Xipin Wei",
+      "Xuancheng Ren",
+      "Yang Fan",
+      "Yang Yao",
+      "Yichang Zhang",
+      "Yu Wan",
+      "Yunfei Chu",
+      "Yuqiong Liu",
+      "Zeyu Cui",
+      "Zhenru Zhang",
+      "Zhihao Fan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2407.10671"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Enneng Yang, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, and Dacheng Tao. Model merging in llms, mllms, and beyond: Methods, theories, applications and opportunities, 2024b. URL https://arxiv.org/abs/2408.07666.",
+    "title": "Model merging in llms, mllms, and beyond: Methods, theories, applications and opportunities",
+    "authors": [
+      "Enneng Yang",
+      "Li Shen",
+      "Guibing Guo",
+      "Xingwei Wang",
+      "Xiaochun Cao",
+      "Jie Zhang",
+      "Dacheng Tao"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2408.07666",
+      "url": "https://arxiv.org/abs/2408.07666"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "Le Yu, Bowen Yu, Haiyang Yu, Fei Huang, and Yongbin Li. Language models are super mario: Absorbing abilities from homologous models as a free lunch. In International Conference on Machine Learning. PMLR, 2024.",
+    "title": "Language models are super mario: Absorbing abilities from homologous models as a free lunch",
+    "authors": [
+      "Le Yu",
+      "Bowen Yu",
+      "Haiyang Yu",
+      "Fei Huang",
+      "Yongbin Li"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "Jinghan Zhang, Shiqi Chen, Junteng Liu, and Junxian He. Composing parameter-efficient modules with arithmetic operation. In Thirty-seventh Conference on Neural Information Processing Systems, 2023. URL https://openreview.net/forum?id=5r3e27I9Gy.",
+    "title": "Composing parameter-efficient modules with arithmetic operation",
+    "authors": [
+      "Jinghan Zhang",
+      "Shiqi Chen",
+      "Junteng Liu",
+      "Junxian He"
+    ],
+    "venue": "Thirty-seventh Conference on Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R66",
+    "raw_text": "Jun Zhang, Jue Wang, Huan Li, Lidan Shou, Ke Chen, Gang Chen, and Sharad Mehrotra. Draft& verify: Lossless large language model acceleration via self-speculative decoding. In LunWei Ku, Andre Martins, and Vivek Srikumar (eds.), Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 1126311282, Bangkok, Thailand, August 2024a. Association for Computational Linguistics. URL https://aclanthology.org/2024.acl-long.607.",
+    "title": "Draft& verify: Lossless large language model acceleration via self-speculative decoding",
+    "authors": [
+      "Jun Zhang",
+      "Jue Wang",
+      "Huan Li",
+      "Lidan Shou",
+      "Ke Chen",
+      "Gang Chen",
+      "Sharad Mehrotra"
+    ],
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://aclanthology.org/2024.acl-long.607"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R67",
+    "raw_text": "Zhihan Zhang, Dong-Ho Lee, Yuwei Fang, Wenhao Yu, Mengzhao Jia, Meng Jiang, and Francesco Barbieri. PLUG: Leveraging pivot language in cross-lingual instruction tuning. In LunWei Ku, Andre Martins, and Vivek Srikumar (eds.), Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 70257046, Bangkok, Thailand, August 2024b. Association for Computational Linguistics. URL https://aclanthology.org/2024.acl-long.379.",
+    "title": "PLUG: Leveraging pivot language in cross-lingual instruction tuning",
+    "authors": [
+      "Zhihan Zhang",
+      "Dong-Ho Lee",
+      "Yuwei Fang",
+      "Wenhao Yu",
+      "Mengzhao Jia",
+      "Meng Jiang",
+      "Francesco Barbieri"
+    ],
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://aclanthology.org/2024.acl-long.379"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R68",
+    "raw_text": "Zhihao Zhang, Jun Zhao, Qi Zhang, Tao Gui, and Xuanjing Huang. Unveiling linguistic regions in large language models. In Lun-Wei Ku, Andre Martins, and Vivek Srikumar (eds.), Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 6228-6247, Bangkok, Thailand, August 2024c. Association for Computational Linguistics. URL https://aclanthology.org/2024.acl-long.338.",
+    "title": "Unveiling linguistic regions in large language models",
+    "authors": [
+      "Zhihao Zhang",
+      "Jun Zhao",
+      "Qi Zhang",
+      "Tao Gui",
+      "Xuanjing Huang"
+    ],
+    "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://aclanthology.org/2024.acl-long.338"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R69",
+    "raw_text": "Bo Zheng, Li Dong, Shaohan Huang, Saksham Singhal, Wanxiang Che, Ting Liu, Xia Song, and Furu Wei. Allocating large vocabulary capacity for cross-lingual language model pretraining. In Marie-Francine Moens, Xuanjing Huang, Lucia Specia, and Scott Wen-tau Yih (eds.), Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pp. 3203-3215, Online and Punta Cana, Dominican Republic, November 2021. Association for Computational Linguistics. doi: 10.18653/v1/2021.emnlp-main.257. URL https: //aclanthology.org/2021.emnlp-main.257.",
+    "title": "Allocating large vocabulary capacity for cross-lingual language model pretraining",
+    "authors": [
+      "Bo Zheng",
+      "Li Dong",
+      "Shaohan Huang",
+      "Saksham Singhal",
+      "Wanxiang Che",
+      "Ting Liu",
+      "Xia Song",
+      "Furu Wei"
+    ],
+    "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.18653/v1/2021.emnlp-main.257",
+      "url": "https://aclanthology.org/2021.emnlp-main.257"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R70",
+    "raw_text": "A APPENDIX A.1 FINE-TUNING DATASETS Table 3: Datasets used for supervised-fine-tuning (SFT) in this project Category Datasets URL Math Orca Math word problems dataset from Microsoft (Mitra et al., 2024) https://huggingface. co/datasets/microsoft/ orca-math-word-problems-200k",
+    "title": "FINE-TUNING DATASETS Table 3: Datasets used for supervised-fine-tuning (SFT) in this project Category Datasets URL Math Orca Math word problems dataset from Microsoft",
+    "authors": [
+      "A Appendix",
+      "A Mitra"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

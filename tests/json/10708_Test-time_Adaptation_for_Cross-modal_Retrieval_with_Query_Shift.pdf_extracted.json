@@ -1,0 +1,1083 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Harsh Agrawal, Karan Desai, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, and Peter Anderson. Nocaps: Novel object captioning at scale. In CVPR, 2019.",
+    "title": "Nocaps: Novel object captioning at scale",
+    "authors": [
+      "Harsh Agrawal",
+      "Karan Desai",
+      "Yufei Wang",
+      "Xinlei Chen",
+      "Rishabh Jain",
+      "Mark Johnson",
+      "Dhruv Batra",
+      "Devi Parikh",
+      "Stefan Lee",
+      "Peter Anderson"
+    ],
+    "venue": "CVPR",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Guangji Bai, Chen Ling, and Liang Zhao. Temporal domain generalization with drift-aware dynamic neural networks. arXiv:2205.10664, 2022.",
+    "title": "Temporal domain generalization with drift-aware dynamic neural networks",
+    "authors": [
+      "Guangji Bai",
+      "Chen Ling",
+      "Liang Zhao"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2205.10664"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Yarin Bar, Shalev Shaer, and Yaniv Romano. Protected test-time adaptation via online entropy matching: A betting approach. In NeurIPS, 2025.",
+    "title": "Protected test-time adaptation via online entropy matching: A betting approach",
+    "authors": [
+      "Yarin Bar",
+      "Shalev Shaer",
+      "Yaniv Romano"
+    ],
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Haozhi Cao, Yuecong Xu, Jianfei Yang, Pengyu Yin, Shenghai Yuan, and Lihua Xie. Multi-modal continual test-time adaptation for 3d semantic segmentation. In CVPR, 2023.",
+    "title": "Multi-modal continual test-time adaptation for 3d semantic segmentation",
+    "authors": [
+      "Haozhi Cao",
+      "Yuecong Xu",
+      "Jianfei Yang",
+      "Pengyu Yin",
+      "Shenghai Yuan",
+      "Lihua Xie"
+    ],
+    "venue": "CVPR",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, and Armand Joulin. Unsupervised learning of visual features by contrasting cluster assignments. In NeurIPS, 2020.",
+    "title": "Unsupervised learning of visual features by contrasting cluster assignments",
+    "authors": [
+      "Mathilde Caron",
+      "Ishan Misra",
+      "Julien Mairal",
+      "Priya Goyal",
+      "Piotr Bojanowski",
+      "Armand Joulin"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Giuseppe Cartella, Alberto Baldrati, Davide Morelli, Marcella Cornia, Marco Bertini, and Rita Cucchiara. Openfashionclip: Vision-and-language contrastive learning with open-source fashion data. In ICIAP, 2023.",
+    "title": "Openfashionclip: Vision-and-language contrastive learning with open-source fashion data",
+    "authors": [
+      "Giuseppe Cartella",
+      "Alberto Baldrati",
+      "Davide Morelli",
+      "Marcella Cornia",
+      "Marco Bertini",
+      "Rita Cucchiara"
+    ],
+    "venue": "ICIAP",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Soravit Changpinyo, Piyush Sharma, Nan Ding, and Radu Soricut. Conceptual 12m: Pushing webscale image-text pre-training to recognize long-tail visual concepts. In CVPR, 2021.",
+    "title": "Conceptual 12m: Pushing webscale image-text pre-training to recognize long-tail visual concepts",
+    "authors": [
+      "Soravit Changpinyo",
+      "Piyush Sharma",
+      "Nan Ding",
+      "Radu Soricut"
+    ],
+    "venue": "CVPR",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Dian Chen, Dequan Wang, Trevor Darrell, and Sayna Ebrahimi. Contrastive test-time adaptation. In CVPR, 2022.",
+    "title": "Contrastive test-time adaptation",
+    "authors": [
+      "Dian Chen",
+      "Dequan Wang",
+      "Trevor Darrell",
+      "Sayna Ebrahimi"
+    ],
+    "venue": "CVPR",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Qingchao Chen, Yang Liu, and Samuel Albanie. Mind-the-gap! unsupervised domain adaptation for text-video retrieval. In AAAI, 2021.",
+    "title": "Mind-the-gap! unsupervised domain adaptation for text-video retrieval",
+    "authors": [
+      "Qingchao Chen",
+      "Yang Liu",
+      "Samuel Albanie"
+    ],
+    "venue": "AAAI",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Zefeng Ding, Changxing Ding, Zhiyin Shao, and Dacheng Tao. Semantically self-aligned network for text-to-image part-aware person re-identification. arXiv:2107.12666, 2021.",
+    "title": "Semantically self-aligned network for text-to-image part-aware person re-identification",
+    "authors": [
+      "Zefeng Ding",
+      "Changxing Ding",
+      "Zhiyin Shao",
+      "Dacheng Tao"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2107.12666"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Hao Dong, Moru Liu, Kaiyang Zhou, Eleni Chatzi, Juho Kannala, Cyrill Stachniss, and Olga Fink. Advances in multimodal adaptation and generalization: From traditional approaches to foundation models. arXiv preprint arXiv:2501.18592, 2025.",
+    "title": "Advances in multimodal adaptation and generalization: From traditional approaches to foundation models",
+    "authors": [
+      "Hao Dong",
+      "Moru Liu",
+      "Kaiyang Zhou",
+      "Eleni Chatzi",
+      "Juho Kannala",
+      "Cyrill Stachniss",
+      "Olga Fink"
+    ],
+    "year": 2025,
+    "identifiers": {
+      "arxiv_id": "arXiv:2501.18592"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Yossi Gandelsman, Yu Sun, Xinlei Chen, and Alexei Efros. Test-time training with masked autoencoders. In NeurIPS, 2022.",
+    "title": "Test-time training with masked autoencoders",
+    "authors": [
+      "Yossi Gandelsman",
+      "Yu Sun",
+      "Xinlei Chen",
+      "Alexei Efros"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, and Xi Peng. Test-time degradation adaptation for open-set image restoration. In ICML, 2024.",
+    "title": "Test-time degradation adaptation for open-set image restoration",
+    "authors": [
+      "Yuanbiao Gou",
+      "Haiyu Zhao",
+      "Boyun Li",
+      "Xinyan Xiao",
+      "Xi Peng"
+    ],
+    "venue": "ICML",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Sheng Guo, Weilin Huang, Xiao Zhang, Prasanna Srikhanta, Yin Cui, Yuan Li, Hartwig Adam, Matthew R Scott, and Serge Belongie. The imaterialist fashion attribute dataset. In ICCV Workshops, 2019.",
+    "title": "The imaterialist fashion attribute dataset",
+    "authors": [
+      "Sheng Guo",
+      "Weilin Huang",
+      "Xiao Zhang",
+      "Prasanna Srikhanta",
+      "Yin Cui",
+      "Yuan Li",
+      "Hartwig Adam",
+      "Matthew R Scott",
+      "Serge Belongie"
+    ],
+    "venue": "ICCV Workshops",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Xintong Han, Zuxuan Wu, Phoenix X Huang, Xiao Zhang, Menglong Zhu, Yuan Li, Yang Zhao, and Larry S Davis. Automatic spatially-aware fashion concept discovery. In ICCV, 2017.",
+    "title": "Automatic spatially-aware fashion concept discovery",
+    "authors": [
+      "Xintong Han",
+      "Zuxuan Wu",
+      "X Phoenix",
+      "Xiao Huang",
+      "Menglong Zhang",
+      "Yuan Zhu",
+      "Yang Li",
+      "Larry S Zhao",
+      "Davis"
+    ],
+    "venue": "ICCV",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Xiaoshuai Hao, Wanqian Zhang, Dayan Wu, Fei Zhu, and Bo Li. Dual alignment unsupervised domain adaptation for video-text retrieval. In CVPR, 2023.",
+    "title": "Dual alignment unsupervised domain adaptation for video-text retrieval",
+    "authors": [
+      "Xiaoshuai Hao",
+      "Wanqian Zhang",
+      "Dayan Wu",
+      "Fei Zhu",
+      "Bo Li"
+    ],
+    "venue": "CVPR",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Zhenyu Huang, Mouxing Yang, Xinyan Xiao, Peng Hu, and Xi Peng. Noise-robust vision-language pre-training with positive-negative learning. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.",
+    "title": "Noise-robust vision-language pre-training with positive-negative learning",
+    "authors": [
+      "Zhenyu Huang",
+      "Mouxing Yang",
+      "Xinyan Xiao",
+      "Peng Hu",
+      "Xi Peng"
+    ],
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc Le, Yun-Hsuan Sung, Zhen Li, and Tom Duerig. Scaling up visual and vision-language representation learning with noisy text supervision. In ICML, 2021.",
+    "title": "Scaling up visual and vision-language representation learning with noisy text supervision",
+    "authors": [
+      "Chao Jia",
+      "Yinfei Yang",
+      "Ye Xia",
+      "Yi-Ting Chen",
+      "Zarana Parekh",
+      "Hieu Pham",
+      "Quoc Le",
+      "Yun-Hsuan Sung",
+      "Zhen Li",
+      "Tom Duerig"
+    ],
+    "venue": "ICML",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Ding Jiang and Mang Ye. Cross-modal implicit relation reasoning and aligning for text-to-image person retrieval. In CVPR, 2023.",
+    "title": "Cross-modal implicit relation reasoning and aligning for text-to-image person retrieval",
+    "authors": [
+      "Ding Jiang",
+      "Mang Ye"
+    ],
+    "venue": "CVPR",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Guoliang Kang, Lu Jiang, Yi Yang, and Alexander G Hauptmann. Contrastive adaptation network for unsupervised domain adaptation. In CVPR, 2019.",
+    "title": "Contrastive adaptation network for unsupervised domain adaptation",
+    "authors": [
+      "Guoliang Kang",
+      "Lu Jiang",
+      "Yi Yang",
+      "Alexander G Hauptmann"
+    ],
+    "venue": "CVPR",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Ranjay Krishna, Yuke Zhu, Oliver Groth, Justin Johnson, Kenji Hata, Joshua Kravitz, Stephanie Chen, Yannis Kalantidis, Li-Jia Li, David A Shamma, et al. Visual genome: Connecting language and vision using crowdsourced dense image annotations. International Journal of Computer Vision, 2017.",
+    "title": "Visual genome: Connecting language and vision using crowdsourced dense image annotations",
+    "authors": [
+      "Ranjay Krishna",
+      "Yuke Zhu",
+      "Oliver Groth",
+      "Justin Johnson",
+      "Kenji Hata",
+      "Joshua Kravitz",
+      "Stephanie Chen",
+      "Yannis Kalantidis",
+      "Li-Jia Li",
+      "David A Shamma"
+    ],
+    "venue": "International Journal of Computer Vision",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Jonghyun Lee, Dahuin Jung, Saehyung Lee, Junsung Park, Juhyeon Shin, Uiwon Hwang, and Sungroh Yoon. Entropy is not enough for test-time adaptation: From the perspective of disentangled factors. In ICLR, 2024.",
+    "title": "Entropy is not enough for test-time adaptation: From the perspective of disentangled factors",
+    "authors": [
+      "Jonghyun Lee",
+      "Dahuin Jung",
+      "Saehyung Lee",
+      "Junsung Park",
+      "Juhyeon Shin",
+      "Uiwon Hwang",
+      "Sungroh Yoon"
+    ],
+    "venue": "ICLR",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Kuang-Huei Lee, Xi Chen, Gang Hua, Houdong Hu, and Xiaodong He. Stacked cross attention for image-text matching. In ECCV, 2018.",
+    "title": "Gang Hua, Houdong Hu, and Xiaodong He. Stacked cross attention for image-text matching",
+    "authors": [
+      "Kuang-Huei Lee",
+      "Xi Chen"
+    ],
+    "venue": "ECCV",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Haobin Li, Yunfan Li, Mouxing Yang, Peng Hu, Dezhong Peng, and Xi Peng. Incomplete multiview clustering via prototype-based imputation. In IJCAI, 2023a.",
+    "title": "Incomplete multiview clustering via prototype-based imputation",
+    "authors": [
+      "Haobin Li",
+      "Yunfan Li",
+      "Mouxing Yang",
+      "Peng Hu",
+      "Dezhong Peng",
+      "Xi Peng"
+    ],
+    "venue": "IJCAI",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Junnan Li, Dongxu Li, Caiming Xiong, and Steven Hoi. Blip: Bootstrapping language-image pretraining for unified vision-language understanding and generation. In ICML, 2022.",
+    "title": "Blip: Bootstrapping language-image pretraining for unified vision-language understanding and generation",
+    "authors": [
+      "Junnan Li",
+      "Dongxu Li",
+      "Caiming Xiong",
+      "Steven Hoi"
+    ],
+    "venue": "ICML",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Junnan Li, Dongxu Li, Silvio Savarese, and Steven Hoi. Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models. In ICML, 2023b.",
+    "title": "Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models",
+    "authors": [
+      "Junnan Li",
+      "Dongxu Li",
+      "Silvio Savarese",
+      "Steven Hoi"
+    ],
+    "venue": "ICML",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Shuang Li, Tong Xiao, Hongsheng Li, Bolei Zhou, Dayu Yue, and Xiaogang Wang. Person search with natural language description. In CVPR, 2017.",
+    "title": "Person search with natural language description",
+    "authors": [
+      "Shuang Li",
+      "Tong Xiao",
+      "Hongsheng Li",
+      "Bolei Zhou",
+      "Dayu Yue",
+      "Xiaogang Wang"
+    ],
+    "venue": "CVPR",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Victor Weixin Liang, Yuhui Zhang, Yongchan Kwon, Serena Yeung, and James Y Zou. Mind the gap: Understanding the modality gap in multi-modal contrastive representation learning. In NeurIPS, 2022.",
+    "title": "Mind the gap: Understanding the modality gap in multi-modal contrastive representation learning",
+    "authors": [
+      "Yuhui Victor Weixin Liang",
+      "Yongchan Zhang",
+      "Serena Kwon",
+      "James Y Yeung",
+      "Zou"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva Ramanan, Piotr Dollár, and C Lawrence Zitnick. Microsoft coco: Common objects in context. In ECCV, 2014.",
+    "title": "Microsoft coco: Common objects in context",
+    "authors": [
+      "Tsung-Yi Lin",
+      "Michael Maire",
+      "Serge Belongie",
+      "James Hays",
+      "Pietro Perona",
+      "Deva Ramanan",
+      "Piotr Dollár",
+      "C Lawrence",
+      "Zitnick"
+    ],
+    "venue": "ECCV",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Yijie Lin, Jie Zhang, Zhenyu Huang, Jia Liu, Zujie Wen, and Xi Peng. Multi-granularity correspondence learning from long-term noisy videos. In ICLR, 2024.",
+    "title": "Multi-granularity correspondence learning from long-term noisy videos",
+    "authors": [
+      "Yijie Lin",
+      "Jie Zhang",
+      "Zhenyu Huang",
+      "Jia Liu",
+      "Zujie Wen",
+      "Xi Peng"
+    ],
+    "venue": "ICLR",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Yang Liu, Qingchao Chen, and Samuel Albanie. Adaptive cross-modal prototypes for cross-domain visual-language retrieval. In CVPR, 2021a.",
+    "title": "Adaptive cross-modal prototypes for cross-domain visual-language retrieval",
+    "authors": [
+      "Yang Liu",
+      "Qingchao Chen",
+      "Samuel Albanie"
+    ],
+    "venue": "CVPR",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Yuejiang Liu, Parth Kothari, Bastien Van Delft, Baptiste Bellot-Gurlet, Taylor Mordan, and Alexandre Alahi. Ttt++: When does self-supervised test-time training fail or thrive? In NeurIPS, 2021b.",
+    "title": "Ttt++: When does self-supervised test-time training fail or thrive?",
+    "authors": [
+      "Yuejiang Liu",
+      "Parth Kothari",
+      "Bastien Van Delft",
+      "Baptiste Bellot-Gurlet",
+      "Taylor Mordan",
+      "Alexandre Alahi"
+    ],
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Mingsheng Long, Han Zhu, Jianmin Wang, and Michael I Jordan. Deep transfer learning with joint adaptation networks. In ICML, 2017.",
+    "title": "Deep transfer learning with joint adaptation networks",
+    "authors": [
+      "Mingsheng Long",
+      "Han Zhu",
+      "Jianmin Wang",
+      "Michael I Jordan"
+    ],
+    "venue": "ICML",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Xiaoqiang Lu, Binqiang Wang, Xiangtao Zheng, and Xuelong Li. Exploring models and data for remote sensing image caption generation. IEEE Transactions on Geoscience and Remote Sensing, 2017.",
+    "title": "Exploring models and data for remote sensing image caption generation",
+    "authors": [
+      "Xiaoqiang Lu",
+      "Binqiang Wang",
+      "Xiangtao Zheng",
+      "Xuelong Li"
+    ],
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Yiding Lu, Yijie Lin, Mouxing Yang, Dezhong Peng, Peng Hu, and Xi Peng. Decoupled contrastive multi-view clustering with high-order random walks. In AAAI, 2024.",
+    "title": "Decoupled contrastive multi-view clustering with high-order random walks",
+    "authors": [
+      "Yiding Lu",
+      "Yijie Lin",
+      "Mouxing Yang",
+      "Dezhong Peng",
+      "Peng Hu",
+      "Xi Peng"
+    ],
+    "venue": "AAAI",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Xinran Ma, Mouxing Yang, Yunfan Li, Peng Hu, Jiancheng Lv, and Xi Peng. Cross-modal retrieval with noisy correspondence via consistency refining and mining. IEEE Transactions on Image Processing, 2024a.",
+    "title": "Cross-modal retrieval with noisy correspondence via consistency refining and mining",
+    "authors": [
+      "Xinran Ma",
+      "Mouxing Yang",
+      "Yunfan Li",
+      "Peng Hu",
+      "Jiancheng Lv",
+      "Xi Peng"
+    ],
+    "venue": "IEEE Transactions on Image Processing",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Zeyu Ma, Yuqi Li, Yizhi Luo, Xiao Luo, Jinxing Li, Chong Chen, Xian-Sheng Hua, and Guangming Lu. Discrepancy and structure-based contrast for test-time adaptive retrieval. IEEE Transactions on Multimedia, 2024b.",
+    "title": "Discrepancy and structure-based contrast for test-time adaptive retrieval",
+    "authors": [
+      "Zeyu Ma",
+      "Yuqi Li",
+      "Yizhi Luo",
+      "Xiao Luo",
+      "Jinxing Li",
+      "Chong Chen",
+      "Xian-Sheng Hua",
+      "Guangming Lu"
+    ],
+    "venue": "IEEE Transactions on Multimedia",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Jonathan Munro, Michael Wray, Diane Larlus, Gabriela Csurka, and Dima Damen. Domain adaptation in multi-view embedding for cross-modal video retrieval. arXiv:2110.12812, 2021.",
+    "title": "Domain adaptation in multi-view embedding for cross-modal video retrieval",
+    "authors": [
+      "Jonathan Munro",
+      "Michael Wray",
+      "Diane Larlus",
+      "Gabriela Csurka",
+      "Dima Damen"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2110.12812"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Yaofo Chen, Shijian Zheng, Peilin Zhao, and Mingkui Tan. Efficient test-time model adaptation without forgetting. In ICML, 2022.",
+    "title": "Efficient test-time model adaptation without forgetting",
+    "authors": [
+      "Shuaicheng Niu",
+      "Jiaxiang Wu",
+      "Yifan Zhang",
+      "Yaofo Chen",
+      "Shijian Zheng",
+      "Peilin Zhao",
+      "Mingkui Tan"
+    ],
+    "venue": "ICML",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Zhiquan Wen, Yaofo Chen, Peilin Zhao, and Mingkui Tan. Towards stable test-time adaptation in dynamic wild world. In ICLR, 2023.",
+    "title": "Towards stable test-time adaptation in dynamic wild world",
+    "authors": [
+      "Shuaicheng Niu",
+      "Jiaxiang Wu",
+      "Yifan Zhang",
+      "Zhiquan Wen",
+      "Yaofo Chen",
+      "Peilin Zhao",
+      "Mingkui Tan"
+    ],
+    "venue": "ICLR",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Vicente Ordonez, Girish Kulkarni, and Tamara Berg. Im2text: Describing images using 1 million captioned photographs. In NeurIPS, 2011.",
+    "title": "Im2text: Describing images using 1 million captioned photographs",
+    "authors": [
+      "Vicente Ordonez",
+      "Girish Kulkarni",
+      "Tamara Berg"
+    ],
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Yuxin Peng and Jingze Chi. Unsupervised cross-media retrieval using domain adaptation with scene graph. IEEE Transactions on Circuits and Systems for Video Technology, 2019.",
+    "title": "Unsupervised cross-media retrieval using domain adaptation with scene graph",
+    "authors": [
+      "Yuxin Peng",
+      "Jingze Chi"
+    ],
+    "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Bryan A Plummer, Liwei Wang, Chris M Cervantes, Juan C Caicedo, Julia Hockenmaier, and Svetlana Lazebnik. Flickr30k entities: Collecting region-to-phrase correspondences for richer imageto-sentence models. In ICCV, 2015.",
+    "title": "Flickr30k entities: Collecting region-to-phrase correspondences for richer imageto-sentence models",
+    "authors": [
+      "Liwei Bryan A Plummer",
+      "Chris M Wang",
+      "Juan C Cervantes",
+      "Julia Caicedo",
+      "Svetlana Hockenmaier",
+      "Lazebnik"
+    ],
+    "venue": "ICCV",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Ori Press, Steffen Schneider, Matthias Kümmerer, and Matthias Bethge. Rdumb: A simple approach that questions our progress in continual test-time adaptation. In NeurIPS, 2023.",
+    "title": "Rdumb: A simple approach that questions our progress in continual test-time adaptation",
+    "authors": [
+      "Ori Press",
+      "Steffen Schneider",
+      "Matthias Kümmerer",
+      "Matthias Bethge"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Jielin Qiu, Yi Zhu, Xingjian Shi, Florian Wenzel, Zhiqiang Tang, Ding Zhao, Bo Li, and Mu Li. Benchmarking robustness of multimodal image-text models under distribution shift. Journal of Data-centric Machine Learning Research, 2023.",
+    "title": "Benchmarking robustness of multimodal image-text models under distribution shift",
+    "authors": [
+      "Jielin Qiu",
+      "Yi Zhu",
+      "Xingjian Shi",
+      "Florian Wenzel",
+      "Zhiqiang Tang",
+      "Ding Zhao",
+      "Bo Li",
+      "Mu Li"
+    ],
+    "venue": "Journal of Data-centric Machine Learning Research",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, et al. Learning transferable visual models from natural language supervision. In ICML, 2021.",
+    "title": "Learning transferable visual models from natural language supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "Aditya Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark"
+    ],
+    "venue": "ICML",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Negar Rostamzadeh, Seyedarian Hosseini, Thomas Boquet, Wojciech Stokowiec, Ying Zhang, Christian Jauvin, and Chris Pal. Fashion-gen: The generative fashion dataset and challenge. arXiv preprint arXiv:1806.08317, 2018.",
+    "title": "Fashion-gen: The generative fashion dataset and challenge",
+    "authors": [
+      "Negar Rostamzadeh",
+      "Seyedarian Hosseini",
+      "Thomas Boquet",
+      "Wojciech Stokowiec",
+      "Ying Zhang",
+      "Christian Jauvin",
+      "Chris Pal"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1806.08317"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Yu Sun, Xiaolong Wang, Zhuang Liu, John Miller, Alexei Efros, and Moritz Hardt. Test-time training with self-supervision for generalization under distribution shifts. In ICML, 2020.",
+    "title": "Test-time training with self-supervision for generalization under distribution shifts",
+    "authors": [
+      "Yu Sun",
+      "Xiaolong Wang",
+      "Zhuang Liu",
+      "John Miller",
+      "Alexei Efros",
+      "Moritz Hardt"
+    ],
+    "venue": "ICML",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Dequan Wang, Evan Shelhamer, Shaoteng Liu, Bruno Olshausen, and Trevor Darrell. Tent: Fully test-time adaptation by entropy minimization. In ICLR, 2021.",
+    "title": "Tent: Fully test-time adaptation by entropy minimization",
+    "authors": [
+      "Dequan Wang",
+      "Evan Shelhamer",
+      "Shaoteng Liu",
+      "Bruno Olshausen",
+      "Trevor Darrell"
+    ],
+    "venue": "ICLR",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Hui Wu, Yupeng Gao, Xiaoxiao Guo, Ziad Al-Halah, Steven Rennie, Kristen Grauman, and Rogerio Feris. Fashion iq: A new dataset towards retrieving images by natural language feedback. In CVPR, 2021.",
+    "title": "Fashion iq: A new dataset towards retrieving images by natural language feedback",
+    "authors": [
+      "Hui Wu",
+      "Yupeng Gao",
+      "Xiaoxiao Guo",
+      "Ziad Al-Halah",
+      "Steven Rennie",
+      "Kristen Grauman",
+      "Rogerio Feris"
+    ],
+    "venue": "CVPR",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Mixue Xie, Shuang Li, Longhui Yuan, Chi Liu, and Zehui Dai. Evolving standardization for continual domain generalization over temporal drift. In NeurIPS, 2024.",
+    "title": "Evolving standardization for continual domain generalization over temporal drift",
+    "authors": [
+      "Mixue Xie",
+      "Shuang Li",
+      "Longhui Yuan",
+      "Chi Liu",
+      "Zehui Dai"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Shuanglin Yan, Neng Dong, Liyan Zhang, and Jinhui Tang. Clip-driven fine-grained text-image person re-identification. IEEE Transactions on Image Processing, 2023.",
+    "title": "Clip-driven fine-grained text-image person re-identification",
+    "authors": [
+      "Shuanglin Yan",
+      "Neng Dong",
+      "Liyan Zhang",
+      "Jinhui Tang"
+    ],
+    "venue": "IEEE Transactions on Image Processing",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Jinyu Yang, Jiali Duan, Son Tran, Yi Xu, Sampath Chanda, Liqun Chen, Belinda Zeng, Trishul Chilimbi, and Junzhou Huang. Vision-language pre-training with triple contrastive learning. In CVPR, 2022a.",
+    "title": "Vision-language pre-training with triple contrastive learning",
+    "authors": [
+      "Jinyu Yang",
+      "Jiali Duan",
+      "Son Tran",
+      "Yi Xu",
+      "Sampath Chanda",
+      "Liqun Chen",
+      "Belinda Zeng",
+      "Trishul Chilimbi",
+      "Junzhou Huang"
+    ],
+    "venue": "CVPR",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Mouxing Yang, Zhenyu Huang, Peng Hu, Taihao Li, Jiancheng Lv, and Xi Peng. Learning with twin noisy labels for visible-infrared person re-identification. In CVPR, 2022b.",
+    "title": "Learning with twin noisy labels for visible-infrared person re-identification",
+    "authors": [
+      "Mouxing Yang",
+      "Zhenyu Huang",
+      "Peng Hu",
+      "Taihao Li",
+      "Jiancheng Lv",
+      "Xi Peng"
+    ],
+    "venue": "CVPR",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Mouxing Yang, Yunfan Li, Changqing Zhang, Peng Hu, and Xi Peng. Test-time adaptation against multi-modal reliability bias. In ICLR, 2024.",
+    "title": "Test-time adaptation against multi-modal reliability bias",
+    "authors": [
+      "Mouxing Yang",
+      "Yunfan Li",
+      "Changqing Zhang",
+      "Peng Hu",
+      "Xi Peng"
+    ],
+    "venue": "ICLR",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "En Yu, Jie Lu, Bin Zhang, and Guangquan Zhang. Online boosting adaptive learning under concept drift for multistream classification. In AAAI, 2024.",
+    "title": "Online boosting adaptive learning under concept drift for multistream classification",
+    "authors": [
+      "En Yu",
+      "Jie Lu",
+      "Bin Zhang",
+      "Guangquan Zhang"
+    ],
+    "venue": "AAAI",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Zhiqiang Yuan, Wenkai Zhang, Kun Fu, Xuan Li, Chubo Deng, Hongqi Wang, and Xian Sun. Exploring a fine-grained multiscale method for cross-modal remote sensing image retrieval. arXiv:2204.09868, 2022.",
+    "title": "Exploring a fine-grained multiscale method for cross-modal remote sensing image retrieval",
+    "authors": [
+      "Zhiqiang Yuan",
+      "Wenkai Zhang",
+      "Kun Fu",
+      "Xuan Li",
+      "Chubo Deng",
+      "Hongqi Wang",
+      "Xian Sun"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2204.09868"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "Luca Zancato, Alessandro Achille, Tian Yu Liu, Matthew Trager, Pramuditha Perera, and Stefano Soatto. Train/test-time adaptation with retrieval. In CVPR, 2023. Noise Blur Weather Digital Query Shift Gauss. Shot Impul. Speckle Defoc. Glass Motion Zoom Snow Frost Fog Brit. Contr. Elastic Pixel JPEG Avg. BLIP ViT-B/16",
+    "title": "Train/test-time adaptation with retrieval",
+    "authors": [
+      "Luca Zancato",
+      "Alessandro Achille",
+      "Tian",
+      "Yu Liu",
+      "Matthew Trager",
+      "Pramuditha Perera",
+      "Stefano Soatto"
+    ],
+    "venue": "CVPR, 2023. Noise Blur Weather Digital Query Shift Gauss. Shot Impul. Speckle Defoc. Glass Motion Zoom Snow Frost Fog Brit. Contr. Elastic Pixel JPEG Avg",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Table 8: Comparisons with state-of-the-art methods on Flickr-C benchmark under QUERY SHIFT ON THE TEXT MODALITY with maximum severity level regarding the Recall@1 metric. Character-level Word-level Setence-level Query Shift OCR CI CR CS CD SR RI RS RD IP Formal Casual Passive Active Backtrans Avg.",
+    "title": "Comparisons with state-of-the-art methods on Flickr-C benchmark under QUERY SHIFT ON THE TEXT MODALITY with maximum severity level regarding the Recall@1 metric. Character-level Word-level Setence-level Query Shift OCR CI CR CS CD SR RI RS RD IP Formal Casual Passive Active Backtrans Avg",
+    "authors": [],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "Here, we perform experiments on the COCO-C and Flickr-C benchmarks to evaluate the proposed untrained TCR in Appendix C. During the experiments, we compare untrained TCR with the best baseline EATA in Table 1-2. From the results in Table 10 and Table 11, we observe that the untrained TCR achieves significant improvement over EATA, even without parameter update, which corroborates our observations and validates the effectiveness of the proposed TCR. Table 10: The cross-modal retrieval performance of untrained TCR on COCO-C and Flickr-C benchmarks under IMAGE MODALITY DISTRIBUTION SHIFTS with maximum severity level regarding the Recall@1 metric. Noise Blur Weather Digital Dataset Query Shift Gauss. Shot Impul. Speckle Defoc. Glass Motion Zoom Snow Frost Fog Brit. Contr. Elastic Pixel JPEG Avg.",
+    "title": "we perform experiments on the COCO-C and Flickr-C benchmarks to evaluate the proposed untrained TCR in Appendix C. During the experiments, we compare untrained TCR with the best baseline EATA in Table 1-2. From the results in Table 10 and Table 11, we observe that the untrained TCR achieves significant improvement over EATA, even without parameter update, which corroborates our observations and validates the effectiveness of the proposed TCR. Table 10: The cross-modal retrieval performance of untrained TCR on COCO-C and Flickr-C benchmarks under IMAGE MODALITY DISTRIBUTION SHIFTS with maximum severity level regarding the Recall@1 metric. Noise Blur Weather Digital Dataset Query Shift Gauss",
+    "authors": [
+      "Here"
+    ],
+    "venue": "Shot Impul. Speckle Defoc. Glass Motion Zoom Snow Frost Fog Brit. Contr. Elastic Pixel JPEG Avg",
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Table 11: The cross-modal retrieval performance of untrained TCR on COCO-C and Flickr-C benchmarks under TEXT MODALITY DISTRIBUTION SHIFTS with maximum severity level regarding the Recall@1 metric. Character-level Word-level Setence-level Dataset Query Shift OCR CI CR CS CD SR RI RS RD IP Formal Casual Passive Active Backtrans Avg.",
+    "title": "Table 11: The cross-modal retrieval performance of untrained TCR on COCO-C and Flickr-C benchmarks under TEXT MODALITY DISTRIBUTION SHIFTS with maximum severity level regarding the Recall@1 metric. Character-level Word-level Setence-level Dataset Query Shift OCR CI CR CS CD SR RI RS RD IP Formal Casual Passive Active Backtrans Avg",
+    "authors": [],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Flickr-C EATA 55.",
+    "authors": [
+      "Flickr-C Eata"
+    ],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Noise Blur Weather Digital Image Retrieval Gauss. Shot Impul. Speckle Defoc. Glass Motion Zoom Snow Frost Fog Brit. Contr. Elastic Pixel JPEG Avg.",
+    "authors": [],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "Table 17: Performance under GALLERY SHIFT ON THE TEXT MODALITY regarding the Recall@1 metric and neighbor ACC. Character-level Word-level Setence-level Text Retrieval OCR CI CR CS CD SR RI RS RD IP Formal Casual Passive Active Backtrans Avg.",
+    "title": "Performance under GALLERY SHIFT ON THE TEXT MODALITY regarding the Recall@1 metric and neighbor ACC. Character-level Word-level Setence-level Text Retrieval OCR CI CR CS CD SR RI RS RD IP Formal Casual Passive Active Backtrans Avg",
+    "authors": [],
+    "venue": "Table",
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  }
+]

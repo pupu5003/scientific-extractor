@@ -1,0 +1,585 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Hao Ban and Kaiyi Ji. Fair resource allocation in multi-task learning. In International Conference on Machine Learning, 2024.",
+    "title": "Fair resource allocation in multi-task learning",
+    "authors": [
+      "Hao Ban",
+      "Kaiyi Ji"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Dimitri P. Bertsekas. Incremental gradient, subgradient, and proximal methods for convex optimization: A survey. In Optimization for Machine Learning. MIT Press, 2011.",
+    "title": "Incremental gradient, subgradient, and proximal methods for convex optimization: A survey",
+    "authors": [
+      "Dimitri P Bertsekas"
+    ],
+    "venue": "Optimization for Machine Learning",
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Jaeyoung Cha, Jaewook Lee, and Chulhee Yun. Tighter lower bounds for shuffling SGD: Random permutations and beyond. In International Conference on Machine Learning, 2023.",
+    "title": "Tighter lower bounds for shuffling SGD: Random permutations and beyond",
+    "authors": [
+      "Jaeyoung Cha",
+      "Jaewook Lee",
+      "Chulhee Yun"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Lisha Chen, Heshan Fernando, Yiming Ying, and Tianyi Chen. Three-way trade-off in multiobjective learning: Optimization, generalization and conflict-avoidance. Journal of Machine Learning Research, 25(193):1-53, 2024.",
+    "title": "Three-way trade-off in multiobjective learning: Optimization, generalization and conflict-avoidance",
+    "authors": [
+      "Lisha Chen",
+      "Heshan Fernando",
+      "Yiming Ying",
+      "Tianyi Chen"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Zhao Chen, Vijay Badrinarayanan, Chen-Yu Lee, and Andrew Rabinovich. GradNorm: Gradient normalization for adaptive loss balancing in deep multitask networks. In International Conference on Machine Learning, 2018.",
+    "title": "GradNorm: Gradient normalization for adaptive loss balancing in deep multitask networks",
+    "authors": [
+      "Vijay Zhao Chen",
+      "Chen-Yu Badrinarayanan",
+      "Andrew Lee",
+      "Rabinovich"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Jean-Antoine Désidéri. Multiple-gradient descent algorithm (MGDA) for multi-objective optimization. Comptes Rendus Mathematique, 350(5-6), 2012.",
+    "title": "Multiple-gradient descent algorithm (MGDA) for multi-objective optimization",
+    "authors": [
+      "Jean-Antoine Désidéri"
+    ],
+    "venue": "Comptes Rendus Mathematique",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Heshan Fernando, Han Shen, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, and Tianyi Chen. Mitigating gradient bias in multi-objective learning: A provably convergent stochastic approach. In International Conference on Learning Representations, 2023.",
+    "title": "Mitigating gradient bias in multi-objective learning: A provably convergent stochastic approach",
+    "authors": [
+      "Heshan Fernando",
+      "Han Shen",
+      "Miao Liu",
+      "Subhajit Chaudhury",
+      "Keerthiram Murugesan",
+      "Tianyi Chen"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Jörg Fliege, A Ismael F Vaz, and Luís Nunes Vicente. Complexity of gradient descent for multiobjective optimization. Optimization Methods and Software, 34(5):949-959, 2019.",
+    "title": "Complexity of gradient descent for multiobjective optimization",
+    "authors": [
+      "Jörg Fliege",
+      "Ismael F Vaz",
+      "Luís Nunes",
+      "Vicente"
+    ],
+    "venue": "Optimization Methods and Software",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Justin Gilmer, Samuel S Schoenholz, Patrick F Riley, Oriol Vinyals, and George E Dahl. Neural message passing for quantum chemistry. In International Conference on Machine Learning, 2017.",
+    "title": "Neural message passing for quantum chemistry",
+    "authors": [
+      "Justin Gilmer",
+      "S Samuel",
+      "Patrick F Schoenholz",
+      "Oriol Riley",
+      "George E Vinyals",
+      "Dahl"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Michelle Guo, Albert Haque, De-An Huang, Serena Yeung, and Li Fei-Fei. Dynamic task prioritization for multitask learning. In European Conference on Computer Vision, 2018.",
+    "title": "Dynamic task prioritization for multitask learning",
+    "authors": [
+      "Michelle Guo",
+      "Albert Haque",
+      "De-An",
+      "Serena Huang",
+      "Li Yeung",
+      "Fei-Fei"
+    ],
+    "venue": "European Conference on Computer Vision",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Mert Gürbüzbalaban, Asuman E. Ozdaglar, and Pablo A. Parrilo. Convergence rate of incremental gradient and incremental Newton methods. SIAM Journal on Optimization, 29(4):2542-2565, 2019.",
+    "title": "Convergence rate of incremental gradient and incremental Newton methods",
+    "authors": [
+      "Mert Gürbüzbalaban",
+      "Asuman E Ozdaglar",
+      "Pablo A Parrilo"
+    ],
+    "venue": "SIAM Journal on Optimization",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "A Kendall, Y Gal, and R Cipolla. Multi-task learning using uncertainty to weigh losses for scene geometry and semantics. Preprint arXiv:1705.07115, 2017.",
+    "title": "Multi-task learning using uncertainty to weigh losses for scene geometry and semantics",
+    "authors": [
+      "Y Kendall",
+      "Gal",
+      "Cipolla"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1705.07115"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Diederik P. Kingma and Jimmy Ba. Adam: A method for stochastic optimization. In International Conference on Learning Representations, 2015.",
+    "title": "Adam: A method for stochastic optimization",
+    "authors": [
+      "P Diederik",
+      "Jimmy Kingma",
+      "Ba"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Vitaly Kurin, Alessandro De Palma, Ilya Kostrikov, Shimon Whiteson, and M. Pawan Kumar. In defense of the unitary scalarization for deep multi-task learning. In Neural Information Processing Systems, 2022.",
+    "title": "In defense of the unitary scalarization for deep multi-task learning",
+    "authors": [
+      "Alessandro De Vitaly Kurin",
+      "Ilya Palma",
+      "Shimon Kostrikov",
+      "M Pawan Whiteson",
+      "Kumar"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Bo Liu, Xingchao Liu, Xiaojie Jin, Peter Stone, and Qiang Liu. Conflict-averse gradient descent for multi-task learning. In Neural Information Processing Systems, 2021.",
+    "title": "Conflict-averse gradient descent for multi-task learning",
+    "authors": [
+      "Bo Liu",
+      "Xingchao Liu",
+      "Xiaojie Jin",
+      "Peter Stone",
+      "Qiang Liu"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Shikun Liu, Edward Johns, and Andrew J. Davison. End-to-end multi-task learning with attention. In IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019.",
+    "title": "End-to-end multi-task learning with attention",
+    "authors": [
+      "Shikun Liu",
+      "Edward Johns",
+      "Andrew J Davison"
+    ],
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Suyun Liu and Luis Nunes Vicente. The stochastic multi-gradient algorithm for multi-objective optimization and its application to supervised machine learning. Annals of Operations Research, pp. 1-30, 2021.",
+    "title": "The stochastic multi-gradient algorithm for multi-objective optimization and its application to supervised machine learning",
+    "authors": [
+      "Suyun Liu",
+      "Luis Nunes",
+      "Vicente"
+    ],
+    "venue": "Annals of Operations Research",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Yucheng Lu, Si Yi Meng, and Christopher De Sa. A general analysis of example-selection for stochastic gradient descent. In International Conference on Learning Representations, 2021.",
+    "title": "A general analysis of example-selection for stochastic gradient descent",
+    "authors": [
+      "Yucheng Lu",
+      "Si Yi Meng",
+      "Christopher De Sa"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Yucheng Lu, Wentao Guo, and Christopher M De Sa. GraB: Finding provably better data permutations than random reshuffling. In Neural Information Processing Systems, 2022.",
+    "title": "GraB: Finding provably better data permutations than random reshuffling",
+    "authors": [
+      "Yucheng Lu",
+      "Wentao Guo",
+      "Christopher M De Sa"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Kristof Van Moffaert and Ann Nowé. Multi-objective reinforcement learning using sets of Pareto dominating policies. Journal of Machine Learning Research, 15(107):3663-3692, 2014.",
+    "title": "Multi-objective reinforcement learning using sets of Pareto dominating policies",
+    "authors": [
+      "Kristof Van Moffaert",
+      "Ann Nowé"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Amirkeivan Mohtashami, Sebastian Stich, and Martin Jaggi. Characterizing & finding good data orderings for fast convergence of sequential gradient methods. Preprint arXiv:2202.01838, 2022.",
+    "title": "Characterizing & finding good data orderings for fast convergence of sequential gradient methods",
+    "authors": [
+      "Amirkeivan Mohtashami",
+      "Sebastian Stich",
+      "Martin Jaggi"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2202.01838"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Michinari Momma, Chaosheng Dong, and Jia Liu. A multi-objective/multi-task learning framework induced by Pareto stationarity. In International Conference on Machine Learning, 2022.",
+    "title": "A multi-objective/multi-task learning framework induced by Pareto stationarity",
+    "authors": [
+      "Michinari Momma",
+      "Chaosheng Dong",
+      "Jia Liu"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Aviv Navon, Aviv Shamsian, Idan Achituve, Haggai Maron, Kenji Kawaguchi, Gal Chechik, and Ethan Fetaya. Multi-task learning as a bargaining game. In International Conference on Machine Learning, 2022.",
+    "title": "Multi-task learning as a bargaining game",
+    "authors": [
+      "Aviv Navon",
+      "Aviv Shamsian",
+      "Idan Achituve",
+      "Haggai Maron",
+      "Kenji Kawaguchi",
+      "Gal Chechik",
+      "Ethan Fetaya"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Shashank Rajput, Kangwook Lee, and Dimitris Papailiopoulos. Permutation-based SGD: Is random optimal? Preprint arXiv:2102.09718, 2021.",
+    "title": "Permutation-based SGD: Is random optimal?",
+    "authors": [
+      "Shashank Rajput",
+      "Kangwook Lee",
+      "Dimitris Papailiopoulos"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2102.09718"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Raghunathan Ramakrishnan, Pavlo O. Dral, Matthias Rupp, and O. Anatole Von Lilienfeld. Quantum chemistry structures and properties of 134 kilo molecules. Scientific Data, 1:140022, 2014.",
+    "title": "Quantum chemistry structures and properties of 134 kilo molecules",
+    "authors": [
+      "Raghunathan Ramakrishnan",
+      "O Pavlo",
+      "Matthias Dral",
+      "O Rupp",
+      "Von Anatole",
+      "Lilienfeld"
+    ],
+    "venue": "Scientific Data",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Benjamin Recht and Christopher Ré. Toward a noncommutative arithmetic-geometric mean inequality: Conjectures, case-studies, and consequences. In Conference on Learning Theory, 2012.",
+    "title": "Toward a noncommutative arithmetic-geometric mean inequality: Conjectures, case-studies, and consequences",
+    "authors": [
+      "Benjamin Recht",
+      "Christopher Ré"
+    ],
+    "venue": "Conference on Learning Theory",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Ozan Sener and Vladlen Koltun. Multi-task learning as multi-objective optimization. In Neural Information Processing Systems, 2018.",
+    "title": "Multi-task learning as multi-objective optimization",
+    "authors": [
+      "Ozan Sener",
+      "Vladlen Koltun"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Nathan Silberman, Derek Hoiem, Pushmeet Kohli, and Rob Fergus. Indoor segmentation and support inference from RGBD images. In European Conference on Computer Vision, 2012.",
+    "title": "Indoor segmentation and support inference from RGBD images",
+    "authors": [
+      "Nathan Silberman",
+      "Derek Hoiem",
+      "Pushmeet Kohli",
+      "Rob Fergus"
+    ],
+    "venue": "European Conference on Computer Vision",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Joel Spencer. Balancing games. Journal of Combinatorial Theory, Series B, 23(1):68-74, 1977.",
+    "title": "Balancing games",
+    "authors": [
+      "Joel Spencer"
+    ],
+    "venue": "Journal of Combinatorial Theory, Series B",
+    "year": 1977,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Hiroki Tanabe, Ellen H. Fukuda, and Nobuo Yamashita. Proximal gradient methods for multiobjective optimization and their applications. Computational Optimization and Applications, 72(2): 339-361, 2019.",
+    "title": "Proximal gradient methods for multiobjective optimization and their applications",
+    "authors": [
+      "Hiroki Tanabe",
+      "Ellen H Fukuda",
+      "Nobuo Yamashita"
+    ],
+    "venue": "Computational Optimization and Applications",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Max Welling. Herding dynamical weights to learn. In International Conference on Machine Learning, 2009.",
+    "title": "Herding dynamical weights to learn",
+    "authors": [
+      "Max Welling"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2009,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Derrick Xin, Behrooz Ghorbani, Justin Gilmer, Ankush Garg, and Orhan Firat. Do current multitask optimization methods in deep learning even help? In Neural Information Processing Systems, 2022.",
+    "title": "Do current multitask optimization methods in deep learning even help?",
+    "authors": [
+      "Derrick Xin",
+      "Behrooz Ghorbani",
+      "Justin Gilmer",
+      "Ankush Garg",
+      "Orhan Firat"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Feiyang Ye, Baijiong Lin, Zhixiong Yue, Pengxin Guo, Qiao Xiao, and Yu Zhang. Multi-objective meta learning. In Nerual Information Processing Systems, 2021.",
+    "title": "Multi-objective meta learning",
+    "authors": [
+      "Feiyang Ye",
+      "Baijiong Lin",
+      "Zhixiong Yue",
+      "Pengxin Guo",
+      "Qiao Xiao",
+      "Yu Zhang"
+    ],
+    "venue": "Nerual Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Bicheng Ying, Kun Yuan, Stefan Vlaski, and Ali H. Sayed. On the performance of random reshuffling in stochastic learning. In Information Theory and Applications Workshop, 2017.",
+    "title": "On the performance of random reshuffling in stochastic learning",
+    "authors": [
+      "Bicheng Ying",
+      "Kun Yuan",
+      "Stefan Vlaski",
+      "Ali H Sayed"
+    ],
+    "venue": "Information Theory and Applications Workshop",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Sergey Levine, Karol Hausman, and Chelsea Finn. Gradient surgery for multi-task learning. In Neural Information Processing Systems, 2020.",
+    "title": "Gradient surgery for multi-task learning",
+    "authors": [
+      "Tianhe Yu",
+      "Saurabh Kumar",
+      "Abhishek Gupta",
+      "Sergey Levine",
+      "Karol Hausman",
+      "Chelsea Finn"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Muhammad Bilal Zafar, Isabel Valera, Manuel Gomez Rogriguez, and Krishna P Gummadi. Fairness constraints: Mechanisms for fair classification. In International Conference on Artificial Intelligence and Statistics, 2017.",
+    "title": "Fairness constraints: Mechanisms for fair classification",
+    "authors": [
+      "Muhammad Bilal Zafar",
+      "Isabel Valera",
+      "Manuel Gomez Rogriguez",
+      "Krishna P Gummadi"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Shiji Zhou, Wenpeng Zhang, Jiyan Jiang, Wenliang Zhong, Jinjie Gu, and Wenwu Zhu. On the convergence of stochastic multi-objective gradient manipulation and beyond. In Neural Information Processing Systems, 2022.",
+    "title": "On the convergence of stochastic multi-objective gradient manipulation and beyond",
+    "authors": [
+      "Shiji Zhou",
+      "Wenpeng Zhang",
+      "Jiyan Jiang",
+      "Wenliang Zhong",
+      "Jinjie Gu",
+      "Wenwu Zhu"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

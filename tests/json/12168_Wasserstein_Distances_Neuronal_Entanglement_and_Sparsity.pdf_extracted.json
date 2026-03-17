@@ -1,0 +1,928 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Micah Adler and Nir Shavit. On the complexity of neural computation in superposition. arXiv preprint arXiv:2409.15318, 2024.",
+    "title": "On the complexity of neural computation in superposition",
+    "authors": [
+      "Micah Adler",
+      "Nir Shavit"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2409.15318"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, and Andrej Risteski. Linear algebraic structure of word senses, with applications to polysemy. Transactions of the Association for Computational Linguistics, 6:483-495, 2018.",
+    "title": "Linear algebraic structure of word senses, with applications to polysemy",
+    "authors": [
+      "Sanjeev Arora",
+      "Yuanzhi Li",
+      "Yingyu Liang",
+      "Tengyu Ma",
+      "Andrej Risteski"
+    ],
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Saleh Ashkboos, Amirkeivan Mohtashami, Maximilian L Croci, Bo Li, Martin Jaggi, Dan Alistarh, Torsten Hoefler, and James Hensman. Quarot: Outlier-free 4-bit inference in rotated llms. arXiv preprint arXiv:2404.00456, 2024.",
+    "title": "Quarot: Outlier-free 4-bit inference in rotated llms",
+    "authors": [
+      "Amirkeivan Saleh Ashkboos",
+      "Maximilian L Mohtashami",
+      "Bo Croci",
+      "Martin Li",
+      "Dan Jaggi",
+      "Torsten Alistarh",
+      "James Hoefler",
+      "Hensman"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.00456"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Stella Biderman, Hailey Schoelkopf, Quentin Gregory Anthony, Herbie Bradley, Kyle O'Brien, Eric Hallahan, Mohammad Aflah Khan, Shivanshu Purohit, USVSN Sai Prashanth, Edward Raff, et al. Pythia: A suite for analyzing large language models across training and scaling. In International Conference on Machine Learning, pp. 2397-2430. PMLR, 2023.",
+    "title": "Pythia: A suite for analyzing large language models across training and scaling",
+    "authors": [
+      "Stella Biderman",
+      "Hailey Schoelkopf",
+      "Quentin Gregory Anthony",
+      "Herbie Bradley",
+      "O' Kyle",
+      "Eric Brien",
+      "Mohammad Hallahan",
+      "Shivanshu Aflah Khan",
+      "Purohit",
+      "Edward Usvsn Sai Prashanth",
+      "Raff"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Trenton Bricken, Adly Templeton, Joshua Batson, Brian Chen, Adam Jermyn, Tom Conerly, Nick Turner, Cem Anil, Carson Denison, Amanda Askell, et al. Towards monosemanticity: Decomposing language models with dictionary learning. Transformer Circuits Thread, 2, 2023.",
+    "title": "Towards monosemanticity: Decomposing language models with dictionary learning",
+    "authors": [
+      "Trenton Bricken",
+      "Adly Templeton",
+      "Joshua Batson",
+      "Brian Chen",
+      "Adam Jermyn",
+      "Tom Conerly",
+      "Nick Turner",
+      "Cem Anil",
+      "Carson Denison",
+      "Amanda Askell"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Roberto Lopez Castro and Dan Alistarh. Sparse marlin: a fast sparse plus 4-bit kernel for generative inference. https://github.com/IST-DASLab/Sparse-Marlin, 2024.",
+    "title": "Sparse marlin: a fast sparse plus 4-bit kernel for generative inference",
+    "authors": [
+      "Roberto Lopez",
+      "Castro",
+      "Dan Alistarh"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://github.com/IST-DASLab/Sparse-Marlin"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, et al. Training verifiers to solve math word problems. arXiv preprint arXiv:2110.14168, 2021.",
+    "title": "Training verifiers to solve math word problems",
+    "authors": [
+      "Karl Cobbe",
+      "Vineet Kosaraju",
+      "Mohammad Bavarian",
+      "Mark Chen",
+      "Heewoo Jun",
+      "Lukasz Kaiser",
+      "Matthias Plappert",
+      "Jerry Tworek",
+      "Jacob Hilton",
+      "Reiichiro Nakano"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2110.14168"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Tim Dettmers, Mike Lewis, Younes Belkada, and Luke Zettlemoyer. Gpt3. int8 (): 8-bit matrix multiplication for transformers at scale. Advances in Neural Information Processing Systems, 35: 30318-30332, 2022.",
+    "title": "8-bit matrix multiplication for transformers at scale",
+    "authors": [
+      "Tim Dettmers",
+      "Mike Lewis",
+      "Younes Belkada",
+      "Luke Zettlemoyer"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Tim Dettmers, Ruslan Svirschevski, Vage Egiazarian, Denis Kuznedelev, Elias Frantar, Saleh Ashkboos, Alexander Borzunov, Torsten Hoefler, and Dan Alistarh. Spqr: A sparse-quantized representation for near-lossless llm weight compression. arXiv preprint arXiv:2306.03078, 2023.",
+    "title": "Spqr: A sparse-quantized representation for near-lossless llm weight compression",
+    "authors": [
+      "Tim Dettmers",
+      "Ruslan Svirschevski",
+      "Vage Egiazarian",
+      "Denis Kuznedelev",
+      "Elias Frantar",
+      "Alexander Saleh Ashkboos",
+      "Torsten Borzunov",
+      "Dan Hoefler",
+      "Alistarh"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.03078"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Haoran Duan and Hui Li. Channel pruning for accelerating convolutional neural networks via wasserstein metric. In Proceedings of the Asian Conference on Computer Vision, 2020.",
+    "title": "Channel pruning for accelerating convolutional neural networks via wasserstein metric",
+    "authors": [
+      "Haoran Duan",
+      "Hui Li"
+    ],
+    "venue": "Proceedings of the Asian Conference on Computer Vision",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, Ahmad Al-Dahle, Aiesha Letman, Akhil Mathur, Alan Schelten, Amy Yang, Angela Fan, et al. The llama 3 herd of models. arXiv preprint arXiv:2407.21783, 2024.",
+    "title": "The llama 3 herd of models",
+    "authors": [
+      "Abhimanyu Dubey",
+      "Abhinav Jauhri",
+      "Abhinav Pandey",
+      "Abhishek Kadian",
+      "Ahmad Al-Dahle",
+      "Aiesha Letman",
+      "Akhil Mathur",
+      "Alan Schelten",
+      "Amy Yang",
+      "Angela Fan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2407.21783"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Vage Egiazarian, Andrei Panferov, Denis Kuznedelev, Elias Frantar, Artem Babenko, and Dan Alistarh. Extreme compression of large language models via additive quantization. arXiv preprint arXiv:2401.06118, 2024.",
+    "title": "Extreme compression of large language models via additive quantization",
+    "authors": [
+      "Andrei Vage Egiazarian",
+      "Denis Panferov",
+      "Elias Kuznedelev",
+      "Artem Frantar",
+      "Dan Babenko",
+      "Alistarh"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.06118"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Nelson Elhage, Tristan Hume, Catherine Olsson, Nicholas Schiefer, Tom Henighan, Shauna Kravec, Zac Hatfield-Dodds, Robert Lasenby, Dawn Drain, Carol Chen, et al. Toy models of superposition. arXiv preprint arXiv:2209.10652, 2022.",
+    "title": "Toy models of superposition",
+    "authors": [
+      "Nelson Elhage",
+      "Tristan Hume",
+      "Catherine Olsson",
+      "Nicholas Schiefer",
+      "Tom Henighan",
+      "Shauna Kravec",
+      "Zac Hatfield-Dodds",
+      "Robert Lasenby",
+      "Dawn Drain",
+      "Carol Chen"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2209.10652"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Elias Frantar and Dan Alistarh. Optimal brain compression: A framework for accurate post-training quantization and pruning. Advances in Neural Information Processing Systems, 35:4475-4488, 2022.",
+    "title": "Optimal brain compression: A framework for accurate post-training quantization and pruning",
+    "authors": [
+      "Elias Frantar",
+      "Dan Alistarh"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Elias Frantar and Dan Alistarh. Sparsegpt: Massive language models can be accurately pruned in one-shot. In International Conference on Machine Learning, pp. 10323-10337. PMLR, 2023.",
+    "title": "Sparsegpt: Massive language models can be accurately pruned in one-shot",
+    "authors": [
+      "Elias Frantar",
+      "Dan Alistarh"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Elias Frantar and Dan Alistarh. Marlin: a fast 4-bit inference kernel for medium batchsizes. https: //github.com/IST-DASLab/marlin, 2024.",
+    "title": "Marlin: a fast 4-bit inference kernel for medium batchsizes",
+    "authors": [
+      "Elias Frantar",
+      "Dan Alistarh"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://github.com/IST-DASLab/marlin"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Elias Frantar, Saleh Ashkboos, Torsten Hoefler, and Dan Alistarh. Gptq: Accurate post-training quantization for generative pre-trained transformers. arXiv preprint arXiv:2210.17323, 2022.",
+    "title": "Gptq: Accurate post-training quantization for generative pre-trained transformers",
+    "authors": [
+      "Elias Frantar",
+      "Torsten Saleh Ashkboos",
+      "Dan Hoefler",
+      "Alistarh"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2210.17323"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Ruoyu Zhang, Runxin Xu, Qihao Zhu, Shirong Ma, Peiyi Wang, Xiao Bi, et al. Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning. arXiv preprint arXiv:2501.12948, 2025.",
+    "title": "Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning",
+    "authors": [
+      "Dejian Daya Guo",
+      "Haowei Yang",
+      "Junxiao Zhang",
+      "Ruoyu Song",
+      "Runxin Zhang",
+      "Qihao Xu",
+      "Shirong Zhu",
+      "Peiyi Ma",
+      "Xiao Wang",
+      "Bi"
+    ],
+    "year": 2025,
+    "identifiers": {
+      "arxiv_id": "arXiv:2501.12948"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Guy Gur-Ari, Daniel A Roberts, and Ethan Dyer. Gradient descent happens in a tiny subspace. arXiv preprint arXiv:1812.04754, 2018.",
+    "title": "Gradient descent happens in a tiny subspace",
+    "authors": [
+      "Guy Gur-Ari",
+      "Daniel A Roberts",
+      "Ethan Dyer"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1812.04754"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Wes Gurnee, Neel Nanda, Matthew Pauly, Katherine Harvey, Dmitrii Troitskii, and Dimitris Bertsimas. Finding neurons in a haystack: Case studies with sparse probing. arXiv preprint arXiv:2305.01610, 2023.",
+    "title": "Finding neurons in a haystack: Case studies with sparse probing",
+    "authors": [
+      "Wes Gurnee",
+      "Neel Nanda",
+      "Matthew Pauly",
+      "Katherine Harvey",
+      "Dmitrii Troitskii",
+      "Dimitris Bertsimas"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.01610"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Wes Gurnee, Theo Horsley, Zifan Carl Guo, Tara Rezaei Kheirkhah, Qinyi Sun, Will Hathaway, Neel Nanda, and Dimitris Bertsimas. Universal neurons in gpt2 language models. arXiv preprint arXiv:2401.12181, 2024.",
+    "title": "Neel Nanda, and Dimitris Bertsimas. Universal neurons in gpt2 language models",
+    "authors": [
+      "Wes Gurnee",
+      "Theo Horsley",
+      "Zifan Carl Guo",
+      "Tara Rezaei Kheirkhah",
+      "Qinyi Sun",
+      "Will Hathaway"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.12181"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Song Han, Jeff Pool, John Tran, and William Dally. Learning both weights and connections for efficient neural network. Advances in neural information processing systems, 28, 2015.",
+    "title": "Learning both weights and connections for efficient neural network",
+    "authors": [
+      "Song Han",
+      "Jeff Pool",
+      "John Tran",
+      "William Dally"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Kaarel Hänni, Jake Mendel, Dmitry Vaintrob, and Lawrence Chan. Mathematical models of computation in superposition. arXiv preprint arXiv:2408.05451, 2024.",
+    "title": "Mathematical models of computation in superposition",
+    "authors": [
+      "Kaarel Hänni",
+      "Jake Mendel",
+      "Dmitry Vaintrob",
+      "Lawrence Chan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2408.05451"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt. Measuring massive multitask language understanding. arXiv preprint arXiv:2009.03300, 2020.",
+    "title": "Measuring massive multitask language understanding",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Steven Basart",
+      "Andy Zou",
+      "Mantas Mazeika",
+      "Dawn Song",
+      "Jacob Steinhardt"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2009.03300"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Torsten Hoefler, Dan Alistarh, Tal Ben-Nun, Nikoli Dryden, and Alexandra Peste. Sparsity in deep learning: Pruning and growth for efficient inference and training in neural networks. Journal of Machine Learning Research, 22(241):1-124, 2021.",
+    "title": "Sparsity in deep learning: Pruning and growth for efficient inference and training in neural networks",
+    "authors": [
+      "Torsten Hoefler",
+      "Dan Alistarh"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Robert Huben, Hoagy Cunningham, Logan Riggs Smith, Aidan Ewart, and Lee Sharkey. Sparse autoencoders find highly interpretable features in language models. In The Twelfth International Conference on Learning Representations, 2023.",
+    "title": "Sparse autoencoders find highly interpretable features in language models",
+    "authors": [
+      "Robert Huben",
+      "Hoagy Cunningham",
+      "Logan Riggs Smith",
+      "Aidan Ewart",
+      "Lee Sharkey"
+    ],
+    "venue": "The Twelfth International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Adam S Jermyn, Nicholas Schiefer, and Evan Hubinger. Engineering monosemanticity in toy models. arXiv preprint arXiv:2211.09169, 2022.",
+    "title": "Engineering monosemanticity in toy models",
+    "authors": [
+      "Nicholas Adam S Jermyn",
+      "Evan Schiefer",
+      "Hubinger"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2211.09169"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Albert Q Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Emma Bou Hanna, Florian Bressand, et al. Mixtral of experts. arXiv preprint arXiv:2401.04088, 2024.",
+    "title": "Mixtral of experts",
+    "authors": [
+      "Albert Q Jiang",
+      "Alexandre Sablayrolles",
+      "Antoine Roux",
+      "Arthur Mensch",
+      "Blanche Savary",
+      "Chris Bamford",
+      "Devendra Singh Chaplot",
+      "Diego de las Casas",
+      "Emma Bou Hanna",
+      "Florian Bressand"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.04088"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Mandar Joshi, Eunsol Choi, Daniel S Weld, and Luke Zettlemoyer. Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension. arXiv preprint arXiv:1705.03551, 2017.",
+    "title": "Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension",
+    "authors": [
+      "Mandar Joshi",
+      "Eunsol Choi",
+      "Daniel S Weld",
+      "Luke Zettlemoyer"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1705.03551"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Leonid V Kantorovich. On the translocation of masses. Journal of mathematical sciences, 133(4): 1381-1382, 2006.",
+    "title": "On the translocation of masses",
+    "authors": [
+      "Leonid V Kantorovich"
+    ],
+    "venue": "Journal of mathematical sciences",
+    "year": 2006,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Sehoon Kim, Coleman Hooper, Amir Gholami, Zhen Dong, Xiuyu Li, Sheng Shen, Michael W Mahoney, and Kurt Keutzer. Squeezellm: Dense-and-sparse quantization. arXiv preprint arXiv:2306.07629, 2023.",
+    "title": "Squeezellm: Dense-and-sparse quantization",
+    "authors": [
+      "Sehoon Kim",
+      "Coleman Hooper",
+      "Amir Gholami",
+      "Zhen Dong",
+      "Xiuyu Li",
+      "Sheng Shen",
+      "Michael W Mahoney",
+      "Kurt Keutzer"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.07629"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Victor Lecomte, Kushal Thaman, Trevor Chow, Rylan Schaeffer, and Sanmi Koyejo. Incidental polysemanticity. arXiv preprint arXiv:2312.03096, 2023.",
+    "title": "Incidental polysemanticity",
+    "authors": [
+      "Victor Lecomte",
+      "Kushal Thaman",
+      "Trevor Chow",
+      "Rylan Schaeffer",
+      "Sanmi Koyejo"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2312.03096"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Ji Lin, Jiaming Tang, Haotian Tang, Shang Yang, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, and Song Han. Awq: Activation-aware weight quantization for on-device llm compression and acceleration. Proceedings of Machine Learning and Systems, 6: 87-100, 2024.",
+    "title": "Awq: Activation-aware weight quantization for on-device llm compression and acceleration",
+    "authors": [
+      "Ji Lin",
+      "Jiaming Tang",
+      "Haotian Tang",
+      "Shang Yang",
+      "Wei-Ming Chen",
+      "Wei-Chen Wang",
+      "Guangxuan Xiao",
+      "Xingyu Dang",
+      "Chuang Gan",
+      "Song Han"
+    ],
+    "venue": "Proceedings of Machine Learning and Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Stephen Merity, Caiming Xiong, James Bradbury, and Richard Socher. Pointer sentinel mixture models. arXiv preprint arXiv:1609.07843, 2016.",
+    "title": "Pointer sentinel mixture models",
+    "authors": [
+      "Stephen Merity",
+      "Caiming Xiong",
+      "James Bradbury",
+      "Richard Socher"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1609.07843"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Jesse Mu and Jacob Andreas. Compositional explanations of neurons. Advances in Neural Information Processing Systems, 33:17153-17163, 2020.",
+    "title": "Compositional explanations of neurons",
+    "authors": [
+      "Jesse Mu",
+      "Jacob Andreas"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Lorenzo Noci, Alexandru Meterez, Thomas Hofmann, and Antonio Orvieto. Why do learning rates transfer? reconciling optimization and scaling limits for deep learning. arXiv preprint arXiv:2402.17457, 2024.",
+    "title": "Why do learning rates transfer? reconciling optimization and scaling limits for deep learning",
+    "authors": [
+      "Lorenzo Noci",
+      "Alexandru Meterez",
+      "Thomas Hofmann",
+      "Antonio Orvieto"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.17457"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Chris Olah, Nick Cammarata, Ludwig Schubert, Gabriel Goh, Michael Petrov, and Shan Carter. Zoom in: An introduction to circuits. Distill, 5(3):e00024-001, 2020.",
+    "title": "Zoom in: An introduction to circuits",
+    "authors": [
+      "Chris Olah",
+      "Nick Cammarata",
+      "Ludwig Schubert",
+      "Gabriel Goh",
+      "Michael Petrov",
+      "Shan Carter"
+    ],
+    "venue": "Distill",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Denis Paperno, Germán Kruszewski, Angeliki Lazaridou, Ngoc-Quan Pham, Raffaella Bernardi, Sandro Pezzelle, Marco Baroni, Gemma Boleda, and Raquel Fernández. The lambada dataset: Word prediction requiring a broad discourse context. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 1525-1534, 2016.",
+    "title": "The lambada dataset: Word prediction requiring a broad discourse context",
+    "authors": [
+      "Denis Paperno",
+      "Germán Kruszewski",
+      "Angeliki Lazaridou",
+      "Ngoc-Quan Pham",
+      "Raffaella Bernardi",
+      "Sandro Pezzelle",
+      "Marco Baroni",
+      "Gemma Boleda",
+      "Raquel Fernández"
+    ],
+    "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Pranav Rajpurkar, Robin Jia, and Percy Liang. Know what you don't know: Unanswerable questions for squad. arXiv preprint arXiv:1806.03822, 2018.",
+    "title": "Know what you don't know: Unanswerable questions for squad",
+    "authors": [
+      "Pranav Rajpurkar",
+      "Robin Jia",
+      "Percy Liang"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1806.03822"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Sebastian Raschka, Joshua Patterson, and Corey Nolet. Machine learning in python: Main developments and technology trends in data science, machine learning, and artificial intelligence. arXiv preprint arXiv:2002.04803, 2020.",
+    "title": "Machine learning in python: Main developments and technology trends in data science, machine learning, and artificial intelligence",
+    "authors": [
+      "Sebastian Raschka",
+      "Joshua Patterson",
+      "Corey Nolet"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2002.04803"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Alessandro Stolfo, Ben Wu, Wes Gurnee, Yonatan Belinkov, Xingyi Song, Mrinmaya Sachan, and Neel Nanda. Confidence regulation neurons in language models. arXiv preprint arXiv:2406.16254, 2024.",
+    "title": "Confidence regulation neurons in language models",
+    "authors": [
+      "Alessandro Stolfo",
+      "Ben Wu",
+      "Wes Gurnee",
+      "Yonatan Belinkov",
+      "Xingyi Song",
+      "Mrinmaya Sachan",
+      "Neel Nanda"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.16254"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Mingjie Sun, Zhuang Liu, Anna Bair, and J Zico Kolter. A simple and effective pruning approach for large language models. arXiv preprint arXiv:2306.11695, 2023.",
+    "title": "A simple and effective pruning approach for large language models",
+    "authors": [
+      "Mingjie Sun",
+      "Zhuang Liu",
+      "Anna Bair",
+      "J Zico Kolter"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.11695"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Mirac Suzgun, Nathan Scales, Nathanael Schärli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery, Quoc V Le, Ed H Chi, Denny Zhou, et al. Challenging big-bench tasks and whether chain-of-thought can solve them. arXiv preprint arXiv:2210.09261, 2022.",
+    "title": "Challenging big-bench tasks and whether chain-of-thought can solve them",
+    "authors": [
+      "Mirac Suzgun",
+      "Nathan Scales",
+      "Nathanael Schärli",
+      "Sebastian Gehrmann",
+      "Yi Tay",
+      "Hyung Won Chung",
+      "Aakanksha Chowdhery",
+      "V Quoc",
+      "Ed H Le",
+      "Denny Chi",
+      "Zhou"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2210.09261"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Adly Templeton. Scaling monosemanticity: Extracting interpretable features from claude 3 sonnet. Anthropic, 2024.",
+    "title": "Scaling monosemanticity: Extracting interpretable features from claude 3 sonnet",
+    "authors": [
+      "Adly Templeton"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, et al. Llama: Open and efficient foundation language models. arXiv preprint arXiv:2302.13971, 2023.",
+    "title": "Open and efficient foundation language models",
+    "authors": [
+      "Hugo Touvron",
+      "Thibaut Lavril",
+      "Gautier Izacard",
+      "Xavier Martinet",
+      "Marie-Anne Lachaux",
+      "Timothée Lacroix",
+      "Baptiste Rozière",
+      "Naman Goyal",
+      "Eric Hambro",
+      "Faisal Azhar"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2302.13971"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Cédric Villani et al. Optimal transport: old and new, volume 338. Springer, 2009.",
+    "title": "Optimal transport: old and new",
+    "authors": [
+      "Cédric Villani"
+    ],
+    "year": 2009,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Pauli Virtanen, Ralf Gommers, Travis E Oliphant, Matt Haberland, Tyler Reddy, David Cournapeau, Evgeni Burovski, Pearu Peterson, Warren Weckesser, Jonathan Bright, et al. Scipy 1.0: fundamental algorithms for scientific computing in python. Nature methods, 17(3):261-272, 2020.",
+    "title": "Scipy 1.0: fundamental algorithms for scientific computing in python",
+    "authors": [
+      "Pauli Virtanen",
+      "Ralf Gommers",
+      "Travis E Oliphant",
+      "Matt Haberland",
+      "Tyler Reddy",
+      "David Cournapeau",
+      "Evgeni Burovski",
+      "Pearu Peterson",
+      "Warren Weckesser",
+      "Jonathan Bright"
+    ],
+    "venue": "Nature methods",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Johannes Welbl, Nelson F Liu, and Matt Gardner. Crowdsourcing multiple choice science questions. W-NUT 2017, pp. 94, 2017.",
+    "title": "Crowdsourcing multiple choice science questions",
+    "authors": [
+      "Johannes Welbl",
+      "Nelson F Liu",
+      "Matt Gardner"
+    ],
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Lei You and Hei Victor Cheng. SWAP: Sparse entropic wasserstein regression for robust network pruning. In The Twelfth International Conference on Learning Representations, 2024. URL https://openreview.net/forum?id=LJWizuuBUy.",
+    "title": "SWAP: Sparse entropic wasserstein regression for robust network pruning",
+    "authors": [
+      "Lei You",
+      "Hei Victor",
+      "Cheng"
+    ],
+    "venue": "The Twelfth International Conference on Learning Representations",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=LJWizuuBUy"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Jiawei Zhao, Zhenyu Zhang, Beidi Chen, Zhangyang Wang, Anima Anandkumar, and Yuandong Tian. Galore: Memory-efficient llm training by gradient low-rank projection. arXiv preprint arXiv:2403.03507, 2024.",
+    "title": "Galore: Memory-efficient llm training by gradient low-rank projection",
+    "authors": [
+      "Jiawei Zhao",
+      "Zhenyu Zhang",
+      "Beidi Chen",
+      "Zhangyang Wang",
+      "Anima Anandkumar",
+      "Yuandong Tian"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.03507"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Yilong Zhao, Chien-Yu Lin, Kan Zhu, Zihao Ye, Lequn Chen, Size Zheng, Luis Ceze, Arvind Krishnamurthy, Tianqi Chen, and Baris Kasikci. Atom: Low-bit quantization for efficient and accurate llm serving. arXiv preprint arXiv:2310.19102, 2023.",
+    "title": "Atom: Low-bit quantization for efficient and accurate llm serving",
+    "authors": [
+      "Yilong Zhao",
+      "Chien-Yu Lin",
+      "Kan Zhu",
+      "Zihao Ye",
+      "Lequn Chen",
+      "Size Zheng",
+      "Luis Ceze",
+      "Arvind Krishnamurthy",
+      "Tianqi Chen",
+      "Baris Kasikci"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.19102"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

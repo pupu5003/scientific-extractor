@@ -1,0 +1,563 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Raman Arora, Amitabh Basu, Poorya Mianjy, and Anirbit Mukherjee. Understanding deep neural networks with rectified linear units. In International Conference on Learning Representations (ICLR), 2018.",
+    "title": "Understanding deep neural networks with rectified linear units",
+    "authors": [
+      "Raman Arora",
+      "Amitabh Basu",
+      "Poorya Mianjy",
+      "Anirbit Mukherjee"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "A.R. Barron. Universal approximation bounds for superpositions of a sigmoidal function. IEEE Transactions on Information Theory, 39(3):930-945, 1993. doi: 10.1109/18.256500.",
+    "title": "Universal approximation bounds for superpositions of a sigmoidal function",
+    "authors": [
+      "A R Barron"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 1993,
+    "identifiers": {
+      "doi": "10.1109/18.256500"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Matthias Beck and Sinai Robins. Computing the continuous discretely, 2020.",
+    "title": "Computing the continuous discretely",
+    "authors": [
+      "Matthias Beck",
+      "Sinai Robins"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Daniel Bertschinger, Christoph Hertrich, Paul Jungeblut, Tillmann Miltzow, and Simon Weber. Training fully connected neural networks is ∃R-complete.",
+    "title": "Training fully connected neural networks is ∃R-complete",
+    "authors": [
+      "Daniel Bertschinger",
+      "Christoph Hertrich",
+      "Paul Jungeblut",
+      "Tillmann Miltzow",
+      "Simon Weber"
+    ],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "In A. Oh, T. Naumann, A. Globerson, K. Saenko, M. Hardt, and S. Levine (eds.), Advances in Neural Information Processing Systems, volume 36, pp. 36222-36237. Curran Associates, Inc., 2023. URL https://proceedings.neurips.cc/paper_files/paper/2023/ file/71c31ebf577ffdad5f4a74156daad518-Paper-Conference.pdf.",
+    "title": "Advances in Neural Information Processing Systems",
+    "authors": [
+      "In A Oh",
+      "T Naumann",
+      "A Globerson",
+      "K"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/71"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "George Cybenko. Approximation by superpositions of a function. Mathematics of control, signals and systems, 2(303-314), 1989.",
+    "title": "Approximation by superpositions of a function",
+    "authors": [
+      "George Cybenko"
+    ],
+    "venue": "Mathematics of control, signals and systems",
+    "year": 1989,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Ronen Eldan and Ohad Shamir. power of depth for feedforward neural networks. In JMLR: Workshop and Conference Proceedings, volume 49, pp. 1-34, 2016.",
+    "title": "power of depth for feedforward neural networks",
+    "authors": [
+      "Ronen Eldan",
+      "Ohad Shamir"
+    ],
+    "venue": "JMLR: Workshop and Conference Proceedings",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Vincent Froese and Christoph Hertrich. Training neural networks is NP-hard in fixed dimension. In A. Oh, T. Naumann, A. Globerson, K. Saenko, M. Hardt, and S. Levine (eds.), Advances in Neural Information Processing Systems, volume 36, pp. 44039-44049. Curran Associates, Inc., 2023. URL https://proceedings.neurips.cc/paper_files/paper/2023/ file/8948a8d039ed52d1031db6c7c2373378-Paper-Conference.pdf.",
+    "title": "Training neural networks is NP-hard in fixed dimension",
+    "authors": [
+      "Vincent Froese",
+      "Christoph Hertrich"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Vincent Froese, Christoph Hertrich, and Rolf Niedermeier. The computational complexity of ReLU network training parameterized by data dimensionality. Journal of Artificial Intelligence Research, 74:1775-1790, 2022.",
+    "title": "The computational complexity of ReLU network training parameterized by data dimensionality",
+    "authors": [
+      "Christoph Vincent Froese",
+      "Rolf Hertrich",
+      "Niedermeier"
+    ],
+    "venue": "Journal of Artificial Intelligence Research",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Amir Gholami, Sehoon Kim, Zhen Dong, Zhewei Yao, Michael W. Mahoney, and Kurt Keutzer. Low-Power Computer Vision: Improving the Efficiency of Artificial Intelligence, chapter A Survey of Quantization Methods for Efficient Neural Network Inference. Chapman and Hall/CRC, 1 edition, 2022.",
+    "title": "Low-Power Computer Vision: Improving the Efficiency of Artificial Intelligence, chapter A Survey of Quantization Methods for Efficient Neural Network Inference",
+    "authors": [
+      "Amir Gholami",
+      "Sehoon Kim",
+      "Zhen Dong",
+      "Zhewei Yao",
+      "Michael W Mahoney",
+      "Kurt Keutzer"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Surbhi Goel, Adam R. Klivans, Pasin Manurangsi, and Daniel Reichman. Tight hardness results for training depth-2 ReLU networks. In 12th Innovations in Theoretical Computer Science Conference (ITCS), 2021.",
+    "title": "Tight hardness results for training depth-2 ReLU networks",
+    "authors": [
+      "Surbhi Goel",
+      "Adam R Klivans",
+      "Pasin Manurangsi",
+      "Daniel Reichman"
+    ],
+    "venue": "12th Innovations in Theoretical Computer Science Conference (ITCS)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT Press, 2016. http: //www.deeplearningbook.org.",
+    "title": "Deep Learning",
+    "authors": [
+      "Ian Goodfellow",
+      "Yoshua Bengio",
+      "Aaron Courville"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "url": "http://www.deeplearningbook.org"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Christian Alexander Haase, Christoph Hertrich, and Georg Loho. Lower bounds on the depth of integral ReLU neural networks via lattice polytopes. In International Conference on Learning Representations (ICLR), 2023.",
+    "title": "Lower bounds on the depth of integral ReLU neural networks via lattice polytopes",
+    "authors": [
+      "Christian Alexander Haase",
+      "Christoph Hertrich",
+      "Georg Loho"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Boris Hanin. Universal function approximation by deep neural nets with bounded width and ReLU activations. Mathematics, 7(10):992, 2019.",
+    "title": "Universal function approximation by deep neural nets with bounded width and ReLU activations",
+    "authors": [
+      "Boris Hanin"
+    ],
+    "venue": "Mathematics",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Godfrey Harold Hardy and Edward Maitland Wright. An Introduction To The Theory Of Numbers. Oxford University Press, 6th edition, 07 2008. ISBN 9780199219858. doi: 10.1093/oso/ 9780199219858.001.0001. URL https://doi.org/10.1093/oso/9780199219858. 001.0001. Published as a conference paper at ICLR 2025",
+    "title": "An Introduction To The Theory Of Numbers",
+    "authors": [
+      "Godfrey",
+      "Harold Hardy",
+      "Edward Maitland",
+      "Wright"
+    ],
+    "year": 2008,
+    "identifiers": {
+      "doi": "10.1093/oso/9780199219858.001.0001",
+      "url": "https://doi.org/10.1093/oso/9780199219858.001.0001"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Christoph Hertrich. Facets of Neural Network Complexity. PhD thesis, Technische Universität Berlin, Berlin, 2022. URL http://dx.doi.org/10.14279/depositonce-15271.",
+    "title": "Facets of Neural Network Complexity",
+    "authors": [
+      "Christoph Hertrich"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.14279/depositonce-15271",
+      "url": "http://dx.doi.org/10.14279/depositonce-15271"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Christoph Hertrich and Leon Sering. ReLU neural networks of polynomial size for exact maximum flow computation. Mathematical Programming, 2024. doi: 10.1007/s10107-024-02096-x.",
+    "title": "ReLU neural networks of polynomial size for exact maximum flow computation",
+    "authors": [
+      "Christoph Hertrich",
+      "Leon Sering"
+    ],
+    "venue": "Mathematical Programming",
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.1007/s10107-024-02096-x"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Christoph Hertrich, Amitabh Basu, Marco Di Summa, and Skutella. Towards lower bounds on the depth of ReLU neural networks. Advances in Neural Information Processing Systems, 34: 3336-3348, 2021.",
+    "title": "Towards lower bounds on the depth of ReLU neural networks",
+    "authors": [
+      "Christoph Hertrich",
+      "Amitabh Basu",
+      "Marco Di Summa",
+      "Skutella"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Kurt Hornik. Approximation capabilities of multilayer feedforward networks. Neural Networks, 4(2):251-257, 1991. ISSN 0893-6080. doi: https://doi.org/10.1016/0893-6080(91) 90009-T. URL https://www.sciencedirect.com/science/article/pii/ 089360809190009T.",
+    "title": "Approximation capabilities of multilayer feedforward networks",
+    "authors": [
+      "Kurt Hornik"
+    ],
+    "venue": "Neural Networks",
+    "year": 1991,
+    "identifiers": {
+      "doi": "10.1016/0893-6080(91)90009-T",
+      "url": "https://www.sciencedirect.com/science/article/pii/089360809190009T"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Daniel Hug and Wolfgang Weil. Lectures on Convex Geometry. Springer Cham, 2020.",
+    "title": "Lectures on Convex Geometry",
+    "authors": [
+      "Daniel Hug",
+      "Wolfgang Weil"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "IEEE. IEEE standard for floating-point arithmetic. IEEE Std 754-2019 (Revision of IEEE 7542008), pp. 1-84, 2019. doi: 10.1109/IEEESTD.2019.8766229. URL https://doi.org/ 10.1109/IEEESTD.2019.8766229.",
+    "title": "IEEE standard for floating-point arithmetic",
+    "authors": [
+      "Ieee"
+    ],
+    "venue": "IEEE Std",
+    "year": 2019,
+    "identifiers": {
+      "doi": "10.1109/IEEESTD.2019.8766229",
+      "arxiv_id": "2019.87662",
+      "url": "https://doi.org/10.1109/IEEESTD.2019.8766229"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Sammy Khalife, Hongyu Cheng, and Amitabh Basu. Neural networks with linear threshold activations: structure and algorithms. Mathematical Programming, 206:333-356, 2024. doi: 10.1007/s10107-023-02016-5.",
+    "title": "Neural networks with linear threshold activations: structure and algorithms",
+    "authors": [
+      "Sammy Khalife",
+      "Hongyu Cheng",
+      "Amitabh Basu"
+    ],
+    "venue": "Mathematical Programming",
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.1007/s10107-023-02016-5"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Patrick Kidger and Terry Lyons. Universal Approximation with Deep Narrow Networks. In Jacob Abernethy and Shivani Agarwal (eds.), Proceedings of Thirty Third Conference on Learning Theory, volume 125 of Proceedings of Machine Learning Research, pp. 2306-2327. PMLR, 09-12 Jul 2020. URL https://proceedings.mlr.press/v125/kidger20a.html.",
+    "title": "Universal Approximation with Deep Narrow Networks",
+    "authors": [
+      "Patrick Kidger",
+      "Terry Lyons"
+    ],
+    "venue": "Proceedings of Thirty Third Conference on Learning Theory",
+    "year": 2020,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v125/kidger20a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Carl W. Lee and Francisco Santos. Handbook of Discrete and Computational Geometry, chapter 16: Subdivisions and Triangulations of Polytopes. Discrete Mathematics and Its Applications. CRC Press, Boca Raton, FL, 3rd edition, 2017.",
+    "title": "Handbook of Discrete and Computational Geometry, chapter 16: Subdivisions and Triangulations of Polytopes",
+    "authors": [
+      "Carl W Lee",
+      "Francisco Santos"
+    ],
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Sangmin Lee, Abbas Mammadov, and Jong Chul Ye. Defining neural network architecture through polytope structures of datasets. In Ruslan Salakhutdinov, Zico Kolter, Katherine Heller, Adrian Weller, Nuria Oliver, Jonathan Scarlett, and Felix Berkenkamp (eds.), Proceedings of the 41st International Conference on Machine Learning, volume 235 of Proceedings of Machine Learning Research, pp. 26789-26836. PMLR, 21-27 Jul 2024. URL https://proceedings.mlr. press/v235/lee24q.html.",
+    "title": "Defining neural network architecture through polytope structures of datasets",
+    "authors": [
+      "Sangmin Lee",
+      "Abbas Mammadov",
+      "Jong Chul Ye ; Ruslan",
+      "Zico Salakhutdinov",
+      "Katherine Kolter",
+      "Adrian Heller",
+      "Weller"
+    ],
+    "venue": "Proceedings of the 41st International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v235/lee24q.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Moshe Leshno, Vladimir Ya. Lin, Allan Pinkus, and Shimon Schocken. Multilayer feedforward networks with a nonpolynomial activation function can approximate any function. Neural Networks, 6(6):861-867, 1993. ISSN 0893-6080. doi: https://doi.org/10. 1016/S0893-6080(05)80131-5. URL https://www.sciencedirect.com/science/ article/pii/S0893608005801315.",
+    "title": "Multilayer feedforward networks with a nonpolynomial activation function can approximate any function",
+    "authors": [
+      "Moshe Leshno",
+      "Vladimir Ya Lin",
+      "Allan Pinkus",
+      "Shimon Schocken"
+    ],
+    "venue": "Neural Networks",
+    "year": 1993,
+    "identifiers": {
+      "doi": "10.1016/S0893-6080",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0893608005801315"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Diane Maclagan and Bernd Sturmfels. Introduction to Tropical Geometry, volume 161 of Graduate Studies in Mathematics. American Mathematical Society, 2015.",
+    "title": "Introduction to Tropical Geometry",
+    "authors": [
+      "Diane Maclagan",
+      "Bernd Sturmfels"
+    ],
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Dorel Mihet. Legendre's and Kummer's theorems again. Resonance, 15(12):11111121, 2010. doi: 10.1007/s12045-010-0123-4. URL https://doi.org/10.1007/ s12045-010-0123-4.",
+    "title": "Legendre's and Kummer's theorems again",
+    "authors": [
+      "Dorel Mihet"
+    ],
+    "venue": "Resonance",
+    "year": 2010,
+    "identifiers": {
+      "doi": "10.1007/s12045-010-0123-4",
+      "url": "https://doi.org/10.1007/s12045-010-0123-4"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Markus Nagel, Rana Ali Amjad, Mart Van Baalen, Christos Louizos, and Tijmen Blankevoort. Up or down? adaptive rounding for post-training quantization. In Proceedings of the 37th International Conference on Machine Learning, ICML'20. JMLR.org, 2020.",
+    "title": "Up or down? adaptive rounding for post-training quantization",
+    "authors": [
+      "Markus Nagel",
+      "Rana Ali Amjad",
+      "Mart Van Baalen",
+      "Christos Louizos",
+      "Tijmen Blankevoort"
+    ],
+    "venue": "Proceedings of the 37th International Conference on Machine Learning, ICML'20. JMLR.org",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Allan Pinkus. Approximation theory of the MLP model in neural networks. Acta Numerica, 8: 143-195, 1999. doi: 10.1017/S0962492900002919.",
+    "title": "Approximation theory of the MLP model in neural networks",
+    "authors": [
+      "Allan Pinkus"
+    ],
+    "venue": "Acta Numerica",
+    "year": 1999,
+    "identifiers": {
+      "doi": "10.1017/S0962492900002919"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, and Jascha Sohl-Dickstein. On the expressive power of deep neural networks. In Doina Precup and Yee Whye Teh (eds.), Proceedings of the 34th International Conference on Machine Learning, volume 70 of Proceedings of Machine Learning Research, pp. 2847-2854. PMLR, 06-11 Aug 2017. URL https: //proceedings.mlr.press/v70/raghu17a.html.",
+    "title": "On the expressive power of deep neural networks",
+    "authors": [
+      "Maithra Raghu",
+      "Ben Poole",
+      "Jon Kleinberg",
+      "Surya Ganguli",
+      "Jascha Sohl-Dickstein"
+    ],
+    "venue": "Proceedings of the 34th International Conference on Machine Learning",
+    "year": 2017,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v70/raghu17a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Itay Safran and Ohad Shamir. Depth-width tradeoffs in approximating natural functions with neural networks. In Proceedings of the 34th International Conference on Machine Learning, Sydney, Australia, PMLR 70, pp. 2979-2987, 2017.",
+    "title": "Depth-width tradeoffs in approximating natural functions with neural networks",
+    "authors": [
+      "Itay Safran",
+      "Ohad Shamir"
+    ],
+    "venue": "Proceedings of the 34th International Conference on Machine Learning",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Itay Safran, Daniel Reichman, and Paul Valiant. How many neurons does it take to approximate the maximum? In Proceedings of the 2024 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), pp. 3156-3183, 2024. doi: 10.1137/1.9781611977912.113. URL https://epubs. siam.org/doi/abs/10.1137/1.9781611977912.113.",
+    "title": "How many neurons does it take to approximate the maximum?",
+    "authors": [
+      "Itay Safran",
+      "Daniel Reichman",
+      "Paul Valiant"
+    ],
+    "venue": "Proceedings of the 2024 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA)",
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.1137/1.9781611977912.113",
+      "url": "https://epubs.siam.org/doi/abs/10.1137/1.9781611977912.113"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Rolf Schneider. Convex bodies: the Brunn-Minkowski theory, volume 151. Cambridge university press, 2014.",
+    "title": "Convex bodies: the Brunn-Minkowski theory",
+    "authors": [
+      "Rolf Schneider"
+    ],
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Matus Telgarsky. Benefits of depth in neural networks. In Vitaly Feldman, Alexander Rakhlin, and Ohad Shamir (eds.), 29th Annual Conference on Learning Theory, volume 49 of Proceedings of Machine Learning Research, pp. 1517-1539, Columbia University, New York, New York, USA, 23-26 Jun 2016. PMLR. URL https://proceedings.mlr.press/v49/ telgarsky16.html.",
+    "title": "Benefits of depth in neural networks",
+    "authors": [
+      "Matus Telgarsky"
+    ],
+    "venue": "29th Annual Conference on Learning Theory",
+    "year": 2016,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v49/telgarsky16.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Gal Vardi and Ohad Shamir. Neural networks with small weights and depth-separation barriers. In Proceedings of the 34th International Conference on Neural Information Processing Systems, NIPS '20, Red Hook, NY, USA, 2020. Curran Associates Inc. ISBN 9781713829546.",
+    "title": "Neural networks with small weights and depth-separation barriers",
+    "authors": [
+      "Gal Vardi",
+      "Ohad Shamir"
+    ],
+    "venue": "Proceedings of the 34th International Conference on Neural Information Processing Systems, NIPS '20",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

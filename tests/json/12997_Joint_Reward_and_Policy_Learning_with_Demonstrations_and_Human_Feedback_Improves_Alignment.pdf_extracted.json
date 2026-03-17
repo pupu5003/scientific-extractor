@@ -1,0 +1,1338 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Saurabh Arora and Prashant Doshi. A survey of inverse reinforcement learning: Challenges, methods and progress. Artificial Intelligence, 297:103500, 2021.",
+    "title": "A survey of inverse reinforcement learning: Challenges, methods and progress",
+    "authors": [
+      "Saurabh Arora",
+      "Prashant Doshi"
+    ],
+    "venue": "Artificial Intelligence",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Mohammad Gheshlaghi Azar, Mark Rowland, Bilal Piot, Daniel Guo, Daniele Calandriello, Michal Valko, and Rémi Munos. A general theoretical paradigm to understand learning from human preferences. arXiv preprint arXiv:2310.12036, 2023.",
+    "title": "A general theoretical paradigm to understand learning from human preferences",
+    "authors": [
+      "Mohammad Gheshlaghi Azar",
+      "Mark Rowland",
+      "Bilal Piot",
+      "Daniel Guo",
+      "Daniele Calandriello",
+      "Michal Valko",
+      "Rémi Munos"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.12036"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort, Deep Ganguli, Tom Henighan, et al. Training a helpful and harmless assistant with reinforcement learning from human feedback. arXiv preprint arXiv:2204.05862, 2022.",
+    "title": "Training a helpful and harmless assistant with reinforcement learning from human feedback",
+    "authors": [
+      "Yuntao Bai",
+      "Andy Jones",
+      "Kamal Ndousse",
+      "Amanda Askell",
+      "Anna Chen",
+      "Nova Dassarma",
+      "Dawn Drain",
+      "Stanislav Fort",
+      "Deep Ganguli",
+      "Tom Henighan"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2204.05862"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Edward Beeching, Clémentine Fourrier, Nathan Habib, Sheon Han, Nathan Lambert, Nazneen Rajani, Omar Sanseviero, Lewis Tunstall, and Thomas Wolf. Open llm leaderboard. https: //huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard, 2023.",
+    "authors": [
+      "Edward Beeching",
+      "Clémentine Fourrier",
+      "Nathan Habib",
+      "Sheon Han",
+      "Nathan Lambert",
+      "Nazneen Rajani",
+      "Omar Sanseviero",
+      "Lewis Tunstall",
+      "Thomas Wolf"
+    ],
+    "venue": "Open llm leaderboard.",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Marc G Bellemare, Salvatore Candido, Pablo Samuel Castro, Jun Gong, Marlos C Machado, Subhodeep Moitra, Sameera S Ponda, and Ziyu Wang. Autonomous navigation of stratospheric balloons using reinforcement learning. Nature, 588(7836):77-82, 2020.",
+    "title": "Autonomous navigation of stratospheric balloons using reinforcement learning",
+    "authors": [
+      "Salvatore Marc G Bellemare",
+      "Pablo Candido",
+      "Jun Samuel Castro",
+      "Gong",
+      "C Marlos",
+      "Subhodeep Machado",
+      "Moitra",
+      "Ziyu Sameera S Ponda",
+      "Wang"
+    ],
+    "venue": "Nature",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Christopher Berner, Greg Brockman, Brooke Chan, Vicki Cheung, Przemysław Dębiak, Christy Dennison, David Farhi, Quirin Fischer, Shariq Hashme, Chris Hesse, et al. Dota 2 with large scale deep reinforcement learning. arXiv preprint arXiv:1912.06680, 2019.",
+    "title": "Dota 2 with large scale deep reinforcement learning",
+    "authors": [
+      "Christopher Berner",
+      "Greg Brockman",
+      "Brooke Chan",
+      "Vicki Cheung",
+      "Przemysław Dębiak",
+      "Christy Dennison",
+      "David Farhi",
+      "Quirin Fischer",
+      "Shariq Hashme",
+      "Chris Hesse"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1912.06680"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Stella Biderman, Hailey Schoelkopf, Quentin Gregory Anthony, Herbie Bradley, Kyle OBrien, Eric Hallahan, Mohammad Aflah Khan, Shivanshu Purohit, USVSN Sai Prashanth, Edward Raff, et al. Pythia: A suite for analyzing large language models across training and scaling. In International Conference on Machine Learning, pp. 2397-2430. PMLR, 2023.",
+    "title": "Pythia: A suite for analyzing large language models across training and scaling",
+    "authors": [
+      "Stella Biderman",
+      "Hailey Schoelkopf",
+      "Quentin Gregory Anthony",
+      "Herbie Bradley",
+      "Kyle Obrien",
+      "Eric Hallahan",
+      "Mohammad Aflah Khan",
+      "Shivanshu Purohit",
+      "Edward Usvsn Sai Prashanth",
+      "Raff"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Erdem Bıyık, Dylan P Losey, Malayandi Palan, Nicholas C Landolfi, Gleb Shevchuk, and Dorsa Sadigh. Learning reward functions from diverse sources of human feedback: Optimally integrating demonstrations and preferences. The International Journal of Robotics Research, 41(1): 45-67, 2022.",
+    "title": "Learning reward functions from diverse sources of human feedback: Optimally integrating demonstrations and preferences",
+    "authors": [
+      "Erdem Bıyık",
+      "Dylan P Losey",
+      "Malayandi Palan",
+      "Gleb Nicholas C Landolfi",
+      "Dorsa Shevchuk",
+      "Sadigh"
+    ],
+    "venue": "The International Journal of Robotics Research",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Pavlo R Blavatskyy and Ganna Pogrebna. Models of stochastic choice and decision theories: Why both are important for analyzing decisions. Journal of Applied Econometrics, 25(6):963-986, 2010.",
+    "title": "Models of stochastic choice and decision theories: Why both are important for analyzing decisions",
+    "authors": [
+      "R Pavlo",
+      "Ganna Blavatskyy",
+      "Pogrebna"
+    ],
+    "venue": "Journal of Applied Econometrics",
+    "year": 2010,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Michael Bloem and Nicholas Bambos. Infinite time horizon maximum causal entropy inverse reinforcement learning. In 53rd IEEE conference on decision and control, pp. 4911-4916. IEEE, 2014.",
+    "title": "Infinite time horizon maximum causal entropy inverse reinforcement learning",
+    "authors": [
+      "Michael Bloem",
+      "Nicholas Bambos"
+    ],
+    "venue": "53rd IEEE conference on decision and control",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Ralph Allan Bradley and Milton E Terry. Rank analysis of incomplete block designs: I. the method of paired comparisons. Biometrika, 39(3/4):324-345, 1952.",
+    "title": "Rank analysis of incomplete block designs: I. the method of paired comparisons",
+    "authors": [
+      "Ralph Allan",
+      "Bradley",
+      "Milton E Terry"
+    ],
+    "venue": "Biometrika",
+    "year": 1952,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Daniel Brown, Wonjoon Goo, Prabhat Nagarajan, and Scott Niekum. Extrapolating beyond suboptimal demonstrations via inverse reinforcement learning from observations. In International conference on machine learning, pp. 783-792. PMLR, 2019.",
+    "title": "Extrapolating beyond suboptimal demonstrations via inverse reinforcement learning from observations",
+    "authors": [
+      "Daniel Brown",
+      "Wonjoon Goo",
+      "Prabhat Nagarajan",
+      "Scott Niekum"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Daniele Calandriello, Daniel Guo, Remi Munos, Mark Rowland, Yunhao Tang, Bernardo Avila Pires, Pierre Harvey Richemond, Charline Le Lan, Michal Valko, Tianqi Liu, et al. Human alignment of large language models through online preference optimisation. arXiv preprint arXiv:2403.08635, 2024.",
+    "title": "Human alignment of large language models through online preference optimisation",
+    "authors": [
+      "Daniele Calandriello",
+      "Daniel Guo",
+      "Remi Munos",
+      "Mark Rowland",
+      "Yunhao Tang",
+      "Bernardo Avila Pires",
+      "Pierre Harvey Richemond",
+      "Charline Le Lan",
+      "Michal Valko",
+      "Tianqi Liu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.08635"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, and Quanquan Gu. Self-play fine-tuning converts weak language models to strong language models. arXiv preprint arXiv:2401.01335, 2024.",
+    "title": "Self-play fine-tuning converts weak language models to strong language models",
+    "authors": [
+      "Zixiang Chen",
+      "Yihe Deng",
+      "Huizhuo Yuan",
+      "Kaixuan Ji",
+      "Quanquan Gu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.01335"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Peter Clark, Isaac Cowhey, Oren Etzioni, Tushar Khot, Ashish Sabharwal, Carissa Schoenick, and Oyvind Tafjord. Think you have solved question answering? try arc, the ai2 reasoning challenge. arXiv preprint arXiv:1803.05457, 2018.",
+    "title": "Think you have solved question answering? try arc, the ai2 reasoning challenge",
+    "authors": [
+      "Peter Clark",
+      "Isaac Cowhey",
+      "Oren Etzioni",
+      "Tushar Khot",
+      "Ashish Sabharwal",
+      "Carissa Schoenick",
+      "Oyvind Tafjord"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1803.05457"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, et al. Training verifiers to solve math word problems. arXiv preprint arXiv:2110.14168, 2021.",
+    "title": "Training verifiers to solve math word problems",
+    "authors": [
+      "Karl Cobbe",
+      "Vineet Kosaraju",
+      "Mohammad Bavarian",
+      "Mark Chen",
+      "Heewoo Jun",
+      "Lukasz Kaiser",
+      "Matthias Plappert",
+      "Jerry Tworek",
+      "Jacob Hilton",
+      "Reiichiro Nakano"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2110.14168"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Christian Daniel, Malte Viering, Jan Metz, Oliver Kroemer, and Jan Peters. Active reward learning. In Robotics: Science and systems, volume 98, 2014.",
+    "title": "Active reward learning",
+    "authors": [
+      "Christian Daniel",
+      "Malte Viering",
+      "Jan Metz",
+      "Oliver Kroemer",
+      "Jan Peters"
+    ],
+    "venue": "Robotics: Science and systems",
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Anthony V Fiacco and Garth P McCormick. Nonlinear programming: sequential unconstrained minimization techniques. SIAM, 1990.",
+    "title": "Nonlinear programming: sequential unconstrained minimization techniques",
+    "authors": [
+      "V Anthony",
+      "Garth P Fiacco",
+      "Mccormick"
+    ],
+    "venue": "SIAM",
+    "year": 1990,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Johannes Fischer, Christoph Eyberg, Moritz Werling, and Martin Lauer. Sampling-based inverse reinforcement learning algorithms with safety constraints. In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 791-798. IEEE, 2021.",
+    "title": "Sampling-based inverse reinforcement learning algorithms with safety constraints",
+    "authors": [
+      "Johannes Fischer",
+      "Christoph Eyberg",
+      "Moritz Werling",
+      "Martin Lauer"
+    ],
+    "venue": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Drew Fudenberg, Ryota Iijima, and Tomasz Strzalecki. Stochastic choice and revealed perturbed utility. Econometrica, 83(6):2371-2409, 2015.",
+    "title": "Stochastic choice and revealed perturbed utility",
+    "authors": [
+      "Drew Fudenberg",
+      "Ryota Iijima",
+      "Tomasz Strzalecki"
+    ],
+    "venue": "Econometrica",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, and Sergey Levine. Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor. In International conference on machine learning, pp. 1861-1870. PMLR, 2018.",
+    "title": "Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Aurick Zhou",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Joey Hejna and Dorsa Sadigh. Inverse preference learning: Preference-based rl without a reward function. arXiv preprint arXiv:2305.15363, 2023.",
+    "title": "Inverse preference learning: Preference-based rl without a reward function",
+    "authors": [
+      "Joey Hejna",
+      "Dorsa Sadigh"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.15363"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Joey Hejna and Dorsa Sadigh. Inverse preference learning: Preference-based rl without a reward function. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Inverse preference learning: Preference-based rl without a reward function",
+    "authors": [
+      "Joey Hejna",
+      "Dorsa Sadigh"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt. Measuring massive multitask language understanding. arXiv preprint arXiv:2009.03300, 2020.",
+    "title": "Measuring massive multitask language understanding",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Steven Basart",
+      "Andy Zou",
+      "Mantas Mazeika",
+      "Dawn Song",
+      "Jacob Steinhardt"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2009.03300"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Jiwoo Hong, Noah Lee, and James Thorne. Orpo: Monolithic preference optimization without reference model. arXiv preprint arXiv:2403.07691, 2024.",
+    "title": "Monolithic preference optimization without reference model",
+    "authors": [
+      "Jiwoo Hong",
+      "Noah Lee",
+      "James Thorne",
+      "Orpo"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.07691"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Mingyi Hong, Hoi-To Wai, Zhaoran Wang, and Zhuoran Yang. A two-timescale framework for bilevel optimization: Complexity analysis and application to actor-critic. arXiv preprint arXiv:2007.05170, 2020.",
+    "title": "A two-timescale framework for bilevel optimization: Complexity analysis and application to actor-critic",
+    "authors": [
+      "Mingyi Hong",
+      "Hoi-To Wai",
+      "Zhaoran Wang",
+      "Zhuoran Yang"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2007.05170"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Mingyi Hong, Hoi-To Wai, Zhaoran Wang, and Zhuoran Yang. A two-timescale stochastic algorithm framework for bilevel optimization: Complexity analysis and application to actor-critic. SIAM Journal on Optimization, 33(1):147-180, 2023.",
+    "title": "A two-timescale stochastic algorithm framework for bilevel optimization: Complexity analysis and application to actor-critic",
+    "authors": [
+      "Mingyi Hong",
+      "Hoi-To Wai",
+      "Zhaoran Wang",
+      "Zhuoran Yang"
+    ],
+    "venue": "SIAM Journal on Optimization",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Borja Ibarz, Jan Leike, Tobias Pohlen, Geoffrey Irving, Shane Legg, and Dario Amodei. Reward learning from human preferences and demonstrations in atari. Advances in neural information processing systems, 31, 2018.",
+    "title": "Reward learning from human preferences and demonstrations in atari",
+    "authors": [
+      "Borja Ibarz",
+      "Jan Leike",
+      "Tobias Pohlen",
+      "Geoffrey Irving",
+      "Shane Legg",
+      "Dario Amodei"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Jiaming Ji, Mickel Liu, Josef Dai, Xuehai Pan, Chi Zhang, Ce Bian, Boyuan Chen, Ruiyang Sun, Yizhou Wang, and Yaodong Yang. Beavertails: Towards improved safety alignment of llm via a human-preference dataset. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Beavertails: Towards improved safety alignment of llm via a human-preference dataset",
+    "authors": [
+      "Jiaming Ji",
+      "Mickel Liu",
+      "Josef Dai",
+      "Xuehai Pan",
+      "Chi Zhang",
+      "Ce Bian",
+      "Boyuan Chen",
+      "Ruiyang Sun",
+      "Yizhou Wang",
+      "Yaodong Yang"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Kaiyi Ji, Junjie Yang, and Yingbin Liang. Bilevel optimization: Convergence analysis and enhanced design. In International Conference on Machine Learning, pp. 4882-4892. PMLR, 2021.",
+    "title": "Bilevel optimization: Convergence analysis and enhanced design",
+    "authors": [
+      "Kaiyi Ji",
+      "Junjie Yang",
+      "Yingbin Liang"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Albert Q Jiang, Alexandre Sablayrolles, Arthur Mensch, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Florian Bressand, Gianna Lengyel, Guillaume Lample, Lucile Saulnier, et al. Mistral 7b. arXiv preprint arXiv:2310.06825, 2023.",
+    "title": "Mistral 7b",
+    "authors": [
+      "Alexandre Albert Q Jiang",
+      "Arthur Sablayrolles",
+      "Chris Mensch",
+      "Devendra Bamford",
+      "Diego Singh Chaplot",
+      "Florian De Las Casas",
+      "Gianna Bressand",
+      "Guillaume Lengyel",
+      "Lucile Lample",
+      "Saulnier"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.06825"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Dmitry Kalashnikov, Alex Irpan, Peter Pastor, Julian Ibarz, Alexander Herzog, Eric Jang, Deirdre Quillen, Ethan Holly, Mrinal Kalakrishnan, Vincent Vanhoucke, et al. Scalable deep reinforcement learning for vision-based robotic manipulation. In Conference on Robot Learning, pp. 651-673. PMLR, 2018.",
+    "title": "Scalable deep reinforcement learning for vision-based robotic manipulation",
+    "authors": [
+      "Dmitry Kalashnikov",
+      "Alex Irpan",
+      "Peter Pastor",
+      "Julian Ibarz",
+      "Alexander Herzog",
+      "Eric Jang",
+      "Deirdre Quillen",
+      "Ethan Holly",
+      "Mrinal Kalakrishnan",
+      "Vincent Vanhoucke"
+    ],
+    "venue": "Conference on Robot Learning",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Prashant Khanduri, Siliang Zeng, Mingyi Hong, Hoi-To Wai, Zhaoran Wang, and Zhuoran Yang. A near-optimal algorithm for stochastic bilevel optimization via double-momentum. Advances in Neural Information Processing Systems, 34, 2021.",
+    "title": "A near-optimal algorithm for stochastic bilevel optimization via double-momentum",
+    "authors": [
+      "Prashant Khanduri",
+      "Siliang Zeng",
+      "Mingyi Hong",
+      "Hoi-To Wai",
+      "Zhaoran Wang",
+      "Zhuoran Yang"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Jens Kober and Jan Peters. Policy search for motor primitives in robotics. Advances in neural information processing systems, 21, 2008.",
+    "title": "Policy search for motor primitives in robotics",
+    "authors": [
+      "Jens Kober",
+      "Jan Peters"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody Hao Yu, Joseph Gonzalez, Hao Zhang, and Ion Stoica. Efficient memory management for large language model serving with pagedattention. In Proceedings of the 29th Symposium on Operating Systems Principles, pp. 611-626, 2023.",
+    "title": "Efficient memory management for large language model serving with pagedattention",
+    "authors": [
+      "Woosuk Kwon",
+      "Zhuohan Li",
+      "Siyuan Zhuang",
+      "Ying Sheng",
+      "Lianmin Zheng",
+      "Cody Hao Yu",
+      "Joseph Gonzalez",
+      "Hao Zhang",
+      "Ion Stoica"
+    ],
+    "venue": "Proceedings of the 29th Symposium on Operating Systems Principles",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Nathan Lambert, Valentina Pyatkin, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, et al. Rewardbench: Evaluating reward models for language modeling. arXiv preprint arXiv:2403.13787, 2024.",
+    "title": "Evaluating reward models for language modeling",
+    "authors": [
+      "Nathan Lambert",
+      "Valentina Pyatkin",
+      "Jacob Morrison",
+      "L J Miranda",
+      "Bill Yuchen Lin",
+      "Khyathi Chandu",
+      "Nouha Dziri",
+      "Sachin Kumar",
+      "Tom Zick",
+      "Yejin Choi"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.13787"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, and Shane Legg. Scalable agent alignment via reward modeling: a research direction. arXiv preprint arXiv:1811.07871, 2018.",
+    "title": "Scalable agent alignment via reward modeling: a research direction",
+    "authors": [
+      "Jan Leike",
+      "David Krueger",
+      "Tom Everitt",
+      "Miljan Martic",
+      "Vishal Maini",
+      "Shane Legg"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1811.07871"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Sergey Levine, Zoran Popovic, and Vladlen Koltun. Nonlinear inverse reinforcement learning with gaussian processes. Advances in neural information processing systems, 24, 2011.",
+    "title": "Nonlinear inverse reinforcement learning with gaussian processes",
+    "authors": [
+      "Sergey Levine",
+      "Zoran Popovic",
+      "Vladlen Koltun"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Ziniu Li, Tian Xu, Yushun Zhang, Yang Yu, Ruoyu Sun, and Zhi-Quan Luo. Remax: A simple, effective, and efficient method for aligning large language models. arXiv preprint arXiv:2310.10505, 2023.",
+    "title": "Remax: A simple, effective, and efficient method for aligning large language models",
+    "authors": [
+      "Ziniu Li",
+      "Tian Xu",
+      "Yushun Zhang",
+      "Yang Yu",
+      "Ruoyu Sun",
+      "Zhi-Quan Luo"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.10505"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Stephanie Lin, Jacob Hilton, and Owain Evans. Truthfulqa: Measuring how models mimic human falsehoods. arXiv preprint arXiv:2109.07958, 2021.",
+    "title": "Measuring how models mimic human falsehoods",
+    "authors": [
+      "Stephanie Lin",
+      "Jacob Hilton",
+      "Owain Evans",
+      "Truthfulqa"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2109.07958"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Risheng Liu, Jiaxin Gao, Jin Zhang, Deyu Meng, and Zhouchen Lin. Investigating bi-level optimization for learning and vision from a unified perspective: A survey and beyond. IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(12):10045-10067, 2021.",
+    "title": "Investigating bi-level optimization for learning and vision from a unified perspective: A survey and beyond",
+    "authors": [
+      "Risheng Liu",
+      "Jiaxin Gao",
+      "Jin Zhang",
+      "Deyu Meng",
+      "Zhouchen Lin"
+    ],
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Risheng Liu, Pan Mu, Xiaoming Yuan, Shangzhi Zeng, and Jin Zhang. A general descent aggregation framework for gradient-based bi-level optimization. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(1):38-57, 2022.",
+    "title": "A general descent aggregation framework for gradient-based bi-level optimization",
+    "authors": [
+      "Risheng Liu",
+      "Pan Mu",
+      "Xiaoming Yuan",
+      "Shangzhi Zeng",
+      "Jin Zhang"
+    ],
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Shicheng Liu and Minghui Zhu. Distributed inverse constrained reinforcement learning for multiagent systems. Advances in Neural Information Processing Systems, 35:33444-33456, 2022.",
+    "title": "Distributed inverse constrained reinforcement learning for multiagent systems",
+    "authors": [
+      "Shicheng Liu",
+      "Minghui Zhu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Shicheng Liu and Minghui Zhu. Meta inverse constrained reinforcement learning: Convergence guarantee and generalization analysis. In The Twelfth International Conference on Learning Representations, 2023.",
+    "title": "Meta inverse constrained reinforcement learning: Convergence guarantee and generalization analysis",
+    "authors": [
+      "Shicheng Liu",
+      "Minghui Zhu"
+    ],
+    "venue": "The Twelfth International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Tianqi Liu, Yao Zhao, Rishabh Joshi, Misha Khalman, Mohammad Saleh, Peter J Liu, and Jialu Liu. Statistical rejection sampling improves preference optimization. arXiv preprint arXiv:2309.06657, 2023.",
+    "title": "Statistical rejection sampling improves preference optimization",
+    "authors": [
+      "Tianqi Liu",
+      "Yao Zhao",
+      "Rishabh Joshi",
+      "Misha Khalman",
+      "Mohammad Saleh",
+      "Peter J Liu",
+      "Jialu Liu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2309.06657"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Zhihan Liu, Miao Lu, Shenao Zhang, Boyi Liu, Hongyi Guo, Yingxiang Yang, Jose Blanchet, and Zhaoran Wang. Provably mitigating overoptimization in rlhf: Your sft loss is implicitly an adversarial regularizer. arXiv preprint arXiv:2405.16436, 2024.",
+    "title": "Provably mitigating overoptimization in rlhf: Your sft loss is implicitly an adversarial regularizer",
+    "authors": [
+      "Zhihan Liu",
+      "Miao Lu",
+      "Shenao Zhang",
+      "Boyi Liu",
+      "Hongyi Guo",
+      "Yingxiang Yang",
+      "Jose Blanchet",
+      "Zhaoran Wang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.16436"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Andrew Maas, Raymond E Daly, Peter T Pham, Dan Huang, Andrew Y Ng, and Christopher Potts. Learning word vectors for sentiment analysis. In Proceedings of the 49th annual meeting of the association for computational linguistics: Human language technologies, pp. 142-150, 2011.",
+    "title": "Learning word vectors for sentiment analysis",
+    "authors": [
+      "Andrew Maas",
+      "Raymond E Daly",
+      "Peter T Pham",
+      "Dan Huang",
+      "Andrew Y Ng",
+      "Christopher Potts"
+    ],
+    "venue": "Proceedings of the 49th annual meeting of the association for computational linguistics: Human language technologies",
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A Rusu, Joel Veness, Marc G Bellemare, Alex Graves, Martin Riedmiller, Andreas K Fidjeland, Georg Ostrovski, et al. Human-level control through deep reinforcement learning. nature, 518(7540):529-533, 2015.",
+    "title": "Human-level control through deep reinforcement learning",
+    "authors": [
+      "Volodymyr Mnih",
+      "Koray Kavukcuoglu",
+      "David Silver",
+      "Andrei A Rusu",
+      "Joel Veness",
+      "Marc G Bellemare",
+      "Alex Graves",
+      "Martin Riedmiller",
+      "Andreas K Fidjeland",
+      "Georg Ostrovski"
+    ],
+    "venue": "nature",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Vivek Myers, Erdem Biyik, Nima Anari, and Dorsa Sadigh. Learning multimodal rewards from rankings. In Conference on Robot Learning, pp. 342-352. PMLR, 2022.",
+    "title": "Learning multimodal rewards from rankings",
+    "authors": [
+      "Vivek Myers",
+      "Erdem Biyik",
+      "Nima Anari",
+      "Dorsa Sadigh"
+    ],
+    "venue": "Conference on Robot Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Long Ouyang, Jeffrey Wu, Xu Jiang, Diogo Almeida, Carroll Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, et al. Training language models to follow instructions with human feedback. Advances in Neural Information Processing Systems, 35: 27730-27744, 2022.",
+    "title": "Training language models to follow instructions with human feedback",
+    "authors": [
+      "Long Ouyang",
+      "Jeffrey Wu",
+      "Xu Jiang",
+      "Diogo Almeida",
+      "Carroll Wainwright",
+      "Pamela Mishkin",
+      "Chong Zhang",
+      "Sandhini Agarwal",
+      "Katarina Slama",
+      "Alex Ray"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Malayandi Palan, Nicholas C Landolfi, Gleb Shevchuk, and Dorsa Sadigh. Learning reward functions by integrating human demonstrations and preferences. arXiv preprint arXiv:1906.08928, 2019.",
+    "title": "Learning reward functions by integrating human demonstrations and preferences",
+    "authors": [
+      "Malayandi Palan",
+      "Gleb Nicholas C Landolfi",
+      "Dorsa Shevchuk",
+      "Sadigh"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1906.08928"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Peter S Park, Simon Goldstein, Aidan O'Gara, Michael Chen, and Dan Hendrycks. Ai deception: A survey of examples, risks, and potential solutions. arXiv preprint arXiv:2308.14752, 2023.",
+    "title": "Ai deception: A survey of examples, risks, and potential solutions",
+    "authors": [
+      "Simon Peter S Park",
+      "Aidan O' Goldstein",
+      "Michael Gara",
+      "Dan Chen",
+      "Hendrycks"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2308.14752"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Ethan Perez, Sam Ringer, Kamilė Lukošiūtė, Karina Nguyen, Edwin Chen, Scott Heiner, Craig Pettit, Catherine Olsson, Sandipan Kundu, Saurav Kadavath, et al. Discovering language model behaviors with model-written evaluations. arXiv preprint arXiv:2212.09251, 2022.",
+    "title": "Discovering language model behaviors with model-written evaluations",
+    "authors": [
+      "Ethan Perez",
+      "Sam Ringer",
+      "Kamilė Lukošiūtė",
+      "Karina Nguyen",
+      "Edwin Chen",
+      "Scott Heiner",
+      "Craig Pettit",
+      "Catherine Olsson",
+      "Sandipan Kundu",
+      "Saurav Kadavath"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2212.09251"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D Manning, and Chelsea Finn. Direct preference optimization: Your language model is secretly a reward model. arXiv preprint arXiv:2305.18290, 2023.",
+    "title": "Direct preference optimization: Your language model is secretly a reward model",
+    "authors": [
+      "Rafael Rafailov",
+      "Archit Sharma",
+      "Eric Mitchell",
+      "Stefano Ermon",
+      "Christopher D Manning",
+      "Chelsea Finn"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.18290"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, and Yuxiong He. Zero: Memory optimizations toward training trillion parameter models. In SC20: International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-16, 2020. doi: 10.1109/SC41405. 2020.00024.",
+    "title": "Zero: Memory optimizations toward training trillion parameter models",
+    "authors": [
+      "Samyam Rajbhandari",
+      "Jeff Rasley",
+      "Olatunji Ruwase",
+      "Yuxiong He"
+    ],
+    "venue": "SC20: International Conference for High Performance Computing, Networking, Storage and Analysis",
+    "year": 2020,
+    "identifiers": {
+      "doi": "10.1109/SC41405.2020.00024",
+      "arxiv_id": "2020.00024"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Stéphane Ross and Drew Bagnell. Efficient reductions for imitation learning. In Proceedings of the thirteenth international conference on artificial intelligence and statistics, pp. 661-668. JMLR Workshop and Conference Proceedings, 2010.",
+    "title": "Efficient reductions for imitation learning",
+    "authors": [
+      "Stéphane Ross",
+      "Drew Bagnell"
+    ],
+    "venue": "Proceedings of the thirteenth international conference on artificial intelligence and statistics",
+    "year": 2010,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Keisuke Sakaguchi, Ronan Le Bras, Chandra Bhagavatula, and Yejin Choi. Winogrande: An adversarial winograd schema challenge at scale. Communications of the ACM, 64(9):99-106, 2021.",
+    "title": "Winogrande: An adversarial winograd schema challenge at scale",
+    "authors": [
+      "Keisuke Sakaguchi",
+      "Le Ronan",
+      "Chandra Bras",
+      "Yejin Bhagavatula",
+      "Choi"
+    ],
+    "venue": "Communications of the ACM",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347, 2017.",
+    "title": "Proximal policy optimization algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1707.06347"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Nisan Stiennon, Long Ouyang, Jeffrey Wu, Daniel Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, and Paul F Christiano. Learning to summarize with human feedback. Advances in Neural Information Processing Systems, 33:3008-3021, 2020.",
+    "title": "Learning to summarize with human feedback",
+    "authors": [
+      "Nisan Stiennon",
+      "Long Ouyang",
+      "Jeffrey Wu",
+      "Daniel Ziegler",
+      "Ryan Lowe",
+      "Chelsea Voss",
+      "Alec Radford",
+      "Dario Amodei",
+      "Paul F Christiano"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "Emanuel Todorov, Tom Erez, and Yuval Tassa. Mujoco: A physics engine for model-based control. In 2012 IEEE/RSJ international conference on intelligent robots and systems, pp. 5026-5033. IEEE, 2012.",
+    "title": "Mujoco: A physics engine for model-based control",
+    "authors": [
+      "Emanuel Todorov",
+      "Tom Erez",
+      "Yuval Tassa"
+    ],
+    "venue": "2012 IEEE/RSJ international conference on intelligent robots and systems",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Masatoshi Uehara, Nathan Kallus, Jason D Lee, and Wen Sun. Refined value-based offline rl under realizability and partial coverage. arXiv preprint arXiv:2302.02392, 2023.",
+    "title": "Refined value-based offline rl under realizability and partial coverage",
+    "authors": [
+      "Masatoshi Uehara",
+      "Nathan Kallus",
+      "Jason D Lee",
+      "Wen Sun"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2302.02392"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Runzhong Wang, Zhigang Hua, Gan Liu, Jiayi Zhang, Junchi Yan, Feng Qi, Shuang Yang, Jun Zhou, and Xiaokang Yang. A bi-level framework for learning to solve combinatorial optimization on graphs. Advances in Neural Information Processing Systems, 34:21453-21466, 2021.",
+    "title": "A bi-level framework for learning to solve combinatorial optimization on graphs",
+    "authors": [
+      "Runzhong Wang",
+      "Zhigang Hua",
+      "Gan Liu",
+      "Jiayi Zhang",
+      "Junchi Yan",
+      "Feng Qi",
+      "Shuang Yang",
+      "Jun Zhou",
+      "Xiaokang Yang"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Markus Wulfmeier, Peter Ondruska, and Ingmar Posner. Maximum entropy deep inverse reinforcement learning. arXiv preprint arXiv:1507.04888, 2015.",
+    "title": "Maximum entropy deep inverse reinforcement learning",
+    "authors": [
+      "Markus Wulfmeier",
+      "Peter Ondruska",
+      "Ingmar Posner"
+    ],
+    "year": 2015,
+    "identifiers": {
+      "arxiv_id": "arXiv:1507.04888"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "Wei Xiong, Hanze Dong, Chenlu Ye, Ziqi Wang, Han Zhong, Heng Ji, Nan Jiang, and Tong Zhang. Iterative preference learning from human feedback: Bridging theory and practice for rlhf under kl-constraint. In Forty-first International Conference on Machine Learning, 2024.",
+    "title": "Iterative preference learning from human feedback: Bridging theory and practice for rlhf under kl-constraint",
+    "authors": [
+      "Wei Xiong",
+      "Hanze Dong",
+      "Chenlu Ye",
+      "Ziqi Wang",
+      "Han Zhong",
+      "Heng Ji",
+      "Nan Jiang",
+      "Tong Zhang"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "Shusheng Xu, Wei Fu, Jiaxuan Gao, Wenjie Ye, Weilin Liu, Zhiyu Mei, Guangju Wang, Chao Yu, and Yi Wu. Is dpo superior to ppo for llm alignment? a comprehensive study. arXiv preprint arXiv:2404.10719, 2024.",
+    "title": "Is dpo superior to ppo for llm alignment? a comprehensive study",
+    "authors": [
+      "Shusheng Xu",
+      "Wei Fu",
+      "Jiaxuan Gao",
+      "Wenjie Ye",
+      "Weilin Liu",
+      "Zhiyu Mei",
+      "Guangju Wang",
+      "Chao Yu",
+      "Yi Wu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.10719"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R66",
+    "raw_text": "Tengyu Xu, Zhe Wang, and Yingbin Liang. Improving sample complexity bounds for (natural) actorcritic algorithms. Advances in Neural Information Processing Systems, 33:4358-4369, 2020.",
+    "title": "Improving sample complexity bounds for (natural) actorcritic algorithms",
+    "authors": [
+      "Tengyu Xu",
+      "Zhe Wang",
+      "Yingbin Liang"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R67",
+    "raw_text": "Zheng Yuan, Hongyi Yuan, Chuanqi Tan, Wei Wang, Songfang Huang, and Fei Huang. Rrhf: Rank responses to align language models with human feedback without tears. arXiv preprint arXiv:2304.05302, 2023.",
+    "title": "Rank responses to align language models with human feedback without tears",
+    "authors": [
+      "Zheng Yuan",
+      "Hongyi Yuan",
+      "Chuanqi Tan",
+      "Wei Wang",
+      "Songfang Huang",
+      "Fei Huang",
+      "Rrhf"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2304.05302"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R68",
+    "raw_text": "Rowan Zellers, Ari Holtzman, Yonatan Bisk, Ali Farhadi, and Yejin Choi. Hellaswag: Can a machine really finish your sentence? arXiv preprint arXiv:1905.07830, 2019.",
+    "title": "Hellaswag: Can a machine really finish your sentence",
+    "authors": [
+      "Rowan Zellers",
+      "Ari Holtzman",
+      "Yonatan Bisk",
+      "Ali Farhadi",
+      "Yejin Choi"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1905.07830"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R69",
+    "raw_text": "Siliang Zeng, Mingyi Hong, and Alfredo Garcia. Structural estimation of markov decision processes in high-dimensional state space with finite-time guarantees. arXiv preprint arXiv:2210.01282, 2022a.",
+    "title": "Structural estimation of markov decision processes in high-dimensional state space with finite-time guarantees",
+    "authors": [
+      "Siliang Zeng",
+      "Mingyi Hong",
+      "Alfredo Garcia"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2210.01282"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R70",
+    "raw_text": "Siliang Zeng, Chenliang Li, Alfredo Garcia, and Mingyi Hong. Maximum-likelihood inverse reinforcement learning with finite-time guarantees. Advances in Neural Information Processing Systems, 2022b.",
+    "title": "Maximum-likelihood inverse reinforcement learning with finite-time guarantees",
+    "authors": [
+      "Siliang Zeng",
+      "Chenliang Li",
+      "Alfredo Garcia",
+      "Mingyi Hong"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R71",
+    "raw_text": "Zhengyuan Zhou, Michael Bloem, and Nicholas Bambos. Infinite time horizon maximum causal entropy inverse reinforcement learning. IEEE Transactions on Automatic Control, 63(9): 2787-2802, 2017.",
+    "title": "Infinite time horizon maximum causal entropy inverse reinforcement learning",
+    "authors": [
+      "Zhengyuan Zhou",
+      "Michael Bloem",
+      "Nicholas Bambos"
+    ],
+    "venue": "IEEE Transactions on Automatic Control",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R72",
+    "raw_text": "Banghua Zhu, Hiteshi Sharma, Felipe Vieira Frujeri, Shi Dong, Chenguang Zhu, Michael I Jordan, and Jiantao Jiao. Fine-tuning language models with advantage-induced policy alignment. arXiv preprint arXiv:2306.02231, 2023.",
+    "title": "Fine-tuning language models with advantage-induced policy alignment",
+    "authors": [
+      "Banghua Zhu",
+      "Hiteshi Sharma",
+      "Felipe Vieira Frujeri",
+      "Shi Dong",
+      "Chenguang Zhu",
+      "Jiantao Michael I Jordan",
+      "Jiao"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.02231"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R73",
+    "raw_text": "Brian D Ziebart. Modeling purposeful adaptive behavior with the principle of maximum causal entropy. Carnegie Mellon University, 2010.",
+    "title": "Modeling purposeful adaptive behavior with the principle of maximum causal entropy",
+    "authors": [
+      "Brian D Ziebart"
+    ],
+    "year": 2010,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R74",
+    "raw_text": "Brian D Ziebart, J Andrew Bagnell, and Anind K Dey. The principle of maximum causal entropy for estimating interacting processes. IEEE Transactions on Information Theory, 59(4):1966-1980, 2013.",
+    "title": "The principle of maximum causal entropy for estimating interacting processes",
+    "authors": [
+      "Andrew Brian D Ziebart",
+      "Anind K Bagnell",
+      "Dey"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 1966,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

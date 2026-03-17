@@ -1,0 +1,629 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Anastasios N Angelopoulos and Stephen Bates. A gentle introduction to conformal prediction and distribution-free uncertainty quantification. arXiv preprint arXiv:2107.07511, 2021.",
+    "title": "A gentle introduction to conformal prediction and distribution-free uncertainty quantification",
+    "authors": [
+      "N Anastasios",
+      "Stephen Angelopoulos",
+      "Bates"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2107.07511"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Anastasios Nikolas Angelopoulos, Stephen Bates, Michael I. Jordan, and Jitendra Malik. Uncertainty sets for image classifiers using conformal prediction. In ICLR. OpenReview.net, 2021.",
+    "title": "Uncertainty sets for image classifiers using conformal prediction",
+    "authors": [
+      "Anastasios Nikolas",
+      "Angelopoulos",
+      "Stephen Bates",
+      "Michael I Jordan",
+      "Jitendra Malik"
+    ],
+    "venue": "ICLR. OpenReview.net",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Andreas Auer, Martin Gauch, Daniel Klotz, and Sepp Hochreiter. Conformal prediction for time series with modern hopfield networks. In NeurIPS, 2023.",
+    "title": "Conformal prediction for time series with modern hopfield networks",
+    "authors": [
+      "Andreas Auer",
+      "Martin Gauch",
+      "Daniel Klotz",
+      "Sepp Hochreiter"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Philip J Boland, Harshinder Singh, and Bojan Cukic. Stochastic orders in partition and random testing of software. Journal of applied probability, 39(3):555-565, 2002.",
+    "title": "Stochastic orders in partition and random testing of software",
+    "authors": [
+      "J Philip",
+      "Harshinder Boland",
+      "Bojan Singh",
+      "Cukic"
+    ],
+    "venue": "Journal of applied probability",
+    "year": 2002,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Maxime Cauchois, Suyash Gupta, Alnur Ali, and John C. Duchi. Robust validation: Confident predictions even when distributions shift. CoRR, abs/2008.04267, 2020.",
+    "title": "Robust validation: Confident predictions even when distributions shift",
+    "authors": [
+      "Maxime Cauchois",
+      "Suyash Gupta",
+      "Alnur Ali",
+      "John C Duchi"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "2008.04267"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Giovanni Cherubin. Majority vote ensembles of conformal predictors. Machine Learning, 108(3): 475-488, 2019.",
+    "title": "Majority vote ensembles of conformal predictors",
+    "authors": [
+      "Giovanni Cherubin"
+    ],
+    "venue": "Machine Learning",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Jeremy Cohen, Elan Rosenfeld, and Zico Kolter. Certified adversarial robustness via randomized smoothing. In International Conference on Machine Learning, pp. 1310-1320. PMLR, 2019.",
+    "title": "Certified adversarial robustness via randomized smoothing",
+    "authors": [
+      "Jeremy Cohen",
+      "Elan Rosenfeld",
+      "Zico Kolter"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Bat-Sheva Einbinder, Stephen Bates, Anastasios N. Angelopoulos, Asaf Gendler, and Yaniv Romano. Conformal prediction is robust to label noise. CoRR, abs/2209.14295, 2022.",
+    "title": "Conformal prediction is robust to label noise",
+    "authors": [
+      "Bat-Sheva Einbinder",
+      "Stephen Bates",
+      "Anastasios N Angelopoulos",
+      "Asaf Gendler",
+      "Yaniv Romano"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "2209.14295"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Matteo Gasparin and Aaditya Ramdas. Merging uncertainty sets via majority vote. arXiv preprint arXiv:2401.09379, 2024.",
+    "title": "Merging uncertainty sets via majority vote",
+    "authors": [
+      "Matteo Gasparin",
+      "Aaditya Ramdas"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.09379"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Asaf Gendler, Tsui-Wei Weng, Luca Daniel, and Yaniv Romano. Adversarially robust conformal prediction. In ICLR. OpenReview.net, 2022.",
+    "title": "Adversarially robust conformal prediction",
+    "authors": [
+      "Asaf Gendler",
+      "Tsui-Wei Weng",
+      "Luca Daniel",
+      "Yaniv Romano"
+    ],
+    "venue": "ICLR. OpenReview.net",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Subhankar Ghosh, Yuanjie Shi, Taha Belkhouja, Yan Yan, Jana Doppa, and Brian Jones. Probabilistically robust conformal prediction. In UAI, volume 216 of Proceedings of Machine Learning Research, pp. 681-690. PMLR, 2023.",
+    "title": "Probabilistically robust conformal prediction",
+    "authors": [
+      "Subhankar Ghosh",
+      "Yuanjie Shi",
+      "Taha Belkhouja",
+      "Yan Yan",
+      "Jana Doppa",
+      "Brian Jones"
+    ],
+    "venue": "UAI",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residual learning for image recognition. In CVPR, pp. 770-778. IEEE Computer Society, 2016.",
+    "title": "Deep residual learning for image recognition",
+    "authors": [
+      "Kaiming He",
+      "Xiangyu Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "venue": "CVPR",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Linus Jeary, Tom Kuipers, Mehran Hosseini, and Nicola Paoletti. Verifiably robust conformal prediction. CoRR, abs/2405.18942, 2024.",
+    "title": "Verifiably robust conformal prediction",
+    "authors": [
+      "Linus Jeary",
+      "Tom Kuipers",
+      "Mehran Hosseini",
+      "Nicola Paoletti"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2405.18942"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Mintong Kang, Zhen Lin, Jimeng Sun, Cao Xiao, and Bo Li. Certifiably byzantine-robust federated conformal prediction. In ICML. OpenReview.net, 2024.",
+    "title": "Certifiably byzantine-robust federated conformal prediction",
+    "authors": [
+      "Mintong Kang",
+      "Zhen Lin",
+      "Jimeng Sun",
+      "Cao Xiao",
+      "Bo Li"
+    ],
+    "venue": "ICML. OpenReview.net",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Alex Krizhevsky, Geoffrey Hinton, et al. Learning multiple layers of features from tiny images. 2009.",
+    "title": "Learning multiple layers of features from tiny images",
+    "authors": [
+      "Alex Krizhevsky",
+      "Geoffrey Hinton"
+    ],
+    "year": 2009,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Jing Lei, Max G'Sell, Alessandro Rinaldo, Ryan J Tibshirani, and Larry Wasserman. Distributionfree predictive inference for regression. Journal of the American Statistical Association, 113 (523):1094-1111, 2018.",
+    "title": "Distributionfree predictive inference for regression",
+    "authors": [
+      "Jing Lei",
+      "G' Max",
+      "Alessandro Sell",
+      "Ryan J Rinaldo",
+      "Larry Tibshirani",
+      "Wasserman"
+    ],
+    "venue": "Journal of the American Statistical Association",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Alexander Levine and Soheil Feizi. Deep partition aggregation: Provable defenses against general poisoning attacks. In ICLR. OpenReview.net, 2021.",
+    "title": "Deep partition aggregation: Provable defenses against general poisoning attacks",
+    "authors": [
+      "Alexander Levine",
+      "Soheil Feizi"
+    ],
+    "venue": "ICLR. OpenReview.net",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Yangyi Li, Aobo Chen, Wei Qian, Chenxu Zhao, Divya Lidder, and Mengdi Huai. Data poisoning attacks against conformal prediction. In Forty-first International Conference on Machine Learning, 2024.",
+    "title": "Data poisoning attacks against conformal prediction",
+    "authors": [
+      "Yangyi Li",
+      "Aobo Chen",
+      "Wei Qian",
+      "Chenxu Zhao",
+      "Divya Lidder",
+      "Mengdi Huai"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Lars Lindemann, Matthew Cleaveland, Gihyun Shim, and George J. Pappas. Safe planning in dynamic environments using conformal prediction. IEEE Robotics Autom. Lett., 8(8):5116-5123, 2023.",
+    "title": "Safe planning in dynamic environments using conformal prediction",
+    "authors": [
+      "Lars Lindemann",
+      "Matthew Cleaveland",
+      "Gihyun Shim",
+      "George J Pappas"
+    ],
+    "venue": "IEEE Robotics Autom. Lett",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Ziquan Liu, Yufei Cui, Yan Yan, Yi Xu, Xiangyang Ji, Xue Liu, and Antoni B. Chan. The pitfalls and promise of conformal inference under adversarial attacks. In ICML. OpenReview.net, 2024.",
+    "title": "The pitfalls and promise of conformal inference under adversarial attacks",
+    "authors": [
+      "Ziquan Liu",
+      "Yufei Cui",
+      "Yan Yan",
+      "Yi Xu",
+      "Xiangyang Ji",
+      "Xue Liu",
+      "Antoni B Chan"
+    ],
+    "venue": "ICML. OpenReview.net",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Ilya Loshchilov and Frank Hutter. SGDR: stochastic gradient descent with warm restarts. In ICLR (Poster). OpenReview.net, 2017.",
+    "title": "SGDR: stochastic gradient descent with warm restarts",
+    "authors": [
+      "Ilya Loshchilov",
+      "Frank Hutter"
+    ],
+    "venue": "ICLR (Poster). OpenReview.net",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Baolin Wu, Andrew Y Ng, et al. Reading digits in natural images with unsupervised feature learning. In NIPS workshop on deep learning and unsupervised feature learning, pp. 4. Granada, 2011.",
+    "title": "Reading digits in natural images with unsupervised feature learning",
+    "authors": [
+      "Yuval Netzer",
+      "Tao Wang",
+      "Adam Coates",
+      "Alessandro Bissacco",
+      "Baolin Wu",
+      "Andrew Y Ng"
+    ],
+    "venue": "NIPS workshop on deep learning and unsupervised feature learning",
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman. Inductive confidence machines for regression. In ECML, volume 2430 of Lecture Notes in Computer Science, pp. 345356. Springer, 2002.",
+    "title": "Inductive confidence machines for regression",
+    "authors": [
+      "Harris Papadopoulos",
+      "Kostas Proedrou",
+      "Volodya Vovk",
+      "Alex Gammerman"
+    ],
+    "venue": "ECML",
+    "year": 2002,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Sangdon Park, Osbert Bastani, and Taesoo Kim. Acon 2 : Adaptive conformal consensus for provable blockchain oracles. In USENIX Security Symposium, pp. 3313-3330. USENIX Association, 2023.",
+    "title": "Acon 2 : Adaptive conformal consensus for provable blockchain oracles",
+    "authors": [
+      "Sangdon Park",
+      "Osbert Bastani",
+      "Taesoo Kim"
+    ],
+    "venue": "USENIX Security Symposium",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Coby Penso and Jacob Goldberger. A conformal prediction score that is robust to label noise. CoRR, abs/2405.02648, 2024.",
+    "title": "A conformal prediction score that is robust to label noise",
+    "authors": [
+      "Coby Penso",
+      "Jacob Goldberger"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2405.02648"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Keivan Rezaei, Kiarash Banihashem, Atoosa Malemir Chegini, and Soheil Feizi. Run-off election: Improved provable defense against data poisoning attacks. In ICML, volume 202 of Proceedings of Machine Learning Research, pp. 29030-29050. PMLR, 2023.",
+    "title": "Run-off election: Improved provable defense against data poisoning attacks",
+    "authors": [
+      "Keivan Rezaei",
+      "Kiarash Banihashem",
+      "Atoosa Malemir Chegini",
+      "Soheil Feizi"
+    ],
+    "venue": "ICML",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Yaniv Romano, Matteo Sesia, and Emmanuel J. Candès. Classification with valid and adaptive coverage. In NeurIPS, 2020.",
+    "title": "Classification with valid and adaptive coverage",
+    "authors": [
+      "Yaniv Romano",
+      "Matteo Sesia",
+      "Emmanuel J Candès"
+    ],
+    "venue": "NeurIPS",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Elan Rosenfeld, Ezra Winston, Pradeep Ravikumar, and J. Zico Kolter. Certified robustness to labelflipping attacks via randomized smoothing. In ICML, volume 119 of Proceedings of Machine Learning Research, pp. 8230-8241. PMLR, 2020.",
+    "title": "Certified robustness to labelflipping attacks via randomized smoothing",
+    "authors": [
+      "Elan Rosenfeld",
+      "Ezra Winston",
+      "Pradeep Ravikumar",
+      "J Zico Kolter"
+    ],
+    "venue": "ICML",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Mauricio Sadinle, Jing Lei, and Larry Wasserman. Least ambiguous set-valued classifiers with bounded error levels. Journal of the American Statistical Association, 114(525):223-234, 2019.",
+    "title": "Least ambiguous set-valued classifiers with bounded error levels",
+    "authors": [
+      "Mauricio Sadinle",
+      "Jing Lei",
+      "Larry Wasserman"
+    ],
+    "venue": "Journal of the American Statistical Association",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Aldo Solari and Vera Djordjilović. Multi split conformal prediction. Statistics & Probability Letters, 184:109395, 2022.",
+    "title": "Multi split conformal prediction",
+    "authors": [
+      "Aldo Solari",
+      "Vera Djordjilović"
+    ],
+    "venue": "Statistics & Probability Letters",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Philip Sosnin, Mark Niklas Müller, Maximilian Baader, Calvin Tsay, and Matthew Wicker. Certified robustness to data poisoning in gradient-based training. CoRR, abs/2406.05670, 2024.",
+    "title": "Certified robustness to data poisoning in gradient-based training",
+    "authors": [
+      "Philip Sosnin",
+      "Mark Niklas Müller",
+      "Maximilian Baader",
+      "Calvin Tsay",
+      "Matthew Wicker"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "2406.05670"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Wenpin Tang and Fengmin Tang. The poisson binomial distribution-old & new. Statistical Science, 38(1):108-119, 2023.",
+    "title": "The poisson binomial distribution-old & new",
+    "authors": [
+      "Wenpin Tang",
+      "Fengmin Tang"
+    ],
+    "venue": "Statistical Science",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Zhiyi Tian, Lei Cui, Jie Liang, and Shui Yu. A comprehensive survey on poisoning attacks and countermeasures in machine learning. ACM Comput. Surv., 55(8):166:1-166:35, 2023.",
+    "title": "A comprehensive survey on poisoning attacks and countermeasures in machine learning",
+    "authors": [
+      "Lei Zhiyi Tian",
+      "Jie Cui",
+      "Shui Liang",
+      "Yu"
+    ],
+    "venue": "ACM Comput. Surv",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Janette Vazquez and Julio C. Facelli. Conformal prediction in clinical medical sciences. J. Heal. Informatics Res., 6(3):241-252, 2022.",
+    "title": "Conformal prediction in clinical medical sciences",
+    "authors": [
+      "Janette Vazquez",
+      "Julio C Facelli"
+    ],
+    "venue": "J. Heal. Informatics Res",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Vladimir Vovk. Conditional validity of inductive conformal predictors. Mach. Learn., 92(2-3): 349-376, 2013.",
+    "title": "Conditional validity of inductive conformal predictors",
+    "authors": [
+      "Vladimir Vovk"
+    ],
+    "venue": "Mach. Learn",
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Vladimir Vovk, Alexander Gammerman, and Glenn Shafer. Algorithmic learning in a random world, volume 29. Springer, 2005.",
+    "title": "Algorithmic learning in a random world",
+    "authors": [
+      "Vladimir Vovk",
+      "Alexander Gammerman",
+      "Glenn Shafer"
+    ],
+    "year": 2005,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Volodya Vovk, Alexander Gammerman, and Craig Saunders. Machine-learning applications of algorithmic randomness. In ICML, pp. 444-453. Morgan Kaufmann, 1999.",
+    "title": "Machine-learning applications of algorithmic randomness",
+    "authors": [
+      "Volodya Vovk",
+      "Alexander Gammerman",
+      "Craig Saunders"
+    ],
+    "venue": "ICML",
+    "year": 1999,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Wenxiao Wang, Alexander Levine, and Soheil Feizi. Improved certified defenses against data poisoning with (deterministic) finite aggregation. In ICML, volume 162 of Proceedings of Machine Learning Research, pp. 22769-22783. PMLR, 2022.",
+    "title": "Improved certified defenses against data poisoning with (deterministic) finite aggregation",
+    "authors": [
+      "Wenxiao Wang",
+      "Alexander Levine",
+      "Soheil Feizi"
+    ],
+    "venue": "ICML",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Ge Yan, Yaniv Romano, and Tsui-Wei Weng. Provably robust conformal prediction with improved efficiency. In ICLR. OpenReview.net, 2024.",
+    "title": "Provably robust conformal prediction with improved efficiency",
+    "authors": [
+      "Ge Yan",
+      "Yaniv Romano",
+      "Tsui-Wei Weng"
+    ],
+    "venue": "ICLR. OpenReview.net",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Soroush H Zargarbashi, Mohammad Sadegh Akhondzadeh, and Aleksandar Bojchevski. Robust yet efficient conformal prediction sets. arXiv preprint arXiv:2407.09165, 2024.",
+    "title": "Mohammad Sadegh Akhondzadeh, and Aleksandar Bojchevski. Robust yet efficient conformal prediction sets",
+    "authors": [
+      "H Soroush",
+      "Zargarbashi"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2407.09165"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

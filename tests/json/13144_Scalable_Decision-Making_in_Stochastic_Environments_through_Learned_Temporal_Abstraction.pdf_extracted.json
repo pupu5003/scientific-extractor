@@ -1,0 +1,857 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Anurag Ajay, Aviral Kumar, Pulkit Agrawal, Sergey Levine, and Ofir Nachum. OPAL: offline primitive discovery for accelerating offline reinforcement learning. In 9th International Conference on Learning Representations, ICLR 2021, Virtual Event, Austria, May 3-7, 2021. OpenReview.net, 2021. URL https://openreview.net/forum?id=V69LGwJ0lIN.",
+    "title": "OPAL: offline primitive discovery for accelerating offline reinforcement learning",
+    "authors": [
+      "Anurag Ajay",
+      "Aviral Kumar",
+      "Pulkit Agrawal",
+      "Sergey Levine",
+      "Ofir Nachum"
+    ],
+    "venue": "9th International Conference on Learning Representations, ICLR 2021, Virtual Event",
+    "year": 2021,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=V69LGwJ0lIN"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Robert Almgren and Neil Chriss. Optimal execution of portfolio transactions. Journal of Risk, 3: 5-40, 2001.",
+    "title": "Optimal execution of portfolio transactions",
+    "authors": [
+      "Robert Almgren",
+      "Neil Chriss"
+    ],
+    "venue": "Journal of Risk",
+    "year": 2001,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Ioannis Antonoglou, Julian Schrittwieser, Sherjil Ozair, Thomas K. Hubert, and David Silver. Planning in stochastic environments with a learned model. In The Tenth International Conference on Learning Representations, ICLR 2022, Virtual Event, April 25-29, 2022. OpenReview.net, 2022. URL https://openreview.net/forum?id=X6D9bAHhBQ1.",
+    "title": "Planning in stochastic environments with a learned model",
+    "authors": [
+      "Ioannis Antonoglou",
+      "Julian Schrittwieser",
+      "Sherjil Ozair",
+      "Thomas K Hubert",
+      "David Silver"
+    ],
+    "venue": "The Tenth International Conference on Learning Representations, ICLR 2022, Virtual Event",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=X6D9bAHhBQ1"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Wenhang Bao and Xiao-yang Liu. Multi-agent deep reinforcement learning for liquidation strategy analysis. arXiv preprint arXiv:1906.11046, 2019.",
+    "title": "Multi-agent deep reinforcement learning for liquidation strategy analysis",
+    "authors": [
+      "Wenhang Bao",
+      "Xiao-Yang Liu"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1906.11046"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Andrew G Barto and Sridhar Mahadevan. Recent advances in hierarchical reinforcement learning. Discrete event dynamic systems, 13:341-379, 2003.",
+    "title": "Recent advances in hierarchical reinforcement learning. Discrete event dynamic systems",
+    "authors": [
+      "G Andrew",
+      "Sridhar Barto",
+      "Mahadevan"
+    ],
+    "year": 2003,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Ashwin Carvalho, Yiqi Gao, Stéphanie Lefèvre, and Francesco Borrelli. Stochastic predictive control of autonomous vehicles in uncertain environments. 2014. URL https://api. semanticscholar.org/CorpusID:14171346.",
+    "title": "Stochastic predictive control of autonomous vehicles in uncertain environments",
+    "authors": [
+      "Ashwin Carvalho",
+      "Yiqi Gao",
+      "Stéphanie Lefèvre",
+      "Francesco Borrelli"
+    ],
+    "year": 2014,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas, and Igor Mordatch. Decision transformer: Reinforcement learning via sequence modeling. In Marc'Aurelio Ranzato, Alina Beygelzimer, Yann N. Dauphin, Percy Liang, and Jennifer Wortman Vaughan (eds.), Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021, December 6-14, 2021, virtual, pp. 1508415097, 2021. URL https://proceedings.neurips.cc/paper/2021/hash/ 7f489f642a0ddb10272b5c31057f0663-Abstract.html.",
+    "title": "Decision transformer: Reinforcement learning via sequence modeling",
+    "authors": [
+      "Lili Chen",
+      "Kevin Lu",
+      "Aravind Rajeswaran",
+      "Kimin Lee",
+      "Aditya Grover",
+      "Michael Laskin",
+      "Pieter Abbeel",
+      "Aravind Srinivas",
+      "Igor Mordatch"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021",
+    "year": 2021,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper/2021/hash/7"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Adrien Couëtoux, Jean-Baptiste Hoock, Nataliya Sokolovska, Olivier Teytaud, and Nicolas Bonnard. Continuous upper confidence trees. In Carlos A. Coello Coello (ed.), Learning and Intelligent Optimization -5th International Conference, LION 5, Rome, Italy, January 1721, 2011. Selected Papers, volume 6683 of Lecture Notes in Computer Science, pp. 433-445.",
+    "title": "Continuous upper confidence trees",
+    "authors": [
+      "Adrien Couëtoux",
+      "Jean-Baptiste Hoock",
+      "Nataliya Sokolovska",
+      "Olivier Teytaud",
+      "Nicolas Bonnard"
+    ],
+    "venue": "Learning and Intelligent Optimization -5th International Conference",
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Springer, 2011. doi: 10.1007/978-3-642-25566-3\\ 32. URL https://doi.org/10.1007/ 978-3-642-25566-3_32.",
+    "authors": [],
+    "year": 2011,
+    "identifiers": {
+      "doi": "10.1007/978-3-642-25566-332",
+      "url": "https://doi.org/10.1007/978-3-642-25566-3_32"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Thomas G Dietterich. Hierarchical reinforcement learning with the maxq value function decomposition. Journal of artificial intelligence research, 13:227-303, 2000.",
+    "title": "Hierarchical reinforcement learning with the maxq value function decomposition",
+    "authors": [
+      "G Thomas",
+      "Dietterich"
+    ],
+    "venue": "Journal of artificial intelligence research",
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Damien Ernst, Guy-Bart Stan, Jorge Goncalves, and Louis Wehenkel. Clinical data based optimal sti strategies for hiv: a reinforcement learning approach. Proceedings of the 45th IEEE Conference on Decision and Control, pp. 667-672, 2006.",
+    "title": "Clinical data based optimal sti strategies for hiv: a reinforcement learning approach",
+    "authors": [
+      "Damien Ernst",
+      "Guy-Bart Stan",
+      "Jorge Goncalves",
+      "Louis Wehenkel"
+    ],
+    "venue": "Proceedings of the 45th IEEE Conference on Decision and Control",
+    "year": 2006,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. D4RL: datasets for deep data-driven reinforcement learning. CoRR, abs/2004.07219, 2020. URL https://arxiv. org/abs/2004.07219.",
+    "title": "D4RL: datasets for deep data-driven reinforcement learning",
+    "authors": [
+      "Justin Fu",
+      "Aviral Kumar",
+      "Ofir Nachum",
+      "George Tucker",
+      "Sergey Levine"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "2004.07219",
+      "url": "https://arxiv.org/abs/2004.07219"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Thomas Gabor, Jan Peter, Thomy Phan, Christian Meyer, and Claudia Linnhoff-Popien. Subgoalbased temporal abstraction in monte-carlo tree search. In Sarit Kraus (ed.), Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019, pp. 5562-5568. ijcai.org, 2019. doi: 10.24963/IJCAI.2019/772. URL https://doi.org/10.24963/ijcai.2019/772.",
+    "title": "Subgoalbased temporal abstraction in monte-carlo tree search",
+    "authors": [
+      "Thomas Gabor",
+      "Jan Peter",
+      "Thomy Phan",
+      "Christian Meyer",
+      "Claudia Linnhoff-Popien"
+    ],
+    "venue": "Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence",
+    "year": 2019,
+    "identifiers": {
+      "doi": "10.24963/IJCAI.2019/772",
+      "url": "https://doi.org/10.24963/ijcai.2019/772"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Abhishek Gupta, Vikash Kumar, Corey Lynch, Sergey Levine, and Karol Hausman. Relay policy learning: Solving long-horizon tasks via imitation and reinforcement learning. In Leslie Pack Kaelbling, Danica Kragic, and Komei Sugiura (eds.), 3rd Annual Conference on Robot Learning, CoRL 2019, Osaka, Japan, October 30 -November 1, 2019, Proceedings, volume 100 of Proceedings of Machine Learning Research, pp. 1025-1037. PMLR, 2019. URL http: //proceedings.mlr.press/v100/gupta20a.html.",
+    "title": "Relay policy learning: Solving long-horizon tasks via imitation and reinforcement learning",
+    "authors": [
+      "Abhishek Gupta",
+      "Vikash Kumar",
+      "Corey Lynch",
+      "Sergey Levine",
+      "Karol Hausman"
+    ],
+    "venue": "3rd Annual Conference on Robot Learning",
+    "year": 2019,
+    "identifiers": {
+      "url": "http://proceedings.mlr.press/v100/gupta20a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Jiequn Han, Arnulf Jentzen, and Weinan E. Overcoming the curse of dimensionality: Solving highdimensional partial differential equations using deep learning. CoRR, abs/1707.02568, 2017. URL http://arxiv.org/abs/1707.02568.",
+    "title": "Overcoming the curse of dimensionality: Solving highdimensional partial differential equations using deep learning",
+    "authors": [
+      "Jiequn Han",
+      "Arnulf Jentzen",
+      "Weinan E"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "1707.02568",
+      "url": "http://arxiv.org/abs/1707.02568"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Ruijie He, Emma Brunskill, and Nicholas Roy. Efficient planning under uncertainty with macroactions. J. Artif. Intell. Res., 40:523-570, 2011. doi: 10.1613/JAIR.3171. URL https://doi. org/10.1613/jair.3171.",
+    "title": "Efficient planning under uncertainty with macroactions",
+    "authors": [
+      "Ruijie He",
+      "Emma Brunskill",
+      "Nicholas Roy"
+    ],
+    "venue": "J. Artif. Intell. Res",
+    "year": 2011,
+    "identifiers": {
+      "doi": "10.1613/JAIR.3171",
+      "url": "https://doi.org/10.1613/jair.3171"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Mohammadamin Barekatain, Simon Schmitt, and David Silver. Learning and planning in complex action spaces. In Marina Meila and Tong Zhang (eds.), Proceedings of the 38th International Conference on Machine Learning, ICML 2021, 18-24 July 2021, Virtual Event, volume 139 of Proceedings of Machine Learning Research, pp. 4476-4486. PMLR, 2021. URL http://proceedings.mlr.press/v139/ hubert21a.html.",
+    "title": "Learning and planning in complex action spaces",
+    "authors": [
+      "Thomas Hubert",
+      "Julian Schrittwieser",
+      "Ioannis Antonoglou",
+      "Mohammadamin Barekatain",
+      "Simon Schmitt",
+      "David Silver"
+    ],
+    "venue": "Proceedings of the 38th International Conference on Machine Learning, ICML 2021",
+    "year": 2021,
+    "identifiers": {
+      "url": "http://proceedings.mlr.press/v139/hubert21a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Garud Iyengar. Robust dynamic programming. Math. Oper. Res., 30:257-280, 2005. URL https: //api.semanticscholar.org/CorpusID:6626684.",
+    "title": "Robust dynamic programming",
+    "authors": [
+      "Garud Iyengar"
+    ],
+    "venue": "Math. Oper. Res",
+    "year": 2005,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID:6626684"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Michael Janner, Qiyang Li, and Sergey Levine. Offline reinforcement learning as one big sequence modeling problem. In Marc'Aurelio Ranzato, Alina Beygelzimer, Yann N. Dauphin, Percy Liang, and Jennifer Wortman Vaughan (eds.), Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021, December 6-14, 2021, virtual, pp. 1273-1286, 2021. URL https://proceedings.neurips.cc/ paper/2021/hash/099fe6b0b444c23836c4a5d07346082b-Abstract.html.",
+    "title": "Offline reinforcement learning as one big sequence modeling problem",
+    "authors": [
+      "Michael Janner",
+      "Qiyang Li",
+      "Sergey Levine"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021",
+    "year": 2021,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper/2021/hash/099"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rocktäschel, Edward Grefenstette, and Yuandong Tian. Efficient planning in a compact latent action space. In The Eleventh International Conference on Learning Representations, ICLR 2023, Kigali, Rwanda, May 1-5, 2023. OpenReview.net, 2023. URL https://openreview.net/forum?id= cA77NrVEuqn.",
+    "title": "Efficient planning in a compact latent action space",
+    "authors": [
+      "Zhengyao Jiang",
+      "Tianjun Zhang",
+      "Michael Janner",
+      "Yueying Li",
+      "Tim Rocktäschel",
+      "Edward Grefenstette",
+      "Yuandong Tian"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations, ICLR 2023",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=cA77NrVEuqn"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Jeongho Kim, Jaeuk Shin, and Insoon Yang. Hamilton-jacobi deep q-learning for deterministic continuous-time systems with lipschitz continuous controls. J. Mach. Learn. Res., 22:206:1206:34, 2021. URL https://jmlr.org/papers/v22/20-1235.html.",
+    "title": "Hamilton-jacobi deep q-learning for deterministic continuous-time systems with lipschitz continuous controls",
+    "authors": [
+      "Jeongho Kim",
+      "Jaeuk Shin",
+      "Insoon Yang"
+    ],
+    "venue": "J. Mach. Learn. Res",
+    "identifiers": {
+      "url": "https://jmlr.org/papers/v22/20-1235.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Thomas Kipf, Yujia Li, Hanjun Dai, Vinícius Flores Zambaldi, Alvaro Sanchez-Gonzalez, Edward Grefenstette, Pushmeet Kohli, and Peter W. Battaglia. Compile: Compositional imitation learning and execution. In Kamalika Chaudhuri and Ruslan Salakhutdinov (eds.), Proceedings of the 36th International Conference on Machine Learning, ICML 2019, 9-15 June 2019, Long Beach, California, USA, volume 97 of Proceedings of Machine Learning Research, pp. 3418-3428. PMLR, 2019. URL http://proceedings.mlr.press/v97/kipf19a.html.",
+    "title": "Compile: Compositional imitation learning and execution",
+    "authors": [
+      "Thomas Kipf",
+      "Yujia Li",
+      "Hanjun Dai",
+      "Vinícius Flores Zambaldi",
+      "Alvaro Sanchez-Gonzalez",
+      "Edward Grefenstette",
+      "Pushmeet Kohli",
+      "Peter W Battaglia"
+    ],
+    "venue": "Proceedings of the 36th International Conference on Machine Learning, ICML",
+    "year": 2019,
+    "identifiers": {
+      "url": "http://proceedings.mlr.press/v97/kipf19a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Levente Kocsis and Csaba Szepesvári. Bandit based monte-carlo planning. In Johannes Fürnkranz, Tobias Scheffer, and Myra Spiliopoulou (eds.), Machine Learning: ECML 2006, 17th European Conference on Machine Learning, Berlin, Germany, September 18-22, 2006, Proceedings, volume 4212 of Lecture Notes in Computer Science, pp. 282-293. Springer, 2006. doi: 10.1007/11871842\\ 29. URL https://doi.org/10.1007/11871842_29.",
+    "title": "Bandit based monte-carlo planning",
+    "authors": [
+      "Levente Kocsis",
+      "Csaba Szepesvári"
+    ],
+    "venue": "Machine Learning: ECML 2006, 17th European Conference on Machine Learning",
+    "year": 2006,
+    "identifiers": {
+      "doi": "10.1007/1187184229",
+      "url": "https://doi.org/10.1007/11871842_29"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Ilya Kostrikov, Ashvin Nair, and Sergey Levine. Offline reinforcement learning with implicit qlearning. In The Tenth International Conference on Learning Representations, ICLR 2022, Virtual Event, April 25-29, 2022. OpenReview.net, 2022. URL https://openreview.net/ forum?id=68n2s9ZJWF8.",
+    "title": "Offline reinforcement learning with implicit qlearning",
+    "authors": [
+      "Ilya Kostrikov",
+      "Ashvin Nair",
+      "Sergey Levine"
+    ],
+    "venue": "The Tenth International Conference on Learning Representations, ICLR 2022, Virtual Event",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://openreview.net/forum"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine. Conservative q-learning for offline reinforcement learning. In Hugo Larochelle, Marc'Aurelio Ranzato, Raia Hadsell, Maria-Florina Balcan, and Hsuan-Tien Lin (eds.), Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual, 2020. URL https://proceedings.neurips.cc/paper/2020/hash/ 0d2b2061826a5df3221116a5085a6052-Abstract.html.",
+    "title": "Conservative q-learning for offline reinforcement learning",
+    "authors": [
+      "Aviral Kumar",
+      "Aurick Zhou",
+      "George Tucker",
+      "Sergey Levine"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020",
+    "year": 2020,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper/2020/hash/0"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Zenan Li, Fan Nie, Qiao Sun, Fang Da, and Hang Zhao. Uncertainty-aware decision transformer for stochastic driving environments. CoRR, abs/2309.16397, 2023. doi: 10.48550/ARXIV.2309. 16397. URL https://doi.org/10.48550/arXiv.2309.16397.",
+    "title": "Uncertainty-aware decision transformer for stochastic driving environments",
+    "authors": [
+      "Zenan Li",
+      "Fan Nie",
+      "Qiao Sun",
+      "Fang Da",
+      "Hang Zhao"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.48550/ARXIV.2309.16397",
+      "arxiv_id": "2309.16397",
+      "url": "https://doi.org/10.48550/arXiv.2309.16397"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Shiau Hong Lim and Arnaud Autef. Kernel-based reinforcement learning in robust markov decision processes. In International Conference on Machine Learning, 2019. URL https://api. semanticscholar.org/CorpusID:174799876.",
+    "title": "Kernel-based reinforcement learning in robust markov decision processes",
+    "authors": [
+      "Hong Shiau",
+      "Arnaud Lim",
+      "Autef"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2019,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Baiting Luo, Shreyas Ramakrishna, Ava Pettet, Christopher B. Kuhn, Gabor Karsai, and Ayan Mukhopadhyay. Dynamic simplex: Balancing safety and performance in autonomous cyber physical systems. In Sayan Mitra, Nalini Venkatasubramanian, Abhishek Dubey, Lu Feng, Mahsa Ghasemi, and Jonathan Sprinkle (eds.), Proceedings of the ACM/IEEE 14th International Conference on Cyber-Physical Systems, ICCPS 2023, (with CPS-IoT Week 2023), San Antonio, TX, USA, May 9-12, 2023, pp. 177-186. ACM, 2023a. doi: 10.1145/3576841.3585934. URL https://doi.org/10.1145/3576841.3585934.",
+    "title": "Dynamic simplex: Balancing safety and performance in autonomous cyber physical systems",
+    "authors": [
+      "Baiting Luo",
+      "Shreyas Ramakrishna",
+      "Ava Pettet",
+      "Christopher B Kuhn",
+      "Gabor Karsai",
+      "Ayan Mukhopadhyay"
+    ],
+    "venue": "Proceedings of the ACM/IEEE 14th International Conference on Cyber-Physical Systems, ICCPS 2023, (with CPS-IoT Week 2023)",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.1145/3576841.3585934",
+      "arxiv_id": "6841.35859",
+      "url": "https://doi.org/10.1145/3576841.3585934"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Baiting Luo, Yunuo Zhang, Abhishek Dubey, and Ayan Mukhopadhyay. Act as you learn: Adaptive decision-making in non-stationary markov decision processes. In Mehdi Dastani, Jaime Simão Sichman, Natasha Alechina, and Virginia Dignum (eds.), Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2024, Auckland, New Zealand, May 6-10, 2024, pp. 1301-1309. International Foundation for Autonomous Agents and Multiagent Systems / ACM, 2024. doi: 10.5555/3635637.3662988. URL https://dl.acm.org/doi/10.5555/3635637.3662988.",
+    "title": "Act as you learn: Adaptive decision-making in non-stationary markov decision processes",
+    "authors": [
+      "Baiting Luo",
+      "Yunuo Zhang",
+      "Abhishek Dubey",
+      "Ayan Mukhopadhyay"
+    ],
+    "venue": "Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2024",
+    "year": 2024,
+    "identifiers": {
+      "doi": "10.5555/3635637.3662988",
+      "arxiv_id": "5637.36629",
+      "url": "https://dl.acm.org/doi/10.5555/3635637.3662988"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Jianlan Luo, Perry Dong, Jeffrey Wu, Aviral Kumar, Xinyang Geng, and Sergey Levine. Actionquantized offline reinforcement learning for robotic skill learning. In Jie Tan, Marc Toussaint, and Kourosh Darvish (eds.), Conference on Robot Learning, CoRL 2023, 6-9 November 2023, Atlanta, GA, USA, volume 229 of Proceedings of Machine Learning Research, pp. 1348-1361.",
+    "title": "Actionquantized offline reinforcement learning for robotic skill learning",
+    "authors": [
+      "Jianlan Luo",
+      "Perry Dong",
+      "Jeffrey Wu",
+      "Aviral Kumar",
+      "Xinyang Geng",
+      "Sergey Levine"
+    ],
+    "venue": "Conference on Robot Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "PMLR, 2023b. URL https://proceedings.mlr.press/v229/luo23a.html.",
+    "authors": [
+      "Pmlr"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v229/luo23a.html"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Rémi Munos. A study of reinforcement learning in the continuous case by the means of viscosity solutions. Mach. Learn., 40(3):265-299, 2000. doi: 10.1023/A:1007686309208. URL https: //doi.org/10.1023/A:1007686309208.",
+    "title": "A study of reinforcement learning in the continuous case by the means of viscosity solutions",
+    "authors": [
+      "Rémi Munos"
+    ],
+    "venue": "Mach. Learn",
+    "year": 2000,
+    "identifiers": {
+      "doi": "10.1023/A:1007686309208",
+      "url": "https://doi.org/10.1023/A:1007686309208"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Arnab Nilim and Laurent El Ghaoui. Robust control of markov decision processes with uncertain transition matrices. Oper. Res., 53:780-798, 2005. URL https://api. semanticscholar.org/CorpusID:1537485.",
+    "title": "Robust control of markov decision processes with uncertain transition matrices",
+    "authors": [
+      "Arnab Nilim",
+      "Laurent El Ghaoui"
+    ],
+    "venue": "Oper. Res",
+    "year": 2005,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/CorpusID"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Sherjil Ozair, Yazhe Li, Ali Razavi, Ioannis Antonoglou, Aäron van den Oord, and Oriol Vinyals. Vector quantized models for planning. In Marina Meila and Tong Zhang (eds.), Proceedings of the 38th International Conference on Machine Learning, ICML 2021, 18-24 July 2021, Virtual Event, volume 139 of Proceedings of Machine Learning Research, pp. 8302-8313. PMLR, 2021. URL http://proceedings.mlr.press/v139/ozair21a.html.",
+    "title": "Aäron van den Oord, and Oriol Vinyals",
+    "authors": [
+      "Sherjil Ozair",
+      "Yazhe Li",
+      "Ali Razavi",
+      "Ioannis Antonoglou"
+    ],
+    "venue": "Proceedings of the 38th International Conference on Machine Learning, ICML 2021",
+    "year": 2021,
+    "identifiers": {
+      "url": "http://proceedings.mlr.press/v139/ozair21a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Keiran Paster, Sheila A. McIlraith, and Jimmy Ba. You can't count on luck: Why decision transformers and rvs fail in stochastic environments. In Sanmi Koyejo, S. Mohamed, A. Agarwal, Danielle Belgrave, K. Cho, and A. Oh (eds.), Advances in Neural Information Processing Systems 35: Annual Conference on Neural Information Processing Systems 2022, NeurIPS 2022, New Orleans, LA, USA, November 28 -December 9, 2022, 2022. URL http://papers.nips.cc/paper_files/paper/2022/hash/ fe90657b12193c7b52a3418bdc351807-Abstract-Conference.html.",
+    "title": "You can't count on luck: Why decision transformers and rvs fail in stochastic environments",
+    "authors": [
+      "Keiran Paster",
+      "Sheila A Mcilraith",
+      "Jimmy Ba"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 35: Annual Conference on Neural Information Processing Systems 2022, NeurIPS 2022",
+    "year": 2022,
+    "identifiers": {
+      "url": "http://papers.nips.cc/paper_files/paper/2022/hash/fe"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Marc Rigter, Bruno Lacerda, and Nick Hawes. One risk to rule them all: A risk-sensitive perspective on model-based offline reinforcement learning. In Alice Oh, Tristan Naumann, Amir Globerson, Kate Saenko, Moritz Hardt, and Sergey Levine (eds.), Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans, LA, USA, December 10 -16, 2023, 2023. URL http://papers.nips.cc/paper_files/paper/2023/hash/ f49287371916715b9209fa41a275851e-Abstract-Conference.html.",
+    "title": "One risk to rule them all: A risk-sensitive perspective on model-based offline reinforcement learning",
+    "authors": [
+      "Marc Rigter",
+      "Bruno Lacerda",
+      "Nick Hawes"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023",
+    "year": 2023,
+    "identifiers": {
+      "url": "http://papers.nips.cc/paper_files/paper/2023/hash/f"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Julian Schrittwieser, Ioannis Antonoglou, Thomas Hubert, Karen Simonyan, Laurent Sifre, Simon Schmitt, Arthur Guez, Edward Lockhart, Demis Hassabis, Thore Graepel, Timothy P. Lillicrap, and David Silver. Mastering atari, go, chess and shogi by planning with a learned model. Nat., 588(7839):604-609, 2020. doi: 10.1038/S41586-020-03051-4. URL https://doi.org/ 10.1038/s41586-020-03051-4.",
+    "title": "Mastering atari, go, chess and shogi by planning with a learned model",
+    "authors": [
+      "Julian Schrittwieser",
+      "Ioannis Antonoglou",
+      "Thomas Hubert",
+      "Karen Simonyan",
+      "Laurent Sifre",
+      "Simon Schmitt",
+      "Arthur Guez",
+      "Edward Lockhart",
+      "Demis Hassabis",
+      "Thore Graepel",
+      "Timothy P Lillicrap",
+      "David Silver"
+    ],
+    "venue": "Nat",
+    "year": 2020,
+    "identifiers": {
+      "doi": "10.1038/S41586-020-03051-4",
+      "url": "https://doi.org/10.1038/s41586-020-03051-4"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Julian Schrittwieser, Thomas Hubert, Amol Mandhane, Mohammadamin Barekatain, Ioannis Antonoglou, and David Silver. Online and offline reinforcement learning by planning with a learned model. In Marc'Aurelio Ranzato, Alina Beygelzimer, Yann N. Dauphin, Percy Liang, and Jennifer Wortman Vaughan (eds.), Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021, December 6-14, 2021, virtual, pp. 27580-27591, 2021. URL https://proceedings.neurips.cc/ paper/2021/hash/e8258e5140317ff36c7f8225a3bf9590-Abstract.html.",
+    "title": "Online and offline reinforcement learning by planning with a learned model",
+    "authors": [
+      "Julian Schrittwieser",
+      "Thomas Hubert",
+      "Amol Mandhane",
+      "Mohammadamin Barekatain",
+      "Ioannis Antonoglou",
+      "David Silver"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021",
+    "year": 2021,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper/2021/hash/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, and Demis Hassabis. Mastering chess and shogi by self-play with a general reinforcement learning algorithm, 2017. URL https://arxiv.org/abs/1712.01815.",
+    "title": "Mastering chess and shogi by self-play with a general reinforcement learning algorithm",
+    "authors": [
+      "David Silver",
+      "Thomas Hubert",
+      "Julian Schrittwieser",
+      "Ioannis Antonoglou",
+      "Matthew Lai",
+      "Arthur Guez",
+      "Marc Lanctot",
+      "Laurent Sifre",
+      "Dharshan Kumaran",
+      "Thore Graepel",
+      "Timothy Lillicrap",
+      "Karen Simonyan",
+      "Demis Hassabis"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "1712.01815",
+      "url": "https://arxiv.org/abs/1712.01815"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Richard S Sutton, Doina Precup, and Satinder Singh. Between mdps and semi-mdps: A framework for temporal abstraction in reinforcement learning. Artificial intelligence, 112(1-2):181211, 1999.",
+    "title": "Between mdps and semi-mdps: A framework for temporal abstraction in reinforcement learning",
+    "authors": [
+      "Doina Richard S Sutton",
+      "Satinder Precup",
+      "Singh"
+    ],
+    "venue": "Artificial intelligence",
+    "year": 1999,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Yunhao Tang and Shipra Agrawal. Discretizing continuous action space for on-policy optimization. In The Thirty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2020, The Thirty-Second Innovative Applications of Artificial Intelligence Conference, IAAI 2020, The Tenth AAAI Symposium on Educational Advances in Artificial Intelligence, EAAI 2020, New York, NY, USA, February 7-12, 2020, pp. 5981-5988. AAAI Press, 2020. doi: 10.1609/AAAI.V34I04.6059. URL https://doi.org/10.1609/aaai.v34i04.6059. Aäron van den Oord, Oriol Vinyals, and Koray Kavukcuoglu. Neural discrete representation learning. In Isabelle Guyon, Ulrike von Luxburg, Samy Bengio, Hanna M. Wallach, Rob Fergus, S. V. N. Vishwanathan, and Roman Garnett (eds.), Advances in Neural Information Processing Systems 30: Annual Conference on Neural Information Processing Systems 2017, December 4-9, 2017, Long Beach, CA, USA, pp. 6306-6315, 2017. URL https://proceedings.neurips.cc/paper/2017/hash/ 7a98af17e63a0ac09ce2e96d03992fbc-Abstract.html.",
+    "title": "Aäron van den Oord, Oriol Vinyals, and Koray Kavukcuoglu. Neural discrete representation learning",
+    "authors": [
+      "Yunhao Tang",
+      "Shipra Agrawal"
+    ],
+    "venue": "The Thirty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2020, The Thirty-Second Innovative Applications of Artificial Intelligence Conference, IAAI 2020, The Tenth AAAI Symposium on Educational Advances in Artificial Intelligence",
+    "year": 2017,
+    "identifiers": {
+      "doi": "10.1609/AAAI.V34I04.6059",
+      "url": "https://proceedings.neurips.cc/paper/2017/hash/7"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Huan Xu and Shie Mannor. Distributionally robust markov decision processes. In John D. Lafferty, Christopher K. I. Williams, John Shawe-Taylor, Richard S. Zemel, and Aron Culotta (eds.), Advances in Neural Information Processing Systems 23: 24th Annual Conference on Neural Information Processing Systems 2010. Proceedings of a meeting held 69 December 2010, Vancouver, British Columbia, Canada, pp. 2505-2513. Curran Associates, Inc., 2010. URL https://proceedings.neurips.cc/paper/2010/hash/ 19f3cd308f1455b3fa09a282e0d496f4-Abstract.html.",
+    "title": "Distributionally robust markov decision processes",
+    "authors": [
+      "Huan Xu",
+      "Shie Mannor"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 23: 24th Annual Conference on Neural Information Processing Systems 2010. Proceedings of a meeting held",
+    "year": 2010,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper/2010/hash/19"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Shuo Yang, George J. Pappas, Rahul Mangharam, and Lars Lindemann. Safe perception-based control under stochastic sensor uncertainty using conformal prediction. In 62nd IEEE Conference on Decision and Control, CDC 2023, Singapore, December 13-15, 2023, pp. 6072-6078.",
+    "title": "Safe perception-based control under stochastic sensor uncertainty using conformal prediction",
+    "authors": [
+      "Shuo Yang",
+      "George J Pappas",
+      "Rahul Mangharam",
+      "Lars Lindemann"
+    ],
+    "venue": "62nd IEEE Conference on Decision and Control, CDC 2023",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "IEEE, 2023. doi: 10.1109/CDC49753.2023.10384075. URL https://doi.org/10.1109/ CDC49753.2023.10384075.",
+    "authors": [],
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.1109/CDC49753.2023.10384075",
+      "arxiv_id": "9753.2023",
+      "url": "https://doi.org/10.1109/CDC49753.2023.10384075"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Weirui Ye, Shaohuai Liu, Thanard Kurutach, Pieter Abbeel, and Yang Gao. Mastering atari games with limited data. In Marc'Aurelio Ranzato, Alina Beygelzimer, Yann N. Dauphin, Percy Liang, and Jennifer Wortman Vaughan (eds.), Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021, December 6-14, 2021, virtual, pp. 25476-25488, 2021. URL https://proceedings.neurips.cc/ paper/2021/hash/d5eca8dc3820cad9fe56a3bafda65ca1-Abstract.html.",
+    "title": "Mastering atari games with limited data",
+    "authors": [
+      "Weirui Ye",
+      "Shaohuai Liu",
+      "Thanard Kurutach",
+      "Pieter Abbeel",
+      "Yang Gao"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021",
+    "year": 2021,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper/2021/hash/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Tony Z. Zhao, Vikash Kumar, Sergey Levine, and Chelsea Finn. Learning fine-grained bimanual manipulation with low-cost hardware. In Kostas E. Bekris, Kris Hauser, Sylvia L. Herbert, and Jingjin Yu (eds.), Robotics: Science and Systems XIX, Daegu, Republic of Korea, July 10-14, 2023, 2023. doi: 10.15607/RSS.2023.XIX.016. URL https://doi.org/10.15607/RSS. 2023.XIX.016.",
+    "title": "Learning fine-grained bimanual manipulation with low-cost hardware",
+    "authors": [
+      "Tony Z Zhao",
+      "Vikash Kumar",
+      "Sergey Levine",
+      "Chelsea Finn"
+    ],
+    "venue": "Robotics: Science and Systems XIX",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.15607/RSS.2023.XIX.016",
+      "url": "https://doi.org/10.15607/RSS.2023.XIX.016"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Ruijie Zheng, Ching-An Cheng, Hal Daumé III, Furong Huang, and Andrey Kolobov. PRISE: llmstyle sequence compression for learning temporal action abstractions in control. In Forty-first International Conference on Machine Learning, ICML 2024, Vienna, Austria, July 21-27, 2024. OpenReview.net, 2024. URL https://openreview.net/forum?id=p225Od0aYt.",
+    "title": "PRISE: llmstyle sequence compression for learning temporal action abstractions in control",
+    "authors": [
+      "Ruijie Zheng",
+      "Ching-An Cheng",
+      "Hal Daumé",
+      "Iii",
+      "Furong Huang",
+      "Andrey Kolobov"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning, ICML 2024",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=p225Od0aYt"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Wenxuan Zhou, Sujay Bajracharya, and David Held. PLAS: latent action space for offline reinforcement learning. In Jens Kober, Fabio Ramos, and Claire J. Tomlin (eds.), 4th Conference on Robot Learning, CoRL 2020, 16-18 November 2020, Virtual Event / Cambridge, MA, USA, volume 155 of Proceedings of Machine Learning Research, pp. 1719-1735. PMLR, 2020. URL https://proceedings.mlr.press/v155/zhou21b.html.",
+    "title": "PLAS: latent action space for offline reinforcement learning",
+    "authors": [
+      "Wenxuan Zhou",
+      "Sujay Bajracharya",
+      "David Held"
+    ],
+    "venue": "4th Conference on Robot Learning",
+    "year": 2020,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v155/zhou21b.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

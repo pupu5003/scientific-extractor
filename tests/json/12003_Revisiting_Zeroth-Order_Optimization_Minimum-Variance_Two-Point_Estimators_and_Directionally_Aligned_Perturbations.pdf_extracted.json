@@ -1,0 +1,809 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "David J Acheson. Elementary fluid dynamics. Oxford University Press, 1990.",
+    "title": "Elementary fluid dynamics",
+    "authors": [
+      "David J Acheson"
+    ],
+    "year": 1990,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Arya Akhavan, Evgenii Chzhen, Massimiliano Pontil, and Alexandre Tsybakov. A gradient estimator via l1-randomization for online zero-order optimization with two point feedback. Advances in Neural Information Processing Systems, 35:7685-7696, 2022.",
+    "title": "A gradient estimator via l1-randomization for online zero-order optimization with two point feedback",
+    "authors": [
+      "Arya Akhavan",
+      "Evgenii Chzhen",
+      "Massimiliano Pontil",
+      "Alexandre Tsybakov"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Francis Bach and Vianney Perchet. Highly-smooth zero-th order online optimization. In Conference on Learning Theory, pp. 257-283. PMLR, 2016.",
+    "title": "Highly-smooth zero-th order online optimization",
+    "authors": [
+      "Francis Bach",
+      "Vianney Perchet"
+    ],
+    "venue": "Conference on Learning Theory",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Albert S Berahas, Liyuan Cao, Krzysztof Choromanski, and Katya Scheinberg. A theoretical and empirical comparison of gradient approximations in derivative-free optimization. Foundations of Computational Mathematics, 22(2):507-560, 2022.",
+    "title": "A theoretical and empirical comparison of gradient approximations in derivative-free optimization",
+    "authors": [
+      "Liyuan Albert S Berahas",
+      "Krzysztof Cao",
+      "Katya Choromanski",
+      "Scheinberg"
+    ],
+    "venue": "Foundations of Computational Mathematics",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "HanQin Cai, Yuchen Lou, Daniel McKenzie, and Wotao Yin. A zeroth-order block coordinate descent algorithm for huge-scale black-box optimization. In International Conference on Machine Learning, pp. 1193-1203. PMLR, 2021.",
+    "title": "A zeroth-order block coordinate descent algorithm for huge-scale black-box optimization",
+    "authors": [
+      "Hanqin Cai",
+      "Yuchen Lou",
+      "Daniel Mckenzie",
+      "Wotao Yin"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "HanQin Cai, Daniel McKenzie, Wotao Yin, and Zhenliang Zhang. A one-bit, comparison-based gradient estimator. Applied and Computational Harmonic Analysis, 60:242-266, 2022a.",
+    "title": "A one-bit, comparison-based gradient estimator",
+    "authors": [
+      "Hanqin Cai",
+      "Daniel Mckenzie",
+      "Wotao Yin",
+      "Zhenliang Zhang"
+    ],
+    "venue": "Applied and Computational Harmonic Analysis",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "HanQin Cai, Daniel McKenzie, Wotao Yin, and Zhenliang Zhang. Zeroth-order regularized optimization (zoro): Approximately sparse gradients and adaptive sampling. SIAM Journal on Optimization, 32(2):687-714, 2022b.",
+    "title": "Zeroth-order regularized optimization (zoro): Approximately sparse gradients and adaptive sampling",
+    "authors": [
+      "Hanqin Cai",
+      "Daniel Mckenzie",
+      "Wotao Yin",
+      "Zhenliang Zhang"
+    ],
+    "venue": "SIAM Journal on Optimization",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Pin-Yu Chen, Huan Zhang, Yash Sharma, Jinfeng Yi, and Cho-Jui Hsieh. Zoo: Zeroth order optimization based black-box attacks to deep neural networks without training substitute models. In Proceedings of the 10th ACM workshop on artificial intelligence and security, pp. 15-26, 2017.",
+    "title": "Zeroth order optimization based black-box attacks to deep neural networks without training substitute models",
+    "authors": [
+      "Pin-Yu Chen",
+      "Huan Zhang",
+      "Yash Sharma",
+      "Jinfeng Yi",
+      "Cho-Jui Hsieh",
+      "Zoo"
+    ],
+    "venue": "Proceedings of the 10th ACM workshop on artificial intelligence and security",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Krzysztof Choromanski, Mark Rowland, Vikas Sindhwani, Richard Turner, and Adrian Weller. Structured evolution with compact architectures for scalable policy optimization. In International Conference on Machine Learning, pp. 970-978. PMLR, 2018.",
+    "title": "Structured evolution with compact architectures for scalable policy optimization",
+    "authors": [
+      "Krzysztof Choromanski",
+      "Mark Rowland",
+      "Vikas Sindhwani",
+      "Richard Turner",
+      "Adrian Weller"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Ian D Coope and Rachael Tappenden. Gradient and hessian approximations in derivative free optimization. arXiv preprint arXiv:2001.08355, 2020.",
+    "title": "Gradient and hessian approximations in derivative free optimization",
+    "authors": [
+      "D Ian",
+      "Rachael Coope",
+      "Tappenden"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2001.08355"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Damek Davis, Dmitriy Drusvyatskiy, Yin Tat Lee, Swati Padmanabhan, and Guanghao Ye. A gradient sampling method with complexity guarantees for lipschitz functions in high and low dimensions. Advances in Neural Information Processing Systems, 35:6692-6703, 2022.",
+    "title": "A gradient sampling method with complexity guarantees for lipschitz functions in high and low dimensions",
+    "authors": [
+      "Damek Davis",
+      "Dmitriy Drusvyatskiy",
+      "Yin Tat Lee",
+      "Swati Padmanabhan",
+      "Guanghao Ye"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "John C Duchi, Michael I Jordan, Martin J Wainwright, and Andre Wibisono. Optimal rates for zero-order convex optimization: The power of two function evaluations. IEEE Transactions on Information Theory, 61(5):2788-2806, 2015.",
+    "title": "Optimal rates for zero-order convex optimization: The power of two function evaluations",
+    "authors": [
+      "John C Duchi",
+      "Martin J Michael I Jordan",
+      "Andre Wainwright",
+      "Wibisono"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Lawrence C Evans. Partial differential equations, volume 19. American Mathematical Society, 2022.",
+    "title": "Partial differential equations",
+    "authors": [
+      "C Lawrence",
+      "Evans"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Lawrence C. Evans and Ronald F. Gariepy. Measure theory and fine properties of functions. CRC Press, 2015.",
+    "title": "Measure theory and fine properties of functions",
+    "authors": [
+      "Lawrence C Evans",
+      "Ronald F Gariepy"
+    ],
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Robert Eymard, Thierry Gallouët, and Raphaèle Herbin. Finite volume methods. Handbook of numerical analysis, 7:713-1018, 2000.",
+    "title": "Finite volume methods",
+    "authors": [
+      "Robert Eymard",
+      "Thierry Gallouët",
+      "Raphaèle Herbin"
+    ],
+    "venue": "Handbook of numerical analysis",
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Tanmay Gautam, Youngsuk Park, Hao Zhou, Parameswaran Raman, and Wooseok Ha. Variancereduced zeroth-order methods for fine-tuning language models. arXiv preprint arXiv:2404.08080, 2024.",
+    "title": "Variancereduced zeroth-order methods for fine-tuning language models",
+    "authors": [
+      "Tanmay Gautam",
+      "Youngsuk Park",
+      "Hao Zhou",
+      "Parameswaran Raman",
+      "Wooseok Ha"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.08080"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Saeed Ghadimi and Guanghui Lan. Stochastic first-and zeroth-order methods for nonconvex stochastic programming. SIAM journal on optimization, 23(4):2341-2368, 2013.",
+    "title": "Stochastic first-and zeroth-order methods for nonconvex stochastic programming",
+    "authors": [
+      "Saeed Ghadimi",
+      "Guanghui Lan"
+    ],
+    "venue": "SIAM journal on optimization",
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Wentao Guo, Jikai Long, Yimeng Zeng, Zirui Liu, Xinyu Yang, Yide Ran, Jacob R Gardner, Osbert Bastani, Christopher De Sa, Xiaodong Yu, et al. Zeroth-order fine-tuning of llms with extreme sparsity. arXiv preprint arXiv:2406.02913, 2024.",
+    "title": "Zeroth-order fine-tuning of llms with extreme sparsity",
+    "authors": [
+      "Wentao Guo",
+      "Jikai Long",
+      "Yimeng Zeng",
+      "Zirui Liu",
+      "Xinyu Yang",
+      "Yide Ran",
+      "Jacob R Gardner",
+      "Osbert Bastani",
+      "Christopher De Sa",
+      "Xiaodong Yu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.02913"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Jean-Baptiste Hiriart-Urruty, Jean-Jacques Strodiot, and V Hien Nguyen. Generalized hessian matrix and second-order optimality conditions for problems with c 1, 1 data. Applied mathematics and optimization, 11(1):43-56, 1984.",
+    "title": "Generalized hessian matrix and second-order optimality conditions for problems with c 1, 1 data",
+    "authors": [
+      "Jean-Baptiste Hiriart-Urruty",
+      "Jean-Jacques Strodiot",
+      "V Hien Nguyen"
+    ],
+    "venue": "Applied mathematics and optimization",
+    "year": 1984,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Hugues Hoppe, Tony DeRose, Tom Duchamp, John McDonald, and Werner Stuetzle. Mesh optimization. In Proceedings of the 20th annual conference on Computer graphics and interactive techniques, pp. 19-26, 1993.",
+    "title": "Mesh optimization",
+    "authors": [
+      "Hugues Hoppe",
+      "Tony Derose",
+      "Tom Duchamp",
+      "John Mcdonald",
+      "Werner Stuetzle"
+    ],
+    "venue": "Proceedings of the 20th annual conference on Computer graphics and interactive techniques",
+    "year": 1993,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Thomas W Hungerford. Algebra, volume 73. Springer Science & Business Media, 2012.",
+    "title": "Algebra",
+    "authors": [
+      "W Thomas",
+      "Hungerford"
+    ],
+    "venue": "Algebra",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Kaiyi Ji, Zhe Wang, Yi Zhou, and Yingbin Liang. Improved zeroth-order variance reduced algorithms and analysis for nonconvex optimization. In International conference on machine learning, pp. 3100-3109. PMLR, 2019.",
+    "title": "Improved zeroth-order variance reduced algorithms and analysis for nonconvex optimization",
+    "authors": [
+      "Kaiyi Ji",
+      "Zhe Wang",
+      "Yi Zhou",
+      "Yingbin Liang"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Hamed Karimi, Julie Nutini, and Mark Schmidt. Linear convergence of gradient and proximalgradient methods under the polyak-łojasiewicz condition. In Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2016, Riva del Garda, Italy, September 19-23, 2016, Proceedings, Part I 16, pp. 795-811. Springer, 2016.",
+    "title": "Linear convergence of gradient and proximalgradient methods under the polyak-łojasiewicz condition",
+    "authors": [
+      "Hamed Karimi",
+      "Julie Nutini",
+      "Mark Schmidt"
+    ],
+    "venue": "Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2016",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Ahmed Khaled and Peter Richtárik. Better theory for sgd in the nonconvex world. Transactions on Machine Learning Research, 2022.",
+    "title": "Better theory for sgd in the nonconvex world",
+    "authors": [
+      "Ahmed Khaled",
+      "Peter Richtárik"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Guy Kornowski and Ohad Shamir. An algorithm with optimal dimension-dependence for zero-order nonsmooth nonconvex stochastic optimization. Journal of Machine Learning Research, 25(122): 1-14, 2024.",
+    "title": "An algorithm with optimal dimension-dependence for zero-order nonsmooth nonconvex stochastic optimization",
+    "authors": [
+      "Guy Kornowski",
+      "Ohad Shamir"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "David Kozak, Stephen Becker, Alireza Doostan, and Luis Tenorio. A stochastic subspace approach to gradient-free optimization in high dimensions. Computational Optimization and Applications, 79(2):339-368, 2021.",
+    "title": "A stochastic subspace approach to gradient-free optimization in high dimensions",
+    "authors": [
+      "David Kozak",
+      "Stephen Becker",
+      "Alireza Doostan",
+      "Luis Tenorio"
+    ],
+    "venue": "Computational Optimization and Applications",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "David Kozak, Cesare Molinari, Lorenzo Rosasco, Luis Tenorio, and Silvia Villa. Zeroth-order optimization with orthogonal random directions. Mathematical Programming, 199(1-2):11791219, 2023.",
+    "title": "Zeroth-order optimization with orthogonal random directions",
+    "authors": [
+      "David Kozak",
+      "Cesare Molinari",
+      "Lorenzo Rosasco",
+      "Luis Tenorio",
+      "Silvia Villa"
+    ],
+    "venue": "Mathematical Programming",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Alexey Kurakin, Ian Goodfellow, and Samy Bengio. Adversarial machine learning at scale. arXiv preprint arXiv:1611.01236, 2016.",
+    "title": "Adversarial machine learning at scale",
+    "authors": [
+      "Alexey Kurakin",
+      "Ian Goodfellow",
+      "Samy Bengio"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1611.01236"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Yuheng Lei, Jianyu Chen, Shengbo Eben Li, and Sifa Zheng. Zeroth-order actor-critic. arXiv preprint arXiv:2201.12518, 2022.",
+    "title": "Zeroth-order actor-critic",
+    "authors": [
+      "Yuheng Lei",
+      "Jianyu Chen",
+      "Shengbo",
+      "Eben Li",
+      "Sifa Zheng"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2201.12518"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Tianyi Lin, Zeyu Zheng, and Michael Jordan. Gradient-free methods for deterministic and stochastic nonsmooth nonconvex optimization. Advances in Neural Information Processing Systems, 35: 26160-26175, 2022.",
+    "title": "Gradient-free methods for deterministic and stochastic nonsmooth nonconvex optimization",
+    "authors": [
+      "Tianyi Lin",
+      "Zeyu Zheng",
+      "Michael Jordan"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Dinh The Luc. Taylor's formula for cˆk,1 functions. SIAM Journal on Optimization, 5(3):659-669, 1995.",
+    "title": "Taylor's formula for cˆk,1 functions",
+    "authors": [
+      "Dinh The",
+      "Luc"
+    ],
+    "venue": "SIAM Journal on Optimization",
+    "year": 1995,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Shaocong Ma, James Diffenderfer, Bhavya Kailkhura, and Yi Zhou. Deep learning of pde correction and mesh adaption without automatic differentiation. Machine Learning, 114(3):61, Feb 2025. ISSN 1573-0565. doi: 10.1007/s10994-025-06746-9. URL https://doi.org/10.1007/ s10994-025-06746-9.",
+    "title": "Deep learning of pde correction and mesh adaption without automatic differentiation",
+    "authors": [
+      "Shaocong Ma",
+      "James Diffenderfer",
+      "Bhavya Kailkhura",
+      "Yi Zhou"
+    ],
+    "venue": "Machine Learning",
+    "year": 2025,
+    "identifiers": {
+      "doi": "10.1007/s10994-025-06746-9",
+      "url": "https://doi.org/10.1007/s10994-025-06746-9"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Sadhika Malladi, Tianyu Gao, Eshaan Nichani, Alex Damian, Jason D Lee, Danqi Chen, and Sanjeev Arora. Fine-tuning language models with just forward passes. Advances in Neural Information Processing Systems, 36:53038-53075, 2023.",
+    "title": "Fine-tuning language models with just forward passes",
+    "authors": [
+      "Sadhika Malladi",
+      "Tianyu Gao",
+      "Eshaan Nichani",
+      "Alex Damian",
+      "Jason D Lee",
+      "Danqi Chen",
+      "Sanjeev Arora"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Leon Mirsky. A trace inequality of john von neumann. Monatshefte für mathematik, 79(4):303-306, 1975.",
+    "title": "A trace inequality of john von neumann. Monatshefte für mathematik",
+    "authors": [
+      "Leon Mirsky"
+    ],
+    "year": 1975,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Konstantin Mishchenko, Ahmed Khaled, and Peter Richtárik. Random reshuffling: Simple analysis with vast improvements. Advances in Neural Information Processing Systems, 33:17309-17320, 2020.",
+    "title": "Random reshuffling: Simple analysis with vast improvements",
+    "authors": [
+      "Konstantin Mishchenko",
+      "Ahmed Khaled",
+      "Peter Richtárik"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Tamás F Móri, Vijay K Rohatgi, and GJ Székely. On multivariate skewness and kurtosis. Theory of Probability & Its Applications, 38(3):547-551, 1994.",
+    "title": "On multivariate skewness and kurtosis",
+    "authors": [
+      "Vijay K Tamás F Móri",
+      "Rohatgi",
+      "Székely"
+    ],
+    "venue": "Theory of Probability & Its Applications",
+    "year": 1994,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Yurii Nesterov and Vladimir Spokoiny. Random gradient-free minimization of convex functions. Foundations of Computational Mathematics, 17:527-566, 2017.",
+    "title": "Random gradient-free minimization of convex functions",
+    "authors": [
+      "Yurii Nesterov",
+      "Vladimir Spokoiny"
+    ],
+    "venue": "Foundations of Computational Mathematics",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Nicolas Papernot, Patrick McDaniel, Ian Goodfellow, Somesh Jha, Z Berkay Celik, and Ananthram Swami. Practical black-box attacks against machine learning. In Proceedings of the 2017 ACM on Asia conference on computer and communications security, pp. 506-519, 2017.",
+    "title": "Practical black-box attacks against machine learning",
+    "authors": [
+      "Nicolas Papernot",
+      "Patrick Mcdaniel",
+      "Ian Goodfellow",
+      "Somesh Jha",
+      "Z Berkay Celik",
+      "Ananthram Swami"
+    ],
+    "venue": "Proceedings of the 2017 ACM on Asia conference on computer and communications security",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Marco Rando, Cesare Molinari, Lorenzo Rosasco, and Silvia Villa. An optimal structured zerothorder algorithm for non-smooth optimization. Advances in Neural Information Processing Systems, 36, 2024a.",
+    "title": "An optimal structured zerothorder algorithm for non-smooth optimization",
+    "authors": [
+      "Marco Rando",
+      "Cesare Molinari",
+      "Lorenzo Rosasco",
+      "Silvia Villa"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Marco Rando, Cesare Molinari, Silvia Villa, and Lorenzo Rosasco. Stochastic zeroth order descent with structured directions. Computational Optimization and Applications, pp. 1-37, 2024b.",
+    "title": "Stochastic zeroth order descent with structured directions",
+    "authors": [
+      "Marco Rando",
+      "Cesare Molinari",
+      "Silvia Villa",
+      "Lorenzo Rosasco"
+    ],
+    "venue": "Computational Optimization and Applications",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Darren Rhea. The case of equality in the von neumann trace inequality. preprint, 2011.",
+    "title": "The case of equality in the von neumann trace inequality",
+    "authors": [
+      "Darren Rhea"
+    ],
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Anit Kumar Sahu, Manzil Zaheer, and Soummya Kar. Towards gradient free and projection free stochastic optimization. In The 22nd International Conference on Artificial Intelligence and Statistics, pp. 3468-3477. PMLR, 2019.",
+    "title": "Towards gradient free and projection free stochastic optimization",
+    "authors": [
+      "Anit Kumar Sahu",
+      "Manzil Zaheer",
+      "Soummya Kar"
+    ],
+    "venue": "The 22nd International Conference on Artificial Intelligence and Statistics",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "George AF Seber and Alan J Lee. Linear regression analysis. John Wiley & Sons, 2012.",
+    "title": "Linear regression analysis",
+    "authors": [
+      "A F George",
+      "Alan J Seber",
+      "Lee"
+    ],
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Qianli Shen, Yezhen Wang, Zhouhao Yang, Xiang Li, Haonan Wang, Yang Zhang, Jonathan Scarlett, Zhanxing Zhu, and Kenji Kawaguchi. Memory-efficient gradient unrolling for large-scale bi-level optimization. arXiv preprint arXiv:2406.14095, 2024.",
+    "title": "Memory-efficient gradient unrolling for large-scale bi-level optimization",
+    "authors": [
+      "Qianli Shen",
+      "Yezhen Wang",
+      "Zhouhao Yang",
+      "Xiang Li",
+      "Haonan Wang",
+      "Yang Zhang",
+      "Jonathan Scarlett",
+      "Zhanxing Zhu",
+      "Kenji Kawaguchi"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.14095"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Richard Socher, Alex Perelygin, Jean Wu, Jason Chuang, Christopher D. Manning, Andrew Ng, and Christopher Potts. Recursive deep models for semantic compositionality over a sentiment treebank. In Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing, pp. 1631-1642, Seattle, Washington, USA, October 2013. Association for Computational Linguistics. URL https://www.aclweb.org/anthology/D13-1170.",
+    "title": "Recursive deep models for semantic compositionality over a sentiment treebank",
+    "authors": [
+      "Richard Socher",
+      "Alex Perelygin",
+      "Jean Wu",
+      "Jason Chuang",
+      "Christopher D Manning",
+      "Andrew Ng",
+      "Christopher Potts"
+    ],
+    "venue": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2013,
+    "identifiers": {
+      "url": "https://www.aclweb.org/anthology/D13-1170"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "James C Spall. A stochastic approximation technique for generating maximum likelihood parameter estimates. In 1987 American control conference, pp. 1161-1167. IEEE, 1987.",
+    "title": "A stochastic approximation technique for generating maximum likelihood parameter estimates",
+    "authors": [
+      "C James",
+      "Spall"
+    ],
+    "venue": "American control conference",
+    "year": 1987,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "James C Spall. Multivariate stochastic approximation using a simultaneous perturbation gradient approximation. IEEE transactions on automatic control, 37(3):332-341, 1992.",
+    "title": "Multivariate stochastic approximation using a simultaneous perturbation gradient approximation",
+    "authors": [
+      "C James",
+      "Spall"
+    ],
+    "venue": "IEEE transactions on automatic control",
+    "year": 1992,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Jingzhao Zhang, Hongzhou Lin, Stefanie Jegelka, Suvrit Sra, and Ali Jadbabaie. Complexity of finding stationary points of nonconvex nonsmooth functions. In International Conference on Machine Learning, pp. 11173-11182. PMLR, 2020.",
+    "title": "Complexity of finding stationary points of nonconvex nonsmooth functions",
+    "authors": [
+      "Jingzhao Zhang",
+      "Hongzhou Lin",
+      "Stefanie Jegelka",
+      "Suvrit Sra",
+      "Ali Jadbabaie"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, et al. Opt: Open pre-trained transformer language models. arXiv preprint arXiv:2205.01068, 2022.",
+    "title": "Opt: Open pre-trained transformer language models",
+    "authors": [
+      "Susan Zhang",
+      "Stephen Roller",
+      "Naman Goyal",
+      "Mikel Artetxe",
+      "Moya Chen",
+      "Shuohui Chen",
+      "Christopher Dewan",
+      "Mona Diab",
+      "Xian Li",
+      "Xi Victoria Lin"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2205.01068"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Yihua Zhang, Pingzhi Li, Junyuan Hong, Jiaxiang Li, Yimeng Zhang, Wenqing Zheng, Pin-Yu Chen, Jason D. Lee, Wotao Yin, Mingyi Hong, Zhangyang Wang, Sijia Liu, and Tianlong Chen. Revisiting zeroth-order optimization for memory-efficient llm fine-tuning: A benchmark, 2024.",
+    "title": "Revisiting zeroth-order optimization for memory-efficient llm fine-tuning: A benchmark",
+    "authors": [
+      "Yihua Zhang",
+      "Pingzhi Li",
+      "Junyuan Hong",
+      "Jiaxiang Li",
+      "Yimeng Zhang",
+      "Wenqing Zheng",
+      "Pin-Yu Chen",
+      "Jason D Lee",
+      "Wotao Yin",
+      "Mingyi Hong",
+      "Zhangyang Wang",
+      "Sijia Liu",
+      "Tianlong Chen"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

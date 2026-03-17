@@ -1,0 +1,620 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "2023. GPTZero: AI Text Detection Service. https://gptzero.me/. Accessed: 2026-02.",
+    "title": "GPTZero: AI Text Detection Service",
+    "authors": [],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://gptzero.me/"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "2024. CiteCheck: AI-powered Citation Verification. https://citecheck.ai/. Accessed: 2026-02.",
+    "title": "CiteCheck: AI-powered Citation Verification",
+    "authors": [],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://citecheck.ai/"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "2024. Citely: AI Citation Assistant. https://citely.ai/. Accessed: 2026-02.",
+    "title": "Citely: AI Citation Assistant",
+    "authors": [],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://citely.ai/"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "2024. SwanRef: Reference Verification Platform. https://www.swanref.org/. Accessed: 2026-02.",
+    "title": "SwanRef: Reference Verification Platform",
+    "authors": [],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://www.swanref.org/"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "2025. GPTZero finds over 50 hallucinations in ICLR 2026 submissions. https: //gptzero.me/news/iclr-2026.",
+    "title": "GPTZero finds over 50 hallucinations in ICLR 2026 submissions",
+    "authors": [],
+    "year": 2025,
+    "identifiers": {
+      "url": "https://gptzero.me/news/iclr-2026"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "2026. AI conference's papers contaminated by AI hallucinations. https://www. theregister.com/2026/01/22/neurips_papers_contaiminated_ai_hallucinations/.",
+    "title": "AI conference's papers contaminated by AI hallucinations",
+    "authors": [],
+    "year": 2026,
+    "identifiers": {
+      "url": "https://www.theregister.com/2026/01/22/neurips_papers_contaiminated_ai_hallucinations/"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Dang Anh-Hoang, Vu Tran, and Le-Minh Nguyen. 2025. Survey and analysis of hallucinations in large language models: attribution to prompting strategies or model behavior. Frontiers in Artificial Intelligence 8 (2025), 1622292.",
+    "title": "Survey and analysis of hallucinations in large language models: attribution to prompting strategies or model behavior",
+    "authors": [
+      "Anh - Dang",
+      "Vu Hoang",
+      "Le-Minh Tran",
+      "Nguyen"
+    ],
+    "venue": "Frontiers in Artificial Intelligence",
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Shuai Bai, Yuxuan Cai, Ruizhe Chen, Keqin Chen, Xionghui Chen, Zesen Cheng, Lianghao Deng, Wei Ding, Chang Gao, Chunjiang Ge, Wenbin Ge, Zhifang Guo, Qidong Huang, Jie Huang, Fei Huang, Binyuan Hui, Shutong Jiang, Zhaohai Li, Mingsheng Li, Mei Li, Kaixin Li, Zicheng Lin, Junyang Lin, Xuejing Liu, Jiawei Liu, Chenglong Liu, Yang Liu, Dayiheng Liu, Shixuan Liu, Dunjie Lu, Ruilin Luo, Chenxu Lv, Rui Men, Lingchen Meng, Xuancheng Ren, Xingzhang Ren, Sibo Song, Yuchong Sun, Jun Tang, Jianhong Tu, Jianqiang Wan, Peng Wang, Pengfei Wang, Qiuyue Wang, Yuxuan Wang, Tianbao Xie, Yiheng Xu, Haiyang Xu, Jin Xu, Zhibo Yang, Mingkun Yang, Jianxin Yang, An Yang, Bowen Yu, Fei Zhang, Hang Zhang, Xi Zhang, Bo Zheng, Humen Zhong, Jingren Zhou, Fan Zhou, Jing Zhou, Yuanzhi Zhu, and Ke Zhu. 2025. Qwen3-VL Technical Report. arXiv:2511.21631 [cs.CV] https://arxiv.org/abs/2511.21631",
+    "authors": [
+      "Shuai Bai",
+      "Yuxuan Cai",
+      "Ruizhe Chen",
+      "Keqin Chen",
+      "Xionghui Chen",
+      "Zesen Cheng",
+      "Lianghao Deng",
+      "Wei Ding",
+      "Chang Gao",
+      "Chunjiang Ge",
+      "Wenbin Ge",
+      "Zhifang Guo",
+      "Qidong Huang",
+      "Jie Huang",
+      "Fei Huang",
+      "Binyuan Hui",
+      "Shutong Jiang",
+      "Zhaohai Li",
+      "Mingsheng Li",
+      "Mei Li",
+      "Kaixin Li",
+      "Zicheng Lin",
+      "Junyang Lin",
+      "Xuejing Liu",
+      "Jiawei Liu",
+      "Chenglong Liu",
+      "Yang Liu",
+      "Dayiheng Liu",
+      "Shixuan Liu",
+      "Dunjie Lu",
+      "Ruilin Luo",
+      "Chenxu Lv",
+      "Rui Men",
+      "Lingchen Meng",
+      "Xuancheng Ren",
+      "Xingzhang Ren",
+      "Sibo Song",
+      "Yuchong Sun",
+      "Jun Tang",
+      "Jianhong Tu",
+      "Jianqiang Wan",
+      "Peng Wang",
+      "Pengfei Wang",
+      "Qiuyue Wang",
+      "Yuxuan Wang",
+      "Tianbao Xie",
+      "Yiheng Xu",
+      "Haiyang Xu",
+      "Jin Xu",
+      "Zhibo Yang",
+      "Mingkun Yang",
+      "Jianxin Yang",
+      "An Yang",
+      "Bowen Yu",
+      "Fei Zhang",
+      "Hang Zhang",
+      "Xi Zhang",
+      "Bo Zheng",
+      "Humen Zhong",
+      "Jingren Zhou",
+      "Fan Zhou",
+      "Jing Zhou",
+      "Yuanzhi Zhu",
+      "Ke Zhu"
+    ],
+    "year": 2025,
+    "identifiers": {
+      "arxiv_id": "arXiv:2511.21631[cs.CV]",
+      "url": "https://arxiv.org/abs/2511.21631"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Mikaël Chelli, Jules Descamps, Vincent Lavoué, Christophe Trojani, Michel Azar, Marcel Deckert, Jean-Luc Raynier, Gilles Clowez, Pascal Boileau, Caroline Ruetsch-Chelli, et al. 2024. Hallucination rates and reference accuracy of ChatGPT and bard for systematic reviews: comparative analysis. Journal of medical Internet research 26, 1 (2024), e53164.",
+    "title": "Hallucination rates and reference accuracy of ChatGPT and bard for systematic reviews: comparative analysis",
+    "authors": [
+      "Mikaël Chelli",
+      "Jules Descamps",
+      "Vincent Lavoué",
+      "Christophe Trojani",
+      "Michel Azar",
+      "Marcel Deckert",
+      "Jean-Luc Raynier",
+      "Gilles Clowez",
+      "Pascal Boileau",
+      "Caroline Ruetsch-Chelli"
+    ],
+    "venue": "Journal of medical Internet research",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Prateek Chhikara, Dev Khant, Saket Aryan, Taranjeet Singh, and Deshraj Yadav. 2025. Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory. arXiv preprint arXiv:2504.19413 (2025).",
+    "title": "Saket Aryan, Taranjeet Singh, and Deshraj Yadav",
+    "authors": [
+      "Prateek Chhikara",
+      "Dev Khant"
+    ],
+    "venue": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+    "year": 2025,
+    "identifiers": {
+      "arxiv_id": "arXiv:2504.19413"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "C. Dai. 2021. Literary runaway: Increasingly more references cited per research paper. PLoS ONE 16 (2021), e0255849.",
+    "title": "Literary runaway: Increasingly more references cited per research paper",
+    "authors": [
+      "C Dai"
+    ],
+    "venue": "PLoS ONE",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Mohamed Amine Ferrag, Norbert Tihanyi, and Merouane Debbah. 2025. From llm reasoning to autonomous ai agents: A comprehensive review. arXiv preprint arXiv:2504.19678 (2025).",
+    "title": "From llm reasoning to autonomous ai agents: A comprehensive review",
+    "authors": [
+      "Mohamed Amine Ferrag",
+      "Norbert Tihanyi",
+      "Merouane Debbah"
+    ],
+    "year": 2025,
+    "identifiers": {
+      "arxiv_id": "arXiv:2504.19678"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Mengkang Hu, Tianxing Chen, Qiguang Chen, Yao Mu, Wenqi Shao, and Ping Luo. 2025. Hiagent: Hierarchical working memory management for solving long-horizon agent tasks with large language model. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 32779-32798.",
+    "title": "Hiagent: Hierarchical working memory management for solving long-horizon agent tasks with large language model",
+    "authors": [
+      "Mengkang Hu",
+      "Tianxing Chen",
+      "Qiguang Chen",
+      "Yao Mu",
+      "Wenqi Shao",
+      "Ping Luo"
+    ],
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Lei Huang, Weijiang Yu, Weitao Ma, Weihong Zhong, Zhangyin Feng, Haotian Wang, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, et al. 2025. A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions. ACM Transactions on Information Systems 43, 2 (2025), 1-55.",
+    "title": "A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions",
+    "authors": [
+      "Lei Huang",
+      "Weijiang Yu",
+      "Weitao Ma",
+      "Weihong Zhong",
+      "Zhangyin Feng",
+      "Haotian Wang",
+      "Qianglong Chen",
+      "Weihua Peng",
+      "Xiaocheng Feng",
+      "Bing Qin"
+    ],
+    "venue": "ACM Transactions on Information Systems",
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "LJ Janse van Rensburg. 2025. AI-Powered Citation Auditing: A Zero-Assumption Protocol for Systematic Reference Verification in Academic Research. arXiv e-prints (2025), arXiv-2511.",
+    "title": "AI-Powered Citation Auditing: A Zero-Assumption Protocol for Systematic Reference Verification in Academic Research",
+    "authors": [
+      "LJ Janse van Rensburg"
+    ],
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Tianyi Ma, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Xiaoye Qian, Feifan Bai, Yifan Ding, Xuwei Luo, Shinan Zhang, Keerthiram Murugesan, et al. 2025. AutoData: A Multi-Agent System for Open Web Data Collection. arXiv preprint arXiv:2505.15859 (2025).",
+    "title": "AutoData: A Multi-Agent System for Open Web Data Collection",
+    "authors": [
+      "Tianyi Ma",
+      "Yiyue Qian",
+      "Zheyuan Zhang",
+      "Zehong Wang",
+      "Xiaoye Qian",
+      "Feifan Bai",
+      "Yifan Ding",
+      "Xuwei Luo",
+      "Shinan Zhang",
+      "Keerthiram Murugesan"
+    ],
+    "year": 2025,
+    "identifiers": {
+      "arxiv_id": "arXiv:2505.15859"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Microsoft. [n. d.]. Playwright for Python. https://github.com/microsoft/ playwright-python. Accessed: 2026-02.",
+    "title": "Playwright for Python",
+    "authors": [],
+    "year": 2026,
+    "identifiers": {
+      "url": "https://github.com/microsoft/playwright-python"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, et al. 2021. Webgpt: Browser-assisted question-answering with human feedback. arXiv preprint arXiv:2112.09332 (2021).",
+    "title": "Webgpt: Browser-assisted question-answering with human feedback",
+    "authors": [
+      "Reiichiro Nakano",
+      "Jacob Hilton",
+      "Suchir Balaji",
+      "Jeff Wu",
+      "Long Ouyang",
+      "Christina Kim",
+      "Christopher Hesse",
+      "Shantanu Jain",
+      "Vineet Kosaraju",
+      "William Saunders"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2112.09332"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Subhey Sadi Rahman, Md Adnanul Islam, Md Mahbub Alam, Musarrat Zeba, Md Abdur Rahman, Sadia Sultana Chowa, Mohaimenul Azam Khan Raiaan, and Sami Azam. 2026. Hallucination to truth: a review of fact-checking and factuality evaluation in large language models. Artificial Intelligence Review (2026).",
+    "title": "Hallucination to truth: a review of fact-checking and factuality evaluation in large language models",
+    "authors": [
+      "Md Adnanul Subhey Sadi Rahman",
+      "Md Islam",
+      "Musarrat Mahbub Alam",
+      "Md Zeba",
+      "Abdur Rahman"
+    ],
+    "venue": "Sadia Sultana Chowa, Mohaimenul Azam Khan Raiaan, and Sami Azam",
+    "year": 2026,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Y. Sakai, H. Kamigaito, and T. Watanabe. 2026. HalluCitation Matters: Revealing the Impact of Hallucinated References with 300 Hallucinated Papers in ACL Conferences. https://arxiv.org/abs/2601.18724.",
+    "title": "HalluCitation Matters: Revealing the Impact of Hallucinated References with 300 Hallucinated Papers in ACL Conferences",
+    "authors": [
+      "Y Sakai",
+      "H Kamigaito",
+      "T Watanabe"
+    ],
+    "year": 2026,
+    "identifiers": {
+      "arxiv_id": "2601.18724",
+      "url": "https://arxiv.org/abs/2601.18724"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Maria Janina Sarol, Shufan Ming, Shruthan Radhakrishna, Jodi Schneider, and Halil Kilicoglu. 2024. Assessing citation integrity in biomedical publications: corpus annotation and NLP models. Bioinformatics 40, 7 (2024), btae420.",
+    "title": "Assessing citation integrity in biomedical publications: corpus annotation and NLP models",
+    "authors": [
+      "Janina Maria",
+      "Shufan Sarol",
+      "Shruthan Ming",
+      "Jodi Radhakrishna",
+      "Halil Schneider",
+      "Kilicoglu"
+    ],
+    "venue": "Bioinformatics",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Kaiwen Shi, Zheyuan Zhang, Zhengqing Yuan, Keerthiram Murugesan, Vincent Galass, Chuxu Zhang, and Yanfang Ye. 2025. NG-Router: Graph-Supervised Multi-Agent Collaboration for Nutrition Question Answering. arXiv preprint arXiv:2510.09854 (2025).",
+    "title": "NG-Router: Graph-Supervised Multi-Agent Collaboration for Nutrition Question Answering",
+    "authors": [
+      "Kaiwen Shi",
+      "Zheyuan Zhang",
+      "Zhengqing Yuan",
+      "Keerthiram Murugesan",
+      "Vincent Galass",
+      "Chuxu Zhang",
+      "Yanfang Ye"
+    ],
+    "year": 2025,
+    "identifiers": {
+      "arxiv_id": "arXiv:2510.09854"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Jacob-Junqi Tian, Hao Yu, Yury Orlovskiy, Tyler Vergho, Mauricio Rivera, Mayank Goel, Zachary Yang, Jean-Francois Godbout, Reihaneh Rabbany, and Kellin Pelrine. 2024. Web retrieval agents for evidence-based misinformation detection. arXiv preprint arXiv:2409.00009 (2024).",
+    "title": "Web retrieval agents for evidence-based misinformation detection",
+    "authors": [
+      "Jacob-Junqi Tian",
+      "Hao Yu",
+      "Yury Orlovskiy",
+      "Tyler Vergho",
+      "Mauricio Rivera",
+      "Mayank Goel",
+      "Zachary Yang",
+      "Jean-Francois Godbout",
+      "Reihaneh Rabbany",
+      "Kellin Pelrine"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2409.00009"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "SMTI Tonmoy, SM Zaman, Vinija Jain, Anku Rani, Vipula Rawte, Aman Chadha, and Amitava Das. 2024. A comprehensive survey of hallucination mitigation techniques in large language models. arXiv preprint arXiv:2401.01313 6 (2024).",
+    "title": "A comprehensive survey of hallucination mitigation techniques in large language models",
+    "authors": [
+      "Smti Tonmoy",
+      "Vinija Zaman",
+      "Anku Jain",
+      "Vipula Rani",
+      "Aman Rawte",
+      "Amitava Chadha",
+      "Das"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.013136"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Ludo Waltman. 2016. A review of the literature on citation impact indicators. Journal of informetrics 10, 2 (2016), 365-391.",
+    "title": "A review of the literature on citation impact indicators",
+    "authors": [
+      "Ludo Waltman"
+    ],
+    "venue": "Journal of informetrics",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik R Narasimhan, and Yuan Cao. 2022. React: Synergizing reasoning and acting in language models. In The eleventh international conference on learning representations.",
+    "title": "React: Synergizing reasoning and acting in language models",
+    "authors": [
+      "Shunyu Yao",
+      "Jeffrey Zhao",
+      "Dian Yu",
+      "Nan Du",
+      "Izhak Shafran",
+      "Yuan Karthik R Narasimhan",
+      "Cao"
+    ],
+    "venue": "The eleventh international conference on learning representations",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Yanfang Ye, Zheyuan Zhang, Tianyi Ma, Zehong Wang, Yiyang Li, Shifu Hou, Weixiang Sun, Kaiwen Shi, Yijun Ma, Wei Song, et al. 2025. Llms4all: A review of large language models across academic disciplines. arXiv preprint arXiv:2509.19580 (2025).",
+    "title": "Llms4all: A review of large language models across academic disciplines",
+    "authors": [
+      "Yanfang Ye",
+      "Zheyuan Zhang",
+      "Tianyi Ma",
+      "Zehong Wang",
+      "Yiyang Li",
+      "Shifu Hou",
+      "Weixiang Sun",
+      "Kaiwen Shi",
+      "Yijun Ma",
+      "Wei Song"
+    ],
+    "year": 2025,
+    "identifiers": {
+      "arxiv_id": "arXiv:2509.19580"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Zhengqing Yuan, Yixin Liu, Yihan Cao, Weixiang Sun, Haolong Jia, Ruoxi Chen, Zhaoxu Li, Bin Lin, Li Yuan, Lifang He, et al. 2024. Mora: Enabling generalist video generation via a multi-agent framework. arXiv preprint arXiv:2403.13248 (2024).",
+    "title": "Lifang He, et al. 2024. Mora: Enabling generalist video generation via a multi-agent framework",
+    "authors": [
+      "Zhengqing Yuan",
+      "Yixin Liu",
+      "Yihan Cao",
+      "Weixiang Sun",
+      "Haolong Jia",
+      "Ruoxi Chen",
+      "Zhaoxu Li",
+      "Bin Lin",
+      "Li Yuan"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.13248"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Zheyuan Zhang, Lin Ge, Hongjiang Li, Weicheng Zhu, Chuxu Zhang, and Yanfang Ye. 2025. MAPRO: Recasting Multi-Agent Prompt Optimization as Maximum a Posteriori Inference. arXiv e-prints (2025), arXiv-2510.",
+    "title": "MAPRO: Recasting Multi-Agent Prompt Optimization as Maximum a Posteriori Inference",
+    "authors": [
+      "Zheyuan Zhang",
+      "Lin Ge",
+      "Hongjiang Li",
+      "Weicheng Zhu",
+      "Chuxu Zhang",
+      "Yanfang Ye"
+    ],
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, Tianyi Ma, Vincent Galassi, Keerthiram Murugesan, Nuno Moniz, Werner Geyer, Nitesh V Chawla, et al. 2025. NGQA: a nutritional graph question answering benchmark for personalized health-aware nutritional reasoning. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 5934-5966.",
+    "title": "NGQA: a nutritional graph question answering benchmark for personalized health-aware nutritional reasoning",
+    "authors": [
+      "Zheyuan Zhang",
+      "Yiyang Li",
+      "Nhi Ha Lan Le",
+      "Zehong Wang",
+      "Tianyi Ma",
+      "Vincent Galassi",
+      "Keerthiram Murugesan",
+      "Nuno Moniz",
+      "Werner Geyer",
+      "Nitesh V Chawla"
+    ],
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Zheyuan Zhang, Kaiwen Shi, Zhengqing Yuan, Zehong Wang, Tianyi Ma, Keerthiram Murugesan, Vincent Galassi, Chuxu Zhang, and Yanfang Ye. 2025. AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering. arXiv preprint arXiv:2510.05445 (2025).",
+    "title": "AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering",
+    "authors": [
+      "Zheyuan Zhang",
+      "Kaiwen Shi",
+      "Zhengqing Yuan",
+      "Zehong Wang",
+      "Tianyi Ma",
+      "Keerthiram Murugesan",
+      "Vincent Galassi",
+      "Chuxu Zhang",
+      "Yanfang Ye"
+    ],
+    "year": 2025,
+    "identifiers": {
+      "arxiv_id": "arXiv:2510.05445"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Zheyuan Zhang, Zehong Wang, Tianyi Ma, Varun Sameer Taneja, Sofia Nelson, Nhi Ha Lan Le, Keerthiram Murugesan, Mingxuan Ju, Nitesh V Chawla, Chuxu Zhang, et al. 2025. Mopi-hfrs: A multi-objective personalized health-aware food recommendation system with llm-enhanced interpretation. In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1. 2860-2871.",
+    "title": "Mopi-hfrs: A multi-objective personalized health-aware food recommendation system with llm-enhanced interpretation",
+    "authors": [
+      "Zheyuan Zhang",
+      "Zehong Wang",
+      "Tianyi Ma",
+      "Varun Sameer Taneja",
+      "Sofia Nelson",
+      "Nhi Ha Lan Le",
+      "Keerthiram Murugesan",
+      "Mingxuan Ju",
+      "V Nitesh",
+      "Chuxu Chawla",
+      "Zhang"
+    ],
+    "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

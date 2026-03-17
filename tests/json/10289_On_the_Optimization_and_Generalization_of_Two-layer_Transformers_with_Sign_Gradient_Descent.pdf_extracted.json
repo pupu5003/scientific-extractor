@@ -1,0 +1,1240 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Kwangjun Ahn, Xiang Cheng, Hadi Daneshmand, and Suvrit Sra. Transformers learn to implement preconditioned gradient descent for in-context learning. Advances in Neural Information Processing Systems, 36, 2023.",
+    "title": "Transformers learn to implement preconditioned gradient descent for in-context learning",
+    "authors": [
+      "Kwangjun Ahn",
+      "Xiang Cheng",
+      "Hadi Daneshmand",
+      "Suvrit Sra"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Kwangjun Ahn, Xiang Cheng, Minhak Song, Chulhee Yun, Ali Jadbabaie, and Suvrit Sra. Linear attention is (maybe) all you need (to understand transformer optimization). In International Conference on Learning Representations, 2024. URL https://openreview.net/forum? id=0uI5415ry7.",
+    "title": "Linear attention is (maybe) all you need (to understand transformer optimization)",
+    "authors": [
+      "Kwangjun Ahn",
+      "Xiang Cheng",
+      "Minhak Song",
+      "Chulhee Yun",
+      "Ali Jadbabaie",
+      "Suvrit Sra"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Zeyuan Allen-Zhu and Yuanzhi Li. Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning. In International Conference on Learning Representations, 2023. Lukas Balles and Philipp Hennig. Dissecting adam: The sign, magnitude and variance of stochastic gradients. In International Conference on Machine Learning, pp. 404-413. PMLR, 2018.",
+    "title": "Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning",
+    "authors": [
+      "Zeyuan Allen",
+      "-Zhu",
+      "Yuanzhi Li"
+    ],
+    "venue": "International Conference on Learning Representations, 2023. Lukas Balles and Philipp Hennig",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Lukas Balles, Fabian Pedregosa, and Nicolas Le Roux. The geometry of sign gradient descent. arXiv preprint arXiv:2002.08056, 2020.",
+    "title": "The geometry of sign gradient descent",
+    "authors": [
+      "Lukas Balles",
+      "Fabian Pedregosa",
+      "Nicolas Le Roux"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2002.08056"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Jeremy Bernstein, Yu-Xiang Wang, Kamyar Azizzadenesheli, and Animashree Anandkumar. signsgd: Compressed optimisation for non-convex problems. In International Conference on Machine Learning, pp. 560-569. PMLR, 2018.",
+    "title": "signsgd: Compressed optimisation for non-convex problems",
+    "authors": [
+      "Jeremy Bernstein",
+      "Yu-Xiang Wang",
+      "Kamyar Azizzadenesheli",
+      "Animashree Anandkumar"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Jeremy Bernstein, Jiawei Zhao, Kamyar Azizzadenesheli, and Anima Anandkumar. signSGD with majority vote is communication efficient and fault tolerant. In International Conference on Learning Representations, 2019. URL https://openreview.net/forum?id=BJxhijAcY7.",
+    "title": "Kamyar Azizzadenesheli, and Anima Anandkumar. signSGD with majority vote is communication efficient and fault tolerant",
+    "authors": [
+      "Jeremy Bernstein",
+      "Jiawei Zhao"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2019,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=BJxhijAcY7"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Olivier Bousquet and André Elisseeff. Stability and generalization. The Journal of Machine Learning Research, 2:499-526, 2002.",
+    "title": "Stability and generalization",
+    "authors": [
+      "Olivier Bousquet",
+      "André Elisseeff"
+    ],
+    "venue": "The Journal of Machine Learning Research",
+    "year": 2002,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et al. Language models are few-shot learners. Advances in Neural Information Processing Systems, 33:1877-1901, 2020.",
+    "title": "Language models are few-shot learners",
+    "authors": [
+      "Tom Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "Jared D Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Yuan Cao, Zixiang Chen, Misha Belkin, and Quanquan Gu. Benign overfitting in two-layer convolutional neural networks. Advances in Neural Information Processing Systems, 35:25237-25250, 2022.",
+    "title": "Benign overfitting in two-layer convolutional neural networks",
+    "authors": [
+      "Yuan Cao",
+      "Zixiang Chen",
+      "Misha Belkin",
+      "Quanquan Gu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Niladri S. Chatterji and Philip M. Long. Finite-sample analysis of interpolating linear classifiers in the overparameterized regime. Journal of Machine Learning Research, 22(129):1-30, 2021. URL http://jmlr.org/papers/v22/20-974.html.",
+    "title": "Finite-sample analysis of interpolating linear classifiers in the overparameterized regime",
+    "authors": [
+      "S Niladri",
+      "Philip M Chatterji",
+      "Long"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2021,
+    "identifiers": {
+      "url": "http://jmlr.org/papers/v22/20-974.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Misha Laskin, Pieter Abbeel, Aravind Srinivas, and Igor Mordatch. Decision transformer: Reinforcement learning via sequence modeling. Advances in Neural Information Processing Systems, 34:15084-15097, 2021.",
+    "title": "Decision transformer: Reinforcement learning via sequence modeling",
+    "authors": [
+      "Lili Chen",
+      "Kevin Lu",
+      "Aravind Rajeswaran",
+      "Kimin Lee",
+      "Aditya Grover",
+      "Misha Laskin",
+      "Pieter Abbeel",
+      "Aravind Srinivas",
+      "Igor Mordatch"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Siyu Chen, Heejune Sheen, Tianhao Wang, and Zhuoran Yang. Training dynamics of multi-head softmax attention for in-context learning: Emergence, convergence, and optimality. arXiv preprint arXiv:2402.19442, 2024.",
+    "title": "Training dynamics of multi-head softmax attention for in-context learning: Emergence, convergence, and optimality",
+    "authors": [
+      "Siyu Chen",
+      "Heejune Sheen",
+      "Tianhao Wang",
+      "Zhuoran Yang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.19442"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Xiangning Chen, Chen Liang, Da Huang, Esteban Real, Kaiyuan Wang, Hieu Pham, Xuanyi Dong, Thang Luong, Cho-Jui Hsieh, Yifeng Lu, et al. Symbolic discovery of optimization algorithms. Advances in Neural Information Processing Systems, 36, 2023.",
+    "title": "Symbolic discovery of optimization algorithms",
+    "authors": [
+      "Xiangning Chen",
+      "Chen Liang",
+      "Da Huang",
+      "Esteban Real",
+      "Kaiyuan Wang",
+      "Hieu Pham",
+      "Xuanyi Dong",
+      "Thang Luong",
+      "Cho-Jui Hsieh",
+      "Yifeng Lu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung, Charles Sutton, Sebastian Gehrmann, et al. Palm: Scaling language modeling with pathways. Journal of Machine Learning Research, 24(240):1-113, 2023.",
+    "title": "Palm: Scaling language modeling with pathways",
+    "authors": [
+      "Aakanksha Chowdhery",
+      "Sharan Narang",
+      "Jacob Devlin",
+      "Maarten Bosma",
+      "Gaurav Mishra",
+      "Adam Roberts",
+      "Paul Barham",
+      "Hyung Won Chung",
+      "Charles Sutton",
+      "Sebastian Gehrmann"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Michael Crawshaw, Mingrui Liu, Francesco Orabona, Wei Zhang, and Zhenxun Zhuang. Robustness to unbounded smoothness of generalized signsgd. Advances in neural information processing systems, 35:9955-9968, 2022.",
+    "title": "Robustness to unbounded smoothness of generalized signsgd",
+    "authors": [
+      "Michael Crawshaw",
+      "Mingrui Liu",
+      "Francesco Orabona",
+      "Wei Zhang",
+      "Zhenxun Zhuang"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Tri Dao, Dan Fu, Stefano Ermon, Atri Rudra, and Christopher Ré. Flashattention: Fast and memoryefficient exact attention with io-awareness. Advances in Neural Information Processing Systems, 35:16344-16359, 2022.",
+    "title": "Flashattention: Fast and memoryefficient exact attention with io-awareness",
+    "authors": [
+      "Tri Dao",
+      "Dan Fu",
+      "Stefano Ermon",
+      "Atri Rudra",
+      "Christopher Ré"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. Bert: Pre-training of deep bidirectional transformers for language understanding. In Proceedings of NAACL-HLT, pp. 41714186, 2019.",
+    "title": "Pre-training of deep bidirectional transformers for language understanding",
+    "authors": [
+      "Jacob Devlin",
+      "Ming-Wei Chang",
+      "Kenton Lee",
+      "Kristina Toutanova",
+      "Bert"
+    ],
+    "venue": "Proceedings of NAACL-HLT",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Yihe Dong, Jean-Baptiste Cordonnier, and Andreas Loukas. Attention is not all you need: Pure attention loses rank doubly exponentially with depth. In International Conference on Machine Learning, pp. 2793-2803. PMLR, 2021.",
+    "title": "Attention is not all you need: Pure attention loses rank doubly exponentially with depth",
+    "authors": [
+      "Yihe Dong",
+      "Jean-Baptiste Cordonnier",
+      "Andreas Loukas"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby. An image is worth 16x16 words: Transformers for image recognition at scale. In International Conference on Learning Representations, 2021. URL https://openreview. net/forum?id=YicbFdNTTy.",
+    "title": "An image is worth 16x16 words: Transformers for image recognition at scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "Matthias Minderer",
+      "Georg Heigold",
+      "Sylvain Gelly",
+      "Jakob Uszkoreit",
+      "Neil Houlsby"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2021,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=YicbFdNTTy"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Spencer Frei, Niladri S Chatterji, and Peter Bartlett. Benign overfitting without linearity: Neural network classifiers trained by gradient descent for noisy linear data. In Conference on Learning Theory, pp. 2668-2703. PMLR, 2022.",
+    "title": "Benign overfitting without linearity: Neural network classifiers trained by gradient descent for noisy linear data",
+    "authors": [
+      "Spencer Frei",
+      "S Niladri",
+      "Peter Chatterji",
+      "Bartlett"
+    ],
+    "venue": "Conference on Learning Theory",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Andi Han, Wei Huang, Yuan Cao, and Difan Zou. On the feature learning in diffusion models. arXiv preprint arXiv:2412.01021, 2024.",
+    "title": "On the feature learning in diffusion models",
+    "authors": [
+      "Andi Han",
+      "Wei Huang",
+      "Yuan Cao",
+      "Difan Zou"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2412.01021"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Moritz Hardt, Ben Recht, and Yoram Singer. Train faster, generalize better: Stability of stochastic gradient descent. In Maria Florina Balcan and Kilian Q. Weinberger (eds.), Proceedings of The 33rd International Conference on Machine Learning, volume 48 of Proceedings of Machine Learning Research, pp. 1225-1234, New York, New York, USA, 20-22 Jun 2016. PMLR. URL https://proceedings.mlr.press/v48/hardt16.html.",
+    "title": "Train faster, generalize better: Stability of stochastic gradient descent",
+    "authors": [
+      "Moritz Hardt",
+      "Ben Recht",
+      "Yoram Singer"
+    ],
+    "venue": "Proceedings of The 33rd International Conference on Machine Learning",
+    "year": 2016,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v48/hardt16.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Wei Huang, Yuan Cao, Haonan Wang, Xin Cao, and Taiji Suzuki. Graph neural networks provably benefit from structural information: A feature learning perspective. arXiv preprint arXiv:2306.13926, 2023a.",
+    "title": "Graph neural networks provably benefit from structural information: A feature learning perspective",
+    "authors": [
+      "Wei Huang",
+      "Yuan Cao",
+      "Haonan Wang",
+      "Xin Cao",
+      "Taiji Suzuki"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.13926"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Wei Huang, Ye Shi, Zhongyi Cai, and Taiji Suzuki. Understanding convergence and generalization in federated learning through feature learning theory. In The Twelfth International Conference on Learning Representations, 2023b.",
+    "title": "Understanding convergence and generalization in federated learning through feature learning theory",
+    "authors": [
+      "Wei Huang",
+      "Ye Shi",
+      "Zhongyi Cai",
+      "Taiji Suzuki"
+    ],
+    "venue": "The Twelfth International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Wei Huang, Andi Han, Yongqiang Chen, Yuan Cao, Zhiqiang Xu, and Taiji Suzuki. On the comparison between multi-modal and single-modal contrastive learning. arXiv preprint arXiv:2411.02837, 2024a.",
+    "title": "On the comparison between multi-modal and single-modal contrastive learning",
+    "authors": [
+      "Wei Huang",
+      "Andi Han",
+      "Yongqiang Chen",
+      "Yuan Cao",
+      "Zhiqiang Xu",
+      "Taiji Suzuki"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2411.02837"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Yu Huang, Yuan Cheng, and Yingbin Liang. In-context convergence of transformers. arXiv preprint arXiv:2310.05249, 2023c.",
+    "title": "-context convergence of transformers",
+    "authors": [
+      "Yu Huang",
+      "Yuan Cheng",
+      "Yingbin Liang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.05249"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Yu Huang, Zixin Wen, Yuejie Chi, and Yingbin Liang. Transformers provably learn feature-position correlations in masked image modeling. arXiv preprint arXiv:2403.02233, 2024b.",
+    "title": "Transformers provably learn feature-position correlations in masked image modeling",
+    "authors": [
+      "Yu Huang",
+      "Zixin Wen",
+      "Yuejie Chi",
+      "Yingbin Liang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.02233"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Samy Jelassi, Michael Sander, and Yuanzhi Li. Vision transformers provably learn spatial structure. Advances in Neural Information Processing Systems, 35:37822-37836, 2022.",
+    "title": "Vision transformers provably learn spatial structure",
+    "authors": [
+      "Samy Jelassi",
+      "Michael Sander",
+      "Yuanzhi Li"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Jiarui Jiang, Wei Huang, Miao Zhang, Taiji Suzuki, and Liqiang Nie. Unveil benign overfitting for transformer in vision: Training dynamics, convergence, and generalization. arXiv preprint arXiv:2409.19345, 2024.",
+    "title": "Unveil benign overfitting for transformer in vision: Training dynamics, convergence, and generalization",
+    "authors": [
+      "Jiarui Jiang",
+      "Wei Huang",
+      "Miao Zhang",
+      "Taiji Suzuki",
+      "Liqiang Nie"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2409.19345"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Kaiqi Jiang, Dhruv Malik, and Yuanzhi Li. How does adaptive optimization impact local neural network geometry? Advances in Neural Information Processing Systems, 36, 2023.",
+    "title": "How does adaptive optimization impact local neural network geometry?",
+    "authors": [
+      "Kaiqi Jiang",
+      "Dhruv Malik",
+      "Yuanzhi Li"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Juno Kim and Taiji Suzuki. Transformers learn nonlinear features in context: Nonconvex mean-field dynamics on the attention landscape. arXiv preprint arXiv:2402.01258, 2024.",
+    "title": "Transformers learn nonlinear features in context: Nonconvex mean-field dynamics on the attention landscape",
+    "authors": [
+      "Juno Kim",
+      "Taiji Suzuki"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.01258"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Diederik P Kingma and Jimmy Ba. Adam: A method for stochastic optimization. In International Conference on Learning Representations, 2015.",
+    "title": "Adam: A method for stochastic optimization",
+    "authors": [
+      "P Diederik",
+      "Jimmy Kingma",
+      "Ba"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Yiwen Kou, Zixiang Chen, Yuanzhou Chen, and Quanquan Gu. Benign overfitting in two-layer ReLU convolutional neural networks. In Andreas Krause, Emma Brunskill, Kyunghyun Cho, Barbara Engelhardt, Sivan Sabato, and Jonathan Scarlett (eds.), Proceedings of the 40th International Conference on Machine Learning, volume 202 of Proceedings of Machine Learning Research, pp. 17615-17659. PMLR, 23-29 Jul 2023. URL https://proceedings.mlr.press/v202/ kou23a.html.",
+    "title": "Benign overfitting in two-layer ReLU convolutional neural networks",
+    "authors": [
+      "Yiwen Kou",
+      "Zixiang Chen",
+      "Yuanzhou Chen",
+      "Quanquan Gu"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v202/kou23a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Frederik Kunstner, Jacques Chen, Jonathan Wilder Lavington, and Mark Schmidt. Noise is not the main factor behind the gap between sgd and adam on transformers, but sign descent might be. In International Conference on Learning Representations, 2023. URL https://openreview. net/forum?id=a65YK0cqH8g.",
+    "title": "Noise is not the main factor behind the gap between sgd and adam on transformers, but sign descent might be",
+    "authors": [
+      "Frederik Kunstner",
+      "Jacques Chen",
+      "Jonathan Wilder Lavington",
+      "Mark Schmidt"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=a65YK"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Frederik Kunstner, Robin Yadav, Alan Milligan, Mark Schmidt, and Alberto Bietti. Heavy-tailed class imbalance and why adam outperforms gradient descent on language models. arXiv preprint arXiv:2402.19449, 2024.",
+    "title": "Heavy-tailed class imbalance and why adam outperforms gradient descent on language models",
+    "authors": [
+      "Frederik Kunstner",
+      "Robin Yadav",
+      "Alan Milligan",
+      "Mark Schmidt",
+      "Alberto Bietti"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.19449"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Bingrui Li, Jianfei Chen, and Jun Zhu. Memory efficient optimizers with 4-bit states. Advances in Neural Information Processing Systems, 36:15136-15171, 2023a.",
+    "title": "Memory efficient optimizers with 4-bit states",
+    "authors": [
+      "Bingrui Li",
+      "Jianfei Chen",
+      "Jun Zhu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Haochuan Li, Alexander Rakhlin, and Ali Jadbabaie. Convergence of adam under relaxed assumptions. Advances in Neural Information Processing Systems, 36, 2023b.",
+    "title": "Convergence of adam under relaxed assumptions",
+    "authors": [
+      "Haochuan Li",
+      "Alexander Rakhlin",
+      "Ali Jadbabaie"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Hongkang Li, Meng Wang, Sijia Liu, and Pin-Yu Chen. A theoretical understanding of shallow vision transformers: Learning, generalization, and sample complexity. In International Conference on Learning Representations, 2023c. URL https://openreview.net/forum?id= jClGv3Qjhb.",
+    "title": "A theoretical understanding of shallow vision transformers: Learning, generalization, and sample complexity",
+    "authors": [
+      "Hongkang Li",
+      "Meng Wang",
+      "Sijia Liu",
+      "Pin-Yu Chen"
+    ],
+    "venue": "International Conference on Learning Representations, 2023c",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=jClGv3Qjhb"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Hongkang Li, Meng Wang, Songtao Lu, Xiaodong Cui, and Pin-Yu Chen. Training nonlinear transformers for efficient in-context learning: A theoretical learning and generalization analysis. arXiv preprint arXiv:2402.15607, 2024.",
+    "title": "Training nonlinear transformers for efficient in-context learning: A theoretical learning and generalization analysis",
+    "authors": [
+      "Hongkang Li",
+      "Meng Wang",
+      "Songtao Lu",
+      "Xiaodong Cui",
+      "Pin-Yu Chen"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.15607"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Yuchen Li, Yuanzhi Li, and Andrej Risteski. How do transformers learn topic structure: Towards a mechanistic understanding. In International Conference on Machine Learning, pp. 19689-19729. PMLR, 2023d.",
+    "title": "How do transformers learn topic structure: Towards a mechanistic understanding",
+    "authors": [
+      "Yuchen Li",
+      "Yuanzhi Li",
+      "Andrej Risteski"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Liyuan Liu, Xiaodong Liu, Jianfeng Gao, Weizhu Chen, and Jiawei Han. Understanding the difficulty of training transformers. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 5747-5763, 2020.",
+    "title": "Understanding the difficulty of training transformers",
+    "authors": [
+      "Liyuan Liu",
+      "Xiaodong Liu",
+      "Jianfeng Gao",
+      "Weizhu Chen",
+      "Jiawei Han"
+    ],
+    "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Arvind V. Mahankali, Tatsunori Hashimoto, and Tengyu Ma. One step of gradient descent is provably the optimal in-context learner with one layer of linear self-attention. In International Conference on Learning Representations, 2024. URL https://openreview.net/forum? id=8p3fu56lKc.",
+    "title": "One step of gradient descent is provably the optimal in-context learner with one layer of linear self-attention",
+    "authors": [
+      "Arvind V Mahankali",
+      "Tatsunori Hashimoto",
+      "Tengyu Ma"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Eshaan Nichani, Alex Damian, and Jason D Lee. How transformers learn causal structure with gradient descent. arXiv preprint arXiv:2402.14735, 2024.",
+    "title": "How transformers learn causal structure with gradient descent",
+    "authors": [
+      "Eshaan Nichani",
+      "Alex Damian",
+      "Jason D Lee"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.14735"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Lorenzo Noci, Sotiris Anagnostidis, Luca Biggio, Antonio Orvieto, Sidak Pal Singh, and Aurelien Lucchi. Signal propagation in transformers: Theoretical perspectives and the role of rank collapse. Advances in Neural Information Processing Systems, 35:27198-27211, 2022.",
+    "title": "Signal propagation in transformers: Theoretical perspectives and the role of rank collapse",
+    "authors": [
+      "Lorenzo Noci",
+      "Sotiris Anagnostidis",
+      "Luca Biggio",
+      "Antonio Orvieto",
+      "Sidak Pal Singh",
+      "Aurelien Lucchi"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Samet Oymak, Ankit Singh Rawat, Mahdi Soltanolkotabi, and Christos Thrampoulidis. On the role of attention in prompt-tuning. In International Conference on Machine Learning, pp. 26724-26768. PMLR, 2023.",
+    "title": "On the role of attention in prompt-tuning",
+    "authors": [
+      "Samet Oymak",
+      "Ankit Singh Rawat",
+      "Mahdi Soltanolkotabi",
+      "Christos Thrampoulidis"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Yan Pan and Yuanzhi Li. Toward understanding why adam converges faster than sgd for transformers. arXiv preprint arXiv:2306.00204, 2023.",
+    "title": "Toward understanding why adam converges faster than sgd for transformers",
+    "authors": [
+      "Yan Pan",
+      "Yuanzhi Li"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.00204"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "William Peebles and Saining Xie. Scalable diffusion models with transformers. In Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 4195-4205, 2023.",
+    "title": "Scalable diffusion models with transformers",
+    "authors": [
+      "William Peebles",
+      "Saining Xie"
+    ],
+    "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Sashank J. Reddi, Satyen Kale, and Sanjiv Kumar. On the convergence of adam and beyond. In International Conference on Learning Representations, 2018. URL https://openreview. net/forum?id=ryQu7f-RZ.",
+    "title": "On the convergence of adam and beyond",
+    "authors": [
+      "J Sashank",
+      "Satyen Reddi",
+      "Sanjiv Kale",
+      "Kumar"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2018,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=ryQu7f-RZ"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Clayton Sanford, Daniel J Hsu, and Matus Telgarsky. Representational strengths and limitations of transformers. Advances in Neural Information Processing Systems, 36, 2023.",
+    "title": "Representational strengths and limitations of transformers",
+    "authors": [
+      "Clayton Sanford",
+      "Daniel J Hsu",
+      "Matus Telgarsky"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Heejune Sheen, Siyu Chen, Tianhao Wang, and Harrison H Zhou. Implicit regularization of gradient flow on one-layer softmax attention. arXiv preprint arXiv:2403.08699, 2024.",
+    "title": "Implicit regularization of gradient flow on one-layer softmax attention",
+    "authors": [
+      "Heejune Sheen",
+      "Siyu Chen",
+      "Tianhao Wang",
+      "Harrison H Zhou"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.08699"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Davoud Ataee Tarzanagh, Yingcong Li, Christos Thrampoulidis, and Samet Oymak. Transformers as support vector machines. arXiv preprint arXiv:2308.16898, 2023a.",
+    "title": "Transformers as support vector machines",
+    "authors": [
+      "Davoud Ataee Tarzanagh",
+      "Yingcong Li",
+      "Christos Thrampoulidis",
+      "Samet Oymak"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2308.16898"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Davoud Ataee Tarzanagh, Yingcong Li, Xuechen Zhang, and Samet Oymak. Max-margin token selection in attention mechanism. Advances in Neural Information Processing Systems, 36:4831448362, 2023b.",
+    "title": "Max-margin token selection in attention mechanism",
+    "authors": [
+      "Davoud Ataee Tarzanagh",
+      "Yingcong Li",
+      "Xuechen Zhang",
+      "Samet Oymak"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Jiaye Teng, Bohang Zhang, Ruichen Li, Haowei He, Yequan Wang, Yan Tian, and Yang Yuan. Finding generalization measures by contrasting signal and noise. In Andreas Krause, Emma Brunskill, Kyunghyun Cho, Barbara Engelhardt, Sivan Sabato, and Jonathan Scarlett (eds.), Proceedings of the 40th International Conference on Machine Learning, volume 202 of Proceedings of Machine Learning Research, pp. 33983-34010. PMLR, 23-29 Jul 2023. URL https://proceedings. mlr.press/v202/teng23a.html.",
+    "title": "Finding generalization measures by contrasting signal and noise",
+    "authors": [
+      "Jiaye Teng",
+      "Bohang Zhang",
+      "Ruichen Li",
+      "Haowei He",
+      "Yequan Wang",
+      "Yan Tian",
+      "Yang Yuan"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v202/teng23a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Yuandong Tian, Yiping Wang, Beidi Chen, and Simon S Du. Scan and snap: Understanding training dynamics and token composition in 1-layer transformer. Advances in Neural Information Processing Systems, 36:71911-71947, 2023.",
+    "title": "Scan and snap: Understanding training dynamics and token composition in 1-layer transformer",
+    "authors": [
+      "Yuandong Tian",
+      "Yiping Wang",
+      "Beidi Chen",
+      "Simon S Du"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Yuandong Tian, Yiping Wang, Zhenyu Zhang, Beidi Chen, and Simon Shaolei Du. JoMA: Demystifying multilayer transformers via joint dynamics of MLP and attention. In International Conference on Learning Representations, 2024. URL https://openreview.net/forum? id=LbJqRGNYCf.",
+    "title": "JoMA: Demystifying multilayer transformers via joint dynamics of MLP and attention",
+    "authors": [
+      "Yuandong Tian",
+      "Yiping Wang",
+      "Zhenyu Zhang",
+      "Beidi Chen",
+      "Simon Shaolei",
+      "Du"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=LbJqRGNYCf"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Bhavya Vasudeva, Puneesh Deora, and Christos Thrampoulidis. Implicit bias and fast convergence rates for self-attention. arXiv preprint arXiv:2402.05738, 2024.",
+    "title": "Implicit bias and fast convergence rates for self-attention",
+    "authors": [
+      "Bhavya Vasudeva",
+      "Puneesh Deora",
+      "Christos Thrampoulidis"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.05738"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, and Illia Polosukhin. Attention is all you need. Advances in neural information processing systems, 30, 2017.",
+    "title": "Attention is all you need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N Gomez",
+      "Łukasz Kaiser",
+      "Illia Polosukhin"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "Bohan Wang, Jingwen Fu, Huishuai Zhang, Nanning Zheng, and Wei Chen. Closing the gap between the upper bound and lower bound of adam's iteration complexity. Advances in Neural Information Processing Systems, 36, 2023.",
+    "title": "Closing the gap between the upper bound and lower bound of adam's iteration complexity",
+    "authors": [
+      "Bohan Wang",
+      "Jingwen Fu",
+      "Huishuai Zhang",
+      "Nanning Zheng",
+      "Wei Chen"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Mingze Wang and Chao Ma. Understanding multi-phase optimization dynamics and rich nonlinear behaviors of relu networks. Advances in Neural Information Processing Systems, 36, 2023.",
+    "title": "Understanding multi-phase optimization dynamics and rich nonlinear behaviors of relu networks",
+    "authors": [
+      "Mingze Wang",
+      "Chao Ma"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "Zixuan Wang, Stanley Wei, Daniel Hsu, and Jason D Lee. Transformers provably learn sparse token selection while fully-connected nets cannot. In Forty-first International Conference on Machine Learning, 2024.",
+    "title": "Transformers provably learn sparse token selection while fully-connected nets cannot",
+    "authors": [
+      "Zixuan Wang",
+      "Stanley Wei",
+      "Daniel Hsu",
+      "Jason D Lee"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Yikai Wu, Xingyu Zhu, Chenwei Wu, Annie Wang, and Rong Ge. Dissecting hessian: Understanding common structure of hessian in neural networks. arXiv preprint arXiv:2010.04261, 2020.",
+    "title": "Dissecting hessian: Understanding common structure of hessian in neural networks",
+    "authors": [
+      "Yikai Wu",
+      "Xingyu Zhu",
+      "Chenwei Wu",
+      "Annie Wang",
+      "Rong Ge"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2010.04261"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Weihang Xu and Simon Du. Over-parameterization exponentially slows down gradient descent for learning a single neuron. In The Thirty Sixth Annual Conference on Learning Theory, pp. 1155-1198. PMLR, 2023.",
+    "title": "Over-parameterization exponentially slows down gradient descent for learning a single neuron",
+    "authors": [
+      "Weihang Xu",
+      "Simon Du"
+    ],
+    "venue": "The Thirty Sixth Annual Conference on Learning Theory",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Jingzhao Zhang, Tianxing He, Suvrit Sra, and Ali Jadbabaie. Why gradient clipping accelerates training: A theoretical justification for adaptivity. In International Conference on Learning Representations, 2020a. URL https://openreview.net/forum?id=BJgnXpVYwS.",
+    "title": "Why gradient clipping accelerates training: A theoretical justification for adaptivity",
+    "authors": [
+      "Jingzhao Zhang",
+      "Tianxing He",
+      "Suvrit Sra",
+      "Ali Jadbabaie"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2020,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=BJgnXpVYwS"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "Jingzhao Zhang, Sai Praneeth Karimireddy, Andreas Veit, Seungyeon Kim, Sashank Reddi, Sanjiv Kumar, and Suvrit Sra. Why are adaptive methods good for attention models? Advances in Neural Information Processing Systems, 33:15383-15393, 2020b.",
+    "title": "Why are adaptive methods good for attention models?",
+    "authors": [
+      "Jingzhao Zhang",
+      "Sai Praneeth Karimireddy",
+      "Andreas Veit",
+      "Seungyeon Kim",
+      "Sashank Reddi",
+      "Sanjiv Kumar",
+      "Suvrit Sra"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "Jintao Zhang, Haofeng Huang, Pengle Zhang, Jia Wei, Jun Zhu, and Jianfei Chen. Sageattention2: Efficient attention with thorough outlier smoothing and per-thread int4 quantization. arXiv preprint arXiv:2411.10958, 2024a.",
+    "title": "Sageattention2: Efficient attention with thorough outlier smoothing and per-thread int4 quantization",
+    "authors": [
+      "Jintao Zhang",
+      "Haofeng Huang",
+      "Pengle Zhang",
+      "Jia Wei",
+      "Jun Zhu",
+      "Jianfei Chen"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2411.10958"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R66",
+    "raw_text": "Jintao Zhang, Jia Wei, Pengle Zhang, Jun Zhu, and Jianfei Chen. Sageattention: Accurate 8-bit attention for plug-and-play inference acceleration. In International Conference on Learning Representations, 2025a.",
+    "title": "Sageattention: Accurate 8-bit attention for plug-and-play inference acceleration",
+    "authors": [
+      "Jintao Zhang",
+      "Jia Wei",
+      "Pengle Zhang",
+      "Jun Zhu",
+      "Jianfei Chen"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R67",
+    "raw_text": "Jintao Zhang, Chendong Xiang, Haofeng Huang, Jia Wei, Haocheng Xi, Jun Zhu, and Jianfei Chen. Spargeattn: Accurate sparse attention accelerating any model inference. arXiv preprint arXiv:2502.18137, 2025b.",
+    "title": "Spargeattn: Accurate sparse attention accelerating any model inference",
+    "authors": [
+      "Jintao Zhang",
+      "Chendong Xiang",
+      "Haofeng Huang",
+      "Jia Wei",
+      "Haocheng Xi",
+      "Jun Zhu",
+      "Jianfei Chen"
+    ],
+    "year": 2025,
+    "identifiers": {
+      "arxiv_id": "arXiv:2502.18137"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R68",
+    "raw_text": "Ruiqi Zhang, Spencer Frei, and Peter L. Bartlett. Trained transformers learn linear models incontext. Journal of Machine Learning Research, 25(49):1-55, 2024b. URL http://jmlr. org/papers/v25/23-1042.html.",
+    "title": "Trained transformers learn linear models incontext",
+    "authors": [
+      "Ruiqi Zhang",
+      "Spencer Frei",
+      "Peter L Bartlett"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2024,
+    "identifiers": {
+      "url": "http://jmlr.org/papers/v25/23-1042.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R69",
+    "raw_text": "Yushun Zhang, Congliang Chen, Tian Ding, Ziniu Li, Ruoyu Sun, and Zhi-Quan Luo. Why transformers need adam: A hessian perspective. arXiv preprint arXiv:2402.16788, 2024c.",
+    "title": "Why transformers need adam: A hessian perspective",
+    "authors": [
+      "Yushun Zhang",
+      "Congliang Chen",
+      "Tian Ding",
+      "Ziniu Li",
+      "Ruoyu Sun",
+      "Zhi-Quan Luo"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.16788"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R70",
+    "raw_text": "Yushun Zhang, Congliang Chen, Ziniu Li, Tian Ding, Chenwei Wu, Yinyu Ye, Zhi-Quan Luo, and Ruoyu Sun. Adam-mini: Use fewer learning rates to gain more. In International Conference on Learning Representations, 2025c.",
+    "title": "Adam-mini: Use fewer learning rates to gain more",
+    "authors": [
+      "Yushun Zhang",
+      "Congliang Chen",
+      "Ziniu Li",
+      "Tian Ding",
+      "Chenwei Wu",
+      "Yinyu Ye",
+      "Zhi-Quan",
+      "Ruoyu Luo",
+      "Sun"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2025,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R71",
+    "raw_text": "Difan Zou, Yuan Cao, Yuanzhi Li, and Quanquan Gu. Understanding the generalization of adam in learning neural networks with proper regularization. In International Conference on Learning Representations, 2023. URL https://openreview.net/forum?id=iUYpN14qjTF. Proof of Theorem 3.2. By Lemma E.41 and E.42, we complete the proof. □",
+    "title": "Understanding the generalization of adam in learning neural networks with proper regularization",
+    "authors": [
+      "Difan Zou",
+      "Yuan Cao",
+      "Yuanzhi Li",
+      "Quanquan Gu"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=iUYpN14qjTF"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R72",
+    "raw_text": "Lemma E.41 (Training and Logistic Test Loss). For any fixed ϵ > 0, let T = 2 log(ϵ -1 )η -1 σ -1 p s -1 , we have L S (W (T ) ) ≤ ϵ and L D (W (T ) ) ≥ 0.1.",
+    "title": "For any fixed ϵ > 0, let T = 2 log(ϵ -1 )η -1 σ -1 p s -1 , we have",
+    "authors": [
+      "E Lemma"
+    ],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  }
+]

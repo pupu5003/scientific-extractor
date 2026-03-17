@@ -1,0 +1,759 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Hamidreza Abbaspourazad, Eray Erturk, Bijan Pesaran, and Maryam M Shanechi. Dynamical flexible inference of nonlinear latent factors and structures in neural population activity. Nature Biomedical Engineering, 8(1):85-108, 2024.",
+    "title": "Dynamical flexible inference of nonlinear latent factors and structures in neural population activity",
+    "authors": [
+      "Hamidreza Abbaspourazad",
+      "Eray Erturk",
+      "Bijan Pesaran",
+      "Maryam M Shanechi"
+    ],
+    "venue": "Nature Biomedical Engineering",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Parima Ahmadipour, Yuxiao Yang, Edward F Chang, and Maryam M Shanechi. Adaptive tracking of human ecog network dynamics. Journal of Neural Engineering, 18(1):016011, 2021.",
+    "title": "Adaptive tracking of human ecog network dynamics",
+    "authors": [
+      "Parima Ahmadipour",
+      "Yuxiao Yang",
+      "Edward F Chang",
+      "Maryam M Shanechi"
+    ],
+    "venue": "Journal of Neural Engineering",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Jong-Hoon Ahn and Jong-Hoon Oh. A constrained em algorithm for principal component analysis. Neural Computation, 15(1):57-65, 2003.",
+    "title": "A constrained em algorithm for principal component analysis",
+    "authors": [
+      "Jong-Hoon Ahn",
+      "Jong-Hoon Oh"
+    ],
+    "venue": "Neural Computation",
+    "year": 2003,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "David J Bartholomew, Martin Knott, and Irini Moustaki. Latent variable models and factor analysis: A unified approach, volume 904. John Wiley & Sons, 2011.",
+    "title": "Latent variable models and factor analysis: A unified approach",
+    "authors": [
+      "J David",
+      "Martin Bartholomew",
+      "Irini Knott",
+      "Moustaki"
+    ],
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Matthew James Beal. Variational algorithms for approximate Bayesian inference. University of London, University College London (United Kingdom), 2003.",
+    "title": "Variational algorithms for approximate Bayesian inference",
+    "authors": [
+      "Matthew James",
+      "Beal"
+    ],
+    "year": 2003,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Dimitri P Bertsekas. Constrained optimization and Lagrange multiplier methods. Academic press, 2014.",
+    "title": "Constrained optimization and Lagrange multiplier methods",
+    "authors": [
+      "Dimitri P Bertsekas"
+    ],
+    "year": 2014,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Borislav D Bojanov, H Hakopian, and B Sahakian. Spline functions and multivariate interpolations, volume 248. Springer Science & Business Media, 2013.",
+    "title": "Spline functions and multivariate interpolations",
+    "authors": [
+      "H Borislav D Bojanov",
+      "Hakopian",
+      "Sahakian"
+    ],
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Rishidev Chaudhuri, Berk Gerçek, Biraj Pandey, Adrien Peyrache, and Ila Fiete. The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep. Nature neuroscience, 22(9):1512-1520, 2019.",
+    "title": "The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep",
+    "authors": [
+      "Rishidev Chaudhuri",
+      "Berk Gerçek",
+      "Biraj Pandey",
+      "Adrien Peyrache",
+      "Ila Fiete"
+    ],
+    "venue": "Nature neuroscience",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Joost CF De Winter and Dimitra Dodou. Factor recovery by principal axis factoring and maximum likelihood factor analysis as a function of factor pattern and sample size. Journal of applied statistics, 39(4):695-710, 2012.",
+    "title": "Factor recovery by principal axis factoring and maximum likelihood factor analysis as a function of factor pattern and sample size",
+    "authors": [
+      "De Joost",
+      "Dimitra Winter",
+      "Dodou"
+    ],
+    "venue": "Journal of applied statistics",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Alan D Degenhart, William E Bishop, Emily R Oby, Elizabeth C Tyler-Kabara, Steven M Chase, Aaron P Batista, and Byron M Yu. Stabilization of a brain-computer interface via the alignment of low-dimensional spaces of neural activity. Nature biomedical engineering, 4(7):672-685, 2020.",
+    "title": "Stabilization of a brain-computer interface via the alignment of low-dimensional spaces of neural activity",
+    "authors": [
+      "Alan D Degenhart",
+      "William E Bishop",
+      "Emily R Oby",
+      "Elizabeth C Tyler-Kabara",
+      "M Steven",
+      "Aaron P Chase",
+      "Byron M Batista",
+      "Yu"
+    ],
+    "venue": "Nature biomedical engineering",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Wei Q Deng and Radu V Craiu. Exploring dimension learning via a penalized probabilistic principal component analysis. Journal of Statistical Computation and Simulation, 93(2):266-297, 2023.",
+    "title": "Exploring dimension learning via a penalized probabilistic principal component analysis",
+    "authors": [
+      "Q Wei",
+      "Radu V Deng",
+      "Craiu"
+    ],
+    "venue": "Journal of Statistical Computation and Simulation",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Manfredo P Do Carmo. Differential geometry of curves and surfaces: revised and updated second edition. Courier Dover Publications, 2016.",
+    "title": "Differential geometry of curves and surfaces: revised and updated second edition",
+    "authors": [
+      "P Do Manfredo",
+      "Carmo"
+    ],
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Benjamin Eltzner, Stephan Huckemann, and Kanti V. Mardia. Torus principal component analysis with applications to rna structure. The Annals of Applied Statistics, 12(2):1332 -1359, 2018. doi: 10.1214/17-AOAS1115. URL https://doi.org/10.1214/17-AOAS1115.",
+    "title": "Torus principal component analysis with applications to rna structure",
+    "authors": [
+      "Benjamin Eltzner",
+      "Stephan Huckemann",
+      "Kanti V Mardia"
+    ],
+    "venue": "The Annals of Applied Statistics",
+    "year": 2018,
+    "identifiers": {
+      "doi": "10.1214/17-AOAS1115",
+      "url": "https://doi.org/10.1214/17-AOAS1115"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Charles Fefferman, Sergei Ivanov, Yaroslav Kurylev, Matti Lassas, and Hariharan Narayanan. Fitting a putative manifold to noisy data. In Conference On Learning Theory, pp. 688-720. PMLR, 2018.",
+    "title": "Fitting a putative manifold to noisy data",
+    "authors": [
+      "Charles Fefferman",
+      "Sergei Ivanov",
+      "Yaroslav Kurylev",
+      "Matti Lassas",
+      "Hariharan Narayanan"
+    ],
+    "venue": "Conference On Learning Theory",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Charles Fefferman, Sergei Ivanov, Matti Lassas, and Hariharan Narayanan. Fitting a manifold of large reach to noisy data. Journal of Topology and Analysis, pp. 1-82, 2023.",
+    "title": "Fitting a manifold of large reach to noisy data",
+    "authors": [
+      "Charles Fefferman",
+      "Sergei Ivanov",
+      "Matti Lassas",
+      "Hariharan Narayanan"
+    ],
+    "venue": "Journal of Topology and Analysis",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "P Thomas Fletcher and Miaomiao Zhang. Probabilistic geodesic models for regression and dimensionality reduction on riemannian manifolds. In Riemannian Computing in Computer Vision, pp. 101-121. Springer, 2016.",
+    "title": "Probabilistic geodesic models for regression and dimensionality reduction on riemannian manifolds",
+    "authors": [
+      "Thomas Fletcher",
+      "Miaomiao Zhang"
+    ],
+    "venue": "Riemannian Computing in Computer Vision",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "P Thomas Fletcher, Conglin Lu, and Sarang Joshi. Statistics of shape via principal geodesic analysis on lie groups. In 2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings., volume 1, pp. I-I. IEEE, 2003.",
+    "title": "Statistics of shape via principal geodesic analysis on lie groups",
+    "authors": [
+      "Thomas Fletcher",
+      "Conglin Lu",
+      "Sarang Joshi"
+    ],
+    "venue": "2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+    "year": 2003,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Richard J Gardner, Erik Hermansen, Marius Pachitariu, Yoram Burak, Nils A Baas, Benjamin A Dunn, May-Britt Moser, and Edvard I Moser. Toroidal topology of population activity in grid cells. Nature, 602(7895):123-128, 2022.",
+    "title": "Toroidal topology of population activity in grid cells",
+    "authors": [
+      "J Richard",
+      "Erik Gardner",
+      "Marius Hermansen",
+      "Yoram Pachitariu",
+      "Nils A Burak",
+      "Benjamin A Baas",
+      "May-Britt Dunn",
+      "Edvard I Moser",
+      "Moser"
+    ],
+    "venue": "Nature",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Michael Greenacre, Patrick JF Groenen, Trevor Hastie, Alfonso Iodice d'Enza, Angelos Markos, and Elena Tuzhilina. Principal component analysis. Nature Reviews Methods Primers, 2(1):100, 2022.",
+    "title": "Principal component analysis",
+    "authors": [
+      "Michael Greenacre",
+      "Trevor Patrick Jf Groenen",
+      "Hastie"
+    ],
+    "venue": "Alfonso Iodice d'Enza, Angelos Markos, and Elena Tuzhilina",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Michael Hahsler and Kurt Hornik. Tsp-infrastructure for the traveling salesperson problem. Journal of Statistical Software, 23(2):1-21, 2007.",
+    "title": "Tsp-infrastructure for the traveling salesperson problem",
+    "authors": [
+      "Michael Hahsler",
+      "Kurt Hornik"
+    ],
+    "venue": "Journal of Statistical Software",
+    "year": 2007,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "David A Harville. Matrix algebra from a statistician's perspective. Taylor & Francis, 1998.",
+    "title": "Matrix algebra from a statistician's perspective",
+    "authors": [
+      "A David",
+      "Harville"
+    ],
+    "year": 1998,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Trevor Hastie, Robert Tibshirani, Jerome H Friedman, and Jerome H Friedman. The elements of statistical learning: data mining, inference, and prediction, volume 2. Springer, 2009.",
+    "title": "The elements of statistical learning: data mining, inference, and prediction",
+    "authors": [
+      "Trevor Hastie",
+      "Robert Tibshirani",
+      "Jerome H Friedman",
+      "Jerome H Friedman"
+    ],
+    "year": 2009,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Xuming He and Peide Shi. Bivariate tensor-product b-splines in a partly linear model. Journal of Multivariate Analysis, 58(2):162-181, 1996.",
+    "title": "Bivariate tensor-product b-splines in a partly linear model",
+    "authors": [
+      "Xuming He",
+      "Peide Shi"
+    ],
+    "venue": "Journal of Multivariate Analysis",
+    "year": 1996,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Johan Ludwig William Valdemar Jensen. Sur les fonctions convexes et les inégalités entre les valeurs moyennes. Acta mathematica, 30(1):175-193, 1906.",
+    "title": "Sur les fonctions convexes et les inégalités entre les valeurs moyennes",
+    "authors": [
+      "Johan Ludwig",
+      "William Valdemar",
+      "Jensen"
+    ],
+    "venue": "Acta mathematica",
+    "year": 1906,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Kristopher Jensen, Ta-Chu Kao, Marco Tripodi, and Guillaume Hennequin. Manifold gplvms for discovering non-euclidean latent structure in neural data. Advances in Neural Information Processing Systems, 33:22580-22592, 2020.",
+    "title": "Manifold gplvms for discovering non-euclidean latent structure in neural data",
+    "authors": [
+      "Kristopher Jensen",
+      "Ta-Chu Kao",
+      "Marco Tripodi",
+      "Guillaume Hennequin"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Rajiv Khanna, Joydeep Ghosh, Russell Poldrack, and Oluwasanmi Koyejo. Sparse submodular probabilistic pca. In Artificial Intelligence and Statistics, pp. 453-461. PMLR, 2015.",
+    "title": "Sparse submodular probabilistic pca",
+    "authors": [
+      "Rajiv Khanna",
+      "Joydeep Ghosh",
+      "Russell Poldrack",
+      "Oluwasanmi Koyejo"
+    ],
+    "venue": "Artificial Intelligence and Statistics",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Neil Lawrence and Aapo Hyvärinen. Probabilistic non-linear principal component analysis with gaussian process latent variable models. Journal of machine learning research, 6(11), 2005.",
+    "title": "Probabilistic non-linear principal component analysis with gaussian process latent variable models",
+    "authors": [
+      "Neil Lawrence",
+      "Aapo Hyvärinen"
+    ],
+    "venue": "Journal of machine learning research",
+    "year": 2005,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Steven J Leon, Åke Björck, and Walter Gander. Gram-schmidt orthogonalization: 100 years and more. Numerical Linear Algebra with Applications, 20(3):492-532, 2013.",
+    "title": "Gram-schmidt orthogonalization: 100 years and more",
+    "authors": [
+      "Åke Steven J Leon",
+      "Walter Björck",
+      "Gander"
+    ],
+    "venue": "Numerical Linear Algebra with Applications",
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Geoffrey J McLachlan and Thriyambakam Krishnan. The EM algorithm and extensions. John Wiley & Sons, 2007.",
+    "title": "The EM algorithm and extensions",
+    "authors": [
+      "J Geoffrey",
+      "Thriyambakam Mclachlan",
+      "Krishnan"
+    ],
+    "year": 2007,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Tristan Needham. A visual explanation of jensen's inequality. The American mathematical monthly, 100(8):768-771, 1993.",
+    "title": "A visual explanation of jensen's inequality",
+    "authors": [
+      "Tristan Needham"
+    ],
+    "venue": "The American mathematical monthly",
+    "year": 1993,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Anahita Nodehi, Mousa Golalizadeh, Mehdi Maadooliat, and Claudio Agostinelli. Torus probabilistic principal component analysis. arXiv preprint arXiv:2008.10725, 2020.",
+    "title": "Torus probabilistic principal component analysis",
+    "authors": [
+      "Anahita Nodehi",
+      "Mousa Golalizadeh",
+      "Mehdi Maadooliat",
+      "Claudio Agostinelli"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2008.10725"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Chongsun Park, Morgan C Wang, and Eun Bi Mo. Probabilistic penalized principal component analysis. Communications for Statistical Applications and Methods, 24(2):143-154, 2017.",
+    "title": "Probabilistic penalized principal component analysis",
+    "authors": [
+      "Chongsun Park",
+      "Morgan C Wang",
+      "Eun Bi Mo"
+    ],
+    "venue": "Communications for Statistical Applications and Methods",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Beresford N Parlett. The qr algorithm. Computing in science & engineering, 2(1):38-42, 2000.",
+    "title": "The qr algorithm",
+    "authors": [
+      "N Beresford",
+      "Parlett"
+    ],
+    "venue": "Computing in science & engineering",
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Kaare Brandt Petersen, Michael Syskind Pedersen, et al. The matrix cookbook. Technical University of Denmark, 7(15):510, 2008.",
+    "title": "The matrix cookbook",
+    "authors": [
+      "Kaare Brandt Petersen",
+      "Michael Syskind Pedersen"
+    ],
+    "venue": "Technical University of Denmark",
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Adrien Peyrache and György Buzsáki. Extracellular recordings from multi-site silicon probes in the anterior thalamus and subicular formation of freely moving mice. CRCNS. org, 2015.",
+    "title": "Extracellular recordings from multi-site silicon probes in the anterior thalamus and subicular formation of freely moving mice",
+    "authors": [
+      "Adrien Peyrache",
+      "György Buzsáki"
+    ],
+    "venue": "CRCNS. org",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Adrien Peyrache, Marie M Lacroix, Peter C Petersen, and György Buzsáki. Internally organized mechanisms of the head direction sense. Nature neuroscience, 18(4):569-575, 2015.",
+    "title": "Internally organized mechanisms of the head direction sense",
+    "authors": [
+      "Adrien Peyrache",
+      "Marie M Lacroix",
+      "Peter C Petersen",
+      "György Buzsáki"
+    ],
+    "venue": "Nature neuroscience",
+    "year": 2015,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Sam Roweis and Zoubin Ghahramani. A unifying review of linear gaussian models. Neural computation, 11(2):305-345, 1999.",
+    "title": "A unifying review of linear gaussian models",
+    "authors": [
+      "Sam Roweis",
+      "Zoubin Ghahramani"
+    ],
+    "venue": "Neural computation",
+    "year": 1999,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Walter Rudin et al. Principles of mathematical analysis, volume 3. McGraw-hill New York, 1964.",
+    "title": "Principles of mathematical analysis",
+    "authors": [
+      "Walter Rudin"
+    ],
+    "year": 1964,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Omid G Sani, Bijan Pesaran, and Maryam M Shanechi. Dissociative and prioritized modeling of behaviorally relevant neural dynamics using recurrent neural networks. Nature neuroscience, 27 (10):2033-2045, 2024.",
+    "title": "Dissociative and prioritized modeling of behaviorally relevant neural dynamics using recurrent neural networks",
+    "authors": [
+      "G Omid",
+      "Bijan Sani",
+      "Maryam M Pesaran",
+      "Shanechi"
+    ],
+    "venue": "Nature neuroscience",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Gurjeet Singh, Facundo Memoli, Tigran Ishkhanov, Guillermo Sapiro, Gunnar Carlsson, and Dario L Ringach. Topological analysis of population activity in visual cortex. Journal of vision, 8(8): 11-11, 2008.",
+    "title": "Topological analysis of population activity in visual cortex",
+    "authors": [
+      "Gurjeet Singh",
+      "Facundo Memoli",
+      "Tigran Ishkhanov",
+      "Guillermo Sapiro",
+      "Gunnar Carlsson",
+      "Dario L Ringach"
+    ],
+    "venue": "Journal of vision",
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Joshua B Tenenbaum, Vin de Silva, and John C Langford. A global geometric framework for nonlinear dimensionality reduction. science, 290(5500):2319-2323, 2000.",
+    "title": "A global geometric framework for nonlinear dimensionality reduction",
+    "authors": [
+      "Joshua B Tenenbaum",
+      "Vin De Silva",
+      "John C Langford"
+    ],
+    "venue": "science",
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Michael E Tipping and Christopher M Bishop. Mixtures of probabilistic principal component analyzers. Neural computation, 11(2):443-482, 1999a.",
+    "title": "Mixtures of probabilistic principal component analyzers",
+    "authors": [
+      "E Michael",
+      "Christopher M Tipping",
+      "Bishop"
+    ],
+    "venue": "Neural computation",
+    "year": 1999,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Michael E Tipping and Christopher M Bishop. Probabilistic principal component analysis. Journal of the Royal Statistical Society Series B: Statistical Methodology, 61(3):611-622, 1999b.",
+    "title": "Probabilistic principal component analysis",
+    "authors": [
+      "E Michael",
+      "Christopher M Tipping",
+      "Bishop"
+    ],
+    "venue": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+    "year": 1999,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Yuxiao Yang, Parima Ahmadipour, and Maryam M Shanechi. Adaptive latent state modeling of brain network dynamics with real-time learning rate optimization. Journal of Neural Engineering, 18(3): 036013, 2021.",
+    "title": "Adaptive latent state modeling of brain network dynamics with real-time learning rate optimization",
+    "authors": [
+      "Yuxiao Yang",
+      "Parima Ahmadipour",
+      "Maryam M Shanechi"
+    ],
+    "venue": "Journal of Neural Engineering",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Junsong Yin, Dewen Hu, and Zongtan Zhou. Noisy manifold learning using neighborhood smoothing embedding. Pattern Recognition Letters, 29(11):1613-1620, 2008.",
+    "title": "Noisy manifold learning using neighborhood smoothing embedding",
+    "authors": [
+      "Junsong Yin",
+      "Dewen Hu",
+      "Zongtan Zhou"
+    ],
+    "venue": "Pattern Recognition Letters",
+    "year": 2008,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Shipeng Yu, Kai Yu, Volker Tresp, Hans-Peter Kriegel, and Mingrui Wu. Supervised probabilistic principal component analysis. In Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining, pp. 464-473, 2006.",
+    "title": "Supervised probabilistic principal component analysis",
+    "authors": [
+      "Shipeng Yu",
+      "Kai Yu",
+      "Hans-Peter Volker Tresp",
+      "Mingrui Kriegel",
+      "Wu"
+    ],
+    "venue": "Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining",
+    "year": 2006,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Jingxin Zhang, Hao Chen, Songhang Chen, and Xia Hong. An improved mixture of probabilistic pca for nonlinear data-driven process monitoring. IEEE transactions on cybernetics, 49(1):198-210, 2017.",
+    "title": "An improved mixture of probabilistic pca for nonlinear data-driven process monitoring",
+    "authors": [
+      "Jingxin Zhang",
+      "Hao Chen",
+      "Songhang Chen",
+      "Xia Hong"
+    ],
+    "venue": "IEEE transactions on cybernetics",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Miaomiao Zhang and Tom Fletcher. Probabilistic principal geodesic analysis. Advances in neural information processing systems, 26, 2013.",
+    "title": "Advances in neural information processing systems",
+    "authors": [
+      "Miaomiao Zhang",
+      "Tom Fletcher"
+    ],
+    "year": 2013,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Youshan Zhang, Jiarui Xing, and Miaomiao Zhang. Mixture probabilistic principal geodesic analysis. In Multimodal Brain Image Analysis and Mathematical Foundations of Computational Anatomy: 4th International Workshop, MBIA 2019, and 7th International Workshop, MFCA 2019, Held in Conjunction with MICCAI 2019, Shenzhen, China, October 17, 2019, Proceedings 4, pp. 196-208. Springer, 2019.",
+    "title": "Mixture probabilistic principal geodesic analysis",
+    "authors": [
+      "Youshan Zhang",
+      "Jiarui Xing",
+      "Miaomiao Zhang"
+    ],
+    "venue": "Multimodal Brain Image Analysis and Mathematical Foundations of Computational Anatomy: 4th International Workshop, MBIA 2019, and 7th International Workshop",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Wenni Zheng, Pengbo Bo, Yang Liu, and Wenping Wang. Fast b-spline curve fitting by l-bfgs. Computer Aided Geometric Design, 29(7):448-462, 2012.",
+    "title": "Fast b-spline curve fitting by l-bfgs",
+    "authors": [
+      "Wenni Zheng",
+      "Pengbo Bo",
+      "Yang Liu",
+      "Wenping Wang"
+    ],
+    "venue": "Computer Aided Geometric Design",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

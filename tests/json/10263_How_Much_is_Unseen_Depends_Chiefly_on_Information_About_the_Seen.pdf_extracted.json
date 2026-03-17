@@ -1,0 +1,424 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Shakespeare plays. URL https://www.kaggle.com/datasets/kingburrito666/ shakespeare-plays.",
+    "title": "Shakespeare plays",
+    "authors": [],
+    "identifiers": {
+      "url": "https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Jayadev Acharya, Ashkan Jafarpour, Alon Orlitsky, and Ananda Theertha Suresh. Optimal probability estimation with applications to prediction and classification. In Shai Shalev-Shwartz and Ingo Steinwart (eds.), Proceedings of the 26th Annual Conference on Learning Theory, volume 30 of Proceedings of Machine Learning Research, pp. 764-796, Princeton, NJ, USA, 12-14 Jun 2013. PMLR. Joakim Arvidsson. Australian population data by region (cc by 4.0), August 2023. URL https://www.kaggle.com/datasets/joebeachcapital/ australian-population-data-by-region. (CC BY 4.0).",
+    "title": "Optimal probability estimation with applications to prediction and classification",
+    "authors": [
+      "Jayadev Acharya",
+      "Ashkan Jafarpour",
+      "Alon Orlitsky",
+      "Ananda Theertha",
+      "Suresh"
+    ],
+    "venue": "Proceedings of the 26th Annual Conference on Learning Theory",
+    "year": 2013,
+    "identifiers": {
+      "url": "https://www.kaggle.com/datasets/joebeachcapital/australian-population-data-by-region"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Marcel Böhme. STADS: Software testing as species discovery. ACM Transactions on Software Engineering and Methodology, 27(2):7:1-7:52, June 2018. doi: 10.1145/3210309.",
+    "title": "STADS: Software testing as species discovery",
+    "authors": [
+      "Marcel Böhme"
+    ],
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "year": 2018,
+    "identifiers": {
+      "doi": "10.1145/3210309"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Marcel Böhme. Statistical reasoning about programs. In Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: New Ideas and Emerging Results, ICSE-NIER '22, pp. 76-80, New York, NY, USA, 2022. Association for Computing Machinery. ISBN 9781450392242. doi: 10.1145/3510455.3512796. URL https://doi.org/10.1145/ 3510455.3512796.",
+    "title": "Statistical reasoning about programs",
+    "authors": [
+      "Marcel Böhme"
+    ],
+    "venue": "Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: New Ideas and Emerging Results, ICSE-NIER '22",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.1145/3510455.3512796",
+      "arxiv_id": "0455.35127",
+      "url": "https://doi.org/10.1145/3510455.3512796"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Marcel Böhme, Danushka Liyanage, and Valentin Wüstholz. Estimating residual risk in greybox fuzzing. ESEC/FSE 2021, pp. 230-241, New York, NY, USA, 2021. Association for Computing Machinery. ISBN 9781450385626. doi: 10.1145/3468264.3468570. URL https://doi. org/10.1145/3468264.3468570.",
+    "title": "Estimating residual risk in greybox fuzzing",
+    "authors": [
+      "Marcel Böhme",
+      "Danushka Liyanage",
+      "Valentin Wüstholz"
+    ],
+    "venue": "ESEC/FSE 2021",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.1145/3468264.3468570",
+      "arxiv_id": "8264.34685",
+      "url": "https://doi.org/10.1145/3468264.3468570"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Anne Chao. Nonparametric estimation of the number of classes in a population. Scandinavian Journal of statistics, pp. 265-270, 1984.",
+    "title": "Nonparametric estimation of the number of classes in a population",
+    "authors": [
+      "Anne Chao"
+    ],
+    "venue": "Scandinavian Journal of statistics",
+    "year": 1984,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Anne Chao and Lou Jost. Coverage-based rarefaction and extrapolation: standardizing samples by completeness rather than size. Ecology, 93 12:2533-47, 2012.",
+    "title": "Coverage-based rarefaction and extrapolation: standardizing samples by completeness rather than size",
+    "authors": [
+      "Anne Chao",
+      "Lou Jost"
+    ],
+    "venue": "Ecology",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Evgeny Drukh and Yishay Mansour. Concentration bounds for unigrams language model. In John Shawe-Taylor and Yoram Singer (eds.), Learning Theory, pp. 170-185, Berlin, Heidelberg, 2004. Springer Berlin Heidelberg. ISBN 978-3-540-27819-1.",
+    "title": "Concentration bounds for unigrams language model",
+    "authors": [
+      "Evgeny Drukh",
+      "Yishay Mansour"
+    ],
+    "venue": "Learning Theory",
+    "year": 2004,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Bradley Efron and Ronald Thisted. Estimating the number of unsen species: How many words did shakespeare know? Biometrika, 63(3):435-447, 1976. ISSN 00063444. URL http://www. jstor.org/stable/2335721.",
+    "title": "Estimating the number of unsen species: How many words did shakespeare know?",
+    "authors": [
+      "Bradley Efron",
+      "Ronald Thisted"
+    ],
+    "venue": "Biometrika",
+    "year": 1976,
+    "identifiers": {
+      "url": "http://www.jstor.org/stable/2335721"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "I. J. Good and G. H. Toulmin. The number of new species, and the increase in population coverage, when a sample is increased. Biometrika, 43(1/2):45-63, 1956. ISSN 00063444. URL http: //www.jstor.org/stable/2333577.",
+    "title": "The number of new species, and the increase in population coverage, when a sample is increased",
+    "authors": [
+      "I J Good",
+      "G H Toulmin"
+    ],
+    "venue": "Biometrika",
+    "year": 1956,
+    "identifiers": {
+      "url": "http://www.jstor.org/stable/2333577"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Irving J Good. The population frequencies of species and the estimation of population parameters. Biometrika, 40(3-4):237-264, 1953.",
+    "title": "The population frequencies of species and the estimation of population parameters",
+    "authors": [
+      "J Irving",
+      "Good"
+    ],
+    "venue": "Biometrika",
+    "year": 1953,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Yi Hao and Ping Li. Optimal prediction of the number of unseen species with multiplicity.",
+    "title": "Optimal prediction of the number of unseen species with multiplicity",
+    "authors": [
+      "Yi Hao",
+      "Ping Li"
+    ],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "In H. Larochelle, M. Ranzato, R. Hadsell, M.F. Balcan, and H. Lin (eds.), Advances in Neural Information Processing Systems, volume 33, pp. 8553-8564. Curran Associates, Inc., 2020. URL https://proceedings.neurips.cc/paper/2020/file/ 618790ae971abb5610b16c826fb72d01-Paper.pdf.",
+    "title": "Advances in Neural Information Processing Systems",
+    "authors": [
+      "In H Larochelle",
+      "M Ranzato",
+      "R Hadsell",
+      "M"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper/2020/file/618790"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Biing-Hwang Juang and SH Lo. On the bias of the turing-good estimate of probabilities. IEEE Transactions on signal processing, 2(42):496-498, 1994.",
+    "title": "On the bias of the turing-good estimate of probabilities",
+    "authors": [
+      "Biing-Hwang Juang",
+      "S H Lo"
+    ],
+    "venue": "IEEE Transactions on signal processing",
+    "year": 1994,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Seongmin Lee and Marcel Böhme. Statistical reachability analysis. In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE 2023, pp. 326-337, New York, NY, USA, 2023. Association for Computing Machinery. ISBN 9798400703270. doi: 10.1145/3611643.3616268. URL https: //doi.org/10.1145/3611643.3616268.",
+    "title": "Statistical reachability analysis",
+    "authors": [
+      "Seongmin Lee",
+      "Marcel Böhme"
+    ],
+    "venue": "Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE 2023",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.1145/3611643.3616268",
+      "arxiv_id": "1643.36162",
+      "url": "https://doi.org/10.1145/3611643.3616268"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Seongmin Lee, Shreyas Minocha, and Marcel Böhme. Accounting for Missing Events in Statistical Information Leakage Analysis . In 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE), pp. 217-228, Los Alamitos, CA, USA, May 2025. IEEE Computer Society. doi: 10.1109/ICSE55347.2025.00018. URL https://doi.ieeecomputersociety. org/10.1109/ICSE55347.2025.00018.",
+    "title": "Accounting for Missing Events in Statistical Information Leakage Analysis",
+    "authors": [
+      "Seongmin Lee",
+      "Shreyas Minocha",
+      "Marcel Böhme"
+    ],
+    "venue": "2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)",
+    "year": 2025,
+    "identifiers": {
+      "doi": "10.1109/ICSE55347.2025.00018",
+      "arxiv_id": "5347.2025",
+      "url": "https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00018"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Danushka Liyanage, Seongmin Lee, Chakkrit Tantithamthavorn, and Marcel Böhme. Extrapolating Coverage Rate in Greybox Fuzzing. In Proceedings of the IEEE/ACM 46th International Conference on Software Engineering, ICSE '24, pp. 1-12. Association for Computing Machinery. ISBN 9798400702174. doi: 10.1145/3597503.3639198. URL https://dl.acm.org/doi/10. 1145/3597503.3639198.",
+    "title": "Extrapolating Coverage Rate in Greybox Fuzzing",
+    "authors": [
+      "Danushka Liyanage",
+      "Seongmin Lee",
+      "Chakkrit Tantithamthavorn",
+      "Marcel Böhme"
+    ],
+    "venue": "Proceedings of the IEEE/ACM 46th International Conference on Software Engineering, ICSE '24",
+    "identifiers": {
+      "doi": "10.1145/3597503.3639198",
+      "url": "https://dl.acm.org/doi/10.1145/3597503.3639198"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "David McAllester and Robert E. Schapire. On the convergence rate of good-Turing estimators. In Proceedings of the 13th Annual Conference on Computational Learning Theory, pp. 1-6. Morgan Kaufmann, San Francisco, 2000.",
+    "title": "On the convergence rate of good-Turing estimators",
+    "authors": [
+      "David Mcallester",
+      "Robert E Schapire"
+    ],
+    "venue": "Proceedings of the 13th Annual Conference on Computational Learning Theory",
+    "year": 2000,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Melanie Mitchell. An introduction to genetic algorithms. MIT press, 1998.",
+    "title": "An introduction to genetic algorithms",
+    "authors": [
+      "Melanie Mitchell"
+    ],
+    "year": 1998,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Jorge Nocedal and Stephen J. Wright. Numerical Optimization, volume XXII, 664 of Springer Series in Operations Research and Financial Engineering. Springer New York, NY, 2 edition, 2006. ISBN 978-0-387-40065-5. doi: 10.1007/978-0-387-40065-5.",
+    "title": "Numerical Optimization",
+    "authors": [
+      "Jorge Nocedal",
+      "Stephen J Wright"
+    ],
+    "year": 2006,
+    "identifiers": {
+      "doi": "10.1007/978-0-387-40065-5"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Alon Orlitsky and Ananda Theertha Suresh. Competitive distribution estimation: Why is good-turing good.",
+    "title": "Competitive distribution estimation: Why is good-turing good",
+    "authors": [
+      "Alon Orlitsky",
+      "Ananda Theertha",
+      "Suresh"
+    ],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "In C. Cortes, N. Lawrence, D. Lee, M. Sugiyama, and R. Garnett (eds.), Advances in Neural Information Processing Systems, volume 28. Curran Associates, Inc., 2015. URL https://proceedings.neurips.cc/paper/2015/file/ d759175de8ea5b1d9a2660e45554894f-Paper.pdf.",
+    "title": "Advances in Neural Information Processing Systems",
+    "authors": [
+      "In C Cortes",
+      "N Lawrence",
+      "D Lee",
+      "M"
+    ],
+    "year": 2015,
+    "identifiers": {
+      "url": "https://proceedings.neurips.cc/paper/2015/file/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Alon Orlitsky, Narayana P. Santhanam, and Junan Zhang. Always good turing: Asymptotically optimal probability estimation. Science, 302(5644):427-431, 2003. doi: 10.1126/science.1088284.",
+    "title": "Always good turing: Asymptotically optimal probability estimation",
+    "authors": [
+      "Alon Orlitsky",
+      "P Narayana",
+      "Junan Santhanam",
+      "Zhang"
+    ],
+    "venue": "Science",
+    "year": 2003,
+    "identifiers": {
+      "doi": "10.1126/science.1088284"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Alon Orlitsky, Ananda Theertha Suresh, and Yihong Wu. Optimal prediction of the number of unseen species. Proceedings of the National Academy of Sciences, 113(47):13283-13288, 2016. doi: 10.1073/pnas.1607774113. URL https://www.pnas.org/doi/abs/10.1073/pnas. 1607774113.",
+    "title": "Optimal prediction of the number of unseen species",
+    "authors": [
+      "Alon Orlitsky",
+      "Ananda Theertha Suresh",
+      "Yihong Wu"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 2016,
+    "identifiers": {
+      "doi": "10.1073/pnas.1607774113",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1607774113"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Amichai Painsky. Convergence guarantees for the good-turing estimator. Journal of Machine Learning Research, 23(279):1-37, 2022. URL http://jmlr.org/papers/v23/21-1528. html.",
+    "title": "Convergence guarantees for the good-turing estimator",
+    "authors": [
+      "Amichai Painsky"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "year": 2022,
+    "identifiers": {
+      "url": "http://jmlr.org/papers/v23/21-1528.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Amichai Painsky. Generalized Good-Turing Improves Missing Mass Estimation. Journal of the American Statistical Association, 118(543):1890-1899, July 2023. ISSN 0162-1459. doi: 10. 1080/01621459.2021.2020658.",
+    "title": "Generalized Good-Turing Improves Missing Mass Estimation",
+    "authors": [
+      "Amichai Painsky"
+    ],
+    "venue": "Journal of the American Statistical Association",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.1080/01621459.2021.2020658",
+      "arxiv_id": "1459.2021"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Gregory Valiant and Paul Valiant. Instance optimal learning of discrete distributions. In Proceedings of the Forty-Eighth Annual ACM Symposium on Theory of Computing, STOC '16, pp. 142-155, New York, NY, USA, 2016. Association for Computing Machinery. ISBN 9781450341325. doi: 10.1145/2897518.2897641. URL https://doi.org/10.1145/2897518.2897641.",
+    "title": "Instance optimal learning of discrete distributions",
+    "authors": [
+      "Gregory Valiant",
+      "Paul Valiant"
+    ],
+    "venue": "Proceedings of the Forty-Eighth Annual ACM Symposium on Theory of Computing, STOC '16",
+    "year": 2016,
+    "identifiers": {
+      "doi": "10.1145/2897518.2897641",
+      "arxiv_id": "7518.28976",
+      "url": "https://doi.org/10.1145/2897518.2897641"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

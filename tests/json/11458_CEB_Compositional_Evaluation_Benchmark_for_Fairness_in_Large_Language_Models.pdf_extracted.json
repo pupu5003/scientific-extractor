@@ -1,0 +1,1384 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Abubakar Abid, Maheen Farooqi, and James Zou. Persistent anti-muslim bias in large language models. In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society, pp. 298-306, 2021.",
+    "title": "Persistent anti-muslim bias in large language models",
+    "authors": [
+      "Abubakar Abid",
+      "Maheen Farooqi",
+      "James Zou"
+    ],
+    "venue": "Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Josh Achiam, Steven Adler, Sandhini Agarwal, Lama Ahmad, Ilge Akkaya, Florencia Leoni Aleman, Diogo Almeida, Janko Altenschmidt, Sam Altman, Shyamal Anadkat, et al. Gpt-4 technical report. arXiv preprint arXiv:2303.08774, 2023.",
+    "title": "Shyamal Anadkat, et al. Gpt-4 technical report",
+    "authors": [
+      "Josh Achiam",
+      "Steven Adler",
+      "Sandhini Agarwal",
+      "Lama Ahmad",
+      "Ilge Akkaya",
+      "Florencia Leoni Aleman",
+      "Diogo Almeida",
+      "Janko Altenschmidt",
+      "Sam Altman"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2303.08774"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Chirag Agarwal, Himabindu Lakkaraju, and Marinka Zitnik. Towards a unified framework for fair and stable graph representation learning. In Uncertainty in Artificial Intelligence, pp. 2114-2124. PMLR, 2021.",
+    "title": "Towards a unified framework for fair and stable graph representation learning",
+    "authors": [
+      "Chirag Agarwal",
+      "Himabindu Lakkaraju",
+      "Marinka Zitnik"
+    ],
+    "venue": "Uncertainty in Artificial Intelligence",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Yuvanesh Anand, Zach Nussbaum, Brandon Duderstadt, Benjamin Schmidt, and Andriy Mulyar. GPT4All: Training an assistant-style chatbot with large scale data distillation from GPT-3.5-Turbo, 2023. Anthropic. Claude models, 2023. URL https://www.anthropic.com/claude.",
+    "title": "GPT4All: Training an assistant-style chatbot with large scale data distillation from GPT-3.5-Turbo",
+    "authors": [
+      "Yuvanesh Anand",
+      "Zach Nussbaum",
+      "Brandon Duderstadt",
+      "Benjamin Schmidt",
+      "Andriy Mulyar"
+    ],
+    "venue": "Anthropic. Claude models",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://www.anthropic.com/claude"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Soumya Barikeri, Anne Lauscher, Ivan Vulić, and Goran Glavaš. Redditbias: A real-world resource for bias evaluation and debiasing of conversational language models. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pp. 1941-1955, 2021.",
+    "title": "Redditbias: A real-world resource for bias evaluation and debiasing of conversational language models",
+    "authors": [
+      "Soumya Barikeri",
+      "Anne Lauscher",
+      "Ivan Vulić",
+      "Goran Glavaš"
+    ],
+    "venue": "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Emily M Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. On the dangers of stochastic parrots: Can language models be too big? In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency, pp. 610-623, 2021.",
+    "title": "On the dangers of stochastic parrots: Can language models be too big?",
+    "authors": [
+      "Emily M Bender",
+      "Timnit Gebru",
+      "Angelina Mcmillan-Major",
+      "Shmargaret Shmitchell"
+    ],
+    "venue": "Proceedings of the 2021 ACM conference on fairness, accountability, and transparency",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Tolga Bolukbasi, Kai-Wei Chang, James Y Zou, Venkatesh Saligrama, and Adam T Kalai. Man is to computer programmer as woman is to homemaker? debiasing word embeddings. In NeurIPS, 2016.",
+    "title": "Man is to computer programmer as woman is to homemaker? debiasing word embeddings",
+    "authors": [
+      "Tolga Bolukbasi",
+      "Kai-Wei Chang",
+      "James Y Zou",
+      "Venkatesh Saligrama",
+      "Adam T Kalai"
+    ],
+    "venue": "NeurIPS",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et al. Language models are few-shot learners. In NeurIPS, volume 33, pp. 1877-1901, 2020.",
+    "title": "Language models are few-shot learners",
+    "authors": [
+      "Tom Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "Jared D Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell"
+    ],
+    "venue": "NeurIPS",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Aylin Caliskan, Joanna J Bryson, and Arvind Narayanan. Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334):183-186, April 2017. ISSN 0036-8075. doi: 10.1126/science.aal4230.",
+    "title": "Semantics derived automatically from language corpora contain human-like biases",
+    "authors": [
+      "Aylin Caliskan",
+      "Joanna J Bryson",
+      "Arvind Narayanan"
+    ],
+    "venue": "Science",
+    "year": 2017,
+    "identifiers": {
+      "doi": "10.1126/science.aal4230"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, et al. A survey on evaluation of large language models. arXiv preprint arXiv:2307.03109, 2023.",
+    "title": "A survey on evaluation of large language models",
+    "authors": [
+      "Yupeng Chang",
+      "Xu Wang",
+      "Jindong Wang",
+      "Yuan Wu",
+      "Kaijie Zhu",
+      "Hao Chen",
+      "Linyi Yang",
+      "Xiaoyuan Yi",
+      "Cunxiang Wang",
+      "Yidong Wang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.03109"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Alexandra Chouldechova and Aaron Roth. The frontiers of fairness in machine learning. arXiv:1810.08810, 2018.",
+    "title": "The frontiers of fairness in machine learning",
+    "authors": [
+      "Alexandra Chouldechova",
+      "Aaron Roth"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1810.08810"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung, Charles Sutton, Sebastian Gehrmann, Parker Schuh, Kensen Shi, Sasha Tsvyashchenko, Joshua Maynez, Abhishek Rao, Parker Barnes, Yi Tay, Noam Shazeer, Vinodkumar Prabhakaran, Emily Reif, Nan Du, Ben Hutchinson, Reiner Pope, James Bradbury, Jacob Austin, Michael Isard, Guy Gur-Ari, Pengcheng Yin, Toju Duke, Anselm Levskaya, Sanjay Ghemawat, Sunipa Dev, Henryk Michalewski, Xavier Garcia, Vedant Misra, Kevin Robinson, Liam Fedus, Denny Zhou, Daphne Ippolito, David Luan, Hyeontaek Lim, Barret Zoph, Alexander Spiridonov, Ryan Sepassi, David Dohan, Shivani Agrawal, Mark Omernick, Andrew M. Dai, Thanumalayan Sankaranarayana Pillai, Marie Pellat, Aitor Lewkowycz, Erica Moreira, Rewon Child, Oleksandr Polozov, Katherine Lee, Zongwei Zhou, Xuezhi Wang, Brennan Saeta, Mark Diaz, Orhan Firat, Michele Catasta, Jason Wei, Kathy Meier-Hellstern, Douglas Eck, Jeff Dean, Slav Petrov, and Noah Fiedel. Palm: Scaling language modeling with pathways. arXiv e-prints, 2022.",
+    "authors": [
+      "Aakanksha Chowdhery",
+      "Sharan Narang",
+      "Jacob Devlin",
+      "Maarten Bosma",
+      "Gaurav Mishra",
+      "Adam Roberts",
+      "Paul Barham",
+      "Hyung Won Chung",
+      "Charles Sutton",
+      "Sebastian Gehrmann",
+      "Parker Schuh",
+      "Kensen Shi",
+      "Sasha Tsvyashchenko",
+      "Joshua Maynez",
+      "Abhishek Rao",
+      "Parker Barnes",
+      "Yi Tay",
+      "Noam Shazeer",
+      "Vinodkumar Prabhakaran",
+      "Emily Reif",
+      "Nan Du",
+      "Ben Hutchinson",
+      "Reiner Pope",
+      "James Bradbury",
+      "Jacob Austin",
+      "Michael Isard",
+      "Guy Gur-Ari",
+      "Pengcheng Yin",
+      "Toju Duke",
+      "Anselm Levskaya",
+      "Sanjay Ghemawat",
+      "Sunipa Dev",
+      "Henryk Michalewski",
+      "Xavier Garcia",
+      "Vedant Misra",
+      "Kevin Robinson",
+      "Liam Fedus",
+      "Denny Zhou",
+      "Daphne Ippolito",
+      "David Luan",
+      "Hyeontaek Lim",
+      "Barret Zoph",
+      "Alexander Spiridonov",
+      "Ryan Sepassi",
+      "David Dohan",
+      "Shivani Agrawal",
+      "Mark Omernick",
+      "Andrew M. Dai",
+      "Thanumalayan Sankaranarayana Pillai",
+      "Marie Pellat",
+      "Aitor Lewkowycz",
+      "Erica Moreira",
+      "Rewon Child",
+      "Oleksandr Polozov",
+      "Katherine Lee",
+      "Zongwei Zhou",
+      "Xuezhi Wang",
+      "Brennan Saeta",
+      "Mark Diaz",
+      "Orhan Firat",
+      "Michele Catasta",
+      "Jason Wei",
+      "Kathy Meier-Hellstern",
+      "Douglas Eck",
+      "Jeff Dean",
+      "Slav Petrov",
+      "Noah Fiedel"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Zhibo Chu, Zichong Wang, and Wenbin Zhang. Fairness in large language models: A taxonomic survey. arXiv preprint arXiv:2404.01349, 2024.",
+    "title": "Fairness in large language models: A taxonomic survey",
+    "authors": [
+      "Zhibo Chu",
+      "Zichong Wang",
+      "Wenbin Zhang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.01349"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Ching-Yao Chuang and Youssef Mroueh. Fair mixup: Fairness via interpolation. In ICLR, 2021. Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, et al. Scaling instruction-finetuned language models. Journal of Machine Learning Research, 25(70):1-53, 2024.",
+    "title": "Scaling instruction-finetuned language models",
+    "authors": [
+      "Ching-Yao Chuang",
+      "Youssef Mroueh",
+      "Le Hou",
+      "Shayne Longpre",
+      "Barret Zoph",
+      "Yi Tay",
+      "William Fedus",
+      "Yunxuan Li",
+      "Xuezhi Wang",
+      "Mostafa Dehghani",
+      "Siddhartha Brahma"
+    ],
+    "venue": "ICLR, 2021. Hyung Won Chung",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Cjadams, Daniel Borkan, Inversion, Jeffrey Sorensen, Lucas Dixon, Lucy Vasserman, and Nithum. Jigsaw unintended bias in toxicity classification. Kaggle, 2019.",
+    "title": "Jigsaw unintended bias in toxicity classification",
+    "authors": [
+      "Daniel Cjadams",
+      "Borkan",
+      "Jeffrey Inversion",
+      "Lucas Sorensen",
+      "Lucy Dixon",
+      "Nithum Vasserman"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Jwala Dhamala, Tony Sun, Varun Kumar, Satyapriya Krishna, Yada Pruksachatkun, Kai-Wei Chang, and Rahul Gupta. Bold: Dataset and metrics for measuring biases in open-ended language generation. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, FAccT '21, pp. 862-872, New York, NY, USA, 2021. Association for Computing Machinery. ISBN 9781450383097. doi: 10.1145/3442188.3445924. URL https://doi.org/10.1145/3442188.3445924.",
+    "title": "Bold: Dataset and metrics for measuring biases in open-ended language generation",
+    "authors": [
+      "Jwala Dhamala",
+      "Tony Sun",
+      "Varun Kumar",
+      "Satyapriya Krishna",
+      "Yada Pruksachatkun",
+      "Kai-Wei Chang",
+      "Rahul Gupta"
+    ],
+    "venue": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, FAccT '21",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.1145/3442188.3445924",
+      "arxiv_id": "2188.34459",
+      "url": "https://doi.org/10.1145/3442188.3445924"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Yushun Dong, Song Wang, Yu Wang, Tyler Derr, and Jundong Li. On structural explanation of bias in graph neural networks. In SIGKDD, 2022.",
+    "title": "On structural explanation of bias in graph neural networks",
+    "authors": [
+      "Yushun Dong",
+      "Song Wang",
+      "Yu Wang",
+      "Tyler Derr",
+      "Jundong Li"
+    ],
+    "venue": "SIGKDD",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Yushun Dong, Jing Ma, Song Wang, Chen Chen, and Jundong Li. Fairness in graph mining: A survey. TKDE, 2023a.",
+    "title": "Fairness in graph mining: A survey",
+    "authors": [
+      "Yushun Dong",
+      "Jing Ma",
+      "Song Wang",
+      "Chen Chen",
+      "Jundong Li"
+    ],
+    "venue": "TKDE",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Yushun Dong, Song Wang, Jing Ma, Ninghao Liu, and Jundong Li. Interpreting unfairness in graph neural networks via training node attribution. In AAAI, 2023b.",
+    "title": "Interpreting unfairness in graph neural networks via training node attribution",
+    "authors": [
+      "Yushun Dong",
+      "Song Wang",
+      "Jing Ma",
+      "Ninghao Liu",
+      "Jundong Li"
+    ],
+    "venue": "AAAI",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Dheeru Dua, Casey Graff, et al. Uci machine learning repository. 2017.",
+    "title": "Uci machine learning repository",
+    "authors": [
+      "Dheeru Dua",
+      "Casey Graff"
+    ],
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Emilio Ferrara. Should chatgpt be biased? challenges and risks of bias in large language models. arXiv preprint arXiv:2304.03738, 2023.",
+    "title": "Should chatgpt be biased? challenges and risks of bias in large language models",
+    "authors": [
+      "Emilio Ferrara"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2304.03738"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Eve Fleisig, Aubrie Amstutz, Chad Atalla, Su Lin Blodgett, Hal Daumé III, Alexandra Olteanu, Emily Sheng, Dan Vann, and Hanna Wallach. Fairprism: evaluating fairness-related harms in text generation. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 6231-6251, 2023.",
+    "title": "Fairprism: evaluating fairness-related harms in text generation",
+    "authors": [
+      "Eve Fleisig",
+      "Aubrie Amstutz",
+      "Chad Atalla",
+      "Su Lin Blodgett",
+      "Hal Daumé",
+      "Iii",
+      "Alexandra Olteanu",
+      "Emily Sheng",
+      "Dan Vann",
+      "Hanna Wallach"
+    ],
+    "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Isabel O Gallegos, Ryan A Rossi, Joe Barrow, Md Mehrab Tanjim, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, and Nesreen K Ahmed. Bias and fairness in large language models: A survey. arXiv preprint arXiv:2309.00770, 2023.",
+    "title": "Bias and fairness in large language models: A survey",
+    "authors": [
+      "Ryan A Isabel O Gallegos",
+      "Joe Rossi",
+      "Md Barrow",
+      "Sungchul Mehrab Tanjim",
+      "Franck Kim",
+      "Tong Dernoncourt",
+      "Ruiyi Yu",
+      "Nesreen K Zhang",
+      "Ahmed"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2309.00770"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Deep Ganguli, Liane Lovitt, Jackson Kernion, Amanda Askell, Yuntao Bai, Saurav Kadavath, Ben Mann, Ethan Perez, Nicholas Schiefer, Kamal Ndousse, et al. Red teaming language models to reduce harms: Methods, scaling behaviors, and lessons learned. arXiv preprint arXiv:2209.07858, 2022.",
+    "title": "Red teaming language models to reduce harms: Methods, scaling behaviors, and lessons learned",
+    "authors": [
+      "Deep Ganguli",
+      "Liane Lovitt",
+      "Jackson Kernion",
+      "Amanda Askell",
+      "Yuntao Bai",
+      "Saurav Kadavath",
+      "Ben Mann",
+      "Ethan Perez",
+      "Nicholas Schiefer",
+      "Kamal Ndousse"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2209.07858"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Samuel Gehman, Suchin Gururangan, Maarten Sap, Yejin Choi, and Noah A Smith. Realtoxicityprompts: Evaluating neural toxic degeneration in language models. In Findings of the Association for Computational Linguistics: EMNLP 2020, pp. 3356-3369, 2020.",
+    "title": "Realtoxicityprompts: Evaluating neural toxic degeneration in language models",
+    "authors": [
+      "Suchin Samuel Gehman",
+      "Maarten Gururangan",
+      "Yejin Sap",
+      "Noah A Choi",
+      "Smith"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2020",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Google. Gemini, 2023. URL https://gemini.google.com/.",
+    "authors": [
+      "Google",
+      "Gemini"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://gemini.google.com/"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Yue Huang, Qihui Zhang, Lichao Sun, et al. Trustgpt: A benchmark for trustworthy and responsible large language models. arXiv e-prints, pp. arXiv-2306, 2023.",
+    "title": "A benchmark for trustworthy and responsible large language models. arXiv e-prints",
+    "authors": [
+      "Yue Huang",
+      "Qihui Zhang",
+      "Lichao Sun"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Albert Q Jiang, Alexandre Sablayrolles, Arthur Mensch, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Florian Bressand, Gianna Lengyel, Guillaume Lample, Lucile Saulnier, et al. Mistral 7b. arXiv preprint arXiv:2310.06825, 2023.",
+    "title": "Mistral 7b",
+    "authors": [
+      "Alexandre Albert Q Jiang",
+      "Arthur Sablayrolles",
+      "Chris Mensch",
+      "Devendra Bamford",
+      "Diego Singh Chaplot",
+      "Florian De Las Casas",
+      "Gianna Bressand",
+      "Guillaume Lengyel",
+      "Lucile Lample",
+      "Saulnier"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.06825"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Masahiro Kaneko and Danushka Bollegala. Unmasking the mask-evaluating social biases in masked language models. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 36, pp. 11954-11962, 2022.",
+    "title": "Unmasking the mask-evaluating social biases in masked language models",
+    "authors": [
+      "Masahiro Kaneko",
+      "Danushka Bollegala"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Masahiro Kaneko, Danushka Bollegala, Naoaki Okazaki, and Timothy Baldwin. Evaluating gender bias in large language models via chain-of-thought prompting, 2024.",
+    "title": "Evaluating gender bias in large language models via chain-of-thought prompting",
+    "authors": [
+      "Masahiro Kaneko",
+      "Danushka Bollegala",
+      "Naoaki Okazaki",
+      "Timothy Baldwin"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Atoosa Kasirzadeh and Iason Gabriel. In conversation with artificial intelligence: aligning language models with human values. Philosophy & Technology, 2023.",
+    "title": "In conversation with artificial intelligence: aligning language models with human values",
+    "authors": [
+      "Atoosa Kasirzadeh",
+      "Iason Gabriel"
+    ],
+    "venue": "Philosophy & Technology",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Tom Kwiatkowski, Jennimaria Palomaki, Olivia Redfield, Michael Collins, Ankur Parikh, Chris Alberti, Danielle Epstein, Illia Polosukhin, Jacob Devlin, Kenton Lee, et al. Natural questions: a benchmark for question answering research. Transactions of the Association for Computational Linguistics, 2019.",
+    "title": "Natural questions: a benchmark for question answering research",
+    "authors": [
+      "Tom Kwiatkowski",
+      "Jennimaria Palomaki",
+      "Olivia Redfield",
+      "Michael Collins",
+      "Ankur Parikh",
+      "Chris Alberti",
+      "Danielle Epstein",
+      "Illia Polosukhin",
+      "Jacob Devlin",
+      "Kenton Lee"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Shahar Levy, Koren Lazar, and Gabriel Stanovsky. Collecting a large-scale gender bias dataset for coreference resolution and machine translation. In Marie-Francine Moens, Xuanjing Huang, Lucia Specia, and Scott Wen-tau Yih (eds.), Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 2470-2480, Punta Cana, Dominican Republic, November 2021a. Association for Computational Linguistics. doi: 10.18653/v1/2021.findings-emnlp.211. URL https://aclanthology.org/2021.findings-emnlp.211.",
+    "title": "Collecting a large-scale gender bias dataset for coreference resolution and machine translation",
+    "authors": [
+      "Shahar Levy",
+      "Koren Lazar",
+      "Gabriel Stanovsky"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.18653/v1/2021.findings-emnlp.211",
+      "url": "https://aclanthology.org/2021.findings-emnlp.211"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Shahar Levy, Koren Lazar, and Gabriel Stanovsky. Collecting a large-scale gender bias dataset for coreference resolution and machine translation. In Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 2470-2480, 2021b.",
+    "title": "Collecting a large-scale gender bias dataset for coreference resolution and machine translation",
+    "authors": [
+      "Shahar Levy",
+      "Koren Lazar",
+      "Gabriel Stanovsky"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Y Li, M Du, R Song, X Wang, and Y Wang. A survey on fairness in large language models. arxiv. doi: 10.48550. arXiv preprint arXiv.2308.10149, 2023.",
+    "title": "A survey on fairness in large language models",
+    "authors": [
+      "M Li",
+      "R Du",
+      "X Song",
+      "Y Wang",
+      "Wang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2308.10149"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Yunqi Li, Lanjing Zhang, and Yongfeng Zhang. Fairness of chatgpt. arXiv preprint arXiv:2305.18569, 2024.",
+    "title": "Fairness of chatgpt",
+    "authors": [
+      "Yunqi Li",
+      "Lanjing Zhang",
+      "Yongfeng Zhang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.18569"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihiro Yasunaga, Yian Zhang, Deepak Narayanan, Yuhuai Wu, Ananya Kumar, et al. Holistic evaluation of language models. Transactions on Machine Learning Research, 2023.",
+    "title": "Holistic evaluation of language models",
+    "authors": [
+      "Percy Liang",
+      "Rishi Bommasani",
+      "Tony Lee",
+      "Dimitris Tsipras",
+      "Dilara Soylu",
+      "Michihiro Yasunaga",
+      "Yian Zhang",
+      "Deepak Narayanan",
+      "Yuhuai Wu",
+      "Ananya Kumar"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781, 2013.",
+    "title": "Efficient estimation of word representations in vector space",
+    "authors": [
+      "Tomas Mikolov",
+      "Kai Chen",
+      "Greg Corrado",
+      "Jeffrey Dean"
+    ],
+    "year": 2013,
+    "identifiers": {
+      "arxiv_id": "arXiv:1301.3781"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Moin Nadeem, Anna Bethke, and Siva Reddy. Stereoset: Measuring stereotypical bias in pretrained language models. In NAACL, 2021.",
+    "title": "Stereoset: Measuring stereotypical bias in pretrained language models",
+    "authors": [
+      "Moin Nadeem",
+      "Anna Bethke",
+      "Siva Reddy"
+    ],
+    "venue": "NAACL",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Nikita Nangia, Clara Vania, Rasika Bhalerao, and Samuel Bowman. Crows-pairs: A challenge dataset for measuring social biases in masked language models. In EMNLP, 2020.",
+    "title": "Crows-pairs: A challenge dataset for measuring social biases in masked language models",
+    "authors": [
+      "Nikita Nangia",
+      "Clara Vania",
+      "Rasika Bhalerao",
+      "Samuel Bowman"
+    ],
+    "venue": "EMNLP",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "OpenAI. ChatGPT: Optimizing language models for dialogue., 2022.",
+    "title": "Optimizing language models for dialogue",
+    "authors": [
+      "Openai",
+      "Chatgpt"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Alicia Parrish, Angelica Chen, Nikita Nangia, Vishakh Padmakumar, Jason Phang, Jana Thompson, Phu Mon Htut, and Samuel Bowman. BBQ: A hand-built bias benchmark for question answering. In Smaranda Muresan, Preslav Nakov, and Aline Villavicencio (eds.), Findings of the Association for Computational Linguistics: ACL 2022, pp. 2086-2105, Dublin, Ireland, May 2022. Association for Computational Linguistics. doi: 10.18653/v1/2022.findings-acl.165. URL https://aclanthology.org/2022.findings-acl.165.",
+    "title": "BBQ: A hand-built bias benchmark for question answering",
+    "authors": [
+      "Alicia Parrish",
+      "Angelica Chen",
+      "Nikita Nangia",
+      "Vishakh Padmakumar",
+      "Jason Phang",
+      "Jana Thompson",
+      "Phu Mon Htut",
+      "Samuel Bowman"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2022",
+    "year": 2022,
+    "identifiers": {
+      "doi": "10.18653/v1/2022.findings-acl.165",
+      "url": "https://aclanthology.org/2022.findings-acl.165"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Ethan Perez, Saffron Huang, Francis Song, Trevor Cai, Roman Ring, John Aslanides, Amelia Glaese, Nat McAleese, and Geoffrey Irving. Red teaming language models with language models. In EMNLP, 2022.",
+    "title": "Red teaming language models with language models",
+    "authors": [
+      "Ethan Perez",
+      "Saffron Huang",
+      "Francis Song",
+      "Trevor Cai",
+      "Roman Ring",
+      "John Aslanides",
+      "Amelia Glaese",
+      "Nat Mcaleese",
+      "Geoffrey Irving"
+    ],
+    "venue": "EMNLP",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Rebecca Qian, Candace Ross, Jude Fernandes, Eric Michael Smith, Douwe Kiela, and Adina Williams. Perturbation augmentation for fairer nlp. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pp. 9496-9521, 2022.",
+    "title": "Perturbation augmentation for fairer nlp",
+    "authors": [
+      "Rebecca Qian",
+      "Candace Ross",
+      "Jude Fernandes",
+      "Eric Michael Smith",
+      "Douwe Kiela",
+      "Adina Williams"
+    ],
+    "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Machel Reid, Nikolay Savinov, Denis Teplyashin, Dmitry Lepikhin, Timothy Lillicrap, Jean-baptiste Alayrac, Radu Soricut, Angeliki Lazaridou, Orhan Firat, Julian Schrittwieser, et al. Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context. arXiv preprint arXiv:2403.05530, 2024.",
+    "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+    "authors": [
+      "Machel Reid",
+      "Nikolay Savinov",
+      "Denis Teplyashin",
+      "Dmitry Lepikhin",
+      "Timothy Lillicrap",
+      "Jean-Baptiste Alayrac",
+      "Radu Soricut",
+      "Angeliki Lazaridou",
+      "Orhan Firat",
+      "Julian Schrittwieser"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.05530"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Rachel Rudinger, Jason Naradowsky, Brian Leonard, and Benjamin Van Durme. Gender bias in coreference resolution. In NAACL, 2018.",
+    "title": "Gender bias in coreference resolution",
+    "authors": [
+      "Rachel Rudinger",
+      "Jason Naradowsky",
+      "Brian Leonard",
+      "Benjamin Van Durme"
+    ],
+    "venue": "NAACL",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Dylan Slack, Sorelle A Friedler, and Emile Givental. Fairness warnings and fair-maml: learning fairly with minimal data. In FAccT, 2020.",
+    "title": "Fairness warnings and fair-maml: learning fairly with minimal data",
+    "authors": [
+      "Dylan Slack",
+      "Sorelle A Friedler",
+      "Emile Givental"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Eric Michael Smith, Melissa Hall, Melanie Kambadur, Eleonora Presani, and Adina Williams. \"i'm sorry to hear that\": Finding new biases in language models with a holistic descriptor dataset. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pp. 9180-9211, 2022.",
+    "title": "i'm sorry to hear that\": Finding new biases in language models with a holistic descriptor dataset",
+    "authors": [
+      "Eric Michael",
+      "Smith",
+      "Melissa Hall",
+      "Melanie Kambadur",
+      "Eleonora Presani",
+      "Adina Williams"
+    ],
+    "venue": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Nisan Stiennon, Long Ouyang, Jeffrey Wu, Daniel Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, and Paul F Christiano. Learning to summarize with human feedback. In NeurIPS, 2020.",
+    "title": "Learning to summarize with human feedback",
+    "authors": [
+      "Nisan Stiennon",
+      "Long Ouyang",
+      "Jeffrey Wu",
+      "Daniel Ziegler",
+      "Ryan Lowe",
+      "Chelsea Voss",
+      "Alec Radford",
+      "Dario Amodei",
+      "Paul F Christiano"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Lichao Sun, Yue Huang, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, et al. Trustllm: Trustworthiness in large language models. arXiv preprint arXiv:2401.05561, 2024.",
+    "title": "Trustworthiness in large language models",
+    "authors": [
+      "Lichao Sun",
+      "Yue Huang",
+      "Haoran Wang",
+      "Siyuan Wu",
+      "Qihui Zhang",
+      "Chujie Gao",
+      "Yixin Huang",
+      "Wenhan Lyu",
+      "Yixuan Zhang",
+      "Xiner Li"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.05561"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Alon Talmor, Jonathan Herzig, Nicholas Lourie, and Jonathan Berant. Commonsenseqa: A question answering challenge targeting commonsense knowledge. arXiv preprint arXiv:1811.00937, 2018.",
+    "title": "Commonsenseqa: A question answering challenge targeting commonsense knowledge",
+    "authors": [
+      "Alon Talmor",
+      "Jonathan Herzig",
+      "Nicholas Lourie",
+      "Jonathan Berant"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1811.00937"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Zhen Tan, Alimohammad Beigi, Song Wang, Ruocheng Guo, Amrita Bhattacharjee, Bohan Jiang, Mansooreh Karami, Jundong Li, Lu Cheng, and Huan Liu. Large language models for data annotation: A survey. arXiv preprint arXiv:2402.13446, 2024a.",
+    "title": "Large language models for data annotation: A survey",
+    "authors": [
+      "Zhen Tan",
+      "Alimohammad Beigi",
+      "Song Wang",
+      "Ruocheng Guo",
+      "Amrita Bhattacharjee",
+      "Bohan Jiang",
+      "Mansooreh Karami",
+      "Jundong Li",
+      "Lu Cheng",
+      "Huan Liu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.13446"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Zhen Tan, Tianlong Chen, Zhenyu Zhang, and Huan Liu. Sparsity-guided holistic explanation for llms with interpretable inference-time intervention. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 38, pp. 21619-21627, 2024b.",
+    "title": "Sparsity-guided holistic explanation for llms with interpretable inference-time intervention",
+    "authors": [
+      "Zhen Tan",
+      "Tianlong Chen",
+      "Zhenyu Zhang",
+      "Huan Liu"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Zhen Tan, Lu Cheng, Song Wang, Bo Yuan, Jundong Li, and Huan Liu. Interpreting pretrained language models via concept bottlenecks. In PAKDD, 2024c.",
+    "title": "Interpreting pretrained language models via concept bottlenecks",
+    "authors": [
+      "Zhen Tan",
+      "Lu Cheng",
+      "Song Wang",
+      "Bo Yuan",
+      "Jundong Li",
+      "Huan Liu"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Gemini Team, Rohan Anil, Sebastian Borgeaud, Yonghui Wu, Jean-Baptiste Alayrac, Jiahui Yu, Radu Soricut, Johan Schalkwyk, Andrew M Dai, Anja Hauth, et al. Gemini: a family of highly capable multimodal models. arXiv preprint arXiv:2312.11805, 2023.",
+    "title": "a family of highly capable multimodal models",
+    "authors": [
+      "Gemini Team",
+      "Rohan Anil",
+      "Sebastian Borgeaud",
+      "Yonghui Wu",
+      "Jean-Baptiste Alayrac",
+      "Jiahui Yu",
+      "Radu Soricut",
+      "Johan Schalkwyk",
+      "Andrew M Dai",
+      "Anja Hauth"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2312.11805"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, et al. Llama 2: Open foundation and fine-tuned chat models. arXiv preprint arXiv:2307.09288, 2023.",
+    "title": "Llama 2: Open foundation and fine-tuned chat models",
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Nikolay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.09288"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Berk Ustun, Alexander Spangher, and Yang Liu. Actionable recourse in linear classification. In Proceedings of the conference on fairness, accountability, and transparency, pp. 10-19, 2019.",
+    "title": "Actionable recourse in linear classification",
+    "authors": [
+      "Berk Ustun",
+      "Alexander Spangher",
+      "Yang Liu"
+    ],
+    "venue": "Proceedings of the conference on fairness, accountability, and transparency",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, et al. Decodingtrust: A comprehensive assessment of trustworthiness in gpt models. Advances in Neural Information Processing Systems, 36, 2023.",
+    "title": "Decodingtrust: A comprehensive assessment of trustworthiness in gpt models",
+    "authors": [
+      "Boxin Wang",
+      "Weixin Chen",
+      "Hengzhi Pei",
+      "Chulin Xie",
+      "Mintong Kang",
+      "Chenhui Zhang",
+      "Chejian Xu",
+      "Zidi Xiong",
+      "Ritik Dutta",
+      "Rylan Schaeffer"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Song Wang, Jing Ma, Lu Cheng, and Jundong Li. Fair few-shot learning with auxiliary sets. In ECAI, 2023a.",
+    "title": "Fair few-shot learning with auxiliary sets",
+    "authors": [
+      "Song Wang",
+      "Jing Ma",
+      "Lu Cheng",
+      "Jundong Li"
+    ],
+    "venue": "ECAI",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "Song Wang, Zhen Tan, Ruocheng Guo, and Jundong Li. Noise-robust fine-tuning of pretrained language models via external guidance. In EMNLP, 2023b.",
+    "title": "Noise-robust fine-tuning of pretrained language models via external guidance",
+    "authors": [
+      "Song Wang",
+      "Zhen Tan",
+      "Ruocheng Guo",
+      "Jundong Li"
+    ],
+    "venue": "EMNLP",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Song Wang, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, et al. Knowledge editing for large language models: A survey. arXiv preprint arXiv:2310.16218, 2023c.",
+    "title": "Knowledge editing for large language models: A survey",
+    "authors": [
+      "Song Wang",
+      "Yaochen Zhu",
+      "Haochen Liu",
+      "Zaiyi Zheng",
+      "Chen Chen"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.16218"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Song Wang, Yushun Dong, Binchi Zhang, Zihan Chen, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V Chawla, and Jundong Li. Safety in graph machine learning: Threats and safeguards. arXiv preprint arXiv:2405.11034, 2024a.",
+    "title": "Safety in graph machine learning: Threats and safeguards",
+    "authors": [
+      "Song Wang",
+      "Yushun Dong",
+      "Binchi Zhang",
+      "Zihan Chen",
+      "Xingbo Fu",
+      "Yinhan He",
+      "Cong Shen",
+      "Chuxu Zhang",
+      "Nitesh V Chawla",
+      "Jundong Li"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.11034"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Yikun Wang, Rui Zheng, Liang Ding, Qi Zhang, Dahua Lin, and Dacheng Tao. Uncertainty aware learning for language model alignment. arXiv e-prints, pp. arXiv-2406, 2024b.",
+    "title": "Uncertainty aware learning for language model alignment",
+    "authors": [
+      "Yikun Wang",
+      "Rui Zheng",
+      "Liang Ding",
+      "Qi Zhang",
+      "Dahua Lin",
+      "Dacheng Tao"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "Mayur Wankhade, Annavarapu Chandra Sekhara Rao, and Chaitanya Kulkarni. A survey on sentiment analysis methods, applications, and challenges. Artificial Intelligence Review, 2022.",
+    "title": "A survey on sentiment analysis methods, applications, and challenges",
+    "authors": [
+      "Mayur Wankhade",
+      "Annavarapu Chandra Sekhara",
+      "Chaitanya Rao",
+      "Kulkarni"
+    ],
+    "venue": "Artificial Intelligence Review",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "Kellie Webster, Marta Recasens, Vera Axelrod, and Jason Baldridge. Mind the GAP: A balanced corpus of gendered ambiguous pronouns. TACL, 6, 2018.",
+    "title": "Mind the GAP: A balanced corpus of gendered ambiguous pronouns",
+    "authors": [
+      "Kellie Webster",
+      "Marta Recasens",
+      "Vera Axelrod",
+      "Jason Baldridge"
+    ],
+    "venue": "TACL",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R66",
+    "raw_text": "Kellie Webster, Xuezhi Wang, Ian Tenney, Alex Beutel, Emily Pitler, Ellie Pavlick, Jilin Chen, Ed Chi, and Slav Petrov. Measuring and reducing gendered correlations in pre-trained models. arXiv preprint arXiv:2010.06032, 2020.",
+    "title": "Measuring and reducing gendered correlations in pre-trained models",
+    "authors": [
+      "Kellie Webster",
+      "Xuezhi Wang",
+      "Ian Tenney",
+      "Alex Beutel",
+      "Emily Pitler",
+      "Ellie Pavlick",
+      "Jilin Chen",
+      "Ed Chi",
+      "Slav Petrov"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2010.06032"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R67",
+    "raw_text": "Xin Xu, Yue Liu, Panupong Pasupat, Mehran Kazemi, et al. In-context learning with retrieved demonstrations for language models: A survey. arXiv preprint arXiv:2401.11624, 2024.",
+    "title": "-context learning with retrieved demonstrations for language models: A survey",
+    "authors": [
+      "Xin Xu",
+      "Yue Liu",
+      "Panupong Pasupat",
+      "Mehran Kazemi"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.11624"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R68",
+    "raw_text": "I-Cheng Yeh and Che-hui Lien. The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert systems with applications, 36(2): 2473-2480, 2009.",
+    "title": "The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients",
+    "authors": [
+      "I-Cheng Yeh",
+      "Che-Hui Lien"
+    ],
+    "venue": "Expert systems with applications",
+    "year": 2009,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R69",
+    "raw_text": "Mikhail Yurochkin, Amanda Bower, and Yuekai Sun. Training individually fair ml models with sensitive subspace robustness. In ICLR, 2020.",
+    "title": "Training individually fair ml models with sensitive subspace robustness",
+    "authors": [
+      "Mikhail Yurochkin",
+      "Amanda Bower",
+      "Yuekai Sun"
+    ],
+    "venue": "ICLR",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R70",
+    "raw_text": "Muhammad Bilal Zafar, Isabel Valera, Manuel Gomez Rogriguez, and Krishna P Gummadi. Fairness constraints: Mechanisms for fair classification. In AISTATS, 2017.",
+    "title": "Fairness constraints: Mechanisms for fair classification",
+    "authors": [
+      "Muhammad Bilal Zafar",
+      "Isabel Valera",
+      "Manuel Gomez Rogriguez",
+      "Krishna P Gummadi"
+    ],
+    "venue": "AISTATS",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R71",
+    "raw_text": "Chen Zhao and Feng Chen. Unfairness discovery and prevention for few-shot regression. In ICKG, 2020.",
+    "title": "Unfairness discovery and prevention for few-shot regression",
+    "authors": [
+      "Chen Zhao",
+      "Feng Chen"
+    ],
+    "venue": "ICKG",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R72",
+    "raw_text": "Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, and Kai-Wei Chang. Gender bias in coreference resolution: Evaluation and debiasing methods. In Marilyn Walker, Heng Ji, and Amanda Stent (eds.), NAACL, June 2018.",
+    "title": "Gender bias in coreference resolution: Evaluation and debiasing methods",
+    "authors": [
+      "Jieyu Zhao",
+      "Tianlu Wang",
+      "Mark Yatskar",
+      "Vicente Ordonez",
+      "Kai-Wei Chang"
+    ],
+    "venue": "NAACL",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R73",
+    "raw_text": "Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, et al. A survey of large language models. arXiv preprint arXiv:2303.18223, 2023. Models Stereotyping CEB-Continuation-S CEB-Conversation-S Age Gen. Rac. Rel. Age Gen. Rac. Rel.",
+    "title": "A survey of large language models",
+    "authors": [
+      "Kun Wayne Xin Zhao",
+      "Junyi Zhou",
+      "Tianyi Li",
+      "Xiaolei Tang",
+      "Yupeng Wang",
+      "Yingqian Hou",
+      "Beichen Min",
+      "Junjie Zhang",
+      "Zican Zhang",
+      "Dong"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2303.18223"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R74",
+    "raw_text": "Table 11: Results of ∆DP and ∆EO in % of various LLMs on our CEB datasets for the Classification task. The lower values denote fairer results. Results with exceptionally high RtA rates are highlighted in red, and the best results (excluding results with high RtA rates) are in green. Models Stereotyping Toxicity CEB-Adult CEB-Credit CEB-Jigsaw",
+    "title": "Table 11: Results of ∆DP and ∆EO in % of various LLMs on our CEB datasets for the Classification task",
+    "authors": [],
+    "venue": "The lower values denote fairer results. Results with exceptionally high RtA rates are highlighted in red, and the best results (excluding results with high RtA rates) are in green. Models Stereotyping Toxicity CEB-Adult CEB-Credit CEB-Jigsaw",
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  }
+]

@@ -1,0 +1,1383 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Akari Asai, Zexuan Zhong, Danqi Chen, Pang Wei Koh, Luke Zettlemoyer, Hanna Hajishirzi, and Wen tau Yih. Reliable, adaptable, and attributable language models with retrieval. 2024. url https://api. semanticscholar. org/corpusid: 268248911. oprea, and colin raffel. extracting training data from large language models. In USENIX Security Symposium (USENIX), 2020.",
+    "title": "corpusid: 268248911. oprea, and colin raffel. extracting training data from large language models",
+    "authors": [
+      "Akari Asai",
+      "Zexuan Zhong",
+      "Danqi Chen",
+      "Pang Wei Koh",
+      "Luke Zettlemoyer",
+      "Hanna Hajishirzi",
+      "Wen Tau",
+      "Yih"
+    ],
+    "venue": "USENIX Security Symposium (USENIX)",
+    "year": 2020,
+    "identifiers": {
+      "url": "https://api.semanticscholar.org/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Akari Asai, Timo Schick, Patrick Lewis, Xilun Chen, Gautier Izacard, Sebastian Riedel, Hannaneh Hajishirzi, and Wen-tau Yih. Task-aware retrieval with instructions. In Anna Rogers, Jordan Boyd-Graber, and Naoaki Okazaki (eds.), Findings of the Association for Computational Linguistics: ACL 2023, pp. 3650-3675, Toronto, Canada, July 2023a. Association for Computational Linguistics. doi: 10.18653/v1/2023.findings-acl.225. URL https://aclanthology.org/ 2023.findings-acl.225.",
+    "title": "Task-aware retrieval with instructions",
+    "authors": [
+      "Akari Asai",
+      "Timo Schick",
+      "Patrick Lewis",
+      "Xilun Chen",
+      "Gautier Izacard",
+      "Sebastian Riedel",
+      "Hannaneh Hajishirzi",
+      "Wen-Tau Yih"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2023",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.findings-acl.225",
+      "url": "https://aclanthology.org/2023.findings-acl.225"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, and Hannaneh Hajishirzi. Self-rag: Learning to retrieve, generate, and critique through self-reflection. In The Twelfth International Conference on Learning Representations, 2023b.",
+    "title": "Self-rag: Learning to retrieve, generate, and critique through self-reflection",
+    "authors": [
+      "Akari Asai",
+      "Zeqiu Wu",
+      "Yizhong Wang",
+      "Avirup Sil",
+      "Hannaneh Hajishirzi"
+    ],
+    "venue": "The Twelfth International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Akari Asai, Zexuan Zhong, Danqi Chen, Pang Wei Koh, Luke Zettlemoyer, Hannaneh Hajishirzi, and Wen tau Yih. Reliable, adaptable, and attributable language models with retrieval, 2024.",
+    "authors": [
+      "Akari Asai",
+      "Zexuan Zhong",
+      "Danqi Chen",
+      "Pang Wei Koh",
+      "Luke Zettlemoyer",
+      "Hannaneh Hajishirzi",
+      "Wen tau Yih"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Jacob Austin, Augustus Odena, Maxwell Nye, Maarten Bosma, Henryk Michalewski, David Dohan, Ellen Jiang, Carrie Cai, Michael Terry, Quoc Le, et al. Program synthesis with large language models. arXiv preprint arXiv:2108.07732, 2021.",
+    "title": "Program synthesis with large language models",
+    "authors": [
+      "Jacob Austin",
+      "Augustus Odena",
+      "Maxwell Nye",
+      "Maarten Bosma",
+      "Henryk Michalewski",
+      "David Dohan",
+      "Ellen Jiang",
+      "Carrie Cai",
+      "Michael Terry",
+      "Quoc Le"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2108.07732"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Payal Bajaj, Daniel Campos, Nick Craswell, Li Deng, Jianfeng Gao, Xiaodong Liu, Rangan Majumder, Andrew McNamara, Bhaskar Mitra, Tri Nguyen, et al. Ms marco: A human generated machine reading comprehension dataset. arXiv preprint arXiv:1611.09268, 2016.",
+    "title": "Ms marco: A human generated machine reading comprehension dataset",
+    "authors": [
+      "Payal Bajaj",
+      "Daniel Campos",
+      "Nick Craswell",
+      "Li Deng",
+      "Jianfeng Gao",
+      "Xiaodong Liu",
+      "Rangan Majumder",
+      "Andrew Mcnamara",
+      "Bhaskar Mitra",
+      "Tri Nguyen"
+    ],
+    "year": 2016,
+    "identifiers": {
+      "arxiv_id": "arXiv:1611.09268"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Payal Bajaj, Daniel Campos, Nick Craswell, Li Deng, Jianfeng Gao, Xiaodong Liu, Rangan Majumder, Andrew McNamara, Bhaskar Mitra, Tri Nguyen, Mir Rosenberg, Xia Song, Alina Stoica, Saurabh Tiwary, and Tong Wang. Ms marco: A human generated machine reading comprehension dataset, 2018.",
+    "title": "Ms marco: A human generated machine reading comprehension dataset",
+    "authors": [
+      "Payal Bajaj",
+      "Daniel Campos",
+      "Nick Craswell",
+      "Li Deng",
+      "Jianfeng Gao",
+      "Xiaodong Liu",
+      "Rangan Majumder",
+      "Andrew Mcnamara",
+      "Bhaskar Mitra",
+      "Tri Nguyen",
+      "Mir Rosenberg",
+      "Xia Song",
+      "Alina Stoica",
+      "Saurabh Tiwary",
+      "Tong Wang"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George Bm Van Den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego De Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack Rae, Erich Elsen, and Laurent Sifre. Improving language models by retrieving from trillions of tokens. In International Conference on Machine Learning (ICML), volume 162, pp. 2206-2240, 2022. URL https://proceedings.mlr. press/v162/borgeaud22a.html.",
+    "title": "Improving language models by retrieving from trillions of tokens",
+    "authors": [
+      "Sebastian Borgeaud",
+      "Arthur Mensch",
+      "Jordan Hoffmann",
+      "Trevor Cai",
+      "Eliza Rutherford",
+      "Katie Millican",
+      "George Bm Van Den Driessche",
+      "Jean-Baptiste Lespiau",
+      "Bogdan Damoc",
+      "Aidan Clark",
+      "Diego De",
+      "Las Casas",
+      "Aurelia Guy",
+      "Jacob Menick",
+      "Roman Ring",
+      "Tom Hennigan",
+      "Saffron Huang",
+      "Loren Maggiore",
+      "Chris Jones",
+      "Albin Cassirer",
+      "Andy Brock",
+      "Michela Paganini",
+      "Geoffrey Irving",
+      "Oriol Vinyals",
+      "Simon Osindero",
+      "Karen Simonyan",
+      "Jack Rae",
+      "Erich Elsen",
+      "Laurent Sifre"
+    ],
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v162/borgeaud22a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Danqi Chen, Adam Fisch, Jason Weston, and Antoine Bordes. Reading Wikipedia to answer open-domain questions. In Regina Barzilay and Min-Yen Kan (eds.), Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 1870-1879, Vancouver, Canada, July 2017. Association for Computational Linguistics. doi: 10.18653/v1/P17-1171. URL https://aclanthology.org/P17-1171.",
+    "title": "Reading Wikipedia to answer open-domain questions",
+    "authors": [
+      "Danqi Chen",
+      "Adam Fisch",
+      "Jason Weston",
+      "Antoine Bordes"
+    ],
+    "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics",
+    "year": 2017,
+    "identifiers": {
+      "doi": "10.18653/v1/P17-1171",
+      "url": "https://aclanthology.org/P17-1171"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde de Oliveira Pinto, Jared Kaplan, Harri Edwards, Yuri Burda, Nicholas Joseph, Greg Brockman, et al. Evaluating large language models trained on code. arXiv preprint arXiv:2107.03374, 2021.",
+    "title": "Evaluating large language models trained on code",
+    "authors": [
+      "Mark Chen",
+      "Jerry Tworek",
+      "Heewoo Jun",
+      "Qiming Yuan",
+      "Henrique Ponde De Oliveira Pinto",
+      "Jared Kaplan",
+      "Harri Edwards",
+      "Yuri Burda",
+      "Nicholas Joseph",
+      "Greg Brockman"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2107.03374"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Wenhu Chen, Ming Yin, Max Ku, Pan Lu, Yixin Wan, Xueguang Ma, Jianyu Xu, Xinyi Wang, and Tony Xia. TheoremQA: A theorem-driven question answering dataset. In Houda Bouamor, Juan Pino, and Kalika Bali (eds.), Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pp. 7889-7901, Singapore, December 2023a. Association for Computational Linguistics. doi: 10.18653/v1/2023.emnlp-main.489. URL https://aclanthology.org/ 2023.emnlp-main.489.",
+    "title": "TheoremQA: A theorem-driven question answering dataset",
+    "authors": [
+      "Wenhu Chen",
+      "Ming Yin",
+      "Max Ku",
+      "Pan Lu",
+      "Yixin Wan",
+      "Xueguang Ma",
+      "Jianyu Xu",
+      "Xinyi Wang",
+      "Tony Xia"
+    ],
+    "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.emnlp-main.489",
+      "url": "https://aclanthology.org/2023.emnlp-main.489"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Wenhu Chen, Ming Yin, Max Ku, Pan Lu, Yixin Wan, Xueguang Ma, Jianyu Xu, Xinyi Wang, and Tony Xia. Theoremqa: A theorem-driven question answering dataset. In The 2023 Conference on Empirical Methods in Natural Language Processing, 2023b.",
+    "title": "Theoremqa: A theorem-driven question answering dataset",
+    "authors": [
+      "Wenhu Chen",
+      "Ming Yin",
+      "Max Ku",
+      "Pan Lu",
+      "Yixin Wan",
+      "Xueguang Ma",
+      "Jianyu Xu",
+      "Xinyi Wang",
+      "Tony Xia"
+    ],
+    "venue": "The 2023 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, and John Schulman. Training verifiers to solve math word problems, 2021.",
+    "authors": [
+      "Karl Cobbe",
+      "Vineet Kosaraju",
+      "Mohammad Bavarian",
+      "Mark Chen",
+      "Heewoo Jun",
+      "Lukasz Kaiser",
+      "Matthias Plappert",
+      "Jerry Tworek",
+      "Jacob Hilton",
+      "Reiichiro Nakano",
+      "Christopher Hesse",
+      "John Schulman"
+    ],
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Cohere. Cohere-embed-english-light-v3.0, 2022. URL https://huggingface.co/Cohere/ Cohere-embed-english-light-v3.0.",
+    "title": "Cohere-embed-english-light",
+    "authors": [
+      "Cohere"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "url": "https://huggingface.co/Cohere/Cohere-embed-english-light-v3.0"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Nick Craswell, Bhaskar Mitra, Emine Yilmaz, Daniel Campos, and Ellen M. Voorhees. Overview of the trec 2019 deep learning track, 2020.",
+    "title": "Overview of the trec 2019 deep learning track",
+    "authors": [
+      "Nick Craswell",
+      "Mitra Bhaskar",
+      "Emine Yilmaz",
+      "Daniel Campos",
+      "Ellen M Voorhees"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Tri Dao. FlashAttention-2: Faster attention with better parallelism and work partitioning. In International Conference on Learning Representations (ICLR), 2024.",
+    "title": "FlashAttention-2: Faster attention with better parallelism and work partitioning",
+    "authors": [
+      "Tri Dao"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, and Christopher Ré. FlashAttention: Fast and memory-efficient exact attention with IO-awareness. In Advances in Neural Information Processing Systems (NeurIPS), 2022.",
+    "title": "FlashAttention: Fast and memory-efficient exact attention with IO-awareness",
+    "authors": [
+      "Tri Dao",
+      "Daniel Y Fu",
+      "Stefano Ermon",
+      "Atri Rudra",
+      "Christopher Ré"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Thomas Diggelmann, Jordan Boyd-Graber, Jannis Bulian, Massimiliano Ciaramita, and Markus Leippold. Climate-fever: A dataset for verification of real-world climate claims. arXiv preprint arXiv:2012.00614, 2020.",
+    "title": "Climate-fever: A dataset for verification of real-world climate claims",
+    "authors": [
+      "Thomas Diggelmann",
+      "Jordan Boyd-Graber",
+      "Jannis Bulian",
+      "Massimiliano Ciaramita",
+      "Markus Leippold"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2012.00614"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Angela Fan, Yacine Jernite, Ethan Perez, David Grangier, Jason Weston, and Michael Auli. Eli5: Long form question answering. arXiv preprint arXiv:1907.09190, 2019.",
+    "title": "Long form question answering",
+    "authors": [
+      "Angela Fan",
+      "Yacine Jernite",
+      "Ethan Perez",
+      "David Grangier",
+      "Jason Weston",
+      "Michael Auli",
+      "Eli"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1907.09190"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Tianyu Gao, Howard Yen, Jiatong Yu, and Danqi Chen. Enabling large language models to generate text with citations. In Empirical Methods in Natural Language Processing (EMNLP), 2023.",
+    "title": "Enabling large language models to generate text with citations",
+    "authors": [
+      "Tianyu Gao",
+      "Howard Yen",
+      "Jiatong Yu",
+      "Danqi Chen"
+    ],
+    "venue": "Empirical Methods in Natural Language Processing",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Faegheh Hasibi, Fedor Nikolaev, Chenyan Xiong, Krisztian Balog, Svein Erik Bratsberg, Alexander Kotov, and Jamie Callan. Dbpedia-entity v2: a test collection for entity search. In Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 1265-1268, 2017.",
+    "title": "Dbpedia-entity v2: a test collection for entity search",
+    "authors": [
+      "Faegheh Hasibi",
+      "Fedor Nikolaev",
+      "Chenyan Xiong",
+      "Krisztian Balog",
+      "Erik Svein",
+      "Alexander Bratsberg",
+      "Jamie Kotov",
+      "Callan"
+    ],
+    "venue": "Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, and Jacob Steinhardt. Measuring mathematical problem solving with the MATH dataset. In Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2), 2021. URL https://openreview.net/forum?id=7Bywt2mQsCe.",
+    "title": "Measuring mathematical problem solving with the MATH dataset",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Saurav Kadavath",
+      "Akul Arora",
+      "Steven Basart",
+      "Eric Tang",
+      "Dawn Song",
+      "Jacob Steinhardt"
+    ],
+    "venue": "Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2)",
+    "year": 2021,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=7Bywt2mQsCe"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Hamel Husain, Ho-Hsiang Wu, Tiferet Gazit, Miltiadis Allamanis, and Marc Brockschmidt. CodeSearchNet challenge: Evaluating the state of semantic code search. arXiv preprint arXiv:1909.09436, 2019.",
+    "title": "CodeSearchNet challenge: Evaluating the state of semantic code search",
+    "authors": [
+      "Hamel Husain",
+      "Ho-Hsiang Wu",
+      "Tiferet Gazit",
+      "Miltiadis Allamanis",
+      "Marc Brockschmidt"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1909.09436"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Gautier Izacard, Mathilde Caron, Lucas Hosseini, Sebastian Riedel, Piotr Bojanowski, Armand Joulin, and Edouard Grave. Unsupervised dense information retrieval with contrastive learning. Transactions on Machine Learning Research, 2022. ISSN 2835-8856. URL https: //openreview.net/forum?id=jKN1pXi7b0.",
+    "title": "Unsupervised dense information retrieval with contrastive learning",
+    "authors": [
+      "Gautier Izacard",
+      "Mathilde Caron",
+      "Lucas Hosseini",
+      "Sebastian Riedel",
+      "Piotr Bojanowski",
+      "Armand Joulin",
+      "Edouard Grave"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=jKN"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Naman Jain, King Han, Alex Gu, Wen-Ding Li, Fanjia Yan, Tianjun Zhang, Sida Wang, Armando Solar-Lezama, Koushik Sen, and Ion Stoica. Livecodebench: Holistic and contamination free evaluation of large language models for code. arXiv preprint arXiv:2403.07974, 2024.",
+    "title": "Armando Solar-Lezama, Koushik Sen, and Ion Stoica. Livecodebench: Holistic and contamination free evaluation of large language models for code",
+    "authors": [
+      "Naman Jain",
+      "King Han",
+      "Alex Gu",
+      "Wen-Ding Li",
+      "Fanjia Yan",
+      "Tianjun Zhang",
+      "Sida Wang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.07974"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Vladimir Karpukhin, Barlas Oguz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, and Wen-tau Yih. Dense passage retrieval for open-domain question answering. arXiv preprint arXiv:2004.04906, 2020.",
+    "title": "Dense passage retrieval for open-domain question answering",
+    "authors": [
+      "Vladimir Karpukhin",
+      "Barlas Oguz",
+      "Sewon Min",
+      "Patrick Lewis",
+      "Ledell Wu",
+      "Sergey Edunov",
+      "Danqi Chen",
+      "Wen-Tau Yih"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2004.04906"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Tom Kwiatkowski, Jennimaria Palomaki, Olivia Redfield, Michael Collins, Ankur Parikh, Chris Alberti, Danielle Epstein, Illia Polosukhin, Jacob Devlin, Kenton Lee, et al. Natural questions: a benchmark for question answering research. Transactions of the Association for Computational Linguistics, 7:453-466, 2019.",
+    "title": "Natural questions: a benchmark for question answering research",
+    "authors": [
+      "Tom Kwiatkowski",
+      "Jennimaria Palomaki",
+      "Olivia Redfield",
+      "Michael Collins",
+      "Ankur Parikh",
+      "Chris Alberti",
+      "Danielle Epstein",
+      "Illia Polosukhin",
+      "Jacob Devlin",
+      "Kenton Lee"
+    ],
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Jinhyuk Lee, Zhuyun Dai, Xiaoqi Ren, Blair Chen, Daniel Cer, Jeremy R Cole, Kai Hui, Michael Boratko, Rajvi Kapadia, Wen Ding, et al. Gecko: Versatile text embeddings distilled from large language models. arXiv preprint arXiv:2403.20327, 2024.",
+    "title": "Versatile text embeddings distilled from large language models",
+    "authors": [
+      "Jinhyuk Lee",
+      "Zhuyun Dai",
+      "Xiaoqi Ren",
+      "Blair Chen",
+      "Daniel Cer",
+      "Jeremy R Cole",
+      "Kai Hui",
+      "Michael Boratko",
+      "Rajvi Kapadia",
+      "Wen Ding"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.20327"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Kenton Lee, Ming-Wei Chang, and Kristina Toutanova. Latent retrieval for weakly supervised open domain question answering. In Association for Computational Linguistics (ACL), pp. 6086-6096, 2019. doi: 10.18653/v1/P19-1612. URL https://aclanthology.org/P19-1612.",
+    "title": "Latent retrieval for weakly supervised open domain question answering",
+    "authors": [
+      "Kenton Lee",
+      "Ming-Wei Chang",
+      "Kristina Toutanova"
+    ],
+    "venue": "Association for Computational Linguistics (ACL)",
+    "year": 2019,
+    "identifiers": {
+      "doi": "10.18653/v1/P19-1612",
+      "url": "https://aclanthology.org/P19-1612"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Guohao Li, Hasan Abed Al Kader Hammoud, Hani Itani, Dmitrii Khizbullin, and Bernard Ghanem. Camel: Communicative agents for \"mind\" exploration of large language model society. In Thirtyseventh Conference on Neural Information Processing Systems, 2023a.",
+    "title": "Camel: Communicative agents for \"mind\" exploration of large language model society",
+    "authors": [
+      "Guohao Li",
+      "Hasan Abed",
+      "Al Kader Hammoud",
+      "Hani Itani",
+      "Dmitrii Khizbullin",
+      "Bernard Ghanem"
+    ],
+    "venue": "Thirtyseventh Conference on Neural Information Processing Systems",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Zehan Li, Xin Zhang, Yanzhao Zhang, Dingkun Long, Pengjun Xie, and Meishan Zhang. Towards general text embeddings with multi-stage contrastive learning. arXiv preprint arXiv:2308.03281, 2023b.",
+    "title": "Towards general text embeddings with multi-stage contrastive learning",
+    "authors": [
+      "Zehan Li",
+      "Xin Zhang",
+      "Yanzhao Zhang",
+      "Dingkun Long",
+      "Pengjun Xie",
+      "Meishan Zhang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2308.03281"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Zhuoqun Li, Hongyu Lin, Tianshu Wang, Boxi Cao, Yaojie Lu, Weixiang Zhou, Hao Wang, Zhenyu Zeng, Le Sun, and Xianpei Han. Url: Universal referential knowledge linking via task-instructed representation compression. arXiv preprint arXiv:2404.16248, 2024.",
+    "title": "Url: Universal referential knowledge linking via task-instructed representation compression",
+    "authors": [
+      "Zhuoqun Li",
+      "Hongyu Lin",
+      "Tianshu Wang",
+      "Boxi Cao",
+      "Yaojie Lu",
+      "Weixiang Zhou",
+      "Hao Wang",
+      "Zhenyu Zeng",
+      "Le Sun",
+      "Xianpei Han"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.16248"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Wang Ling, Dani Yogatama, Chris Dyer, and Phil Blunsom. Program induction by rationale generation: Learning to solve and explain algebraic word problems. In Regina Barzilay and Min-Yen Kan (eds.), Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 158-167, Vancouver, Canada, July 2017. Association for Computational Linguistics. doi: 10.18653/v1/P17-1015. URL https://aclanthology.org/P17-1015.",
+    "title": "Program induction by rationale generation: Learning to solve and explain algebraic word problems",
+    "authors": [
+      "Wang Ling",
+      "Dani Yogatama",
+      "Chris Dyer",
+      "Phil Blunsom"
+    ],
+    "venue": "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics",
+    "year": 2017,
+    "identifiers": {
+      "doi": "10.18653/v1/P17-1015",
+      "url": "https://aclanthology.org/P17-1015"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Macedo Maia, Siegfried Handschuh, André Freitas, Brian Davis, Ross McDermott, Manel Zarrouk, and Alexandra Balahur. Www'18 open challenge: financial opinion mining and question answering. In Companion proceedings of the the web conference 2018, pp. 1941-1942, 2018.",
+    "title": "18 open challenge: financial opinion mining and question answering",
+    "authors": [
+      "Macedo Maia",
+      "Siegfried Handschuh",
+      "André Freitas",
+      "Brian Davis",
+      "Ross Mcdermott",
+      "Manel Zarrouk",
+      "Alexandra Balahur",
+      "Www"
+    ],
+    "venue": "Companion proceedings of the the web conference",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Rui Meng, Ye Liu, Shafiq Rayhan Joty, Caiming Xiong, Yingbo Zhou, and Semih Yavuz. Sfrembedding-mistral: enhance text retrieval with transfer learning. Salesforce AI Research Blog, 3, 2024.",
+    "title": "Sfrembedding-mistral: enhance text retrieval with transfer learning",
+    "authors": [
+      "Rui Meng",
+      "Ye Liu",
+      "Rayhan Shafiq",
+      "Caiming Joty",
+      "Yingbo Xiong",
+      "Semih Zhou",
+      "Yavuz"
+    ],
+    "venue": "Salesforce AI Research Blog",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Niklas Muennighoff. Sgpt: Gpt sentence embeddings for semantic search. arXiv preprint arXiv:2202.08904, 2022.",
+    "title": "Sgpt: Gpt sentence embeddings for semantic search",
+    "authors": [
+      "Niklas Muennighoff"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2202.08904"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Niklas Muennighoff, Nouamane Tazi, Loic Magne, and Nils Reimers. MTEB: Massive text embedding benchmark. In Andreas Vlachos and Isabelle Augenstein (eds.), Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pp. 20142037, Dubrovnik, Croatia, May 2023. Association for Computational Linguistics. doi: 10.18653/ v1/2023.eacl-main.148. URL https://aclanthology.org/2023.eacl-main.148.",
+    "title": "MTEB: Massive text embedding benchmark",
+    "authors": [
+      "Niklas Muennighoff",
+      "Nouamane Tazi",
+      "Loic Magne",
+      "Nils Reimers"
+    ],
+    "venue": "Proceedings of the 17th Conference of the European Chapter",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.eacl-main.148",
+      "url": "https://aclanthology.org/2023.eacl-main.148"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Niklas Muennighoff, Hongjin Su, Liang Wang, Nan Yang, Furu Wei, Tao Yu, Amanpreet Singh, and Douwe Kiela. Generative representational instruction tuning. arXiv preprint arXiv:2402.09906, 2024.",
+    "title": "Generative representational instruction tuning",
+    "authors": [
+      "Niklas Muennighoff",
+      "Hongjin Su",
+      "Liang Wang",
+      "Nan Yang",
+      "Furu Wei",
+      "Tao Yu",
+      "Amanpreet Singh",
+      "Douwe Kiela"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.09906"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Hanseok Oh, Hyunji Lee, Seonghyeon Ye, Haebin Shin, Hansol Jang, Changwook Jun, and Minjoon Seo. Instructir: A benchmark for instruction following of information retrieval models, 2024.",
+    "title": "A benchmark for instruction following of information retrieval models",
+    "authors": [
+      "Hanseok Oh",
+      "Hyunji Lee",
+      "Seonghyeon Ye",
+      "Haebin Shin",
+      "Hansol Jang",
+      "Changwook Jun",
+      "Minjoon Seo"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "OpenAI. New embedding models and api updates, 2024. URL https://openai.com/index/ new-embedding-models-and-api-updates/.",
+    "title": "New embedding models and api updates",
+    "authors": [
+      "Openai"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://openai.com/index/new-embedding-models-and-api-updates/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Fabio Petroni, Aleksandra Piktus, Angela Fan, Patrick Lewis, Majid Yazdani, Nicola De Cao, James Thorne, Yacine Jernite, Vladimir Karpukhin, Jean Maillard, Vassilis Plachouras, Tim Rocktäschel, and Sebastian Riedel. KILT: a benchmark for knowledge intensive language tasks. In Kristina Toutanova, Anna Rumshisky, Luke Zettlemoyer, Dilek Hakkani-Tur, Iz Beltagy, Steven Bethard, Ryan Cotterell, Tanmoy Chakraborty, and Yichao Zhou (eds.), Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 2523-2544, Online, June 2021. Association for Computational Linguistics. doi: 10.18653/v1/2021.naacl-main.200. URL https://aclanthology.org/ 2021.naacl-main.200.",
+    "title": "KILT: a benchmark for knowledge intensive language tasks",
+    "authors": [
+      "Fabio Petroni",
+      "Aleksandra Piktus",
+      "Angela Fan",
+      "Patrick Lewis",
+      "Majid Yazdani",
+      "Nicola De Cao",
+      "James Thorne",
+      "Yacine Jernite",
+      "Vladimir Karpukhin",
+      "Jean Maillard",
+      "Vassilis Plachouras",
+      "Tim Rocktäschel",
+      "Sebastian Riedel"
+    ],
+    "venue": "Proceedings of the 2021 Conference of the North American Chapter",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.18653/v1/2021.naacl-main.200",
+      "url": "https://aclanthology.org/2021.naacl-main.200"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever, et al. Language models are unsupervised multitask learners. OpenAI blog, 1(8):9, 2019.",
+    "title": "Language models are unsupervised multitask learners",
+    "authors": [
+      "Alec Radford",
+      "Jeffrey Wu",
+      "Rewon Child",
+      "David Luan",
+      "Dario Amodei",
+      "Ilya Sutskever"
+    ],
+    "venue": "OpenAI blog",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Nils Reimers and Iryna Gurevych. Sentence-bert: Sentence embeddings using siamese bert-networks. arXiv preprint arXiv:1908.10084, 2019.",
+    "title": "Sentence-bert: Sentence embeddings using siamese bert-networks",
+    "authors": [
+      "Nils Reimers",
+      "Iryna Gurevych"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1908.10084"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Stephen Robertson, Hugo Zaragoza, et al. The probabilistic relevance framework: Bm25 and beyond. Foundations and Trends® in Information Retrieval, 3(4):333-389, 2009.",
+    "title": "The probabilistic relevance framework: Bm25 and beyond",
+    "authors": [
+      "Stephen Robertson",
+      "Hugo Zaragoza"
+    ],
+    "venue": "Foundations and Trends® in Information Retrieval",
+    "year": 2009,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Jon Saad-Falcon, Daniel Y Fu, Simran Arora, Neel Guha, and Christopher Ré. Benchmarking and building long-context retrieval models with loco and m2-bert. arXiv preprint arXiv:2402.07440, 2024.",
+    "title": "Benchmarking and building long-context retrieval models with loco and m2-bert",
+    "authors": [
+      "Jon Saad-Falcon",
+      "Daniel Y Fu",
+      "Simran Arora",
+      "Neel Guha",
+      "Christopher Ré"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.07440"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, and Wen tau Yih. REPLUG: Retrieval-augmented black-box language models, 2024.",
+    "title": "REPLUG: Retrieval-augmented black-box language models",
+    "authors": [
+      "Weijia Shi",
+      "Sewon Min",
+      "Michihiro Yasunaga",
+      "Minjoon Seo",
+      "Rich James",
+      "Mike Lewis",
+      "Luke Zettlemoyer",
+      "Wen Tau",
+      "Yih"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Hongjin Su, Weijia Shi, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen-tau Yih, Noah A Smith, Luke Zettlemoyer, and Tao Yu. One embedder, any task: Instruction-finetuned text embeddings. arXiv preprint arXiv:2212.09741, 2022.",
+    "title": "One embedder, any task: Instruction-finetuned text embeddings",
+    "authors": [
+      "Hongjin Su",
+      "Weijia Shi",
+      "Jungo Kasai",
+      "Yizhong Wang",
+      "Yushi Hu",
+      "Mari Ostendorf",
+      "Wen-Tau Yih",
+      "Noah A Smith",
+      "Luke Zettlemoyer",
+      "Tao Yu"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2212.09741"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Hongjin Su, Weijia Shi, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen-tau Yih, Noah A. Smith, Luke Zettlemoyer, and Tao Yu. One embedder, any task: Instruction-finetuned text embeddings. In Anna Rogers, Jordan Boyd-Graber, and Naoaki Okazaki (eds.), Findings of the Association for Computational Linguistics: ACL 2023, pp. 1102-1121, Toronto, Canada, July 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023.findings-acl.71. URL https://aclanthology.org/2023.findings-acl.71.",
+    "title": "One embedder, any task: Instruction-finetuned text embeddings",
+    "authors": [
+      "Hongjin Su",
+      "Weijia Shi",
+      "Jungo Kasai",
+      "Yizhong Wang",
+      "Yushi Hu",
+      "Mari Ostendorf",
+      "Wen-Tau Yih",
+      "Noah A Smith",
+      "Luke Zettlemoyer",
+      "Tao Yu"
+    ],
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2023",
+    "year": 2023,
+    "identifiers": {
+      "doi": "10.18653/v1/2023.findings-acl.71",
+      "url": "https://aclanthology.org/2023.findings-acl.71"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Hongjin Su, Shuyang Jiang, Yuhang Lai, Haoyuan Wu, Boao Shi, Che Liu, Qian Liu, and Tao Yu. Arks: Active retrieval in knowledge soup for code generation. arXiv preprint arXiv:2402.12317, 2024.",
+    "title": "Arks: Active retrieval in knowledge soup for code generation",
+    "authors": [
+      "Hongjin Su",
+      "Shuyang Jiang",
+      "Yuhang Lai",
+      "Haoyuan Wu",
+      "Boao Shi",
+      "Che Liu",
+      "Qian Liu",
+      "Tao Yu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.12317"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Weiwei Sun, Lingyong Yan, Xinyu Ma, Pengjie Ren, Dawei Yin, and Zhaochun Ren. Is chatgpt good at search? investigating large language models as re-ranking agent. arXiv preprint arXiv:2304.09542, 2023.",
+    "title": "Is chatgpt good at search? investigating large language models as re-ranking agent",
+    "authors": [
+      "Weiwei Sun",
+      "Lingyong Yan",
+      "Xinyu Ma",
+      "Pengjie Ren",
+      "Dawei Yin",
+      "Zhaochun Ren"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2304.09542"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Nandan Thakur, Nils Reimers, Andreas Rücklé, Abhishek Srivastava, and Iryna Gurevych. Beir: A heterogenous benchmark for zero-shot evaluation of information retrieval models. arXiv preprint arXiv:2104.08663, 2021.",
+    "title": "Beir: A heterogenous benchmark for zero-shot evaluation of information retrieval models",
+    "authors": [
+      "Nandan Thakur",
+      "Nils Reimers",
+      "Andreas Rücklé",
+      "Abhishek Srivastava",
+      "Iryna Gurevych"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2104.08663"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "James Thorne, Andreas Vlachos, Christos Christodoulopoulos, and Arpit Mittal. Fever: a large-scale dataset for fact extraction and verification. arXiv preprint arXiv:1803.05355, 2018.",
+    "title": "Fever: a large-scale dataset for fact extraction and verification",
+    "authors": [
+      "James Thorne",
+      "Andreas Vlachos",
+      "Christos Christodoulopoulos",
+      "Arpit Mittal"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1803.05355"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Ellen M. Voorhees and Dawn M. Tice. Building a question answering test collection. In Proceedings of the 23rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR '00, pp. 200-207, New York, NY, USA, 2000. Association for Computing Machinery. ISBN 1581132263. doi: 10.1145/345508.345577. URL https://doi. org/10.1145/345508.345577.",
+    "title": "Building a question answering test collection",
+    "authors": [
+      "Ellen M Voorhees",
+      "Dawn M Tice"
+    ],
+    "venue": "Proceedings of the 23rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR '00",
+    "year": 2000,
+    "identifiers": {
+      "doi": "10.1145/345508.345577",
+      "arxiv_id": "5508.34557",
+      "url": "https://doi.org/10.1145/345508.345577"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Voyage AI. Embeddings, 2024. URL https://docs.voyageai.com/docs/embeddings.",
+    "authors": [
+      "A I Voyage",
+      "Embeddings"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://docs.voyageai.com/docs/embeddings"
+    },
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan, and Hannaneh Hajishirzi. Fact or fiction: Verifying scientific claims. arXiv preprint arXiv:2004.14974, 2020.",
+    "title": "Fact or fiction: Verifying scientific claims",
+    "authors": [
+      "David Wadden",
+      "Shanchuan Lin",
+      "Kyle Lo",
+      "Lucy Lu Wang",
+      "Madeleine Van Zuylen",
+      "Arman Cohan",
+      "Hannaneh Hajishirzi"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2004.14974"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, and Furu Wei. Improving text embeddings with large language models. arXiv preprint arXiv:2401.00368, 2023a.",
+    "title": "Improving text embeddings with large language models",
+    "authors": [
+      "Liang Wang",
+      "Nan Yang",
+      "Xiaolong Huang",
+      "Linjun Yang",
+      "Rangan Majumder",
+      "Furu Wei"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.00368"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R57",
+    "raw_text": "Xiaoyue Wang, Jianyou Wang, Weili Cao, Kaicheng Wang, Ramamohan Paturi, and Leon Bergen. Birco: A benchmark of information retrieval tasks with complex objectives. arXiv preprint arXiv:2402.14151, 2024.",
+    "title": "A benchmark of information retrieval tasks with complex objectives",
+    "authors": [
+      "Xiaoyue Wang",
+      "Jianyou Wang",
+      "Weili Cao",
+      "Kaicheng Wang",
+      "Ramamohan Paturi",
+      "Leon Bergen",
+      "Birco"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.14151"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R58",
+    "raw_text": "Zengzhi Wang, Rui Xia, and Pengfei Liu. Generative ai for math: Part i -mathpile: A billion-tokenscale pretraining corpus for math, 2023b. URL https://arxiv.org/abs/2312.17120.",
+    "title": "Generative ai for math: Part i -mathpile: A billion-tokenscale pretraining corpus for math",
+    "authors": [
+      "Zengzhi Wang",
+      "Rui Xia",
+      "Pengfei Liu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "2312.17120",
+      "url": "https://arxiv.org/abs/2312.17120"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R59",
+    "raw_text": "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Fei Xia, Ed Chi, Quoc V Le, Denny Zhou, et al. Chain-of-thought prompting elicits reasoning in large language models. Advances in neural information processing systems, 35:24824-24837, 2022.",
+    "title": "Chain-of-thought prompting elicits reasoning in large language models",
+    "authors": [
+      "Jason Wei",
+      "Xuezhi Wang",
+      "Dale Schuurmans",
+      "Maarten Bosma",
+      "Fei Xia",
+      "Ed Chi",
+      "V Quoc",
+      "Denny Le",
+      "Zhou"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R60",
+    "raw_text": "Orion Weller, Benjamin Chang, Sean MacAvaney, Kyle Lo, Arman Cohan, Benjamin Van Durme, Dawn Lawrie, and Luca Soldaini. Followir: Evaluating and teaching information retrieval models to follow instructions. arXiv preprint arXiv:2403.15246, 2024.",
+    "title": "Evaluating and teaching information retrieval models to follow instructions",
+    "authors": [
+      "Orion Weller",
+      "Benjamin Chang",
+      "Sean Macavaney",
+      "Kyle Lo",
+      "Arman Cohan",
+      "Benjamin Van Durme",
+      "Dawn Lawrie",
+      "Luca Soldaini",
+      "Followir"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.15246"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R61",
+    "raw_text": "Chenghao Xiao, G Thomas Hudson, and Noura Al Moubayed. Rar-b: Reasoning as retrieval benchmark, 2024.",
+    "title": "Rar-b: Reasoning as retrieval benchmark",
+    "authors": [
+      "Chenghao Xiao",
+      "G Thomas Hudson",
+      "Noura Al",
+      "Moubayed"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R62",
+    "raw_text": "Shitao Xiao, Zheng Liu, Peitian Zhang, and Niklas Muennighoff. C-pack: Packaged resources to advance general chinese embedding, 2023.",
+    "title": "C-pack: Packaged resources to advance general chinese embedding",
+    "authors": [
+      "Shitao Xiao",
+      "Zheng Liu",
+      "Peitian Zhang",
+      "Niklas Muennighoff"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R63",
+    "raw_text": "Ruijie Xu, Zengzhi Wang, Run-Ze Fan, and Pengfei Liu. Benchmarking benchmark leakage in large language models. arXiv preprint arXiv:2404.18824, 2024.",
+    "title": "Benchmarking benchmark leakage in large language models",
+    "authors": [
+      "Ruijie Xu",
+      "Zengzhi Wang",
+      "Run-Ze Fan",
+      "Pengfei Liu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.18824"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R64",
+    "raw_text": "Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song, Shixing Yu, Saad Godil, Ryan Prenger, and Anima Anandkumar. Leandojo: Theorem proving with retrieval-augmented language models, 2023.",
+    "title": "Leandojo: Theorem proving with retrieval-augmented language models",
+    "authors": [
+      "Kaiyu Yang",
+      "Aidan M Swope",
+      "Alex Gu",
+      "Rahul Chalamala",
+      "Peiyang Song",
+      "Shixing Yu",
+      "Saad Godil",
+      "Ryan Prenger",
+      "Anima Anandkumar"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R65",
+    "raw_text": "Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William W Cohen, Ruslan Salakhutdinov, and Christopher D Manning. Hotpotqa: A dataset for diverse, explainable multi-hop question answering. arXiv preprint arXiv:1809.09600, 2018.",
+    "title": "Hotpotqa: A dataset for diverse, explainable multi-hop question answering",
+    "authors": [
+      "Zhilin Yang",
+      "Peng Qi",
+      "Saizheng Zhang",
+      "Yoshua Bengio",
+      "William W Cohen",
+      "Ruslan Salakhutdinov",
+      "Christopher D Manning"
+    ],
+    "year": 2018,
+    "identifiers": {
+      "arxiv_id": "arXiv:1809.09600"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R66",
+    "raw_text": "Zheng Yuan, Hongyi Yuan, Chengpeng Li, Guanting Dong, Keming Lu, Chuanqi Tan, Chang Zhou, and Jingren Zhou. Scaling relationship on learning mathematical reasoning with large language models, 2023.",
+    "title": "Scaling relationship on learning mathematical reasoning with large language models",
+    "authors": [
+      "Zheng Yuan",
+      "Hongyi Yuan",
+      "Chengpeng Li",
+      "Guanting Dong",
+      "Keming Lu",
+      "Chuanqi Tan",
+      "Chang Zhou",
+      "Jingren Zhou"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R67",
+    "raw_text": "Xiang Yue, Xingwei Qu, Ge Zhang, Yao Fu, Wenhao Huang, Huan Sun, Yu Su, and Wenhu Chen. Mammoth: Building math generalist models through hybrid instruction tuning, 2023.",
+    "title": "Mammoth: Building math generalist models through hybrid instruction tuning",
+    "authors": [
+      "Xiang Yue",
+      "Xingwei Qu",
+      "Ge Zhang",
+      "Yao Fu",
+      "Wenhao Huang",
+      "Huan Sun",
+      "Yu Su",
+      "Wenhu Chen"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R68",
+    "raw_text": "Hugh Zhang, Jeff Da, Dean Lee, Vaughn Robinson, Catherine Wu, Will Song, Tiffany Zhao, Pranav Raja, Dylan Slack, Qin Lyu, et al. A careful examination of large language model performance on grade school arithmetic. arXiv preprint arXiv:2405.00332, 2024.",
+    "title": "A careful examination of large language model performance on grade school arithmetic",
+    "authors": [
+      "Hugh Zhang",
+      "Jeff Da",
+      "Dean Lee",
+      "Vaughn Robinson",
+      "Catherine Wu",
+      "Will Song",
+      "Tiffany Zhao",
+      "Pranav Raja",
+      "Dylan Slack",
+      "Qin Lyu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.00332"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R69",
+    "raw_text": "Kun Zhou, Yutao Zhu, Zhipeng Chen, Wentong Chen, Wayne Xin Zhao, Xu Chen, Yankai Lin, Ji-Rong Wen, and Jiawei Han. Don't make your llm an evaluation benchmark cheater. arXiv preprint arXiv:2311.01964, 2023.",
+    "title": "Don't make your llm an evaluation benchmark cheater",
+    "authors": [
+      "Kun Zhou",
+      "Yutao Zhu",
+      "Zhipeng Chen",
+      "Wentong Chen",
+      "Wayne Xin Zhao",
+      "Xu Chen",
+      "Yankai Lin",
+      "Ji-Rong Wen",
+      "Jiawei Han"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2311.01964"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R70",
+    "raw_text": "Dawei Zhu, Liang Wang, Nan Yang, Yifan Song, Wenhao Wu, Furu Wei, and Sujian Li. Longembed: Extending embedding models for long context retrieval, 2024.",
+    "title": "Longembed: Extending embedding models for long context retrieval",
+    "authors": [
+      "Dawei Zhu",
+      "Liang Wang",
+      "Nan Yang",
+      "Yifan Song",
+      "Wenhao Wu",
+      "Furu Wei",
+      "Sujian Li"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

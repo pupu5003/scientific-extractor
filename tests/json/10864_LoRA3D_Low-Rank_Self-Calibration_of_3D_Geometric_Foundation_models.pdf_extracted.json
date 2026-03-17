@@ -1,0 +1,521 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Axel Barroso-Laguna, Sowmya Munukutla, Victor Adrian Prisacariu, and Eric Brachmann. Matching 2d images in 3d: Metric relative pose from metric correspondences. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4852-4863, 2024.",
+    "title": "Matching 2d images in 3d: Metric relative pose from metric correspondences",
+    "authors": [
+      "Axel Barroso-Laguna",
+      "Sowmya Munukutla",
+      "Adrian Victor",
+      "Eric Prisacariu",
+      "Brachmann"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Tom B Brown. Language models are few-shot learners. arXiv preprint arXiv:2005.14165, 2020.",
+    "title": "Language models are few-shot learners",
+    "authors": [
+      "Tom B Brown"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2005.14165"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, and Luke Zettlemoyer. Qlora: Efficient finetuning of quantized llms. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Qlora: Efficient finetuning of quantized llms",
+    "authors": [
+      "Tim Dettmers",
+      "Artidoro Pagnoni",
+      "Ari Holtzman",
+      "Luke Zettlemoyer"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Bardienus Duisterhof, Lojze Zust, Philippe Weinzaepfel, Vincent Leroy, Yohann Cabon, and Jerome Revaud. Mast3r-sfm: a fully-integrated solution for unconstrained structure-from-motion. arXiv preprint arXiv:2409.19152, 2024.",
+    "title": "Mast3r-sfm: a fully-integrated solution for unconstrained structure-from-motion",
+    "authors": [
+      "Bardienus Duisterhof",
+      "Lojze Zust",
+      "Philippe Weinzaepfel",
+      "Vincent Leroy",
+      "Yohann Cabon",
+      "Jerome Revaud"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2409.19152"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Zhiwen Fan, Wenyan Cong, Kairun Wen, Kevin Wang, Jian Zhang, Xinghao Ding, Danfei Xu, Boris Ivanovic, Marco Pavone, Georgios Pavlakos, et al. Instantsplat: Unbounded sparse-view pose-free gaussian splatting in 40 seconds. arXiv preprint arXiv:2403.20309, 2024.",
+    "title": "Georgios Pavlakos, et al. Instantsplat: Unbounded sparse-view pose-free gaussian splatting in 40 seconds",
+    "authors": [
+      "Zhiwen Fan",
+      "Wenyan Cong",
+      "Kairun Wen",
+      "Kevin Wang",
+      "Jian Zhang",
+      "Xinghao Ding",
+      "Danfei Xu",
+      "Boris Ivanovic",
+      "Marco Pavone"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.20309"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Stuart Geman, Donald E McClure, and Donald Geman. A nonlinear filter for film restoration and other problems in image processing. CVGIP: Graphical models and image processing, 54(4): 281-289, 1992.",
+    "title": "A nonlinear filter for film restoration and other problems in image processing",
+    "authors": [
+      "Stuart Geman",
+      "Donald E Mcclure",
+      "Donald Geman"
+    ],
+    "venue": "CVGIP: Graphical models and image processing",
+    "year": 1992,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Clément Godard, Oisin Mac Aodha, Michael Firman, and Gabriel J Brostow. Digging into selfsupervised monocular depth estimation. In Proceedings of the IEEE/CVF international conference on computer vision, pp. 3828-3838, 2019.",
+    "title": "Digging into selfsupervised monocular depth estimation",
+    "authors": [
+      "Clément Godard",
+      "Oisin Mac Aodha",
+      "Michael Firman",
+      "Gabriel J Brostow"
+    ],
+    "venue": "Proceedings of the IEEE/CVF international conference on computer vision",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, and Noah A Smith. Don't stop pretraining: Adapt language models to domains and tasks. arXiv preprint arXiv:2004.10964, 2020.",
+    "title": "Don't stop pretraining: Adapt language models to domains and tasks",
+    "authors": [
+      "Suchin Gururangan",
+      "Ana Marasović",
+      "Swabha Swayamdipta",
+      "Kyle Lo",
+      "Iz Beltagy",
+      "Doug Downey",
+      "Noah A Smith"
+    ],
+    "year": 2020,
+    "identifiers": {
+      "arxiv_id": "arXiv:2004.10964"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Xuehai He, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, and Xin Eric Wang. Parameter-efficient fine-tuning for vision transformers. arXiv preprint arXiv:2203.16329, 3, 2022.",
+    "title": "Parameter-efficient fine-tuning for vision transformers",
+    "authors": [
+      "Xuehai He",
+      "Chunyuan Li",
+      "Pengchuan Zhang",
+      "Jianwei Yang",
+      "Xin Eric",
+      "Wang"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2203.16329"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Yicong Hong, Kai Zhang, Jiuxiang Gu, Sai Bi, Yang Zhou, Difan Liu, Feng Liu, Kalyan Sunkavalli, Trung Bui, and Hao Tan. Lrm: Large reconstruction model for single image to 3d. arXiv preprint arXiv:2311.04400, 2023.",
+    "title": "Lrm: Large reconstruction model for single image to 3d",
+    "authors": [
+      "Yicong Hong",
+      "Kai Zhang",
+      "Jiuxiang Gu",
+      "Sai Bi",
+      "Yang Zhou",
+      "Difan Liu",
+      "Feng Liu",
+      "Kalyan Sunkavalli",
+      "Trung Bui",
+      "Hao Tan"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2311.04400"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Edward J Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen. Lora: Low-rank adaptation of large language models. arXiv preprint arXiv:2106.09685, 2021.",
+    "title": "Low-rank adaptation of large language models",
+    "authors": [
+      "J Edward",
+      "Yelong Hu",
+      "Phillip Shen",
+      "Zeyuan Wallis",
+      "Yuanzhi Allen-Zhu",
+      "Shean Li",
+      "Lu Wang",
+      "Weizhu Wang",
+      "Chen",
+      "Lora"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2106.09685"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Xinrong Hu, Xiaowei Xu, and Yiyu Shi. How to efficiently adapt large segmentation model (sam) to medical images. arXiv preprint arXiv:2306.13731, 2023.",
+    "title": "How to efficiently adapt large segmentation model (sam) to medical images",
+    "authors": [
+      "Xinrong Hu",
+      "Xiaowei Xu",
+      "Yiyu Shi"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2306.13731"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Hanwen Jiang, Qixing Huang, and Georgios Pavlakos. Real3d: Scaling up large reconstruction models with real-world images. arXiv preprint arXiv:2406.08479, 2024.",
+    "title": "Real3d: Scaling up large reconstruction models with real-world images",
+    "authors": [
+      "Hanwen Jiang",
+      "Qixing Huang",
+      "Georgios Pavlakos"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.08479"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Vincent Leroy, Yohann Cabon, and Jérôme Revaud. Grounding image matching in 3d with mast3r. arXiv preprint arXiv:2406.09756, 2024.",
+    "title": "Grounding image matching in 3d with mast3r",
+    "authors": [
+      "Vincent Leroy",
+      "Yohann Cabon",
+      "Jérôme Revaud"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.09756"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Amy Lin, Jason Y Zhang, Deva Ramanan, and Shubham Tulsiani. Relpose++: Recovering 6d poses from sparse-view observations. In 2024 International Conference on 3D Vision (3DV), pp. 106-115. IEEE, 2024.",
+    "title": "Relpose++: Recovering 6d poses from sparse-view observations",
+    "authors": [
+      "Amy Lin",
+      "Jason Y Zhang",
+      "Deva Ramanan",
+      "Shubham Tulsiani"
+    ],
+    "venue": "2024 International Conference on 3D Vision (3DV)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Haotian Liu, Chunyuan Li, Yuheng Li, and Yong Jae Lee. Improved baselines with visual instruction tuning. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 26296-26306, 2024a.",
+    "title": "Improved baselines with visual instruction tuning",
+    "authors": [
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Yuheng Li",
+      "Yong Jae Lee"
+    ],
+    "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Haotian Liu, Chunyuan Li, Qingyang Wu, and Yong Jae Lee. Visual instruction tuning. Advances in neural information processing systems, 36, 2024b.",
+    "title": "Visual instruction tuning",
+    "authors": [
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Qingyang Wu",
+      "Yong Jae Lee"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Pengpeng Liu, Michael Lyu, Irwin King, and Jia Xu. Selflow: Self-supervised learning of optical flow. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 4571-4580, 2019.",
+    "title": "Selflow: Self-supervised learning of optical flow",
+    "authors": [
+      "Pengpeng Liu",
+      "Michael Lyu",
+      "Irwin King",
+      "Jia Xu"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Bin Luo and Edwin R Hancock. Procrustes alignment with the em algorithm. In International Conference on Computer Analysis of Images and Patterns, pp. 623-631. Springer, 1999.",
+    "title": "Procrustes alignment with the em algorithm",
+    "authors": [
+      "Bin Luo",
+      "Edwin R Hancock"
+    ],
+    "venue": "International Conference on Computer Analysis of Images and Patterns",
+    "year": 1999,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Bhaskar D Rao and Kenneth Kreutz-Delgado. An affine scaling methodology for best basis selection. IEEE Transactions on signal processing, 47(1):187-200, 1999.",
+    "title": "An affine scaling methodology for best basis selection",
+    "authors": [
+      "D Bhaskar",
+      "Kenneth Rao",
+      "Kreutz-Delgado"
+    ],
+    "venue": "IEEE Transactions on signal processing",
+    "year": 1999,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Johannes L Schonberger and Jan-Michael Frahm. Structure-from-motion revisited. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 4104-4113, 2016.",
+    "title": "Structure-from-motion revisited",
+    "authors": [
+      "L Johannes",
+      "Jan-Michael Schonberger",
+      "Frahm"
+    ],
+    "venue": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Johannes L Schönberger, Enliang Zheng, Jan-Michael Frahm, and Marc Pollefeys. Pixelwise view selection for unstructured multi-view stereo. In Computer Vision-ECCV 2016: 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part III 14, pp. 501-518. Springer, 2016.",
+    "title": "Pixelwise view selection for unstructured multi-view stereo",
+    "authors": [
+      "Enliang Johannes L Schönberger",
+      "Jan-Michael Zheng",
+      "Marc Frahm",
+      "Pollefeys"
+    ],
+    "venue": "Computer Vision-ECCV 2016: 14th European Conference",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "David Schubert, Thore Goll, Nikolaus Demmel, Vladyslav Usenko, Jörg Stückler, and Daniel Cremers. The tum vi benchmark for evaluating visual-inertial odometry. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 1680-1687. IEEE, 2018.",
+    "title": "The tum vi benchmark for evaluating visual-inertial odometry",
+    "authors": [
+      "David Schubert",
+      "Thore Goll",
+      "Nikolaus Demmel",
+      "Vladyslav Usenko",
+      "Jörg Stückler",
+      "Daniel Cremers"
+    ],
+    "venue": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Cameron Smith, David Charatan, Ayush Tewari, and Vincent Sitzmann. Flowmap: High-quality camera poses, intrinsics, and depth via gradient descent. arXiv preprint arXiv:2404.15259, 2024.",
+    "title": "Flowmap: High-quality camera poses, intrinsics, and depth via gradient descent",
+    "authors": [
+      "Cameron Smith",
+      "David Charatan",
+      "Ayush Tewari",
+      "Vincent Sitzmann"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2404.15259"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Julian Straub, Thomas Whelan, Lingni Ma, Yufan Chen, Erik Wijmans, Simon Green, Jakob J Engel, Raul Mur-Artal, Carl Ren, Shobhit Verma, et al. The replica dataset: A digital replica of indoor spaces. arXiv preprint arXiv:1906.05797, 2019.",
+    "title": "The replica dataset: A digital replica of indoor spaces",
+    "authors": [
+      "Julian Straub",
+      "Thomas Whelan",
+      "Lingni Ma",
+      "Yufan Chen",
+      "Erik Wijmans",
+      "Simon Green",
+      "Jakob J Engel",
+      "Raul Mur-Artal",
+      "Carl Ren",
+      "Shobhit Verma"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1906.05797"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Edgar Sucar, Shikun Liu, Joseph Ortiz, and Andrew J Davison. imap: Implicit mapping and positioning in real-time. In Proceedings of the IEEE/CVF international conference on computer vision, pp. 6229-6238, 2021.",
+    "title": "imap: Implicit mapping and positioning in real-time",
+    "authors": [
+      "Edgar Sucar",
+      "Shikun Liu",
+      "Joseph Ortiz",
+      "Andrew J Davison"
+    ],
+    "venue": "Proceedings of the IEEE/CVF international conference on computer vision",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Pei Sun, Henrik Kretzschmar, Xerxes Dotiwalla, Aurelien Chouard, Vijaysai Patnaik, Paul Tsui, James Guo, Yin Zhou, Yuning Chai, Benjamin Caine, et al. Scalability in perception for autonomous driving: Waymo open dataset. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 2446-2454, 2020.",
+    "title": "Scalability in perception for autonomous driving: Waymo open dataset",
+    "authors": [
+      "Pei Sun",
+      "Henrik Kretzschmar",
+      "Xerxes Dotiwalla",
+      "Aurelien Chouard",
+      "Vijaysai Patnaik",
+      "Paul Tsui",
+      "James Guo",
+      "Yin Zhou",
+      "Yuning Chai",
+      "Benjamin Caine"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Sheng Wan, Tung-Yu Wu, Wing H Wong, and Chen-Yi Lee. Confnet: predict with confidence. In 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 2921-2925. IEEE, 2018.",
+    "title": "Confnet: predict with confidence",
+    "authors": [
+      "Sheng Wan",
+      "Tung-Yu Wu",
+      "H Wing",
+      "Chen-Yi Wong",
+      "Lee"
+    ],
+    "venue": "2018 IEEE International Conference on Acoustics, Speech and Signal Processing",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Hengyi Wang and Lourdes Agapito. 3d reconstruction with spatial memory. arXiv preprint arXiv:2408.16061, 2024.",
+    "title": "3d reconstruction with spatial memory",
+    "authors": [
+      "Hengyi Wang",
+      "Lourdes Agapito"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2408.16061"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Jianyuan Wang, Christian Rupprecht, and David Novotny. Posediffusion: Solving pose estimation via diffusion-aided bundle adjustment. In Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 9773-9783, 2023.",
+    "title": "Posediffusion: Solving pose estimation via diffusion-aided bundle adjustment",
+    "authors": [
+      "Jianyuan Wang",
+      "Christian Rupprecht",
+      "David Novotny"
+    ],
+    "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

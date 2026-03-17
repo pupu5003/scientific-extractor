@@ -1,0 +1,895 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "James Betker, Gabriel Goh, Li Jing, Tim Brooks, Jianfeng Wang, Linjie Li, Long Ouyang, Juntang Zhuang, Joyce Lee, Yufei Guo, et al. Improving image generation with better captions. Computer Science. https://cdn. openai. com/papers/dall-e-3. pdf, 2(3):8, 2023.",
+    "title": "Improving image generation with better captions",
+    "authors": [
+      "James Betker",
+      "Gabriel Goh",
+      "Li Jing",
+      "Tim Brooks",
+      "Jianfeng Wang",
+      "Linjie Li",
+      "Long Ouyang",
+      "Juntang Zhuang",
+      "Joyce Lee",
+      "Yufei Guo"
+    ],
+    "venue": "Computer Science",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://cdn.openai.com/papers/dall-e-3.pdf"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Bochuan Cao, Changjiang Li, Ting Wang, Jinyuan Jia, Bo Li, and Jinghui Chen. Impress: Evaluating the resilience of imperceptible perturbations against unauthorized data usage in diffusion-based generative ai. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "Impress: Evaluating the resilience of imperceptible perturbations against unauthorized data usage in diffusion-based generative ai",
+    "authors": [
+      "Bochuan Cao",
+      "Changjiang Li",
+      "Ting Wang",
+      "Jinyuan Jia",
+      "Bo Li",
+      "Jinghui Chen"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Nicholas Carlini and David Wagner. Adversarial examples are not easily detected: Bypassing ten detection methods. In Proceedings of the 10th ACM workshop on artificial intelligence and security, pp. 3-14, 2017.",
+    "title": "Adversarial examples are not easily detected: Bypassing ten detection methods",
+    "authors": [
+      "Nicholas Carlini",
+      "David Wagner"
+    ],
+    "venue": "Proceedings of the 10th ACM workshop on artificial intelligence and security",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Valeriia Cherepanova, Micah Goldblum, Harrison Foley, Shiyuan Duan, John Dickerson, Gavin Taylor, and Tom Goldstein. Lowkey: Leveraging adversarial attacks to protect social media users from facial recognition. arXiv preprint arXiv:2101.07922, 2021.",
+    "title": "Lowkey: Leveraging adversarial attacks to protect social media users from facial recognition",
+    "authors": [
+      "Valeriia Cherepanova",
+      "Micah Goldblum",
+      "Harrison Foley",
+      "Shiyuan Duan",
+      "John Dickerson",
+      "Gavin Taylor",
+      "Tom Goldstein"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2101.07922"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Samantha Cole. Largest dataset powering ai images removed after discovery of child sexual abuse material. 404 Media, Dec 2023. URL https://www.404media.co/ laion-datasets-removed-stanford-csam-child-abuse/.",
+    "title": "Largest dataset powering ai images removed after discovery of child sexual abuse material. 404 Media",
+    "authors": [
+      "Samantha Cole"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "url": "https://www.404media.co/laion-datasets-removed-stanford-csam-child-abuse/"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Liam Fowl, Micah Goldblum, Ping-yeh Chiang, Jonas Geiping, Wojciech Czaja, and Tom Goldstein. Adversarial examples make strong poisons. Advances in Neural Information Processing Systems, 34:30339-30351, 2021.",
+    "title": "Adversarial examples make strong poisons",
+    "authors": [
+      "Liam Fowl",
+      "Micah Goldblum",
+      "Ping-Yeh Chiang",
+      "Jonas Geiping",
+      "Wojciech Czaja",
+      "Tom Goldstein"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit Haim Bermano, Gal Chechik, and Daniel Cohen-or. An image is worth one word: Personalizing text-to-image generation using textual inversion. In The Eleventh International Conference on Learning Representations, 2022.",
+    "title": "Or Patashnik, Amit Haim Bermano, Gal Chechik, and Daniel Cohen-or. An image is worth one word: Personalizing text-to-image generation using textual inversion",
+    "authors": [
+      "Rinon Gal",
+      "Yuval Alaluf",
+      "Yuval Atzmon"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Vignesh Gokul and Shlomo Dubnov. Poscuda: Position based convolution for unlearnable audio datasets. arXiv preprint arXiv:2401.02135, 2024.",
+    "title": "Poscuda: Position based convolution for unlearnable audio datasets",
+    "authors": [
+      "Vignesh Gokul",
+      "Shlomo Dubnov"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.02135"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Melissa Heikkilä. This artist is dominating ai-generated art. and he's not happy about it. MIT Technology Review, 125(6):9-10, 2022.",
+    "title": "This artist is dominating ai-generated art. and he's not happy about it",
+    "authors": [
+      "Melissa Heikkilä"
+    ],
+    "venue": "MIT Technology Review",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Melissa Heikkilä. This artist is dominating ai-generated art. and he's not happy about it. Technology Review, 2022.",
+    "title": "This artist is dominating ai-generated art. and he's not happy about it",
+    "authors": [
+      "Melissa Heikkilä"
+    ],
+    "venue": "Technology Review",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Kashmir Hill. This tool could protect artists from ai-generated art that steals their style. The New York Times, 2023.",
+    "title": "This tool could protect artists from ai-generated art that steals their style",
+    "authors": [
+      "Kashmir Hill"
+    ],
+    "venue": "The New York Times",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Jonathan Ho and Tim Salimans. Classifier-free diffusion guidance. arXiv preprint arXiv:2207.12598, 2022.",
+    "title": "Classifier-free diffusion guidance",
+    "authors": [
+      "Jonathan Ho",
+      "Tim Salimans"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2207.12598"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Jonathan Ho, Ajay Jain, and Pieter Abbeel. Denoising diffusion probabilistic models. Advances in neural information processing systems, 33:6840-6851, 2020.",
+    "title": "Denoising diffusion probabilistic models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "Pieter Abbeel"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey, and Yisen Wang. Unlearnable examples: Making personal data unexploitable. arXiv preprint arXiv:2101.04898, 2021.",
+    "title": "Unlearnable examples: Making personal data unexploitable",
+    "authors": [
+      "Hanxun Huang",
+      "Xingjun Ma",
+      "Sarah Monazam Erfani",
+      "James Bailey",
+      "Yisen Wang"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2101.04898"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Tero Karras, Miika Aittala, Timo Aila, and Samuli Laine. Elucidating the design space of diffusionbased generative models. Advances in Neural Information Processing Systems, 35:26565-26577, 2022.",
+    "title": "Elucidating the design space of diffusionbased generative models",
+    "authors": [
+      "Tero Karras",
+      "Miika Aittala",
+      "Timo Aila",
+      "Samuli Laine"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Ryan Kennedy, Scott Clifford, Tyler Burleigh, Philip D. Waggoner, Ryan Jewell, and Nicholas J. G. Winter. The shape of and solutions to the mturk quality crisis. Political Science Research and Methods, 8(4):614-629, 2020. doi: 10.1017/psrm.2020.6.",
+    "title": "The shape of and solutions to the mturk quality crisis",
+    "authors": [
+      "Ryan Kennedy",
+      "Scott Clifford",
+      "Tyler Burleigh",
+      "Philip D Waggoner",
+      "Ryan Jewell",
+      "Nicholas J G Winter"
+    ],
+    "venue": "Political Science Research and Methods",
+    "year": 2020,
+    "identifiers": {
+      "doi": "10.1017/psrm.2020.6"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Diederik P Kingma and Jimmy Ba. Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980, 2014.",
+    "title": "Adam: A method for stochastic optimization",
+    "authors": [
+      "P Diederik",
+      "Jimmy Kingma",
+      "Ba"
+    ],
+    "year": 2014,
+    "identifiers": {
+      "arxiv_id": "arXiv:1412.6980"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Lauren Leffer. Your personal information is probably being used to train generative ai models. 2023.",
+    "title": "Your personal information is probably being used to train generative ai models",
+    "authors": [
+      "Lauren Leffer"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Junnan Li, Dongxu Li, Silvio Savarese, and Steven Hoi. Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models. In International conference on machine learning, pp. 19730-19742. PMLR, 2023.",
+    "title": "Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models",
+    "authors": [
+      "Junnan Li",
+      "Dongxu Li",
+      "Silvio Savarese",
+      "Steven Hoi"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Chumeng Liang and Xiaoyu Wu. Mist: Towards improved adversarial examples for diffusion models. arXiv preprint arXiv:2305.12683, 2023.",
+    "title": "Mist: Towards improved adversarial examples for diffusion models",
+    "authors": [
+      "Chumeng Liang",
+      "Xiaoyu Wu"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.12683"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Chumeng Liang, Xiaoyu Wu, Yang Hua, Jiaru Zhang, Yiming Xue, Tao Song, Zhengui Xue, Ruhui Ma, and Haibing Guan. Adversarial example does good: Preventing painting imitation from diffusion models via adversarial examples. In International Conference on Machine Learning, pp. 20763-20786. PMLR, 2023.",
+    "title": "Adversarial example does good: Preventing painting imitation from diffusion models via adversarial examples",
+    "authors": [
+      "Chumeng Liang",
+      "Xiaoyu Wu",
+      "Yang Hua",
+      "Jiaru Zhang",
+      "Yiming Xue",
+      "Tao Song",
+      "Zhengui Xue",
+      "Ruhui Ma",
+      "Haibing Guan"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Luping Liu, Yi Ren, Zhijie Lin, and Zhou Zhao. Pseudo numerical methods for diffusion models on manifolds. In International Conference on Learning Representations, 2021.",
+    "title": "Pseudo numerical methods for diffusion models on manifolds",
+    "authors": [
+      "Luping Liu",
+      "Yi Ren",
+      "Zhijie Lin",
+      "Zhou Zhao"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Cheng Lu, Yuhao Zhou, Fan Bao, Jianfei Chen, Chongxuan Li, and Jun Zhu. Dpm-solver++: Fast solver for guided sampling of diffusion probabilistic models. 2022.",
+    "title": "Dpm-solver++: Fast solver for guided sampling of diffusion probabilistic models",
+    "authors": [
+      "Cheng Lu",
+      "Yuhao Zhou",
+      "Fan Bao",
+      "Jianfei Chen",
+      "Chongxuan Li",
+      "Jun Zhu"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Daiki Miyake, Akihiro Iohara, Yu Saito, and Toshiyuki Tanaka. Negative-prompt inversion: Fast image inversion for editing with text-guided diffusion models. arXiv preprint arXiv:2305.16807, 2023. muerrilla. Negative prompt weight: Extension for stable diffusion web ui. https://github. com/muerrilla/stable-diffusion-NPW, 2023.",
+    "title": "Negative-prompt inversion: Fast image inversion for editing with text-guided diffusion models",
+    "authors": [
+      "Daiki Miyake",
+      "Akihiro Iohara",
+      "Yu Saito",
+      "Toshiyuki Tanaka"
+    ],
+    "venue": "muerrilla. Negative prompt weight: Extension for stable diffusion web ui",
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2305.16807",
+      "url": "https://github.com/muerrilla/stable-diffusion-NPW"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Aamir Mustafa, Salman H Khan, Munawar Hayat, Jianbing Shen, and Ling Shao. Image superresolution as a defense against adversarial attacks. IEEE Transactions on Image Processing, 29: 1711-1724, 2019.",
+    "title": "Image superresolution as a defense against adversarial attacks",
+    "authors": [
+      "Aamir Mustafa",
+      "Salman H Khan",
+      "Munawar Hayat",
+      "Jianbing Shen",
+      "Ling Shao"
+    ],
+    "venue": "IEEE Transactions on Image Processing",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Weili Nie, Brandon Guo, Yujia Huang, Chaowei Xiao, Arash Vahdat, and Animashree Anandkumar. Diffusion models for adversarial purification. In International Conference on Machine Learning, pp. 16805-16827. PMLR, 2022.",
+    "title": "Diffusion models for adversarial purification",
+    "authors": [
+      "Weili Nie",
+      "Brandon Guo",
+      "Yujia Huang",
+      "Chaowei Xiao",
+      "Arash Vahdat",
+      "Animashree Anandkumar"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Josephine Passananti, Stanley Wu, Shawn Shan, Haitao Zheng, and Ben Y Zhao. Disrupting style mimicry attacks on video imagery. arXiv preprint arXiv:2405.06865, 2024.",
+    "title": "Disrupting style mimicry attacks on video imagery",
+    "authors": [
+      "Josephine Passananti",
+      "Stanley Wu",
+      "Shawn Shan",
+      "Haitao Zheng",
+      "Ben Y Zhao"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.06865"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Dustin Podell, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas Müller, Joe Penna, and Robin Rombach. Sdxl: Improving latent diffusion models for high-resolution image synthesis. In The Twelfth International Conference on Learning Representations, 2023.",
+    "title": "Sdxl: Improving latent diffusion models for high-resolution image synthesis",
+    "authors": [
+      "Dustin Podell",
+      "Zion English",
+      "Kyle Lacey",
+      "Andreas Blattmann",
+      "Tim Dockhorn",
+      "Jonas Müller",
+      "Joe Penna",
+      "Robin Rombach"
+    ],
+    "venue": "The Twelfth International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, et al. Learning transferable visual models from natural language supervision. In International conference on machine learning, pp. 8748-8763. PMLR, 2021.",
+    "title": "Learning transferable visual models from natural language supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "Aditya Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark"
+    ],
+    "venue": "International conference on machine learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Evani Radiya-Dixit, Sanghyun Hong, Nicholas Carlini, and Florian Tramèr. Data poisoning won't save you from facial recognition. arXiv preprint arXiv:2106.14851, 2021.",
+    "title": "Data poisoning won't save you from facial recognition",
+    "authors": [
+      "Evani Radiya-Dixit",
+      "Sanghyun Hong",
+      "Nicholas Carlini",
+      "Florian Tramèr"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2106.14851"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, and Mark Chen. Hierarchical textconditional image generation with clip latents.",
+    "title": "Hierarchical textconditional image generation with clip latents",
+    "authors": [
+      "Aditya Ramesh",
+      "Prafulla Dhariwal",
+      "Alex Nichol",
+      "Casey Chu",
+      "Mark Chen"
+    ],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Anton Razzhigaev, Arseniy Shakhmatov, Anastasia Maltseva, Vladimir Arkhipkin, Igor Pavlov, Ilya Ryabov, Angelina Kuts, Alexander Panchenko, Andrey Kuznetsov, and Denis Dimitrov. Kandinsky: an improved text-to-image synthesis with image prior and latent diffusion. arXiv preprint arXiv:2310.03502, 2023.",
+    "title": "Kandinsky: an improved text-to-image synthesis with image prior and latent diffusion",
+    "authors": [
+      "Anton Razzhigaev",
+      "Arseniy Shakhmatov",
+      "Anastasia Maltseva",
+      "Vladimir Arkhipkin",
+      "Igor Pavlov",
+      "Ilya Ryabov",
+      "Angelina Kuts",
+      "Alexander Panchenko",
+      "Andrey Kuznetsov",
+      "Denis Dimitrov"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.03502"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn Ommer. Highresolution image synthesis with latent diffusion models. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 10684-10695, 2022.",
+    "title": "Highresolution image synthesis with latent diffusion models",
+    "authors": [
+      "Robin Rombach",
+      "Andreas Blattmann",
+      "Dominik Lorenz",
+      "Patrick Esser",
+      "Björn Ommer"
+    ],
+    "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Chitwan Saharia, William Chan, Saurabh Saxena, Lala Li, Jay Whang, Emily L Denton, Kamyar Ghasemipour, Raphael Gontijo Lopes, Burcu Karagol Ayan, Tim Salimans, et al. Photorealistic text-to-image diffusion models with deep language understanding. Advances in neural information processing systems, 35:36479-36494, 2022.",
+    "title": "Photorealistic text-to-image diffusion models with deep language understanding",
+    "authors": [
+      "Chitwan Saharia",
+      "William Chan",
+      "Saurabh Saxena",
+      "Lala Li",
+      "Jay Whang",
+      "Emily L Denton",
+      "Kamyar Ghasemipour",
+      "Raphael Gontijo Lopes",
+      "Burcu Karagol Ayan",
+      "Tim Salimans"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Hadi Salman, Alaa Khaddaj, Guillaume Leclerc, Andrew Ilyas, and Aleksander Madry. Raising the cost of malicious ai-powered image editing. arXiv preprint arXiv:2302.06588, 2023.",
+    "title": "Raising the cost of malicious ai-powered image editing",
+    "authors": [
+      "Alaa Hadi Salman",
+      "Guillaume Khaddaj",
+      "Andrew Leclerc",
+      "Aleksander Ilyas",
+      "Madry"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2302.06588"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Pouya Samangouei, Maya Kabkab, and Rama Chellappa. Defense-gan: Protecting classifiers against adversarial attacks using generative models, 2018.",
+    "title": "Defense-gan: Protecting classifiers against adversarial attacks using generative models",
+    "authors": [
+      "Pouya Samangouei",
+      "Maya Kabkab",
+      "Rama Chellappa"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Christoph Schuhmann, Romain Beaumont, Richard Vencu, Cade Gordon, Ross Wightman, Mehdi Cherti, Theo Coombes, Aarush Katta, Clayton Mullis, Mitchell Wortsman, et al. Laion-5b: An open large-scale dataset for training next generation image-text models. Advances in Neural Information Processing Systems, 35:25278-25294, 2022.",
+    "title": "Laion-5b: An open large-scale dataset for training next generation image-text models",
+    "authors": [
+      "Christoph Schuhmann",
+      "Romain Beaumont",
+      "Richard Vencu",
+      "Cade Gordon",
+      "Ross Wightman",
+      "Mehdi Cherti",
+      "Theo Coombes",
+      "Aarush Katta",
+      "Clayton Mullis",
+      "Mitchell Wortsman"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Shawn Shan, Emily Wenger, Jiayun Zhang, Huiying Li, Haitao Zheng, and Ben Y Zhao. Fawkes: Protecting privacy against unauthorized deep learning models. In 29th USENIX security symposium (USENIX Security 20), pp. 1589-1604, 2020.",
+    "title": "Fawkes: Protecting privacy against unauthorized deep learning models",
+    "authors": [
+      "Shawn Shan",
+      "Emily Wenger",
+      "Jiayun Zhang",
+      "Huiying Li",
+      "Haitao Zheng",
+      "Ben Y Zhao"
+    ],
+    "venue": "29th USENIX security symposium (USENIX Security 20)",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Shawn Shan, Jenna Cryan, Emily Wenger, Haitao Zheng, Rana Hanocka, and Ben Y Zhao. Glaze: Protecting artists from style mimicry by {Text-to-Image} models. In 32nd USENIX Security Symposium (USENIX Security 23), pp. 2187-2204, 2023a.",
+    "title": "Protecting artists from style mimicry by {Text-to-Image} models",
+    "authors": [
+      "Shawn Shan",
+      "Jenna Cryan",
+      "Emily Wenger",
+      "Haitao Zheng",
+      "Rana Hanocka",
+      "Ben Y Zhao",
+      "Glaze"
+    ],
+    "venue": "32nd USENIX Security Symposium (USENIX Security 23)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Shawn Shan, Stanley Wu, Haitao Zheng, and Ben Y Zhao. A response to glaze purification via impress. arXiv preprint arXiv:2312.07731, 2023b.",
+    "title": "A response to glaze purification via impress",
+    "authors": [
+      "Shawn Shan",
+      "Stanley Wu",
+      "Haitao Zheng",
+      "Ben Y Zhao"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2312.07731"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Changhao Shi, Chester Holtz, and Gal Mishne. Online adversarial purification based on selfsupervised learning. In International Conference on Learning Representations, 2020.",
+    "title": "Online adversarial purification based on selfsupervised learning",
+    "authors": [
+      "Changhao Shi",
+      "Chester Holtz",
+      "Gal Mishne"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "Stability AI. Stable diffusion 2.1. https://huggingface.co/stabilityai/ stable-diffusion-2-1, 2022. Accessed: 2024-04-03.",
+    "title": "Stable diffusion 2.1",
+    "authors": [
+      "A I Stability"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "url": "https://huggingface.co/stabilityai/stable-diffusion-2-1"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, and Rob Fergus. Intriguing properties of neural networks. arXiv preprint arXiv:1312.6199, 2013.",
+    "title": "Intriguing properties of neural networks",
+    "authors": [
+      "Christian Szegedy",
+      "Wojciech Zaremba",
+      "Ilya Sutskever",
+      "Joan Bruna",
+      "Dumitru Erhan",
+      "Ian Goodfellow",
+      "Rob Fergus"
+    ],
+    "year": 2013,
+    "identifiers": {
+      "arxiv_id": "arXiv:1312.6199"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "Wei Ren Tan, Chee Seng Chan, Hernan Aguirre, and Kiyoshi Tanaka. Improved artgan for conditional synthesis of natural image and artwork. IEEE Transactions on Image Processing, 28(1):394-409, 2019. doi: 10.1109/TIP.2018.2866698. URL https://doi.org/10.1109/TIP.2018. 2866698.",
+    "title": "Improved artgan for conditional synthesis of natural image and artwork",
+    "authors": [
+      "Chee Wei Ren Tan",
+      "Hernan Seng Chan",
+      "Kiyoshi Aguirre",
+      "Tanaka"
+    ],
+    "venue": "IEEE Transactions on Image Processing",
+    "year": 2019,
+    "identifiers": {
+      "doi": "10.1109/TIP.2018.2866698",
+      "arxiv_id": "2018.28666",
+      "url": "https://doi.org/10.1109/TIP.2018.2866698"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Lue Tao, Lei Feng, Jinfeng Yi, Sheng-Jun Huang, and Songcan Chen. Better safe than sorry: Preventing delusive adversaries with adversarial training. Advances in Neural Information Processing Systems, 34:16209-16225, 2021.",
+    "title": "Better safe than sorry: Preventing delusive adversaries with adversarial training",
+    "authors": [
+      "Lue Tao",
+      "Lei Feng",
+      "Jinfeng Yi",
+      "Sheng-Jun Huang",
+      "Songcan Chen"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Catherine Thorbecke. It gave us some way to fight back: New tools aim to protect art and images from ai's grasp. 2023.",
+    "title": "It gave us some way to fight back: New tools aim to protect art and images from ai's grasp",
+    "authors": [
+      "Catherine Thorbecke"
+    ],
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Florian Tramer, Nicholas Carlini, Wieland Brendel, and Aleksander Madry. On adaptive attacks to adversarial example defenses. Advances in neural information processing systems, 33:1633-1645, 2020.",
+    "title": "On adaptive attacks to adversarial example defenses",
+    "authors": [
+      "Florian Tramer",
+      "Nicholas Carlini",
+      "Wieland Brendel",
+      "Aleksander Madry"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Thanh Van Le, Hao Phung, Thuan Hoang Nguyen, Quan Dao, Ngoc N Tran, and Anh Tran. Antidreambooth: Protecting users from personalized text-to-image synthesis. In Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 2116-2127, 2023.",
+    "title": "Antidreambooth: Protecting users from personalized text-to-image synthesis",
+    "authors": [
+      "Thanh Van Le",
+      "Hao Phung",
+      "Thuan Hoang Nguyen",
+      "Quan Dao",
+      "Ngoc N Tran",
+      "Anh Tran"
+    ],
+    "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Patrick von Platen, Suraj Patil, Anton Lozhkov, Pedro Cuenca, Nathan Lambert, Kashif Rasul, Mishig Davaadorj, Dhruv Nair, Sayak Paul, Steven Liu, William Berman, Yiyi Xu, and Thomas Wolf. Diffusers: State-of-the-art diffusion models, apr 2024. URL https://github.com/ huggingface/diffusers. If you use this software, please cite it using the metadata from this file.",
+    "title": "Diffusers: State-of-the-art diffusion models",
+    "authors": [
+      "Suraj Patrick Von Platen",
+      "Anton Patil",
+      "Pedro Lozhkov",
+      "Nathan Cuenca",
+      "Kashif Lambert",
+      "Mishig Rasul",
+      "Dhruv Davaadorj",
+      "Sayak Nair",
+      "Steven Paul",
+      "William Liu",
+      "Yiyi Berman",
+      "Thomas Xu",
+      "Wolf"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "url": "https://github.com/huggingface/diffusers"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Stephen J Wright. Numerical optimization, 2006.",
+    "title": "Numerical optimization",
+    "authors": [
+      "Wright Stephen"
+    ],
+    "venue": "Numerical optimization",
+    "year": 2006,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "Jongmin Yoon, Sung Ju Hwang, and Juho Lee. Adversarial purification with score-based generative models. In International Conference on Machine Learning, pp. 12062-12072. PMLR, 2021.",
+    "title": "Adversarial purification with score-based generative models",
+    "authors": [
+      "Jongmin Yoon",
+      "Sung Ju Hwang",
+      "Juho Lee"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Richard Zhang, Phillip Isola, Alexei A Efros, Eli Shechtman, and Oliver Wang. The unreasonable effectiveness of deep features as a perceptual metric. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 586-595, 2018.",
+    "title": "The unreasonable effectiveness of deep features as a perceptual metric",
+    "authors": [
+      "Richard Zhang",
+      "Phillip Isola",
+      "Alexei A Efros",
+      "Eli Shechtman",
+      "Oliver Wang"
+    ],
+    "venue": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

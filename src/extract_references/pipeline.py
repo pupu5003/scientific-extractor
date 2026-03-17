@@ -63,11 +63,24 @@ class ExtractionPipeline:
                 url=parsed_dict.get("url")
             )
             
+            authors = parsed_dict.get("authors", [])
+            if isinstance(authors, list):
+                normalized = []
+                for author in authors:
+                    if isinstance(author, dict) and author.get("name"):
+                        author = str(author["name"])
+                    if isinstance(author, str):
+                        if normalized and author.startswith("-"):
+                            normalized[-1] = f"{normalized[-1]}{author}"
+                        else:
+                            normalized.append(author)
+                authors = normalized
+
             return ExtractedCitation(
                 ref_id=f"R{idx}",
                 raw_text=raw_text,
                 title=parsed_dict.get("title"),
-                authors=parsed_dict.get("authors", []),
+                authors=authors,
                 venue=parsed_dict.get("venue"),
                 year=parsed_dict.get("year"),
                 identifiers=identifiers,

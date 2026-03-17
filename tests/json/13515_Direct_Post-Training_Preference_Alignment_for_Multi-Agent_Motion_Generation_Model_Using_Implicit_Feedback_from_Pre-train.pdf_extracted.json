@@ -1,0 +1,769 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Pieter Abbeel and Andrew Y Ng. Apprenticeship learning via inverse reinforcement learning. In Proceedings of the twenty-first international conference on Machine learning, pp. 1, 2004.",
+    "title": "Apprenticeship learning via inverse reinforcement learning",
+    "authors": [
+      "Pieter Abbeel",
+      "Andrew Y Ng"
+    ],
+    "venue": "Proceedings of the twenty-first international conference on Machine learning",
+    "year": 2004,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Josh Achiam, Steven Adler, Sandhini Agarwal, Lama Ahmad, Ilge Akkaya, Florencia Leoni Aleman, Diogo Almeida, Janko Altenschmidt, Sam Altman, Shyamal Anadkat, et al. Gpt-4 technical report. arXiv preprint arXiv:2303.08774, 2023.",
+    "title": "Shyamal Anadkat, et al. Gpt-4 technical report",
+    "authors": [
+      "Josh Achiam",
+      "Steven Adler",
+      "Sandhini Agarwal",
+      "Lama Ahmad",
+      "Ilge Akkaya",
+      "Florencia Leoni Aleman",
+      "Diogo Almeida",
+      "Janko Altenschmidt",
+      "Sam Altman"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2303.08774"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, Jackson Kernion, Andy Jones, Anna Chen, Anna Goldie, Azalia Mirhoseini, Cameron McKinnon, et al. Constitutional ai: Harmlessness from ai feedback. arXiv preprint arXiv:2212.08073, 2022.",
+    "title": "Constitutional ai: Harmlessness from ai feedback",
+    "authors": [
+      "Yuntao Bai",
+      "Saurav Kadavath",
+      "Sandipan Kundu",
+      "Amanda Askell",
+      "Jackson Kernion",
+      "Andy Jones",
+      "Anna Chen",
+      "Anna Goldie",
+      "Azalia Mirhoseini",
+      "Cameron Mckinnon"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2212.08073"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski, Tianli Ding, Danny Driess, Avinava Dubey, Chelsea Finn, et al. Rt-2: Vision-language-action models transfer web knowledge to robotic control. arXiv preprint arXiv:2307.15818, 2023.",
+    "title": "Rt-2: Vision-language-action models transfer web knowledge to robotic control",
+    "authors": [
+      "Anthony Brohan",
+      "Noah Brown",
+      "Justice Carbajal",
+      "Yevgen Chebotar",
+      "Xi Chen",
+      "Krzysztof Choromanski",
+      "Tianli Ding",
+      "Danny Driess",
+      "Avinava Dubey",
+      "Chelsea Finn"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.15818"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Yulong Cao, Boris Ivanovic, Chaowei Xiao, and Marco Pavone. Reinforcement learning with human feedback for realistic traffic simulation. In 2024 IEEE International Conference on Robotics and Automation (ICRA), pp. 14428-14434. IEEE, 2024.",
+    "title": "Reinforcement learning with human feedback for realistic traffic simulation",
+    "authors": [
+      "Yulong Cao",
+      "Boris Ivanovic",
+      "Chaowei Xiao",
+      "Marco Pavone"
+    ],
+    "venue": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "Zhaorun Chen, Siyue Wang, Zhuokai Zhao, Chaoli Mao, Yiyang Zhou, Jiayu He, and Albert Sibo Hu. Escirl: Evolving self-contrastive irl for trajectory prediction in autonomous driving. In 8th Annual Conference on Robot Learning, 2024a.",
+    "title": "Escirl: Evolving self-contrastive irl for trajectory prediction in autonomous driving",
+    "authors": [
+      "Zhaorun Chen",
+      "Siyue Wang",
+      "Zhuokai Zhao",
+      "Chaoli Mao",
+      "Yiyang Zhou",
+      "Jiayu He",
+      "Albert Sibo Hu"
+    ],
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, and Quanquan Gu. Self-play fine-tuning converts weak language models to strong language models. arXiv preprint arXiv:2401.01335, 2024b.",
+    "title": "Self-play fine-tuning converts weak language models to strong language models",
+    "authors": [
+      "Zixiang Chen",
+      "Yihe Deng",
+      "Huizhuo Yuan",
+      "Kaixuan Ji",
+      "Quanquan Gu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2401.01335"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Charles AE Goodhart and CAE Goodhart. Problems of monetary management: the UK experience. Springer, 1984.",
+    "title": "Problems of monetary management: the UK experience",
+    "authors": [
+      "A E Charles",
+      "Cae Goodhart",
+      "Goodhart"
+    ],
+    "year": 1984,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Joey Hejna, Rafael Rafailov, Harshit Sikchi, Chelsea Finn, Scott Niekum, W Bradley Knox, and Dorsa Sadigh. Contrastive prefence learning: Learning from human feedback without rl. arXiv preprint arXiv:2310.13639, 2023.",
+    "title": "Contrastive prefence learning: Learning from human feedback without rl",
+    "authors": [
+      "Joey Hejna",
+      "Rafael Rafailov",
+      "Harshit Sikchi",
+      "Chelsea Finn",
+      "Scott Niekum",
+      "Bradley Knox",
+      "Dorsa Sadigh"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.13639"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "Jonathan Ho and Stefano Ermon. Generative adversarial imitation learning. Advances in neural information processing systems, 29, 2016.",
+    "title": "Generative adversarial imitation learning",
+    "authors": [
+      "Jonathan Ho",
+      "Stefano Ermon"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2016,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Siddharth Karamcheti, Suraj Nair, Annie S Chen, Thomas Kollar, Chelsea Finn, Dorsa Sadigh, and Percy Liang. Language-driven representation learning for robotics. arXiv preprint arXiv:2302.12766, 2023.",
+    "title": "Language-driven representation learning for robotics",
+    "authors": [
+      "Siddharth Karamcheti",
+      "Suraj Nair",
+      "Annie S Chen",
+      "Thomas Kollar",
+      "Chelsea Finn",
+      "Dorsa Sadigh",
+      "Percy Liang"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2302.12766"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Naveen Kodali, Jacob Abernethy, James Hays, and Zsolt Kira. On convergence and stability of gans. arXiv preprint arXiv:1705.07215, 2017.",
+    "title": "On convergence and stability of gans",
+    "authors": [
+      "Naveen Kodali",
+      "Jacob Abernethy",
+      "James Hays",
+      "Zsolt Kira"
+    ],
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "arXiv:1705.07215"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Harrison Lee, Samrat Phatale, Hassan Mansoor, Thomas Mesnard, Johan Ferret, Kellie Ren Lu, Colton Bishop, Ethan Hall, Victor Carbune, Abhinav Rastogi, et al. Rlaif vs. rlhf: Scaling reinforcement learning from human feedback with ai feedback. In Forty-first International Conference on Machine Learning.",
+    "title": "Rlaif vs. rlhf: Scaling reinforcement learning from human feedback with AI feedback",
+    "authors": [
+      "Harrison Lee",
+      "Samrat Phatale",
+      "Hassan Mansoor",
+      "Thomas Mesnard",
+      "Johan Ferret",
+      "Kellie Ren Lu",
+      "Colton Bishop",
+      "Ethan Hall",
+      "Victor Carbune",
+      "Abhinav Rastogi"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Jiaxiang Li, Siliang Zeng, Hoi-To Wai, Chenliang Li, Alfredo Garcia, and Mingyi Hong. Getting more juice out of the sft data: Reward learning from human demonstration improves sft for llm alignment. arXiv preprint arXiv:2405.17888, 2024.",
+    "title": "Getting more juice out of the sft data: Reward learning from human demonstration improves sft for llm alignment",
+    "authors": [
+      "Jiaxiang Li",
+      "Siliang Zeng",
+      "Hoi-To Wai",
+      "Chenliang Li",
+      "Alfredo Garcia",
+      "Mingyi Hong"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.17888"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Aiwei Liu, Haoping Bai, Zhiyun Lu, Xiang Kong, Simon Wang, Jiulong Shan, Meng Cao, and Lijie Wen. Direct large language model alignment through self-rewarding contrastive prompt distillation. arXiv preprint arXiv:2402.11907, 2024.",
+    "title": "Direct large language model alignment through self-rewarding contrastive prompt distillation",
+    "authors": [
+      "Aiwei Liu",
+      "Haoping Bai",
+      "Zhiyun Lu",
+      "Xiang Kong",
+      "Simon Wang",
+      "Jiulong Shan",
+      "Meng Cao",
+      "Lijie Wen"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.11907"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Yicheng Luo, zhengyao jiang, Samuel Cohen, Edward Grefenstette, and Marc Peter Deisenroth. Optimal transport for offline imitation learning. In The Eleventh International Conference on Learning Representations, 2023. URL https://openreview.net/forum?id= MhuFzFsrfvH.",
+    "title": "Optimal transport for offline imitation learning",
+    "authors": [
+      "Yicheng Luo",
+      "Samuel Cohen",
+      "Edward Grefenstette",
+      "Marc Peter",
+      "Deisenroth"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "year": 2023,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=MhuFzFsrfvH"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Nico Montali, John Lambert, Paul Mougin, Alex Kuefler, Nicholas Rhinehart, Michelle Li, Cole Gulino, Tristan Emrich, Zoey Yang, Shimon Whiteson, et al. The waymo open sim agents challenge. Advances in Neural Information Processing Systems, 36, 2024.",
+    "title": "The waymo open sim agents challenge",
+    "authors": [
+      "Nico Montali",
+      "John Lambert",
+      "Paul Mougin",
+      "Alex Kuefler",
+      "Nicholas Rhinehart",
+      "Michelle Li",
+      "Cole Gulino",
+      "Tristan Emrich",
+      "Zoey Yang",
+      "Shimon Whiteson"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Tong Mu, Alec Helyar, Johannes Heidecke, Joshua Achiam, Andrea Vallone, Ian Kivlichan, Molly Lin, Alex Beutel, John Schulman, and Lilian Weng. Rule based rewards for language model safety.",
+    "title": "Alex Beutel, John Schulman, and Lilian Weng. Rule based rewards for language model safety",
+    "authors": [
+      "Tong Mu",
+      "Alec Helyar",
+      "Johannes Heidecke",
+      "Joshua Achiam",
+      "Andrea Vallone",
+      "Ian Kivlichan",
+      "Molly Lin",
+      "Alex Beutel",
+      "John Schulman",
+      "Lilian Weng"
+    ],
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Nigamaa Nayakanti, Rami Al-Rfou, Aurick Zhou, Kratarth Goel, Khaled S Refaat, and Benjamin Sapp. Wayformer: Motion forecasting via simple & efficient attention networks. In 2023 IEEE International Conference on Robotics and Automation (ICRA), pp. 2980-2987. IEEE, 2023.",
+    "title": "Wayformer: Motion forecasting via simple & efficient attention networks",
+    "authors": [
+      "Nigamaa Nayakanti",
+      "Rami Al-Rfou",
+      "Aurick Zhou",
+      "Kratarth Goel",
+      "Khaled S Refaat",
+      "Benjamin Sapp"
+    ],
+    "venue": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Long Ouyang, Jeffrey Wu, Xu Jiang, Diogo Almeida, Carroll Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, et al. Training language models to follow instructions with human feedback. Advances in Neural Information Processing Systems, 35: 27730-27744, 2022.",
+    "title": "Training language models to follow instructions with human feedback",
+    "authors": [
+      "Long Ouyang",
+      "Jeffrey Wu",
+      "Xu Jiang",
+      "Diogo Almeida",
+      "Carroll Wainwright",
+      "Pamela Mishkin",
+      "Chong Zhang",
+      "Sandhini Agarwal",
+      "Katarina Slama",
+      "Alex Ray"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Jonah Philion, Xue Bin Peng, and Sanja Fidler. Trajeglish: Traffic modeling as next-token prediction. In The Twelfth International Conference on Learning Representations, 2024.",
+    "title": "Trajeglish: Traffic modeling as next-token prediction",
+    "authors": [
+      "Jonah Philion",
+      "Xue Bin Peng",
+      "Sanja Fidler"
+    ],
+    "venue": "The Twelfth International Conference on Learning Representations",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Ilija Radosavovic, Bike Zhang, Baifeng Shi, Jathushan Rajasegaran, Sarthak Kamat, Trevor Darrell, Koushil Sreenath, and Jitendra Malik. Humanoid locomotion as next token prediction. arXiv preprint arXiv:2402.19469, 2024.",
+    "title": "Humanoid locomotion as next token prediction",
+    "authors": [
+      "Ilija Radosavovic",
+      "Bike Zhang",
+      "Baifeng Shi",
+      "Jathushan Rajasegaran",
+      "Sarthak Kamat",
+      "Trevor Darrell",
+      "Koushil Sreenath",
+      "Jitendra Malik"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.19469"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Rafael Rafailov, Yaswanth Chittepu, Ryan Park, Harshit Sikchi, Joey Hejna, Bradley Knox, Chelsea Finn, and Scott Niekum. Scaling laws for reward model overoptimization in direct alignment algorithms. arXiv preprint arXiv:2406.02900, 2024a.",
+    "title": "Scaling laws for reward model overoptimization in direct alignment algorithms",
+    "authors": [
+      "Rafael Rafailov",
+      "Yaswanth Chittepu",
+      "Ryan Park",
+      "Harshit Sikchi",
+      "Joey Hejna",
+      "Bradley Knox",
+      "Chelsea Finn",
+      "Scott Niekum"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2406.02900"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Rafael Rafailov, Archit Sharma, Eric Mitchell, Christopher D Manning, Stefano Ermon, and Chelsea Finn. Direct preference optimization: Your language model is secretly a reward model. Advances in Neural Information Processing Systems, 36, 2024b.",
+    "title": "Direct preference optimization: Your language model is secretly a reward model",
+    "authors": [
+      "Rafael Rafailov",
+      "Archit Sharma",
+      "Eric Mitchell",
+      "Christopher D Manning",
+      "Stefano Ermon",
+      "Chelsea Finn"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Ari Seff, Brian Cera, Dian Chen, Mason Ng, Aurick Zhou, Nigamaa Nayakanti, Khaled S Refaat, Rami Al-Rfou, and Benjamin Sapp. Motionlm: Multi-agent motion forecasting as language modeling. In Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 8579-8590, 2023.",
+    "title": "Motionlm: Multi-agent motion forecasting as language modeling",
+    "authors": [
+      "Ari Seff",
+      "Brian Cera",
+      "Dian Chen",
+      "Mason Ng",
+      "Aurick Zhou",
+      "Nigamaa Nayakanti",
+      "Rami Khaled S Refaat",
+      "Benjamin Al-Rfou",
+      "Sapp"
+    ],
+    "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Jiaming Song, Hongyu Ren, Dorsa Sadigh, and Stefano Ermon. Multi-agent generative adversarial imitation learning. Advances in neural information processing systems, 31, 2018.",
+    "title": "Multi-agent generative adversarial imitation learning",
+    "authors": [
+      "Jiaming Song",
+      "Hongyu Ren",
+      "Dorsa Sadigh",
+      "Stefano Ermon"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Hao Sun and Mihaela van der Schaar. Inverse-rlignment: Inverse reinforcement learning from demonstrations for llm alignment. arXiv preprint arXiv:2405.15624, 2024.",
+    "title": "Inverse-rlignment: Inverse reinforcement learning from demonstrations for llm alignment",
+    "authors": [
+      "Hao Sun",
+      "Mihaela Van Der Schaar"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.15624"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Liting Sun, Wei Zhan, and Masayoshi Tomizuka. Probabilistic prediction of interactive driving behavior via hierarchical inverse reinforcement learning. In 2018 21st International Conference on Intelligent Transportation Systems (ITSC), pp. 2111-2117. IEEE, 2018.",
+    "title": "Probabilistic prediction of interactive driving behavior via hierarchical inverse reinforcement learning",
+    "authors": [
+      "Liting Sun",
+      "Wei Zhan",
+      "Masayoshi Tomizuka"
+    ],
+    "venue": "2018 21st International Conference on Intelligent Transportation Systems (ITSC)",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Yunhao Tang, Daniel Zhaohan Guo, Zeyu Zheng, Daniele Calandriello, Yuan Cao, Eugene Tarassov, Rémi Munos, Bernardo Ávila Pires, Michal Valko, Yong Cheng, et al. Understanding the performance gap between online and offline alignment algorithms. arXiv preprint arXiv:2405.08448, 2024.",
+    "title": "Understanding the performance gap between online and offline alignment algorithms",
+    "authors": [
+      "Yunhao Tang",
+      "Zeyu Daniel Zhaohan Guo",
+      "Daniele Zheng",
+      "Yuan Calandriello",
+      "Eugene Cao",
+      "Rémi Tarassov",
+      "Bernardo Munos",
+      "Michal Ávila Pires",
+      "Yong Valko",
+      "Cheng"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.08448"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Ran Tian, Chenfeng Xu, Masayoshi Tomizuka, Jitendra Malik, and Andrea Bajcsy. What matters to you? towards visual representation alignment for robot learning. arXiv preprint arXiv:2310.07932, 2023.",
+    "title": "What matters to you? towards visual representation alignment for robot learning",
+    "authors": [
+      "Ran Tian",
+      "Chenfeng Xu",
+      "Masayoshi Tomizuka",
+      "Jitendra Malik",
+      "Andrea Bajcsy"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.07932"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Thomas Tian, Boyi Li, Xinshuo Weng, Yuxiao Chen, Edward Schmerling, Yue Wang, Boris Ivanovic, and Marco Pavone. Tokenize the world into object-level knowledge to address long-tail events in autonomous driving. In 8th Annual Conference on Robot Learning, 2024.",
+    "title": "Tokenize the world into object-level knowledge to address long-tail events in autonomous driving",
+    "authors": [
+      "Thomas Tian",
+      "Boyi Li",
+      "Xinshuo Weng",
+      "Yuxiao Chen",
+      "Edward Schmerling",
+      "Yue Wang",
+      "Boris Ivanovic",
+      "Marco Pavone"
+    ],
+    "venue": "8th Annual Conference on Robot Learning",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "Lewis Tunstall, Edward Beeching, Nathan Lambert, Nazneen Rajani, Kashif Rasul, Younes Belkada, Shengyi Huang, Leandro von Werra, Clémentine Fourrier, Nathan Habib, et al. Zephyr: Direct distillation of lm alignment. arXiv preprint arXiv:2310.16944, 2023.",
+    "title": "Direct distillation of lm alignment",
+    "authors": [
+      "Lewis Tunstall",
+      "Edward Beeching",
+      "Nathan Lambert",
+      "Nazneen Rajani",
+      "Kashif Rasul",
+      "Younes Belkada",
+      "Shengyi Huang",
+      "Leandro Von Werra",
+      "Clémentine Fourrier",
+      "Nathan Habib"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2310.16944"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Cédric Villani et al. Optimal transport: old and new, volume 338. Springer, 2009.",
+    "title": "Optimal transport: old and new",
+    "authors": [
+      "Cédric Villani"
+    ],
+    "year": 2009,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "Chaoqi Wang, Yibo Jiang, Chenghao Yang, Han Liu, and Yuxin Chen. Beyond reverse kl: Generalizing direct preference optimization with diverse divergence constraints. In The International Conference on Learning Representations, 2024a.",
+    "title": "Beyond reverse kl: Generalizing direct preference optimization with diverse divergence constraints",
+    "authors": [
+      "Chaoqi Wang",
+      "Yibo Jiang",
+      "Chenghao Yang",
+      "Han Liu",
+      "Yuxin Chen"
+    ],
+    "venue": "The International Conference on Learning Representations",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Yuting Wang, Lu Liu, Maonan Wang, and Xi Xiong. Reinforcement learning from human feedback for lane changing of autonomous vehicles in mixed traffic. arXiv preprint arXiv:2408.04447, 2024b.",
+    "title": "Reinforcement learning from human feedback for lane changing of autonomous vehicles in mixed traffic",
+    "authors": [
+      "Yuting Wang",
+      "Lu Liu",
+      "Maonan Wang",
+      "Xi Xiong"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2408.04447"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Wei Wu, Xiaoxin Feng, Ziyan Gao, and Yuheng Kan. Smart: Scalable multi-agent real-time simulation via next-token prediction. arXiv preprint arXiv:2405.15677, 2024.",
+    "title": "Scalable multi-agent real-time simulation via next-token prediction",
+    "authors": [
+      "Wei Wu",
+      "Xiaoxin Feng",
+      "Ziyan Gao",
+      "Yuheng Kan",
+      "Smart"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.15677"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Huang Xiao, Michael Herman, Joerg Wagner, Sebastian Ziesche, Jalal Etesami, and Thai Hong Linh. Wasserstein adversarial imitation learning. arXiv preprint arXiv:1906.08113, 2019.",
+    "title": "Wasserstein adversarial imitation learning",
+    "authors": [
+      "Huang Xiao",
+      "Michael Herman",
+      "Joerg Wagner",
+      "Sebastian Ziesche",
+      "Jalal Etesami",
+      "Thai Hong",
+      "Linh"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1906.08113"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Ceyuan Yang, Yujun Shen, Yinghao Xu, Deli Zhao, Bo Dai, and Bolei Zhou. Improving gans with a dynamic discriminator. Advances in Neural Information Processing Systems, 35:15093-15104, 2022.",
+    "title": "Improving gans with a dynamic discriminator",
+    "authors": [
+      "Ceyuan Yang",
+      "Yujun Shen",
+      "Yinghao Xu",
+      "Deli Zhao",
+      "Bo Dai",
+      "Bolei Zhou"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Kevin Yang, Dan Klein, Asli Celikyilmaz, Nanyun Peng, and Yuandong Tian. Rlcd: Reinforcement learning from contrast distillation for language model alignment. arXiv preprint arXiv:2307.12950, 2023.",
+    "title": "Rlcd: Reinforcement learning from contrast distillation for language model alignment",
+    "authors": [
+      "Kevin Yang",
+      "Dan Klein",
+      "Asli Celikyilmaz",
+      "Nanyun Peng",
+      "Yuandong Tian"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.12950"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "Amy Zhang, Rowan McAllister, Roberto Calandra, Yarin Gal, and Sergey Levine. Learning invariant representations for reinforcement learning without reconstruction. International Conference on Learning Representations, 2020.",
+    "title": "Learning invariant representations for reinforcement learning without reconstruction",
+    "authors": [
+      "Amy Zhang",
+      "Rowan Mcallister",
+      "Roberto Calandra",
+      "Yarin Gal",
+      "Sergey Levine"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Zikang Zhou, Haibo Hu, Xinhong Chen, Jianping Wang, Nan Guan, Kui Wu, Yung-Hui Li, Yu-Kai Huang, and Chun Jason Xue. Behaviorgpt: Smart agent simulation for autonomous driving with next-patch prediction. arXiv preprint arXiv:2405.17372, 2024.",
+    "title": "Behaviorgpt: Smart agent simulation for autonomous driving with next-patch prediction",
+    "authors": [
+      "Zikang Zhou",
+      "Haibo Hu",
+      "Xinhong Chen",
+      "Jianping Wang",
+      "Nan Guan",
+      "Kui Wu",
+      "Yung-Hui Li",
+      "Yu-Kai Huang",
+      "Chun Jason",
+      "Xue"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2405.17372"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]

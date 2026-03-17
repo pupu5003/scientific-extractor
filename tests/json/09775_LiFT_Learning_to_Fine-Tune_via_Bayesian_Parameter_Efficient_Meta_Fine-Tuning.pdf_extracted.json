@@ -1,0 +1,975 @@
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Nader Asadi, Mahdi Beitollahi, Yasser Khalil, Yinchuan Li, Guojun Zhang, and Xi Chen. Does Combining Parameter-efficient Modules Improve Few-shot Transfer Accuracy? arXiv preprint arXiv:2402.15414, 2024.",
+    "title": "Does Combining Parameter-efficient Modules Improve Few-shot Transfer Accuracy? arXiv preprint",
+    "authors": [
+      "Nader Asadi",
+      "Mahdi Beitollahi",
+      "Yasser Khalil",
+      "Yinchuan Li",
+      "Guojun Zhang",
+      "Xi Chen"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.15414"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R2",
+    "raw_text": "Peyman Bateni, Raghav Goyal, Vaden Masrani, Frank Wood, and Leonid Sigal. Improved few-shot visual classification. CVPR, 2020.",
+    "title": "Improved few-shot visual classification",
+    "authors": [
+      "Peyman Bateni",
+      "Raghav Goyal",
+      "Vaden Masrani",
+      "Frank Wood",
+      "Leonid Sigal"
+    ],
+    "venue": "CVPR",
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R3",
+    "raw_text": "Rishi Bommasani et al. On the opportunities and risks of foundation models. arXiv:2108.07258, 2021.",
+    "title": "On the opportunities and risks of foundation models",
+    "authors": [
+      "Rishi Bommasani"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "arxiv_id": "arXiv:2108.07258"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R4",
+    "raw_text": "John Bronskill, Daniela Massiceti, Massimiliano Patacchiola, Katja Hofmann, Sebastian Nowozin, and Richard E. Turner. Memory efficient meta-learning with large images. NeurIPS, 2021.",
+    "title": "Memory efficient meta-learning with large images",
+    "authors": [
+      "John Bronskill",
+      "Daniela Massiceti",
+      "Massimiliano Patacchiola",
+      "Katja Hofmann",
+      "Sebastian Nowozin",
+      "Richard E Turner"
+    ],
+    "venue": "NeurIPS",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R5",
+    "raw_text": "Sebastian Caldas, Sai Meher Karthik Duddu, Peter Wu, Tian Li, Jakub Konecny, H. Brendan McMahan, Virginia Smith, and Ameet Talwalkar. LEAF: A Benchmark for Federated Settings, 2019. Workshop on Federated Learning for Data Privacy and Confidentiality.",
+    "title": "LEAF: A Benchmark for Federated Settings",
+    "authors": [
+      "Sebastian Caldas",
+      "Sai Meher",
+      "Karthik Duddu",
+      "Peter Wu",
+      "Tian Li",
+      "Jakub Konecny",
+      "H Brendan Mcmahan",
+      "Virginia Smith",
+      "Ameet Talwalkar"
+    ],
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R6",
+    "raw_text": "O. Cappé and E. Moulines. On-line expectation-maximization algorithm for latent data models. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 71(3):593-613, 2009.",
+    "title": "On-line expectation-maximization algorithm for latent data models",
+    "authors": [
+      "O Cappé",
+      "E Moulines"
+    ],
+    "venue": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)",
+    "year": 2009,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R7",
+    "raw_text": "J. Chen, J. Zhu, Y. W. Teh, and T. Zhang. Stochastic expectation maximization with variance reduction. NeurIPS, 2018.",
+    "title": "Stochastic expectation maximization with variance reduction",
+    "authors": [
+      "J Chen",
+      "J Zhu",
+      "Y W Teh",
+      "T Zhang"
+    ],
+    "venue": "NeurIPS",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R8",
+    "raw_text": "Lisha Chen and Tianyi Chen. Is Bayesian Model-Agnostic Meta Learning Better than Model-Agnostic Meta Learning, Provably?, 2022. AI and Statistics (AISTATS).",
+    "title": "Is Bayesian Model-Agnostic Meta Learning Better than Model-Agnostic Meta Learning, Provably?, 2022. AI and Statistics",
+    "authors": [
+      "Lisha Chen",
+      "Tianyi Chen"
+    ],
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R9",
+    "raw_text": "Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, and Jason Wei. Scaling instruction-finetuned language models, 2022. URL https://arxiv.org/abs/2210.11416.",
+    "title": "Scaling instruction-finetuned language models",
+    "authors": [
+      "Chung Hyung Won",
+      "Le Hou",
+      "Shayne Longpre",
+      "Barret Zoph",
+      "Yi Tay",
+      "William Fedus",
+      "Eric Li",
+      "Xuezhi Wang",
+      "Mostafa Dehghani",
+      "Siddhartha Brahma",
+      "Albert Webson",
+      "Shane Shixiang",
+      "Zhuyun Gu",
+      "Mirac Dai",
+      "Xinyun Suzgun",
+      "Aakanksha Chen",
+      "Sharan Chowdhery",
+      "Gaurav Narang",
+      "Adams Mishra",
+      "Vincent Yu",
+      "Yanping Zhao",
+      "Andrew Huang",
+      "Hongkun Dai",
+      "Slav Yu",
+      "Ed H Petrov",
+      "Jeff Chi",
+      "Jacob Dean",
+      "Adam Devlin",
+      "Denny Roberts",
+      "Quoc V Zhou",
+      "Jason Le",
+      "Wei"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "2210.11416",
+      "url": "https://arxiv.org/abs/2210.11416"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R10",
+    "raw_text": "A. P. Dempster, N. M. Laird, and D. B. Rubin. Maximum likelihood from incomplete data via the em algorithm. Journal of the Royal Statistical Society. Series B (Methodological), 39(1):1-38, 1977.",
+    "title": "Maximum likelihood from incomplete data via the em algorithm",
+    "authors": [
+      "A P Dempster",
+      "N M Laird",
+      "D B Rubin"
+    ],
+    "venue": "Journal of the Royal Statistical Society. Series B (Methodological)",
+    "year": 1977,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R11",
+    "raw_text": "Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li Fei-Fei. Imagenet: A large-scale hierarchical image database. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2009.",
+    "title": "Imagenet: A large-scale hierarchical image database",
+    "authors": [
+      "Jia Deng",
+      "Wei Dong",
+      "Richard Socher",
+      "Li-Jia Li",
+      "Kai Li",
+      "Li Fei-Fei"
+    ],
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2009,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R12",
+    "raw_text": "Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, et al. Parameter-efficient fine-tuning of large-scale pre-trained language models. Nature Machine Intelligence, 5(3):220-235, 2023.",
+    "title": "Parameter-efficient fine-tuning of large-scale pre-trained language models",
+    "authors": [
+      "Ning Ding",
+      "Yujia Qin",
+      "Guang Yang",
+      "Fuchao Wei",
+      "Zonghan Yang",
+      "Yusheng Su",
+      "Shengding Hu",
+      "Yulin Chen",
+      "Chi-Min Chan",
+      "Weize Chen"
+    ],
+    "venue": "Nature Machine Intelligence",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R13",
+    "raw_text": "Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby. An image is worth 16x16 words: Transformers for image recognition at scale. ICLR, 2021.",
+    "title": "An image is worth 16x16 words: Transformers for image recognition at scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "Matthias Minderer",
+      "Georg Heigold",
+      "Sylvain Gelly",
+      "Jakob Uszkoreit",
+      "Neil Houlsby"
+    ],
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R14",
+    "raw_text": "Emilien Dupont, Hyunjik Kim, S. M. Ali Eslami, Danilo Rezende, and Dan Rosenbaum. From data to functa: Your data point is a function and you can treat it like one. ICML, 2022a.",
+    "title": "From data to functa: Your data point is a function and you can treat it like one",
+    "authors": [
+      "Emilien Dupont",
+      "Hyunjik Kim",
+      "S M Ali Eslami",
+      "Danilo Rezende",
+      "Dan Rosenbaum"
+    ],
+    "venue": "ICML",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R15",
+    "raw_text": "Emilien Dupont, Hrushikesh Loya, Milad Alizadeh, Adam Goliński, Yee Whye Teh, and Arnaud Doucet. Coin++: Neural compression across modalities. TMLR, 2022b.",
+    "title": "Coin++: Neural compression across modalities",
+    "authors": [
+      "Emilien Dupont",
+      "Hrushikesh Loya",
+      "Milad Alizadeh",
+      "Adam Goliński",
+      "Yee Whye Teh",
+      "Arnaud Doucet"
+    ],
+    "venue": "TMLR",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R16",
+    "raw_text": "Wenfeng Feng, Chuzhan Hao, Yuewei Zhang, Yu Han, and Hao Wang. Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language Models. arXiv preprint arXiv:2403.03432, 2024.",
+    "title": "Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language Models",
+    "authors": [
+      "Wenfeng Feng",
+      "Chuzhan Hao",
+      "Yuewei Zhang",
+      "Yu Han",
+      "Hao Wang"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2403.03432"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R17",
+    "raw_text": "Chelsea Finn, Pieter Abbeel, and Sergey Levine. Model-agnostic meta-learning for fast adaptation of deep networks. In ICML, 2017a.",
+    "title": "Model-agnostic meta-learning for fast adaptation of deep networks",
+    "authors": [
+      "Chelsea Finn",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "venue": "ICML",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R18",
+    "raw_text": "Chelsea Finn, Pieter Abbeel, and Sergey Levine. Model-agnostic meta-learning for fast adaptation of deep networks. In International Conference on Machine Learning, 2017b.",
+    "title": "Model-agnostic meta-learning for fast adaptation of deep networks",
+    "authors": [
+      "Chelsea Finn",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R19",
+    "raw_text": "Chelsea Finn, Kelvin Xu, and Sergey Levine. Probabilistic Model-Agnostic Meta-Learning. In Advances in Neural Information Processing Systems, 2018.",
+    "title": "Probabilistic Model-Agnostic Meta-Learning",
+    "authors": [
+      "Chelsea Finn",
+      "Kelvin Xu",
+      "Sergey Levine"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R20",
+    "raw_text": "Sebastian Flennerhag, Yannick Schroecker, Tom Zahavy, Hado van Hasselt, David Silver, and Satinder Singh. Bootstrapped meta-learning. ICLR, 2022.",
+    "title": "Bootstrapped meta-learning",
+    "authors": [
+      "Sebastian Flennerhag",
+      "Yannick Schroecker",
+      "Tom Zahavy",
+      "Hado van Hasselt",
+      "David Silver",
+      "Satinder Singh"
+    ],
+    "venue": "ICLR",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R21",
+    "raw_text": "Alan E. Gelfand and Adrian F. M. Smith. Sampling-Based Approaches to Calculating Marginal Densities. Journal of the American Statistical Association, 85(410):398-409, 1990.",
+    "title": "Sampling-Based Approaches to Calculating Marginal Densities",
+    "authors": [
+      "Alan E Gelfand",
+      "Adrian F M Smith"
+    ],
+    "venue": "Journal of the American Statistical Association",
+    "year": 1990,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R22",
+    "raw_text": "Chuan Guo, Geoff Pleiss, Yu Sun, and Kilian Q. Weinberger. On calibration of modern neural networks. ICML, 2017.",
+    "title": "On calibration of modern neural networks",
+    "authors": [
+      "Chuan Guo",
+      "Geoff Pleiss",
+      "Yu Sun",
+      "Kilian Q Weinberger"
+    ],
+    "venue": "ICML",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R23",
+    "raw_text": "Yiran He and Hoi-To Wai. Online Inference for Mixture Model of Streaming Graph Signals with Non-White Excitation. In arXiv preprint arXiv:2207.14019, 2022. URL http://arxiv.org/ abs/2207.14019.",
+    "title": "Online Inference for Mixture Model of Streaming Graph Signals with Non-White Excitation",
+    "authors": [
+      "Yiran He",
+      "Hoi-To Wai"
+    ],
+    "year": 2022,
+    "identifiers": {
+      "arxiv_id": "arXiv:2207.14019",
+      "url": "http://arxiv.org/abs/2207.14019"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R24",
+    "raw_text": "Timothy M Hospedales, Antreas Antoniou, Paul Micaelli, and Amos J. Storkey. Meta-Learning in Neural Networks: A Survey. IEEE Transactions on Pattern Analysis and Machine Intelligence, pp. 1-1, 2021. doi: 10.1109/TPAMI.2021.3079209.",
+    "title": "Meta-Learning in Neural Networks: A Survey",
+    "authors": [
+      "Timothy M Hospedales",
+      "Antreas Antoniou",
+      "Paul Micaelli",
+      "Amos J Storkey"
+    ],
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.1109/TPAMI.2021.3079209",
+      "arxiv_id": "2021.30792"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R25",
+    "raw_text": "Edward J Hu, yelong shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen. LoRA: Low-rank adaptation of large language models. In International Conference on Learning Representations, 2022. URL https://openreview.net/forum? id=nZeVKeeFYf9.",
+    "title": "LoRA: Low-rank adaptation of large language models",
+    "authors": [
+      "J Edward",
+      "Phillip Hu",
+      "Zeyuan Wallis",
+      "Yuanzhi Allen-Zhu",
+      "Shean Li",
+      "Lu Wang",
+      "Weizhu Wang",
+      "Chen"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2022,
+    "identifiers": {
+      "url": "https://openreview.net/forum?id=nZeVKeeFYf9"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R26",
+    "raw_text": "Chengsong Huang, Qian Liu, Bill Yuchen Lin, Tianyu Pang, Chao Du, and Min Lin. Lorahub: Efficient cross-task generalization via dynamic lora composition. arXiv preprint arXiv:2307.13269, 2023. Belhal Karimi, Hoi-To Wai, Eric Moulines, and Marc Lavielle. On the global convergence of (fast) incremental expectation maximization methods. NeurIPS, 2019.",
+    "title": "On the global convergence of (fast) incremental expectation maximization methods",
+    "authors": [
+      "Chengsong Huang",
+      "Qian Liu",
+      "Bill Yuchen Lin",
+      "Tianyu Pang",
+      "Chao Du",
+      "Min Lin"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:2307.13269"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R27",
+    "raw_text": "Minyoung Kim and Timothy Hospedales. BayesDLL: Bayesian Deep Learning Library. In arXiv preprint arXiv:2309.12928, 2023. URL http://arxiv.org/abs/2309.12928.",
+    "title": "BayesDLL: Bayesian Deep Learning Library",
+    "authors": [
+      "Minyoung Kim",
+      "Timothy Hospedales"
+    ],
+    "year": 2023,
+    "identifiers": {
+      "arxiv_id": "arXiv:2309.12928",
+      "url": "http://arxiv.org/abs/2309.12928"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R28",
+    "raw_text": "Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, and Luke Zettlemoyer. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension. In Association for Computational Linguistics, 2020.",
+    "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+    "authors": [
+      "Mike Lewis",
+      "Yinhan Liu",
+      "Naman Goyal",
+      "Marjan Ghazvininejad",
+      "Abdelrahman Mohamed",
+      "Omer Levy",
+      "Veselin Stoyanov",
+      "Luke Zettlemoyer"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R29",
+    "raw_text": "Haotian Liu, Chunyuan Li, Yuheng Li, and Yong Jae Lee. Improved baselines with visual instruction tuning. In CVPR, 2024.",
+    "title": "Improved baselines with visual instruction tuning",
+    "authors": [
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Yuheng Li",
+      "Yong Jae Lee"
+    ],
+    "venue": "CVPR",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R30",
+    "raw_text": "Z. Liu, J. Almhana, V. Choulakian, and R. McGorman. Online em algorithm for mixture with application to internet traffic modeling. Computational Statistics & Data Analysis, 50(4):10521071, 2006.",
+    "title": "Online em algorithm for mixture with application to internet traffic modeling",
+    "authors": [
+      "Z Liu",
+      "J Almhana",
+      "V Choulakian",
+      "R Mcgorman"
+    ],
+    "venue": "Computational Statistics & Data Analysis",
+    "year": 2006,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R31",
+    "raw_text": "Jonathan Lorraine, Paul Vicol, and David Duvenaud. Optimizing Millions of Hyperparameters by Implicit Differentiation, 2020. AI and Statistics (AISTATS).",
+    "title": "Optimizing Millions of Hyperparameters by Implicit Differentiation",
+    "authors": [
+      "Jonathan Lorraine",
+      "Paul Vicol",
+      "David Duvenaud"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R32",
+    "raw_text": "David J. C. MacKay. Information Theory, Inference and Learning Algorithms. Cambridge University Press, 2003.",
+    "title": "Information Theory, Inference and Learning Algorithms",
+    "authors": [
+      "J C David",
+      "Mackay"
+    ],
+    "year": 2003,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R33",
+    "raw_text": "Sewon Min, Mike Lewis, Luke Zettlemoyer, and Hannaneh Hajishirzi. MetaICL: Learning to Learn In Context. In NAACL, 2022.",
+    "title": "MetaICL: Learning to Learn In Context",
+    "authors": [
+      "Sewon Min",
+      "Mike Lewis",
+      "Luke Zettlemoyer",
+      "Hannaneh Hajishirzi"
+    ],
+    "venue": "NAACL",
+    "year": 2022,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R34",
+    "raw_text": "R. M. Neal and G. E. Hinton. A view of the EM algorithm that justifies incremental, sparse, and other variants. In In Learning in graphical models, pages 355-368. Springer, 1998.",
+    "title": "A view of the EM algorithm that justifies incremental, sparse, and other variants",
+    "authors": [
+      "R M Neal",
+      "G E Hinton"
+    ],
+    "venue": "Learning in graphical models",
+    "year": 1998,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R35",
+    "raw_text": "Cuong Nguyen, Thanh-Toan Do, and Gustavo Carneiro. Uncertainty in model-agnostic meta-learning using variational inference. In WACV, 2020.",
+    "title": "Uncertainty in model-agnostic meta-learning using variational inference",
+    "authors": [
+      "Cuong Nguyen",
+      "Thanh-Toan Do",
+      "Gustavo Carneiro"
+    ],
+    "year": 2020,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R36",
+    "raw_text": "Alex Nichol, Joshua Achiam, and John Schulman. On first-order meta-learning algorithms. In arXiv, 2018.",
+    "title": "On first-order meta-learning algorithms",
+    "authors": [
+      "Alex Nichol",
+      "Joshua Achiam",
+      "John Schulman"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 0.8,
+    "llm_reviewed": true
+  },
+  {
+    "ref_id": "R37",
+    "raw_text": "Oleksiy Ostapenko, Zhan Su, Edoardo Ponti, Laurent Charlin, Nicolas Le Roux, Lucas Caccia, and Alessandro Sordoni. Towards modular LLMs by building and reusing a library of LoRAs. In Ruslan Salakhutdinov, Zico Kolter, Katherine Heller, Adrian Weller, Nuria Oliver, Jonathan Scarlett, and Felix Berkenkamp (eds.), Proceedings of the 41st International Conference on Machine Learning, volume 235 of Proceedings of Machine Learning Research, pp. 38885-38904. PMLR, 21-27 Jul 2024. URL https://proceedings.mlr.press/v235/ostapenko24a.html.",
+    "title": "Towards modular LLMs by building and reusing a library of LoRAs",
+    "authors": [
+      "Oleksiy Ostapenko",
+      "Zhan Su",
+      "Edoardo Ponti",
+      "Laurent Charlin",
+      "Nicolas Le Roux",
+      "Lucas Caccia",
+      "Alessandro Sordoni"
+    ],
+    "venue": "Proceedings of the 41st International Conference on Machine Learning",
+    "year": 2024,
+    "identifiers": {
+      "url": "https://proceedings.mlr.press/v235/ostapenko24a.html"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R38",
+    "raw_text": "Emre Özkan, Carsten Fritsche, and Fredrik Gustafsson. Online em algorithm for joint state and mixture measurement noise estimation. In 2012 15th International Conference on Information Fusion, pp. 1935-1940, 2012.",
+    "title": "Online em algorithm for joint state and mixture measurement noise estimation",
+    "authors": [
+      "Emre Özkan",
+      "Carsten Fritsche",
+      "Fredrik Gustafsson"
+    ],
+    "venue": "2012 15th International Conference on Information Fusion",
+    "year": 2012,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R39",
+    "raw_text": "Ethan Perez, Florian Strub, Harm de Vries, Vincent Dumoulin, and Aaron C. Courville. Film: Visual reasoning with a general conditioning layer. In AAAI, 2018.",
+    "title": "Film: Visual reasoning with a general conditioning layer",
+    "authors": [
+      "Ethan Perez",
+      "Florian Strub",
+      "Vincent Harm De Vries",
+      "Aaron C Dumoulin",
+      "Courville"
+    ],
+    "venue": "AAAI",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R40",
+    "raw_text": "M. Raginsky, A. Rakhlin, and M. Telgarsky. Non-convex learning via stochastic gradient Langevin dynamics: a nonasymptotic analysis. In Conference on Learning Theory, 2017.",
+    "title": "Non-convex learning via stochastic gradient Langevin dynamics: a nonasymptotic analysis",
+    "authors": [
+      "M Raginsky",
+      "A Rakhlin",
+      "M Telgarsky"
+    ],
+    "venue": "Conference on Learning Theory",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R41",
+    "raw_text": "Aravind Rajeswaran, Chelsea Finn, Sham Kakade, and Sergey Levine. Meta-Learning with Implicit Gradients. In NeurIPS, 2019.",
+    "title": "Meta-Learning with Implicit Gradients",
+    "authors": [
+      "Aravind Rajeswaran",
+      "Chelsea Finn",
+      "Sham Kakade",
+      "Sergey Levine"
+    ],
+    "venue": "NeurIPS",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R42",
+    "raw_text": "S. Ravi and A. Beatson. Amortized bayesian meta-learning. ICLR, 2019a.",
+    "title": "Amortized bayesian meta-learning",
+    "authors": [
+      "S Ravi",
+      "A Beatson"
+    ],
+    "venue": "ICLR",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R43",
+    "raw_text": "Sachin Ravi and Alex Beatson. Amortized Bayesian meta-learning. In International Conference on Learning Representations, 2019b.",
+    "title": "Amortized Bayesian meta-learning",
+    "authors": [
+      "Sachin Ravi",
+      "Alex Beatson"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R44",
+    "raw_text": "James Requeima, Jonathan Gordon, John Bronskill, Sebastian Nowozin, and Richard E. Turner. Fast and Flexible Multi-Task Classification Using Conditional Neural Adaptive Processes. In Advances in Neural Information Processing Systems, 2019.",
+    "title": "Fast and Flexible Multi-Task Classification Using Conditional Neural Adaptive Processes",
+    "authors": [
+      "James Requeima",
+      "Jonathan Gordon",
+      "John Bronskill",
+      "Sebastian Nowozin",
+      "Richard E Turner"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R45",
+    "raw_text": "Jonathan Richard Schwarz, Jihoon Tack, Yee Whye Teh, Jaeho Lee, and Jinwoo Shin. Modalityagnostic variational compression of implicit neural representations. ICML, 2023.",
+    "title": "Modalityagnostic variational compression of implicit neural representations",
+    "authors": [
+      "Jonathan Richard Schwarz",
+      "Jihoon Tack",
+      "Yee Whye Teh",
+      "Jaeho Lee",
+      "Jinwoo Shin"
+    ],
+    "venue": "ICML",
+    "year": 2023,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R46",
+    "raw_text": "Jake Snell, Kevin Swersky, and Richard S. Zemel. Prototypical networks for few-shot learning. In NeurIPS, 2017.",
+    "title": "Prototypical networks for few-shot learning",
+    "authors": [
+      "Jake Snell",
+      "Kevin Swersky",
+      "Richard S Zemel"
+    ],
+    "venue": "NeurIPS",
+    "year": 2017,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R47",
+    "raw_text": "Jihoon Tack, Jaehyung Kim, Eric Mitchell, Jinwoo Shin, Yee Whye Teh, and Jonathan Richard Schwarz. Online Adaptation of Language Models with a Memory of Amortized Contexts. In Advances in Neural Information Processing Systems, 2024.",
+    "title": "Online Adaptation of Language Models with a Memory of Amortized Contexts",
+    "authors": [
+      "Jihoon Tack",
+      "Jaehyung Kim",
+      "Eric Mitchell",
+      "Jinwoo Shin",
+      "Yee Whye Teh",
+      "Jonathan Richard Schwarz"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R48",
+    "raw_text": "Max Welling and Yee Whye Teh. Bayesian Learning via Stochastic Gradient Langevin Dynamics. In International Conference on Machine Learning, 2011.",
+    "title": "Bayesian Learning via Stochastic Gradient Langevin Dynamics",
+    "authors": [
+      "Max Welling",
+      "Yee Whye Teh"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2011,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R49",
+    "raw_text": "Pan Xu, Jinghui Chen, Difan Zou, and Quanquan Gu. Global convergence of Langevin dynamics based algorithms for nonconvex optimization. In Advances in Neural Information Processing Systems, 2018.",
+    "title": "Global convergence of Langevin dynamics based algorithms for nonconvex optimization",
+    "authors": [
+      "Pan Xu",
+      "Jinghui Chen",
+      "Difan Zou",
+      "Quanquan Gu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R50",
+    "raw_text": "Qinyuan Ye, Bill Yuchen Lin, and Xiang Ren. CrossFit: A few-shot learning challenge for cross-task generalization in NLP. pp. 7163-7189, November 2021. doi: 10.18653/v1/2021.emnlp-main.572. URL https://aclanthology.org/2021.emnlp-main.572.",
+    "title": "CrossFit: A few-shot learning challenge for cross-task generalization in NLP",
+    "authors": [
+      "Qinyuan Ye",
+      "Bill Yuchen Lin",
+      "Xiang Ren"
+    ],
+    "year": 2021,
+    "identifiers": {
+      "doi": "10.18653/v1/2021.emnlp-main.572",
+      "url": "https://aclanthology.org/2021.emnlp-main.572"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R51",
+    "raw_text": "J. Yoon, T. Kim, O. Dia, S. Kim, Y. Bengio, and S. Ahn. Bayesian model-agnostic meta-learning. NeurIPS, 2018.",
+    "title": "Bayesian model-agnostic meta-learning",
+    "authors": [
+      "J Yoon",
+      "T Kim",
+      "O Dia",
+      "S Kim",
+      "Y Bengio",
+      "S Ahn"
+    ],
+    "year": 2018,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R52",
+    "raw_text": "Xiaohua Zhai, Joan Puigcerver, Alexander Kolesnikov, Pierre Ruyssen, Carlos Riquelme, Mario Lucic, Josip Djolonga, Andre Susano Pinto, Maxim Neumann, Alexey Dosovitskiy, Lucas Beyer, Olivier Bachem, Michael Tschannen, Marcin Michalski, Olivier Bousquet, Sylvain Gelly, and Neil Houlsby. A large-scale study of representation learning with the visual task adaptation benchmark. arXiv preprint arXiv:1910.04867, 2019.",
+    "title": "A large-scale study of representation learning with the visual task adaptation benchmark",
+    "authors": [
+      "Xiaohua Zhai",
+      "Joan Puigcerver",
+      "Alexander Kolesnikov",
+      "Pierre Ruyssen",
+      "Carlos Riquelme",
+      "Mario Lucic",
+      "Josip Djolonga",
+      "Andre Susano Pinto",
+      "Maxim Neumann",
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Olivier Bachem",
+      "Michael Tschannen",
+      "Marcin Michalski",
+      "Olivier Bousquet",
+      "Sylvain Gelly",
+      "Neil Houlsby"
+    ],
+    "year": 2019,
+    "identifiers": {
+      "arxiv_id": "arXiv:1910.04867"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R53",
+    "raw_text": "Ziyu Zhao, Leilei Gan, Guoyin Wang, Wangchunshu Zhou, Hongxia Yang, Kun Kuang, and Fei Wu. LoraRetriever: Input-Aware LoRA Retrieval and Composition for Mixed Tasks in the Wild. In Findings of the Association for Computational Linguistics (ACL), 2024a.",
+    "title": "LoraRetriever: Input-Aware LoRA Retrieval and Composition for Mixed Tasks in the Wild",
+    "authors": [
+      "Ziyu Zhao",
+      "Leilei Gan",
+      "Guoyin Wang",
+      "Wangchunshu Zhou",
+      "Hongxia Yang",
+      "Kun Kuang",
+      "Fei Wu"
+    ],
+    "venue": "Findings of the",
+    "year": 2024,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R54",
+    "raw_text": "Ziyu Zhao, Leilei Gan, Guoyin Wang, Wangchunshu Zhou, Hongxia Yang, Kun Kuang, and Fei Wu. Loraretriever: Input-aware lora retrieval and composition for mixed tasks in the wild. arXiv preprint arXiv:2402.09997, 2024b.",
+    "title": "Loraretriever: Input-aware lora retrieval and composition for mixed tasks in the wild",
+    "authors": [
+      "Ziyu Zhao",
+      "Leilei Gan",
+      "Guoyin Wang",
+      "Wangchunshu Zhou",
+      "Hongxia Yang",
+      "Kun Kuang",
+      "Fei Wu"
+    ],
+    "year": 2024,
+    "identifiers": {
+      "arxiv_id": "arXiv:2402.09997"
+    },
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R55",
+    "raw_text": "Luisa M. Zintgraf, Kyriacos Shiarlis, Vitaly Kurin, Katja Hofmann, and Shimon Whiteson. Fast context adaptation via meta-learning. ICML, 2019.",
+    "title": "Fast context adaptation via meta-learning",
+    "authors": [
+      "Luisa M Zintgraf",
+      "Kyriacos Shiarlis",
+      "Katja Vitaly Kurin",
+      "Shimon Hofmann",
+      "Whiteson"
+    ],
+    "venue": "ICML",
+    "year": 2019,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  },
+  {
+    "ref_id": "R56",
+    "raw_text": "Difan Zou, Pan Xu, and Quanquan Gu. Faster Convergence of Stochastic Gradient Langevin Dynamics for Non-Log-Concave Sampling. In Uncertainty in AI, 2021.",
+    "title": "Faster Convergence of Stochastic Gradient Langevin Dynamics for Non-Log-Concave Sampling",
+    "authors": [
+      "Difan Zou",
+      "Pan Xu",
+      "Quanquan Gu"
+    ],
+    "venue": "Uncertainty in AI",
+    "year": 2021,
+    "identifiers": {},
+    "confidence_score": 1.0,
+    "llm_reviewed": false
+  }
+]
