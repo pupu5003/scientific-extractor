@@ -18,7 +18,7 @@ def main():
     parser.add_argument("pdf_path", type=str, help="Path to the PDF file")
     parser.add_argument("--grobid_url", type=str, default="http://localhost:8070", help="GROBID server URL")
     parser.add_argument("--llm_backend", type=str, default="openai", choices=["openai", "ollama"])
-    parser.add_argument("--model", type=str, default="qwen2.5", help="LLM model name")
+    parser.add_argument("--model", type=str, default="gpt-4o-mini", help="LLM model name")
     parser.add_argument("--concurrency", type=int, default=10, help="Max concurrent requests")
     
     args = parser.parse_args()
@@ -45,7 +45,7 @@ def main():
         # Output strictly matching the Pydantic schema
         output_data = [res.model_dump(exclude_none=True) for res in results]
         
-        output_dir = "tests/json/neurips2025/"
+        output_dir = "tests/json/"
         os.makedirs(output_dir, exist_ok=True)
         base_name = os.path.basename(args.pdf_path)
         output_file = os.path.join(output_dir, f"{base_name}_extracted.json")

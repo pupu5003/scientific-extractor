@@ -28,6 +28,7 @@ Run the pipeline via the CLI module:
 The pipeline will generate a strictly typed `paper.pdf_extracted.json` file conforming to the Verification Database schema.
 
 
-for pdf in tests/pdfs/iclr2025/spotlight/*.pdf; do
+## Run multiple file
+for pdf in tests/pdfs/*.pdf; do
   python -m src.extract_references "$pdf" --llm_backend ollama
 done

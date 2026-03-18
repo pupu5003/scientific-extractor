@@ -161,6 +161,26 @@ class CitationParserEngine:
         return regex_authors
 
     @staticmethod
+    def is_plausible_reference(raw_text: str, parsed: Dict[str, Any]) -> bool:
+        """Heuristic filter to drop non-reference artifacts from GROBID output."""
+        if not raw_text or len(raw_text.strip()) < 10:
+            return False
+
+        fields_present = 0
+        if parsed.get("authors"):
+            fields_present += 1
+        if parsed.get("title"):
+            fields_present += 1
+        if parsed.get("venue"):
+            fields_present += 1
+        if parsed.get("year"):
+            fields_present += 1
+        if parsed.get("doi") or parsed.get("arxiv_id") or parsed.get("url"):
+            fields_present += 1
+
+        return fields_present >= 2
+
+    @staticmethod
     def guard_hallucinations(raw_text: str, patch: Dict[str, Any]) -> Dict[str, Any]:
         """Strips exact-match fields (URLs, DOIs) from LLM output if they don't exist in raw_text."""
         safe_patch = {}

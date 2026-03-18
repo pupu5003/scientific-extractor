@@ -76,6 +76,10 @@ class ExtractionPipeline:
                             normalized.append(author)
                 authors = normalized
 
+            parsed_dict["authors"] = authors
+            if not self.engine.is_plausible_reference(raw_text, parsed_dict):
+                return None
+
             return ExtractedCitation(
                 ref_id=f"R{idx}",
                 raw_text=raw_text,
@@ -93,6 +97,7 @@ class ExtractionPipeline:
         if not parsed.get("title") or len(parsed.get("title", "")) < 6: return True
         if not parsed.get("year"): return True
         if not parsed.get("authors"): return True
+        if not parsed.get("venue"): return True     
         raw = parsed.get("raw_text", "").lower()
         if "doi:" in raw and not parsed.get("doi"): return True
         if "arxiv" in raw and not parsed.get("arxiv_id"): return True
