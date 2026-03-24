@@ -31,14 +31,14 @@ Steps:
 2. **Per-reference parsing** (concurrent)
    - For each raw string → `_process_single_citation(idx, raw_text, session)`
 
-3. **Structured parsing**
-   - `AsyncGrobidClient.parse_citation_string(raw_text)`
-   - Endpoint: `/api/processCitation`
-   - Returns TEI XML for one citation.
+3. **Structured parsing (anystyle)**
+   - `AnystyleClient.parse(raw_text)`
+   - Calls `anystyle -f json parse -` via async subprocess (stdin → stdout)
+   - Returns parsed JSON dict for one citation.
 
-4. **XML digestion**
-   - `CitationParserEngine.digest_grobid_xml(raw_text, xml_content)`
-   - Extracts: `title`, `authors`, `venue`, `year`, `doi`, `arxiv_id`, `url`.
+4. **JSON digestion**
+   - `CitationParserEngine.digest_anystyle_json(raw_text, anystyle_result)`
+   - Maps anystyle fields → internal dict: `title`, `authors`, `venue`, `year`, `doi`, `url`.
 
 5. **Regex fallbacks**
    - `CitationParserEngine.apply_regex_fallbacks(parsed_dict)`

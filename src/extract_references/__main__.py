@@ -17,7 +17,7 @@ def main():
     parser = argparse.ArgumentParser(description="Production-grade Scientific Reference Extractor")
     parser.add_argument("pdf_path", type=str, help="Path to the PDF file")
     parser.add_argument("--grobid_url", type=str, default="http://localhost:8070", help="GROBID server URL")
-    parser.add_argument("--llm_backend", type=str, default="openai", choices=["openai", "ollama"])
+    parser.add_argument("--llm_backend", type=str, default="openai", choices=["openai", "ollama", "together"])
     parser.add_argument("--model", type=str, default="gpt-4o-mini", help="LLM model name")
     parser.add_argument("--concurrency", type=int, default=10, help="Max concurrent requests")
     
@@ -28,10 +28,20 @@ def main():
         sys.exit(1)
 
     # Initialize LLM Client
-    api_key = os.environ.get("OPENAI_API_KEY", "ollama_placeholder")
-    base_url = "http://localhost:11434/v1" if args.llm_backend == "ollama" else None
+    if args.llm_backend == "together":
+        api_key = os.environ.get("TOGETHER_API_KEY", "")
+        base_url = "https://api.together.xyz/v1"
+        model = args.model if args.model != "gpt-4o-mini" else "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+    elif args.llm_backend == "ollama":
+        api_key = "ollama_placeholder"
+        base_url = "http://localhost:11434/v1"
+        model = args.model
+    else:  # openai
+        api_key = os.environ.get("OPENAI_API_KEY", "")
+        base_url = None
+        model = args.model
     
-    llm_client = AsyncLLMClient(api_key=api_key, base_url=base_url, model=args.model)
+    llm_client = AsyncLLMClient(api_key=api_key, base_url=base_url, model=model)
     pipeline = ExtractionPipeline(
         grobid_url=args.grobid_url, 
         llm_client=llm_client, 
@@ -45,7 +55,7 @@ def main():
         # Output strictly matching the Pydantic schema
         output_data = [res.model_dump(exclude_none=True) for res in results]
         
-        output_dir = "tests/json/"
+        output_dir = "tests/json/iclr2025_anystyle/"
         os.makedirs(output_dir, exist_ok=True)
         base_name = os.path.basename(args.pdf_path)
         output_file = os.path.join(output_dir, f"{base_name}_extracted.json")

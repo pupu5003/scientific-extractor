@@ -3,9 +3,10 @@ clients.py
 Async HTTP clients with fault tolerance for GROBID and LLM providers.
 """
 import aiohttp
+import asyncio
 import json
 import re
-from typing import List, Optional
+from typing import List, Optional, Dict, Any
 from bs4 import BeautifulSoup
 from tenacity import retry, stop_after_attempt, wait_exponential
 from openai import AsyncOpenAI
@@ -30,16 +31,6 @@ class AsyncGrobidClient:
                 xml_content = await response.text()
                 return self._parse_tei_xml_for_raw(xml_content)
 
-    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=1, max=5))
-    async def parse_citation_string(self, raw_text: str, session: aiohttp.ClientSession) -> str:
-        """Sends a single raw string to GROBID to get structured TEI XML."""
-        url = f"{self.base_url}/api/processCitation"
-        payload = {"citations": raw_text, "consolidateCitations": "0"}
-        async with session.post(url, data=payload, headers={"Accept": "application/xml"}, timeout=30) as response:
-            if response.status != 200:
-                return ""
-            return await response.text()
-
     def _parse_tei_xml_for_raw(self, xml_content: str) -> List[str]:
         soup = BeautifulSoup(xml_content, "xml")
         references = []
@@ -52,6 +43,43 @@ class AsyncGrobidClient:
                 clean_text = re.sub(r"^[A-Z]{2,}\s*\+\s*\d{2}\]\s*", "", clean_text)
                 references.append(clean_text)
         return references
+
+
+
+class AnystyleClient:
+    """Calls the local anystyle CLI to parse a single citation string into a structured dict."""
+
+    async def parse(self, raw_text: str) -> Dict[str, Any]:
+        """Write raw_text to a temp file, call anystyle CLI, return first parsed record."""
+        import tempfile, os
+        tmp = None
+        try:
+            # anystyle CLI on macOS does not support stdin ('-'), so use a temp file
+            with tempfile.NamedTemporaryFile(mode="w", suffix=".txt",
+                                             delete=False, encoding="utf-8") as f:
+                f.write(raw_text)
+                tmp = f.name
+
+            proc = await asyncio.create_subprocess_exec(
+                "anystyle", "-f", "json", "parse", tmp,
+                stdout=asyncio.subprocess.PIPE,
+                stderr=asyncio.subprocess.PIPE,
+            )
+            stdout, _ = await asyncio.wait_for(
+                proc.communicate(),
+                timeout=15,
+            )
+            if proc.returncode != 0:
+                return {}
+            records = json.loads(stdout.decode("utf-8"))
+            if isinstance(records, list) and records:
+                return records[0]
+            return {}
+        except (asyncio.TimeoutError, FileNotFoundError, json.JSONDecodeError, Exception):
+            return {}
+        finally:
+            if tmp and os.path.exists(tmp):
+                os.unlink(tmp)
 
 
 class AsyncLLMClient:

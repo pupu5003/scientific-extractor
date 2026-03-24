@@ -3,15 +3,15 @@ pipeline.py
 The master orchestration pipeline linking Extractor -> Heuristics -> LLM Validator.
 """
 import asyncio
-import aiohttp
 from typing import List, Dict, Any
 from .schemas import ExtractedCitation, ExtractedIdentifiers
-from .clients import AsyncGrobidClient, AsyncLLMClient
+from .clients import AsyncGrobidClient, AnystyleClient, AsyncLLMClient
 from .heuristics import CitationParserEngine
 
 class ExtractionPipeline:
     def __init__(self, grobid_url: str, llm_client: AsyncLLMClient, max_concurrency: int = 10):
         self.grobid = AsyncGrobidClient(grobid_url)
+        self.anystyle = AnystyleClient()
         self.llm = llm_client
         self.engine = CitationParserEngine()
         self.semaphore = asyncio.Semaphore(max_concurrency)
@@ -21,18 +21,16 @@ class ExtractionPipeline:
         raw_strings = await self.grobid.extract_raw_references(pdf_path)
         print(f"[Pipeline] Found {len(raw_strings)} raw citations. Proceeding to structured parsing...")
 
-        # Process all citations concurrently utilizing a shared connection pool
-        async with aiohttp.ClientSession() as session:
-            tasks = [self._process_single_citation(idx, raw, session) for idx, raw in enumerate(raw_strings, 1)]
-            results = await asyncio.gather(*tasks)
-            
+        # Process all citations concurrently (anystyle uses subprocess, no shared session needed)
+        tasks = [self._process_single_citation(idx, raw) for idx, raw in enumerate(raw_strings, 1)]
+        results = await asyncio.gather(*tasks)
         return [res for res in results if res is not None]
 
-    async def _process_single_citation(self, idx: int, raw_text: str, session: aiohttp.ClientSession) -> ExtractedCitation:
+    async def _process_single_citation(self, idx: int, raw_text: str) -> ExtractedCitation:
         async with self.semaphore:
-            # Step 1: Deterministic Parsing (GROBID)
-            xml_content = await self.grobid.parse_citation_string(raw_text, session)
-            parsed_dict = self.engine.digest_grobid_xml(raw_text, xml_content)
+            # Step 1: Deterministic Parsing (anystyle)
+            anystyle_result = await self.anystyle.parse(raw_text)
+            parsed_dict = self.engine.digest_anystyle_json(raw_text, anystyle_result)
             
             # Step 2: Heuristic Fallbacks
             parsed_dict = self.engine.apply_regex_fallbacks(parsed_dict)
