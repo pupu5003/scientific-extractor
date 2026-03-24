@@ -109,3 +109,30 @@ class AsyncLLMClient:
         
         content = response.choices[0].message.content
         return LLMPatchInstruction.model_validate_json(content)
+
+    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
+    async def split_citations(self, raw_text: str) -> List[str]:
+        """Asks the LLM to split a merged citation string into individual citations."""
+        system_prompt = (
+            "You are a citation segmentation expert. Some bibliographic references are merged into a single string.\n"
+            "Split them into individual, complete citations. A new citation usually starts with a list of authors.\n"
+            "Maintain the original text exactly, just split it into a JSON list of strings.\n"
+            "Return JSON format: {\"citations\": [\"citation 1\", \"citation 2\", ...]}"
+        )
+        user_prompt = f"raw_text to split: {raw_text}"
+
+        response = await self.client.chat.completions.create(
+            model=self.model,
+            temperature=0.0,
+            response_format={"type": "json_object"},
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ]
+        )
+        
+        try:
+            content = json.loads(response.choices[0].message.content)
+            return content.get("citations", [raw_text])
+        except Exception:
+            return [raw_text]

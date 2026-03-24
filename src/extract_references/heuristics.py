@@ -158,6 +158,29 @@ class CitationParserEngine:
         return regex_authors
 
     @staticmethod
+    def detect_suspicious_merge(raw_text: str, result: Dict[str, Any]) -> bool:
+        """Determines if a citation string likely contains multiple merged references."""
+        # 1. Obvious indicators from anystyle metadata
+        if len(result.get("date", [])) > 1:
+            return True
+        if len(result.get("doi", [])) > 1:
+            return True
+        if len(result.get("arxiv", [])) > 1:
+            return True
+        if len(result.get("url", [])) > 1:
+            return True
+
+        # 2. Heuristic: Very long text with multiple sentence-like blocks after titles
+        if len(raw_text) > 450:
+            # Check for pattern: period + year + period + Name
+            # e.g. "2023. Authors..." in the middle of a string
+            mid_text = raw_text[100:-100] # Check middle part
+            if re.search(r'\.\s+(?:19|20)\d{2}[a-z]?\.\s+[A-Z]', mid_text):
+                return True
+            
+        return False
+
+    @staticmethod
     def is_plausible_reference(raw_text: str, parsed: Dict[str, Any]) -> bool:
         """Heuristic filter to drop non-reference artifacts from GROBID output."""
         if not raw_text or len(raw_text.strip()) < 10:
@@ -189,3 +212,57 @@ class CitationParserEngine:
                     continue # Hallucination detected
             safe_patch[k] = v
         return safe_patch
+
+    @staticmethod
+    def sanitize_llm_patch(patch: Dict[str, Any]) -> Dict[str, Any]:
+        """Fixes common LLM typing issues (e.g. returning a dict explanation instead of a string/list)."""
+        sanitized = {}
+        
+        # 1. Authors must be list[str]
+        authors = patch.get("authors")
+        if authors:
+            if isinstance(authors, list):
+                sanitized["authors"] = [str(a) for a in authors if a]
+            elif isinstance(authors, dict):
+                # Sometimes Llama returns {'incorrect': ..., 'correction': [...]}
+                for key in ["correction", "suggested", "fill", "authors"]:
+                    if isinstance(authors.get(key), list):
+                        sanitized["authors"] = authors[key]
+                        break
+            elif isinstance(authors, str):
+                # If LLM returns just one string, wrap it
+                sanitized["authors"] = [authors]
+
+        # 2. Year must be int or convertible to int
+        year = patch.get("year")
+        if year:
+            if isinstance(year, (int, str)):
+                sanitized["year"] = year
+            elif isinstance(year, dict):
+                sanitized["year"] = year.get("year") or year.get("correction")
+
+        # 3. Identifiers must be strings
+        for key in ["doi", "url", "arxiv_id"]:
+            val = patch.get(key)
+            if val:
+                if isinstance(val, str):
+                    sanitized[key] = val
+                elif isinstance(val, dict):
+                    # Take first string-looking thing
+                    for subkey in ["correction", "original", "value", "id"]:
+                        if isinstance(val.get(subkey), str):
+                            sanitized[key] = val[subkey]
+                            break
+        
+        # 4. Other flat fields
+        for key in ["title", "venue"]:
+            val = patch.get(key)
+            if val:
+                if isinstance(val, str):
+                    sanitized[key] = val
+                elif isinstance(val, list) and val:
+                    sanitized[key] = str(val[0])
+                elif isinstance(val, dict):
+                     sanitized[key] = val.get("correction") or val.get("title") or val.get("venue")
+
+        return sanitized

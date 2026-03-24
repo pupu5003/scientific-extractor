@@ -19,7 +19,26 @@ class ExtractionPipeline:
     async def run(self, pdf_path: str) -> List[ExtractedCitation]:
         print(f"[Pipeline] Extracting raw strings from {pdf_path}...")
         raw_strings = await self.grobid.extract_raw_references(pdf_path)
-        print(f"[Pipeline] Found {len(raw_strings)} raw citations. Proceeding to structured parsing...")
+        
+        # Step 1: Smart Splitting (Heuristic + LLM fallback)
+        print(f"[Pipeline] Analyzing {len(raw_strings)} raw citations for merged records...")
+        final_raw_strings = []
+        for s in raw_strings:
+            # Quick anystyle check for suspicious metadata
+            anystyle_result = await self.anystyle.parse(s)
+            if self.engine.detect_suspicious_merge(s, anystyle_result):
+                print(f"[Pipeline] Detected possible merged citation, splitting with LLM...")
+                try:
+                    splits = await self.llm.split_citations(s)
+                    final_raw_strings.extend(splits)
+                except Exception as e:
+                    print(f"[Pipeline] LLM Split failed: {e}. Using original string.")
+                    final_raw_strings.append(s)
+            else:
+                final_raw_strings.append(s)
+        
+        raw_strings = final_raw_strings
+        print(f"[Pipeline] Processing {len(raw_strings)} citations...")
 
         # Process all citations concurrently (anystyle uses subprocess, no shared session needed)
         tasks = [self._process_single_citation(idx, raw) for idx, raw in enumerate(raw_strings, 1)]
@@ -42,8 +61,13 @@ class ExtractionPipeline:
             if needs_review:
                 try:
                     patch = await self.llm.review_citation(raw_text, parsed_dict)
-                    safe_fill = self.engine.guard_hallucinations(raw_text, patch.fill)
-                    safe_corr = self.engine.guard_hallucinations(raw_text, patch.corrections)
+                    
+                    # Sanitize LLM types (Together/Llama sometimes returns dicts instead of strings)
+                    clean_fill = self.engine.sanitize_llm_patch(patch.fill)
+                    clean_corr = self.engine.sanitize_llm_patch(patch.corrections)
+                    
+                    safe_fill = self.engine.guard_hallucinations(raw_text, clean_fill)
+                    safe_corr = self.engine.guard_hallucinations(raw_text, clean_corr)
                     
                     # Merge LLM patches
                     for k, v in safe_fill.items():
