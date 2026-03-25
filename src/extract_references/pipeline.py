@@ -3,6 +3,8 @@ pipeline.py
 The master orchestration pipeline linking Extractor -> Heuristics -> LLM Validator.
 """
 import asyncio
+import re
+import os
 from typing import List, Dict, Any
 from .schemas import ExtractedCitation, ExtractedIdentifiers
 from .clients import AsyncGrobidClient, AnystyleClient, AsyncLLMClient
@@ -21,16 +23,36 @@ class ExtractionPipeline:
         raw_strings = await self.grobid.extract_raw_references(pdf_path)
         
         # Step 1: Smart Splitting (Heuristic + LLM fallback)
-        print(f"[Pipeline] Analyzing {len(raw_strings)} raw citations for merged records...")
+        base_name = os.path.basename(pdf_path)
+        log_id = base_name[:5]  # Take first 5 chars (usually the paper ID)
+        print(f"[Pipeline][{log_id}] Analyzing {len(raw_strings)} raw citations for merged records...")
         final_raw_strings = []
         for s in raw_strings:
+            # Heal fragmented URLs before analyzing
+            s = self.engine.heal_broken_urls(s)
+            
             # Quick anystyle check for suspicious metadata
             anystyle_result = await self.anystyle.parse(s)
             if self.engine.detect_suspicious_merge(s, anystyle_result):
-                print(f"[Pipeline] Detected possible merged citation, splitting with LLM...")
+                print(f"[Pipeline][{log_id}] Detected possible merged citation, splitting with LLM...")
                 try:
                     splits = await self.llm.split_citations(s)
-                    final_raw_strings.extend(splits)
+                    
+                    # Grounding check: Each split part must be a substring of the original (ignoring whitespace)
+                    original_clean = re.sub(r'\s+', '', s).lower()
+                    verified_splits = []
+                    for part in splits:
+                        part_clean = re.sub(r'\s+', '', part).lower()
+                        if part_clean in original_clean:
+                            verified_splits.append(part)
+                        else:
+                            print(f"[Pipeline] LLM Hallucination detected in split: {part[:50]}... (not in original)")
+                    
+                    if verified_splits and len(verified_splits) >= len(splits):
+                        final_raw_strings.extend(verified_splits)
+                    else:
+                        # If validation fails for any part, fallback to original string
+                        final_raw_strings.append(s)
                 except Exception as e:
                     print(f"[Pipeline] LLM Split failed: {e}. Using original string.")
                     final_raw_strings.append(s)
@@ -38,15 +60,28 @@ class ExtractionPipeline:
                 final_raw_strings.append(s)
         
         raw_strings = final_raw_strings
-        print(f"[Pipeline] Processing {len(raw_strings)} citations...")
+        print(f"[Pipeline][{log_id}] Processing {len(raw_strings)} citations...")
 
         # Process all citations concurrently (anystyle uses subprocess, no shared session needed)
         tasks = [self._process_single_citation(idx, raw) for idx, raw in enumerate(raw_strings, 1)]
         results = await asyncio.gather(*tasks)
-        return [res for res in results if res is not None]
+        
+        # Filter and re-index to ensure continuous R1, R2, R3...
+        final_results = []
+        current_idx = 1
+        for res in results:
+            if res is not None:
+                res.ref_id = f"R{current_idx}"
+                final_results.append(res)
+                current_idx += 1
+                
+        return final_results
 
     async def _process_single_citation(self, idx: int, raw_text: str) -> ExtractedCitation:
         async with self.semaphore:
+            # Pre-process: Heal fragmented URLs (e.g. 'https : //')
+            raw_text = self.engine.heal_broken_urls(raw_text)
+            
             # Step 1: Deterministic Parsing (anystyle)
             anystyle_result = await self.anystyle.parse(raw_text)
             parsed_dict = self.engine.digest_anystyle_json(raw_text, anystyle_result)

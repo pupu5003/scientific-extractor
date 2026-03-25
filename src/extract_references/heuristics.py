@@ -160,31 +160,71 @@ class CitationParserEngine:
     @staticmethod
     def detect_suspicious_merge(raw_text: str, result: Dict[str, Any]) -> bool:
         """Determines if a citation string likely contains multiple merged references."""
-        # 1. Obvious indicators from anystyle metadata
-        if len(result.get("date", [])) > 1:
+        # 1. Check unique values from anystyle metadata
+        dates = set(result.get("date", []))
+        dois = set(result.get("doi", []))
+        arxivs = set(result.get("arxiv", []))
+        urls = set(result.get("url", []))
+
+        # 3 or more distinct years is a strong signal for merged cites
+        if len(dates) >= 3:
             return True
-        if len(result.get("doi", [])) > 1:
+        
+        # 2 years + specific year-separator pattern (e.g. "2023. Authors...")
+        if len(dates) == 2:
+            # Skip the first 20 chars to avoid matching the first citation's year
+            if re.search(r'\b(?:19|20)\d{2}[a-z]?\.\s+[A-Z]', raw_text[20:]):
+                return True
+        
+        # Multiple DOIs/Arxiv IDs are rare in single items
+        if len(dois) > 1 or len(arxivs) > 1:
             return True
-        if len(result.get("arxiv", [])) > 1:
-            return True
-        if len(result.get("url", [])) > 1:
+        
+        # Many URLs (3+)
+        if len(urls) >= 3:
             return True
 
-        # 2. Heuristic: Very long text with multiple sentence-like blocks after titles
-        if len(raw_text) > 450:
-            # Check for pattern: period + year + period + Name
-            # e.g. "2023. Authors..." in the middle of a string
-            mid_text = raw_text[100:-100] # Check middle part
-            if re.search(r'\.\s+(?:19|20)\d{2}[a-z]?\.\s+[A-Z]', mid_text):
-                return True
-            
         return False
+
+    @staticmethod
+    def heal_broken_urls(text: str) -> str:
+        """Fixes common URL/DOI fragmentation caused by PDF line breaks (e.g. 'https : //')."""
+        if not text:
+            return text
+        
+        # 1. First, fix the core scheme and separators (e.g. https : / / -> https://)
+        text = re.sub(r'(https?)\s*[:\s/]+', r'\1://', text, flags=re.IGNORECASE)
+        text = re.sub(r'\bDOI\s*[:\s]+10\s*\.\s*', r'DOI:10.', text, flags=re.IGNORECASE)
+
+        # 2. Aggressive join for suspected URL blocks
+        def fix_url_block(m):
+            return re.sub(r'\s+', '', m.group(0))
+
+        # Regex for likely URL block: http://... or 10.xxxx/...
+        # Matches alphanumeric and common URL punctuation, including spaces between them
+        # Stopper: Stop if we find a space followed by a common non-URL word or start of title
+        url_pattern = r'https?://[a-zA-Z0-9\.\/_:#%?=+-]+(?:\s+[a-zA-Z0-9\.\/_:#%?=+-]+)*'
+        doi_pattern = r'10\.\d{4,}/[a-zA-Z0-9\.\/_:#%?=+-]+(?:\s+[a-zA-Z0-9\.\/_:#%?=+-]+)*'
+        
+        text = re.sub(url_pattern, fix_url_block, text, flags=re.IGNORECASE)
+        text = re.sub(doi_pattern, fix_url_block, text)
+        
+        return text.strip()
 
     @staticmethod
     def is_plausible_reference(raw_text: str, parsed: Dict[str, Any]) -> bool:
         """Heuristic filter to drop non-reference artifacts from GROBID output."""
         if not raw_text or len(raw_text.strip()) < 10:
             return False
+
+        # Essential check: A valid reference should have a Title 
+        if not parsed.get("title"):
+            return False
+
+        # Additional check: Valid scientific references almost always have a YEAR
+        # or an Identifier (DOI, URL, arXiv ID). This filters out random text sentences.
+        # if not (parsed.get("year") or parsed.get("doi") or parsed.get("arxiv_id") or parsed.get("url")):
+        #     return False
 
         fields_present = 0
         if parsed.get("authors"):

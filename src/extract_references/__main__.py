@@ -55,8 +55,8 @@ def main():
         # Output strictly matching the Pydantic schema
         output_data = [res.model_dump(exclude_none=True) for res in results]
         
-        # output_dir = "tests/json/iclr2025_anystyle/"
-        output_dir = "tests/json/"
+        output_dir = "tests/json/iclr2025_anystyle/"
+        # output_dir = "tests/json/"
         os.makedirs(output_dir, exist_ok=True)
         base_name = os.path.basename(args.pdf_path)
         output_file = os.path.join(output_dir, f"{base_name}_extracted.json")

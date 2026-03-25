@@ -116,8 +116,11 @@ class AsyncLLMClient:
         system_prompt = (
             "You are a citation segmentation expert. Some bibliographic references are merged into a single string.\n"
             "Split them into individual, complete citations. A new citation usually starts with a list of authors.\n"
-            "Maintain the original text exactly, just split it into a JSON list of strings.\n"
-            "Return JSON format: {\"citations\": [\"citation 1\", \"citation 2\", ...]}"
+            "STRICT RULES:\n"
+            "1. NO HALLUCINATION: Do not add any information (years, DOIs, authors) that is not in the input.\n"
+            "2. EXACT TEXT: Each output string must be a direct subset of the input text.\n"
+            "3. Return a JSON list of strings."
+            "\nReturn JSON format: {\"citations\": [\"citation 1\", \"citation 2\", ...]}"
         )
         user_prompt = f"raw_text to split: {raw_text}"
 
