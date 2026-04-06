@@ -1,161 +1,128 @@
 """
 pipeline.py
-The master orchestration pipeline linking Extractor -> Heuristics -> LLM Validator.
+The simplified orchestration pipeline using Instructor + LLM for structured extraction.
 """
 import asyncio
-import re
 import os
-from typing import List, Dict, Any
+from typing import List
 from .schemas import ExtractedCitation, ExtractedIdentifiers
-from .clients import AsyncGrobidClient, AnystyleClient, AsyncLLMClient
+from .clients import AsyncMinerUClient, AsyncLLMClient
 from .heuristics import CitationParserEngine
 
 class ExtractionPipeline:
-    def __init__(self, grobid_url: str, llm_client: AsyncLLMClient, max_concurrency: int = 10):
-        self.grobid = AsyncGrobidClient(grobid_url)
-        self.anystyle = AnystyleClient()
+    def __init__(
+        self,
+        mineru_cmd: str,
+        llm_client: AsyncLLMClient,
+        max_concurrency: int = 10,
+        debug_markdown_dir: str | None = None,
+    ):
+        self.mineru = AsyncMinerUClient(mineru_cmd, debug_markdown_dir=debug_markdown_dir)
         self.llm = llm_client
         self.engine = CitationParserEngine()
         self.semaphore = asyncio.Semaphore(max_concurrency)
 
     async def run(self, pdf_path: str) -> List[ExtractedCitation]:
+        """Full pipeline: PDF -> MinerU -> Raw Strings -> Instructor LLM -> JSON"""
         print(f"[Pipeline] Extracting raw strings from {pdf_path}...")
-        raw_strings = await self.grobid.extract_raw_references(pdf_path)
-        
-        # Step 1: Smart Splitting (Heuristic + LLM fallback)
-        base_name = os.path.basename(pdf_path)
-        log_id = base_name[:5]  # Take first 5 chars (usually the paper ID)
-        print(f"[Pipeline][{log_id}] Analyzing {len(raw_strings)} raw citations for merged records...")
-        final_raw_strings = []
-        for s in raw_strings:
-            # Heal fragmented URLs before analyzing
-            s = self.engine.heal_broken_urls(s)
-            
-            # Quick anystyle check for suspicious metadata
-            anystyle_result = await self.anystyle.parse(s)
-            if self.engine.detect_suspicious_merge(s, anystyle_result):
-                print(f"[Pipeline][{log_id}] Detected possible merged citation, splitting with LLM...")
-                try:
-                    splits = await self.llm.split_citations(s)
-                    
-                    # Grounding check: Each split part must be a substring of the original (ignoring whitespace)
-                    original_clean = re.sub(r'\s+', '', s).lower()
-                    verified_splits = []
-                    for part in splits:
-                        part_clean = re.sub(r'\s+', '', part).lower()
-                        if part_clean in original_clean:
-                            verified_splits.append(part)
-                        else:
-                            print(f"[Pipeline] LLM Hallucination detected in split: {part[:50]}... (not in original)")
-                    
-                    if verified_splits and len(verified_splits) >= len(splits):
-                        final_raw_strings.extend(verified_splits)
-                    else:
-                        # If validation fails for any part, fallback to original string
-                        final_raw_strings.append(s)
-                except Exception as e:
-                    print(f"[Pipeline] LLM Split failed: {e}. Using original string.")
-                    final_raw_strings.append(s)
-            else:
-                final_raw_strings.append(s)
-        
-        raw_strings = final_raw_strings
-        print(f"[Pipeline][{log_id}] Processing {len(raw_strings)} citations...")
+        raw_strings = await self.mineru.extract_raw_references(pdf_path)
 
-        # Process all citations concurrently (anystyle uses subprocess, no shared session needed)
+        base_name = os.path.basename(pdf_path)
+        log_id = base_name[:10]
+        print(f"[Pipeline][{log_id}] Processing {len(raw_strings)} citations via LLM...")
+
         tasks = [self._process_single_citation(idx, raw) for idx, raw in enumerate(raw_strings, 1)]
         results = await asyncio.gather(*tasks)
         
-        # Filter and re-index to ensure continuous R1, R2, R3...
+        return self._post_process_results(results)
+
+    async def run_from_content_list(self, content_list_path: str) -> List[ExtractedCitation]:
+        """MinerU content_list.json -> Raw Strings -> Instructor LLM -> JSON"""
+        import json
+        from pathlib import Path
+        path = Path(content_list_path).resolve()
+        content_list = json.loads(path.read_text(encoding="utf-8"))
+
+        raw_strings = self.mineru.extract_references_from_content_list(content_list)
+        if not raw_strings:
+            return []
+
+        log_id = path.stem[:10]
+        print(f"[Pipeline][{log_id}] Processing {len(raw_strings)} citations via LLM...")
+
+        tasks = [self._process_single_citation(idx, raw) for idx, raw in enumerate(raw_strings, 1)]
+        results = await asyncio.gather(*tasks)
+        
+        return self._post_process_results(results)
+
+    def _post_process_results(self, results: List[List[ExtractedCitation]]) -> List[ExtractedCitation]:
+        """Flatten results and re-index references (R1, R2...)."""
         final_results = []
         current_idx = 1
-        for res in results:
-            if res is not None:
+        for batch in results:
+            for res in batch:
                 res.ref_id = f"R{current_idx}"
                 final_results.append(res)
                 current_idx += 1
-                
         return final_results
 
-    async def _process_single_citation(self, idx: int, raw_text: str) -> ExtractedCitation:
+    async def _process_single_citation(self, idx: int, raw_text: str) -> List[ExtractedCitation]:
+        """Process a raw string. Returns a LIST of citations (usually 1, but multiple if batch-split)."""
         async with self.semaphore:
-            # Pre-process: Heal fragmented URLs (e.g. 'https : //')
+            # 1. Clean raw text (deterministic)
             raw_text = self.engine.heal_broken_urls(raw_text)
             
-            # Step 1: Deterministic Parsing (anystyle)
-            anystyle_result = await self.anystyle.parse(raw_text)
-            parsed_dict = self.engine.digest_anystyle_json(raw_text, anystyle_result)
-            
-            # Step 2: Heuristic Fallbacks
-            parsed_dict = self.engine.apply_regex_fallbacks(parsed_dict)
-            
-            # Step 3: LLM Confidence Routing
-            needs_review = self._requires_llm_intervention(parsed_dict)
-            llm_reviewed = False
-            
-            if needs_review:
+            # Heuristic: If string is extremely long, it's likely multiple citations merged.
+            # Use batch extraction instead of single.
+            if len(raw_text) > 1000:
+                print(f"[{idx}] Raw text very long ({len(raw_text)} chars), using batch extraction...")
                 try:
-                    patch = await self.llm.review_citation(raw_text, parsed_dict)
-                    
-                    # Sanitize LLM types (Together/Llama sometimes returns dicts instead of strings)
-                    clean_fill = self.engine.sanitize_llm_patch(patch.fill)
-                    clean_corr = self.engine.sanitize_llm_patch(patch.corrections)
-                    
-                    safe_fill = self.engine.guard_hallucinations(raw_text, clean_fill)
-                    safe_corr = self.engine.guard_hallucinations(raw_text, clean_corr)
-                    
-                    # Merge LLM patches
-                    for k, v in safe_fill.items():
-                        if not parsed_dict.get(k) and v:
-                            parsed_dict[k] = v
-                    parsed_dict.update(safe_corr)
-                    llm_reviewed = True
+                    collection = await self.llm.extract_citations_batch(raw_text)
+                    results = []
+                    for i, parsed in enumerate(collection.citations, 1):
+                        if self.engine.is_plausible_reference(raw_text, parsed.model_dump()):
+                            results.append(ExtractedCitation(
+                                ref_id=f"R{idx}_{i}",
+                                raw_text=raw_text[:100] + "...", # truncate raw for batch items
+                                title=parsed.title,
+                                authors=parsed.authors,
+                                venue=parsed.venue,
+                                year=parsed.year,
+                                identifiers=ExtractedIdentifiers(
+                                    doi=parsed.doi,
+                                    arxiv_id=parsed.arxiv_id,
+                                    url=parsed.url
+                                )
+                            ))
+                    return results
                 except Exception as e:
-                    print(f"[{idx}] LLM Review Failed: {e}. Falling back to deterministic data.")
+                    print(f"[{idx}] Batch Extraction Failed: {e}")
+                    # Fallback to single extraction attempt
 
-            # Step 4: Map to Strict Schema
-            identifiers = ExtractedIdentifiers(
-                doi=parsed_dict.get("doi"),
-                arxiv_id=parsed_dict.get("arxiv_id"),
-                url=parsed_dict.get("url")
-            )
-            
-            authors = parsed_dict.get("authors", [])
-            if isinstance(authors, list):
-                normalized = []
-                for author in authors:
-                    if isinstance(author, dict) and author.get("name"):
-                        author = str(author["name"])
-                    if isinstance(author, str):
-                        if normalized and author.startswith("-"):
-                            normalized[-1] = f"{normalized[-1]}{author}"
-                        else:
-                            normalized.append(author)
-                authors = normalized
+            try:
+                # 2. Extract structured metadata using Instructor + LLM
+                parsed = await self.llm.extract_citation(raw_text)
+                
+                # 3. Validation / Plausibility check
+                parsed_dict = parsed.model_dump()
+                if not self.engine.is_plausible_reference(raw_text, parsed_dict):
+                    print(f"[{idx}] Skipping citation: low plausibility (Title found: {bool(parsed.title)})")
+                    return []
 
-            parsed_dict["authors"] = authors
-            if not self.engine.is_plausible_reference(raw_text, parsed_dict):
-                return None
-
-            return ExtractedCitation(
-                ref_id=f"R{idx}",
-                raw_text=raw_text,
-                title=parsed_dict.get("title"),
-                authors=authors,
-                venue=parsed_dict.get("venue"),
-                year=parsed_dict.get("year"),
-                identifiers=identifiers,
-                llm_reviewed=llm_reviewed,
-                confidence_score=0.8 if llm_reviewed else 1.0
-            )
-
-    def _requires_llm_intervention(self, parsed: Dict[str, Any]) -> bool:
-        """Determines if the LLM should be invoked to fix missing critical data."""
-        if not parsed.get("title") or len(parsed.get("title", "")) < 6: return True
-        if not parsed.get("year"): return True
-        if not parsed.get("authors"): return True
-        if not parsed.get("venue"): return True     
-        raw = parsed.get("raw_text", "").lower()
-        if "doi:" in raw and not parsed.get("doi"): return True
-        if "arxiv" in raw and not parsed.get("arxiv_id"): return True
-        return False
+                # 4. Map to final Schema
+                return [ExtractedCitation(
+                    ref_id=f"R{idx}",
+                    raw_text=raw_text,
+                    title=parsed.title,
+                    authors=parsed.authors,
+                    venue=parsed.venue,
+                    year=parsed.year,
+                    identifiers=ExtractedIdentifiers(
+                        doi=parsed.doi,
+                        arxiv_id=parsed.arxiv_id,
+                        url=parsed.url
+                    )
+                )]
+            except Exception as e:
+                print(f"[{idx}] Extraction Failed: {e}")
+                return []

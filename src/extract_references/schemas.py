@@ -21,10 +21,7 @@ class ExtractedCitation(BaseModel):
     venue: Optional[str] = None
     year: Optional[int] = None
     identifiers: ExtractedIdentifiers = Field(default_factory=ExtractedIdentifiers)
-    
-    # Provenance tracking
-    confidence_score: float = Field(default=1.0, description="1.0 if deterministic, lower if LLM patched")
-    llm_reviewed: bool = Field(default=False)
+
 
     @field_validator('year', mode='before')
     def parse_year(cls, v):
@@ -37,3 +34,17 @@ class LLMPatchInstruction(BaseModel):
     """Structured output expected from the LLM"""
     fill: Dict[str, Any] = Field(default_factory=dict, description="Fields to add if currently null")
     corrections: Dict[str, Any] = Field(default_factory=dict, description="Fields to overwrite if incorrect")
+
+class ParsedCitationEntry(BaseModel):
+    """A single citation parsed by LLM/Instructor"""
+    title: str = Field(..., description="Full title of the paper")
+    authors: List[str] = Field(default_factory=list, description="List of authors in 'Given Family' format")
+    venue: Optional[str] = Field(None, description="Journal name, Conference, or Repository")
+    year: Optional[int] = Field(None, description="4-digit publication year")
+    doi: Optional[str] = Field(None, description="DOI if available")
+    arxiv_id: Optional[str] = Field(None, description="arXiv ID if available")
+    url: Optional[str] = Field(None, description="URL link if available")
+
+class CitationCollection(BaseModel):
+    """A collection of citations extracted from a text block"""
+    citations: List[ParsedCitationEntry] = Field(..., description="List of individual citations found in the text")

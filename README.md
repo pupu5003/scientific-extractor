@@ -1,32 +1,75 @@
-# Scientific Reference Extractor 📄🔍
+# Scientific Reference Extractor 🚀
 
-An enterprise-grade, highly concurrent pipeline for extracting and structuring scientific citations from PDF manuscripts. This module serves as the **Extractor Agent** for the larger Scientific References Verification framework.
+A high-precision pipeline for extracting structured references from scientific PDFs using **MinerU** and **LLM (Instructor)**.
 
-## Architecture
-This pipeline utilizes a hybrid deterministic/probabilistic approach:
-1. **GROBID (Deterministic)**: Extracts raw citation strings and basic TEI XML structure.
-2. **Heuristic Engine**: Applies resilient regex fallbacks to catch missing DOIs and arXiv IDs.
-3. **LLM Validator (Probabilistic)**: Acts as a Confidence Router. If deterministic parsing fails, an LLM (OpenAI or local Ollama) is invoked to patch missing fields using strict JSON schemas.
+## 🌟 Key Features
+- **Pure LLM Extraction**: Uses OpenAI (GPT-4o-mini) and `instructor` for schema-driven, zero-hallucination parsing.
+- **Smart Reference Splitting**: Handles dense reference blocks without markers (e.g., ICLR/NeurIPS papers) via deterministic heuristics and LLM batch fallback.
+- **MinerU Integration**: Uses `magic-pdf` (MinerU) for robust PDF-to-Structured-JSON conversion.
+- **Noise Filtering**: Automatically skips headers, footers, and page numbers during extraction.
 
-## Prerequisites
+## 🛠️ Prerequisites
 - Python 3.10+
-- A running instance of [GROBID](https://grobid.readthedocs.io/en/latest/) (usually via Docker: `docker run -t --rm -p 8070:8070 lfoppiano/grobid:0.8.0`)
-- An OpenAI API Key (or a local Ollama instance).
+- OpenAI API Key (set in `.env`)
+- Bộ công cụ MinerU (`magic-pdf`, `mineru`)
 
-## Setup
-1. Clone the repository and navigate to the directory.
-2. Create a virtual environment: `python -m venv venv && source venv/bin/activate`
-3. Install dependencies: `make install`
-4. Copy `.env.example` to `.env` and fill in your variables.
+## 🚀 Setup
 
-## Usage
-Run the pipeline via the CLI module:
+1. **Clone & Environment**:
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate
+   pip install -r requirements.txt
+   ```
 
-```python -m src.extract_references path/to/your/paper.pdf --llm_backend openai```
+2. **Environment Variables**:
+   Create a `.env` file from `.env.example`:
+   ```bash
+   OPENAI_API_KEY=your_key_here
+   LLM_BACKEND=openai
+   LLM_MODEL=gpt-4o-mini
+   ```
 
-## Output:
-The pipeline will generate a strictly typed `paper.pdf_extracted.json` file conforming to the Verification Database schema.
+3. **MinerU Models (One-time)**:
+   ```bash
+   .venv/bin/mineru-models-download
+   ```
 
+## 📖 Usage
 
-## Run batch
-``` python3 run_batch.py "tests/pdfs/iclr2025/spotlight/*.pdf" --llm_backend together --pdf_workers 5 --output_dir tests/json/iclr2025_anystyle/```
+### 1. Extract from a single PDF
+The pipeline runs MinerU automatically and then parses the references:
+```bash
+.venv/bin/python -m src.extract_references tests/2510.04871v1.pdf
+```
+
+### 2. Extract from a MinerU output folder
+If you already ran MinerU, you can point the pipeline to the output folder to save time:
+```bash
+.venv/bin/python -m src.extract_references tests/mineru_output/10201/
+```
+
+### 3. Batch Mode
+Process multiple PDFs in parallel:
+```bash
+python3 run_batch.py "tests/pdfs/*.pdf" --output_dir tests/json/minerU/
+```
+
+## 📊 Output Format
+The results are saved as structured JSON in `tests/json/minerU/`.
+
+```json
+{
+  "ref_id": "R1",
+  "title": "Example Paper Title",
+  "authors": ["Author One", "Author Two"],
+  "venue": "Nature Communications",
+  "year": 2024,
+  "identifiers": {
+    "doi": "10.1038/...",
+    "arxiv_id": "2401.xxxxx",
+    "url": "https://..."
+  }
+}
+```
+

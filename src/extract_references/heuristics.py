@@ -58,7 +58,7 @@ class CitationParserEngine:
 
     @staticmethod
     def apply_regex_fallbacks(parsed: Dict[str, Any]) -> Dict[str, Any]:
-        """Applies high-confidence regex to fill gaps left by GROBID."""
+        """Applies high-confidence regex to fill gaps left by upstream extraction."""
         raw = parsed.get("raw_text", "")
         
         if not parsed.get("doi"):
@@ -213,32 +213,33 @@ class CitationParserEngine:
 
     @staticmethod
     def is_plausible_reference(raw_text: str, parsed: Dict[str, Any]) -> bool:
-        """Heuristic filter to drop non-reference artifacts from GROBID output."""
+        """Heuristic filter to drop non-reference artifacts from extraction output."""
         if not raw_text or len(raw_text.strip()) < 10:
             return False
 
-        # Essential check: A valid reference should have a Title 
-        if not parsed.get("title"):
-            return False
+        # Strong signal: If we have an identifier AND authors, it's a reference
+        # even if anystyle failed to correctly identify a 'title' (common in long author lists).
+        has_strong_id = bool(parsed.get("doi") or parsed.get("arxiv_id") or parsed.get("url"))
+        has_authors = bool(parsed.get("authors"))
+        has_year = bool(parsed.get("year"))
+        has_title = bool(parsed.get("title"))
 
-        # Additional check: Valid scientific references almost always have a YEAR
-        # or an Identifier (DOI, URL, arXiv ID). This filters out random text sentences.
-        # if not (parsed.get("year") or parsed.get("doi") or parsed.get("arxiv_id") or parsed.get("url")):
-        #     return False
+        # Case 1: Standard reference with a title
+        if has_title:
+            # We still want at least one other field to be sure it's not a random sentence
+            fields_present = 0
+            if has_authors: fields_present += 1
+            if has_title:   fields_present += 1
+            if parsed.get("venue"): fields_present += 1
+            if has_year:    fields_present += 1
+            if has_strong_id: fields_present += 1
+            return fields_present >= 2
 
-        fields_present = 0
-        if parsed.get("authors"):
-            fields_present += 1
-        if parsed.get("title"):
-            fields_present += 1
-        if parsed.get("venue"):
-            fields_present += 1
-        if parsed.get("year"):
-            fields_present += 1
-        if parsed.get("doi") or parsed.get("arxiv_id") or parsed.get("url"):
-            fields_present += 1
+        # Case 2: No title found, but strong ID + authors/year exists
+        if has_strong_id and (has_authors or has_year):
+            return True
 
-        return fields_present >= 2
+        return False
 
     @staticmethod
     def guard_hallucinations(raw_text: str, patch: Dict[str, Any]) -> Dict[str, Any]:
