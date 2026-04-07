@@ -122,6 +122,12 @@ Default mineru command:
             )
             stem = content_list_path.stem.replace("_content_list", "")
 
+        elif input_path.suffix.lower() == ".md":
+            # ── NEW FLOW: .md file ────────────────────────────────────
+            print(f"[Pipeline] Processing Markdown file: {input_path}")
+            results = asyncio.run(pipeline.run_from_markdown(str(input_path)))
+            stem = input_path.stem
+
         else:
             # ── LEGACY FLOW: PDF → run MinerU ──────────────────────────
             results = asyncio.run(pipeline.run(str(input_path)))

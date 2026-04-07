@@ -30,13 +30,9 @@ class ExtractedCitation(BaseModel):
         m = re.search(r"(1[89]\d{2}|20\d{2})", str(v))
         return int(m.group(1)) if m else None
 
-class LLMPatchInstruction(BaseModel):
-    """Structured output expected from the LLM"""
-    fill: Dict[str, Any] = Field(default_factory=dict, description="Fields to add if currently null")
-    corrections: Dict[str, Any] = Field(default_factory=dict, description="Fields to overwrite if incorrect")
-
 class ParsedCitationEntry(BaseModel):
     """A single citation parsed by LLM/Instructor"""
+    raw_text: Optional[str] = Field(None, description="The original raw string for this specific citation")
     title: str = Field(..., description="Full title of the paper")
     authors: List[str] = Field(default_factory=list, description="List of authors in 'Given Family' format")
     venue: Optional[str] = Field(None, description="Journal name, Conference, or Repository")

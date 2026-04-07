@@ -40,7 +40,7 @@ A high-precision pipeline for extracting structured references from scientific P
 ### 1. Extract from a single PDF
 The pipeline runs MinerU automatically and then parses the references:
 ```bash
-.venv/bin/python -m src.extract_references tests/2510.04871v1.pdf
+.venv/bin/python -m src.extract_references tests/pdfs/minerU/10241_Harnessing_Diversity_for_Important_Data_Selection_in_Pretraining_Large_Language_Models.pdf
 ```
 
 ### 2. Extract from a MinerU output folder
@@ -77,4 +77,4 @@ The results are saved as structured JSON in `tests/json/minerU/`.
 .venv/bin/mineru -p tests/pdfs/minerU/09669_Progressive_Compositionality_in_Text-to-Image_Generative_Models.pdf -o /tmp/mineru_inspect -b pipeline -m txt -d cpu -f false -t false
 
 
-.venv/bin/mineru -p tests/pdfs/minerU/10208_Adaptive_Gradient_Clipping_for_Robust_Federated_Learning.pdf -o tests/pdfs/minerU_results/ -b pipeline -m txt -d cpu -f false -t false
+.venv/bin/mineru -p tests/pdfs/minerU/10051_CausalRivers_-_Scaling_up_benchmarking_of_causal_discovery_for_real-world_time-series.pdf -o tests/pdfs/minerU_results/ -b pipeline -m txt -d cpu -f false -t false

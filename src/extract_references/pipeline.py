@@ -3,11 +3,12 @@ pipeline.py
 The simplified orchestration pipeline using Instructor + LLM for structured extraction.
 """
 import asyncio
-import os
 from typing import List
+from pathlib import Path
 from .schemas import ExtractedCitation, ExtractedIdentifiers
 from .clients import AsyncMinerUClient, AsyncLLMClient
 from .heuristics import CitationParserEngine
+
 
 class ExtractionPipeline:
     def __init__(
@@ -23,25 +24,74 @@ class ExtractionPipeline:
         self.semaphore = asyncio.Semaphore(max_concurrency)
 
     async def run(self, pdf_path: str) -> List[ExtractedCitation]:
-        """Full pipeline: PDF -> MinerU -> Raw Strings -> LLM -> JSON"""
-        from pathlib import Path
-        print(f"[Pipeline] Extracting raw strings from {pdf_path}...")
-        raw_strings = await self.mineru.extract_raw_references(pdf_path)
+        """Full pipeline: PDF -> MinerU -> MD -> Extract Block -> Batch Split -> LLM -> JSON"""
+        print(f"[Pipeline] Processing PDF: {pdf_path}...")
+        ref_block = await self.mineru.extract_references_from_pdf(pdf_path)
         
         log_id = Path(pdf_path).stem[:10]
-        return await self.process_citations(raw_strings, log_id)
+        return await self._process_block_to_results(ref_block, log_id)
 
-    async def process_citations(self, raw_strings: List[str], log_id: str = "EXTRACT") -> List[ExtractedCitation]:
-        """Process a list of raw citation strings through the LLM."""
-        if not raw_strings:
+    async def run_from_markdown(self, md_path: str) -> List[ExtractedCitation]:
+        """Full pipeline: .md -> Extract Block -> Batch Split -> LLM -> JSON"""
+        md_text = Path(md_path).read_text(encoding="utf-8", errors="ignore")
+        
+        print(f"[Pipeline] Extracting references block from {md_path}...")
+        ref_block = self.mineru.extract_references_block_from_markdown(md_text)
+        
+        log_id = Path(md_path).stem[:10]
+        return await self._process_block_to_results(ref_block, log_id)
+
+    async def _process_block_to_results(self, ref_block: str, log_id: str) -> List[ExtractedCitation]:
+        """Shared logic to batch-process a raw reference text block."""
+        if not ref_block:
+            print(f"[Pipeline][{log_id}] No references found.")
             return []
 
-        print(f"[Pipeline][{log_id}] Processing {len(raw_strings)} citations via LLM...")
-        tasks = [self._process_single_citation(idx, raw) for idx, raw in enumerate(raw_strings, 1)]
-        results = await asyncio.gather(*tasks)
+        # Split by double newlines as per user suggestion
+        raw_items = [item.strip() for item in ref_block.split("\n\n") if item.strip()]
         
-        return self._post_process_results(results)
+        # Batch items into groups (smaller batches for better reliability)
+        batch_size = 5
+        batches = [raw_items[i : i + batch_size] for i in range(0, len(raw_items), batch_size)]
+        
+        results_batches = []
+        print(f"[Pipeline][{log_id}] Processing {len(raw_items)} citations in {len(batches)} batches via LLM...")
+        
+        # Run batches concurrently within semaphore limits
+        tasks = [self._process_single_batch(i, batch) for i, batch in enumerate(batches, 1)]
+        results_batches = await asyncio.gather(*tasks)
 
+        return self._post_process_results(results_batches)
+
+    async def _process_single_batch(self, batch_idx: int, batch_items: List[str]) -> List[ExtractedCitation]:
+        async with self.semaphore:
+            batch_text = "\n\n".join(batch_items)
+            print(f"  [Batch {batch_idx}] Sending {len(batch_items)} citations to LLM...")
+            try:
+                collection = await self.llm.extract_citations_batch(batch_text)
+                batch_results = []
+                for parsed in collection.citations:
+                    # Validation / Plausibility check
+                    if not self.engine.is_plausible_reference(parsed.raw_text or "", parsed.model_dump()):
+                         continue
+
+                    batch_results.append(ExtractedCitation(
+                        ref_id="TEMP", 
+                        raw_text=parsed.raw_text or batch_text,
+                        title=parsed.title,
+                        authors=parsed.authors,
+                        venue=parsed.venue,
+                        year=parsed.year,
+                        identifiers=ExtractedIdentifiers(
+                            doi=parsed.doi,
+                            arxiv_id=parsed.arxiv_id,
+                            url=parsed.url
+                        )
+                    ))
+                return batch_results
+            except Exception as e:
+                print(f"  [Batch {batch_idx}] Failed: {e}")
+                return []
 
     def _post_process_results(self, results: List[List[ExtractedCitation]]) -> List[ExtractedCitation]:
         """Flatten results and re-index references (R1, R2...)."""
@@ -53,64 +103,3 @@ class ExtractionPipeline:
                 final_results.append(res)
                 current_idx += 1
         return final_results
-
-    async def _process_single_citation(self, idx: int, raw_text: str) -> List[ExtractedCitation]:
-        """Process a raw string. Returns a LIST of citations (usually 1, but multiple if batch-split)."""
-        async with self.semaphore:
-            # 1. Clean raw text (deterministic)
-            raw_text = self.engine.heal_broken_urls(raw_text)
-            
-            # Heuristic: If string is extremely long, it's likely multiple citations merged.
-            # Use batch extraction instead of single.
-            if len(raw_text) > 1000:
-                print(f"[{idx}] Raw text very long ({len(raw_text)} chars), using batch extraction...")
-                try:
-                    collection = await self.llm.extract_citations_batch(raw_text)
-                    results = []
-                    for i, parsed in enumerate(collection.citations, 1):
-                        if self.engine.is_plausible_reference(raw_text, parsed.model_dump()):
-                            results.append(ExtractedCitation(
-                                ref_id=f"R{idx}_{i}",
-                                raw_text=raw_text, # Keep full original text for batch items
-                                title=parsed.title,
-                                authors=parsed.authors,
-                                venue=parsed.venue,
-                                year=parsed.year,
-                                identifiers=ExtractedIdentifiers(
-                                    doi=parsed.doi,
-                                    arxiv_id=parsed.arxiv_id,
-                                    url=parsed.url
-                                )
-                            ))
-                    return results
-                except Exception as e:
-                    print(f"[{idx}] Batch Extraction Failed: {e}")
-                    # Fallback to single extraction attempt
-
-            try:
-                # 2. Extract structured metadata using Instructor + LLM
-                parsed = await self.llm.extract_citation(raw_text)
-                
-                # 3. Validation / Plausibility check
-                parsed_dict = parsed.model_dump()
-                if not self.engine.is_plausible_reference(raw_text, parsed_dict):
-                    print(f"[{idx}] Skipping citation: low plausibility (Title found: {bool(parsed.title)})")
-                    return []
-
-                # 4. Map to final Schema
-                return [ExtractedCitation(
-                    ref_id=f"R{idx}",
-                    raw_text=raw_text,
-                    title=parsed.title,
-                    authors=parsed.authors,
-                    venue=parsed.venue,
-                    year=parsed.year,
-                    identifiers=ExtractedIdentifiers(
-                        doi=parsed.doi,
-                        arxiv_id=parsed.arxiv_id,
-                        url=parsed.url
-                    )
-                )]
-            except Exception as e:
-                print(f"[{idx}] Extraction Failed: {e}")
-                return []
