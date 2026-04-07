@@ -1,60 +1,11 @@
 """
 heuristics.py
-Deterministic parsing rules, anystyle JSON digestion, and anti-hallucination guards.
+Deterministic parsing rules and anti-hallucination guards.
 """
 import re
 from typing import Dict, Any, List, Optional
 
 class CitationParserEngine:
-
-    @staticmethod
-    def digest_anystyle_json(raw_text: str, anystyle_result: dict) -> Dict[str, Any]:
-        """Maps anystyle CLI JSON output into a flat internal dict."""
-        result: Dict[str, Any] = {"raw_text": raw_text}
-        if not anystyle_result:
-            return result
-
-        # Title — anystyle returns list of strings
-        titles = anystyle_result.get("title", [])
-        if titles:
-            result["title"] = titles[0] if isinstance(titles[0], str) else str(titles[0])
-
-        # Authors — list of dicts with optional 'given' / 'family', or plain strings
-        authors: List[str] = []
-        for a in anystyle_result.get("author", []):
-            if isinstance(a, dict):
-                given = (a.get("given") or "").strip()
-                family = (a.get("family") or "").strip()
-                name = f"{given} {family}".strip()
-                if name:
-                    authors.append(name)
-            elif isinstance(a, str) and a.strip():
-                authors.append(a.strip())
-        if authors:
-            result["authors"] = authors
-
-        # Year — anystyle 'date' is a list of strings like ["2015"]
-        dates = anystyle_result.get("date", [])
-        if dates:
-            result["year"] = str(dates[0])
-
-        # Venue — prefer journal, then booktitle/container-title/publisher
-        for venue_key in ("journal", "booktitle", "container-title", "publisher", "series"):
-            values = anystyle_result.get(venue_key, [])
-            if values:
-                result["venue"] = values[0] if isinstance(values[0], str) else str(values[0])
-                break
-
-        # Identifiers
-        dois = anystyle_result.get("doi", [])
-        if dois:
-            result["doi"] = dois[0] if isinstance(dois[0], str) else str(dois[0])
-
-        urls = anystyle_result.get("url", [])
-        if urls:
-            result["url"] = urls[0] if isinstance(urls[0], str) else str(urls[0])
-
-        return result
 
     @staticmethod
     def apply_regex_fallbacks(parsed: Dict[str, Any]) -> Dict[str, Any]:
@@ -160,7 +111,7 @@ class CitationParserEngine:
     @staticmethod
     def detect_suspicious_merge(raw_text: str, result: Dict[str, Any]) -> bool:
         """Determines if a citation string likely contains multiple merged references."""
-        # 1. Check unique values from anystyle metadata
+        # 1. Check unique values from extracted metadata
         dates = set(result.get("date", []))
         dois = set(result.get("doi", []))
         arxivs = set(result.get("arxiv", []))
@@ -218,7 +169,7 @@ class CitationParserEngine:
             return False
 
         # Strong signal: If we have an identifier AND authors, it's a reference
-        # even if anystyle failed to correctly identify a 'title' (common in long author lists).
+        # even if extraction failed to correctly identify a 'title' (common in long author lists).
         has_strong_id = bool(parsed.get("doi") or parsed.get("arxiv_id") or parsed.get("url"))
         has_authors = bool(parsed.get("authors"))
         has_year = bool(parsed.get("year"))

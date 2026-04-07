@@ -1,14 +1,3 @@
-"""
-__main__.py
-CLI entry point for the extraction module.
-
-Usage:
-  # New flow — pass the MinerU output folder (auto-finds content_list.json)
-  python3 -m src.extract_references tests/mineru_output/2512.24784v1/ --llm_backend together
-
-  # Legacy flow — pass a PDF directly (mineru in .venv)
-  python3 -m src.extract_references paper.pdf --llm_backend openai
-"""
 from __future__ import annotations
 
 import asyncio
@@ -60,7 +49,7 @@ def main():
         epilog=f"""
 Examples:
   # Pass MinerU output folder (recommended)
-  python3 -m src.extract_references tests/mineru_output/2512.24784v1/ --llm_backend openai
+  python3 -m src.extract_references tests/mineru_output/ --llm_backend openai
 
   # Pass a PDF directly (runs mineru via .venv)
   python3 -m src.extract_references paper.pdf --llm_backend openai
@@ -123,8 +112,13 @@ Default mineru command:
                 )
                 sys.exit(1)
             print(f"[Pipeline] Using: {content_list_path}")
+            
+            # Load and extract raw strings locally in CLI, then pass to pipeline
+            content_list = json.loads(content_list_path.read_text(encoding="utf-8"))
+            raw_strings = pipeline.mineru.extract_references_from_content_list(content_list)
+            
             results = asyncio.run(
-                pipeline.run_from_content_list(str(content_list_path))
+                pipeline.process_citations(raw_strings, log_id=content_list_path.stem[:10])
             )
             stem = content_list_path.stem.replace("_content_list", "")
 

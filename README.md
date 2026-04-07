@@ -52,7 +52,7 @@ If you already ran MinerU, you can point the pipeline to the output folder to sa
 ### 3. Batch Mode
 Process multiple PDFs in parallel:
 ```bash
-python3 run_batch.py "tests/pdfs/*.pdf" --output_dir tests/json/minerU/
+.venv/bin/python run_batch.py "tests/pdfs/*.pdf" --output_dir tests/json/minerU/
 ```
 
 ## 📊 Output Format
@@ -73,3 +73,8 @@ The results are saved as structured JSON in `tests/json/minerU/`.
 }
 ```
 
+
+.venv/bin/mineru -p tests/pdfs/minerU/09669_Progressive_Compositionality_in_Text-to-Image_Generative_Models.pdf -o /tmp/mineru_inspect -b pipeline -m txt -d cpu -f false -t false
+
+
+.venv/bin/mineru -p tests/pdfs/minerU/10208_Adaptive_Gradient_Clipping_for_Robust_Federated_Learning.pdf -o tests/pdfs/minerU_results/ -b pipeline -m txt -d cpu -f false -t false

@@ -23,37 +23,25 @@ class ExtractionPipeline:
         self.semaphore = asyncio.Semaphore(max_concurrency)
 
     async def run(self, pdf_path: str) -> List[ExtractedCitation]:
-        """Full pipeline: PDF -> MinerU -> Raw Strings -> Instructor LLM -> JSON"""
+        """Full pipeline: PDF -> MinerU -> Raw Strings -> LLM -> JSON"""
+        from pathlib import Path
         print(f"[Pipeline] Extracting raw strings from {pdf_path}...")
         raw_strings = await self.mineru.extract_raw_references(pdf_path)
-
-        base_name = os.path.basename(pdf_path)
-        log_id = base_name[:10]
-        print(f"[Pipeline][{log_id}] Processing {len(raw_strings)} citations via LLM...")
-
-        tasks = [self._process_single_citation(idx, raw) for idx, raw in enumerate(raw_strings, 1)]
-        results = await asyncio.gather(*tasks)
         
-        return self._post_process_results(results)
+        log_id = Path(pdf_path).stem[:10]
+        return await self.process_citations(raw_strings, log_id)
 
-    async def run_from_content_list(self, content_list_path: str) -> List[ExtractedCitation]:
-        """MinerU content_list.json -> Raw Strings -> Instructor LLM -> JSON"""
-        import json
-        from pathlib import Path
-        path = Path(content_list_path).resolve()
-        content_list = json.loads(path.read_text(encoding="utf-8"))
-
-        raw_strings = self.mineru.extract_references_from_content_list(content_list)
+    async def process_citations(self, raw_strings: List[str], log_id: str = "EXTRACT") -> List[ExtractedCitation]:
+        """Process a list of raw citation strings through the LLM."""
         if not raw_strings:
             return []
 
-        log_id = path.stem[:10]
         print(f"[Pipeline][{log_id}] Processing {len(raw_strings)} citations via LLM...")
-
         tasks = [self._process_single_citation(idx, raw) for idx, raw in enumerate(raw_strings, 1)]
         results = await asyncio.gather(*tasks)
         
         return self._post_process_results(results)
+
 
     def _post_process_results(self, results: List[List[ExtractedCitation]]) -> List[ExtractedCitation]:
         """Flatten results and re-index references (R1, R2...)."""
@@ -83,7 +71,7 @@ class ExtractionPipeline:
                         if self.engine.is_plausible_reference(raw_text, parsed.model_dump()):
                             results.append(ExtractedCitation(
                                 ref_id=f"R{idx}_{i}",
-                                raw_text=raw_text[:100] + "...", # truncate raw for batch items
+                                raw_text=raw_text, # Keep full original text for batch items
                                 title=parsed.title,
                                 authors=parsed.authors,
                                 venue=parsed.venue,
