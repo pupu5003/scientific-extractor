@@ -48,3 +48,9 @@ class ParsedCitationEntry(BaseModel):
 class CitationCollection(BaseModel):
     """A collection of citations extracted from a text block"""
     citations: List[ParsedCitationEntry] = Field(..., description="List of individual citations found in the text")
+
+
+class MergeDecision(BaseModel):
+    """LLM decision on whether two adjacent text fragments belong to the same reference."""
+    should_merge: bool = Field(..., description="True if the two fragments are parts of the same reference")
+    reason: str = Field(..., description="Brief explanation of the decision")

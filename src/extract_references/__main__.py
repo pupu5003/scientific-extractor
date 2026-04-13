@@ -4,40 +4,34 @@ import asyncio
 import argparse
 import sys
 import os
-import json
 from pathlib import Path
 from dotenv import load_dotenv
 from .clients import AsyncLLMClient
 from .pipeline import ExtractionPipeline
+import json
 
 DEFAULT_MINERU_CMD = (
     ".venv/bin/mineru -p {pdf} -o {out_dir} -b pipeline -m txt -d cpu -f false -t false"
 )
 
 
-def _find_content_list(folder: Path) -> Path | None:
-    """Search for *_content_list.json inside a MinerU output folder."""
-    for candidate in [folder / "txt", folder]:
-        matches = sorted(candidate.glob("*_content_list.json"))
-        if matches:
-            return matches[0]
-    return None
-
-
 def _build_llm_client(args: argparse.Namespace) -> AsyncLLMClient:
     if args.llm_backend == "together":
         api_key = os.environ.get("TOGETHER_API_KEY", "")
         base_url = "https://api.together.xyz/v1"
-        model = args.model if args.model != "gpt-4o-mini" else "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+        model = args.model
+        use_json_mode = True
     elif args.llm_backend == "ollama":
         api_key = "ollama_placeholder"
         base_url = "http://localhost:11434/v1"
         model = args.model
+        use_json_mode = True
     else:  # openai
         api_key = os.environ.get("OPENAI_API_KEY", "")
         base_url = None
         model = args.model
-    return AsyncLLMClient(api_key=api_key, base_url=base_url, model=model)
+        use_json_mode = False
+    return AsyncLLMClient(api_key=api_key, base_url=base_url, model=model, use_json_mode=use_json_mode)
 
 
 def main():
@@ -48,24 +42,15 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=f"""
 Examples:
-  # Pass MinerU output folder (recommended)
-  python3 -m src.extract_references tests/mineru_output/ --llm_backend openai
-
-  # Pass a PDF directly (runs mineru via .venv)
   python3 -m src.extract_references paper.pdf --llm_backend openai
+  python3 -m src.extract_references paper.pdf --llm_backend together --output_dir out/
 
 Default mineru command:
   {DEFAULT_MINERU_CMD}
 """,
     )
 
-    parser.add_argument(
-        "input_path",
-        help=(
-            "MinerU output folder (auto-finds *_content_list.json inside) "
-            "OR a PDF file path (runs MinerU via --mineru_cmd)."
-        ),
-    )
+    parser.add_argument("pdf_path", help="Path to the PDF file to process.")
     parser.add_argument(
         "--llm_backend",
         type=str,
@@ -84,14 +69,14 @@ Default mineru command:
         "--mineru_cmd",
         type=str,
         default=DEFAULT_MINERU_CMD,
-        help="[PDF mode only] MinerU command template. Must contain {pdf} and {out_dir}.",
+        help="MinerU command template. Must contain {pdf} and {out_dir}.",
     )
 
     args = parser.parse_args()
 
-    input_path = Path(args.input_path)
-    if not input_path.exists():
-        print(f"Error: path not found: {input_path}", file=sys.stderr)
+    pdf_path = Path(args.pdf_path)
+    if not pdf_path.exists() or not pdf_path.is_file():
+        print(f"Error: PDF not found: {pdf_path}", file=sys.stderr)
         sys.exit(1)
 
     llm_client = _build_llm_client(args)
@@ -102,35 +87,11 @@ Default mineru command:
     )
 
     try:
-        if input_path.is_dir():
-            # ── NEW FLOW: folder → auto-find content_list.json ─────────
-            content_list_path = _find_content_list(input_path)
-            if not content_list_path:
-                print(
-                    f"Error: no *_content_list.json found in {input_path} (checked txt/ subfolder too).",
-                    file=sys.stderr,
-                )
-                sys.exit(1)
-            print(f"[Pipeline] Using: {content_list_path}")
-            
-            # Load and extract raw strings locally in CLI, then pass to pipeline
-            content_list = json.loads(content_list_path.read_text(encoding="utf-8"))
-            raw_strings = pipeline.mineru.extract_references_from_content_list(content_list)
-            
-            results = asyncio.run(
-                pipeline.process_citations(raw_strings, log_id=content_list_path.stem[:10])
-            )
-            stem = content_list_path.stem.replace("_content_list", "")
+        results = asyncio.run(pipeline.run(str(pdf_path)))
 
-        else:
-            # ── LEGACY FLOW: PDF → run MinerU ──────────────────────────
-            results = asyncio.run(pipeline.run(str(input_path)))
-            stem = input_path.stem
-
-        # ── Write final extracted JSON ──────────────────────────────────
         output_data = [res.model_dump(exclude_none=True) for res in results]
         os.makedirs(args.output_dir, exist_ok=True)
-        output_file = os.path.join(args.output_dir, f"{stem}_extracted.json")
+        output_file = os.path.join(args.output_dir, f"{pdf_path.stem}_extracted.json")
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(output_data, f, ensure_ascii=False, indent=2)
 

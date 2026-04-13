@@ -80,17 +80,20 @@ async def main_async(args):
     if args.llm_backend == "together":
         api_key = os.environ.get("TOGETHER_API_KEY", "")
         base_url = "https://api.together.xyz/v1"
-        model = args.model if args.model != "gpt-4o-mini" else "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
+        model = args.model
+        use_json_mode = True
     elif args.llm_backend == "ollama":
         api_key = "ollama_placeholder"
         base_url = "http://localhost:11434/v1"
         model = args.model
+        use_json_mode = True
     else:
         api_key = os.environ.get("OPENAI_API_KEY", "")
         base_url = None
         model = args.model
+        use_json_mode = False
 
-    llm_client = AsyncLLMClient(api_key=api_key, base_url=base_url, model=model)
+    llm_client = AsyncLLMClient(api_key=api_key, base_url=base_url, model=model, use_json_mode=use_json_mode)
 
     # Single shared pipeline — citation parsing is also concurrent within each PDF
     pipeline = ExtractionPipeline(

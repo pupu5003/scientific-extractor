@@ -16,7 +16,7 @@ from typing import List, Optional
 from tenacity import retry, stop_after_attempt, wait_exponential
 import instructor
 from openai import AsyncOpenAI
-from .schemas import ParsedCitationEntry, CitationCollection
+from .schemas import ParsedCitationEntry, CitationCollection, MergeDecision
 
 
 # ---------------------------------------------------------------------------
@@ -170,8 +170,13 @@ class AsyncMinerUClient:
     # ------------------------------------------------------------------
 
     @retry(stop=stop_after_attempt(2), wait=wait_exponential(multiplier=1, min=1, max=5), reraise=True)
-    async def extract_raw_references(self, pdf_path: str) -> List[str]:
-        """Run MinerU on *pdf_path* và trả về list các reference string."""
+    async def extract_ref_blocks_with_page_idx(
+        self, pdf_path: str
+    ) -> list[tuple[str, int]]:
+        """
+        Run MinerU on *pdf_path* và trả về list (ref_text, page_idx).
+        page_idx dùng để phát hiện các cặp liền kề bị tách trang.
+        """
         if not os.path.exists(pdf_path):
             raise FileNotFoundError(f"PDF not found: {pdf_path}")
 
@@ -190,18 +195,19 @@ class AsyncMinerUClient:
             if cl_files:
                 best_cl = max(cl_files, key=lambda p: p.stat().st_size)
                 content_list = json.loads(best_cl.read_text(encoding="utf-8"))
-                return self.extract_references_from_content_list(content_list)
+                return self._extract_ref_blocks_with_pages(content_list)
 
-            # Fallback: markdown
+            # Fallback: markdown (không có page_idx, gán -1)
             md_files = sorted(Path(out_dir).rglob("*.md"))
             if not md_files:
                 raise RuntimeError(
                     "MinerU completed but no output found (neither content_list.json nor *.md)"
                 )
             best_md = max(md_files, key=lambda p: p.stat().st_size)
-            return self.extract_references_from_markdown(
+            refs = self.extract_references_from_markdown(
                 best_md.read_text(encoding="utf-8", errors="ignore")
             )
+            return [(r, -1) for r in refs]
 
     # ------------------------------------------------------------------
     # Public: extract markdown
@@ -238,109 +244,92 @@ class AsyncMinerUClient:
     # content_list.json extraction  ← main path
     # ------------------------------------------------------------------
 
-    def extract_references_from_content_list(
+    def _extract_ref_blocks_with_pages(
         self,
         content_list: list[dict],
-    ) -> list[str]:
+    ) -> list[tuple[str, int]]:
         """
-        Extract individual reference strings từ MinerU's content_list.json.
-
-        Fixes so với version cũ:
-        1. Detect heading bằng cả item_type VÀ text_level — không bỏ sót khi
-           MinerU gán text_level=None cho "References" header.
-        2. Break condition dùng item_type thay vì chỉ dựa text_level — tránh
-           bỏ sót hoặc dư khi text_level thiếu nhất quán.
-        3. Thu thập thêm list_item / paragraph types.
-        4. _split_content_list_refs dùng threshold 25% thay vì any() để tránh
-           false-positive numbered mode từ 1 dòng lẻ.
+        Core extractor: trả về list (ref_text, page_idx).
+        page_idx = -1 khi không có thông tin trang.
         """
-        ref_blocks: list[str] = []
+        # Collect raw blocks cùng page_idx trước khi split
+        raw_blocks: list[tuple[str, int]] = []  # (text, page_idx)
         in_references = False
 
         for item in content_list:
             item_type = item.get("type", "text")
 
-            # Bỏ qua noise hoàn toàn
             if item_type in self._IGNORE_TYPES:
                 continue
 
             text: str = item.get("text", "").strip()
             text_level = item.get("text_level")
+            page_idx: int = item.get("page_idx", -1)
 
-            # ----------------------------------------------------------
-            # Xác định đây có phải heading không
-            # Điều kiện: type là heading type, HOẶC có text_level set
-            # ----------------------------------------------------------
             is_heading = (
                 item_type in self._HEADING_TYPES
                 or text_level is not None
             )
 
             if is_heading:
-                # Skip headings that have no useful text
                 if not text:
                     continue
                 heading_norm = re.sub(r"\s+", " ", text.lower()).strip("#").strip()
 
-                # Tìm thấy References section
                 if heading_norm in self.REFERENCE_HEADINGS:
                     in_references = True
                     continue
 
-                # Đang trong References → quyết định dừng hay không
                 if in_references:
-                    # Chỉ dừng khi heading thực sự quan trọng:
-                    # type là heading type HOẶC text_level cấp cao (<=3)
                     is_major_heading = (
                         item_type in self._HEADING_TYPES
                         or (text_level is not None and text_level <= 3)
                     )
                     if is_major_heading and len(text) < 120:
-                        # Cho qua nếu text trông như reference (có năm, doi…)
                         looks_like_ref = bool(
                             re.search(r"\d{4}|doi:|https?://|et al\.|pp\.\s*\d", text, re.I)
                         )
                         if not looks_like_ref:
                             break
-                # Heading nhưng chưa vào references → skip
                 continue
 
-            # ----------------------------------------------------------
-            # Content block
-            # ----------------------------------------------------------
             if not in_references:
                 continue
 
-            # Hard stop: sections xuất hiện sau references
             if text and self._POST_REF_STOP.match(text) and len(text) < 100:
                 break
 
-            # list blocks: text is empty, content lives in list_items
             if item_type == "list":
                 for li in item.get("list_items", []):
-                    if isinstance(li, str) and li.strip():
-                        ref_blocks.append(li.strip())
-                    elif isinstance(li, dict) and li.get("text", "").strip():
-                        ref_blocks.append(li["text"].strip())
+                    li_text = ""
+                    if isinstance(li, str):
+                        li_text = li.strip()
+                    elif isinstance(li, dict):
+                        li_text = li.get("text", "").strip()
+                    if li_text:
+                        raw_blocks.append((li_text, page_idx))
                 continue
 
-            # For all other content types, skip if no text
             if not text:
                 continue
 
-            if item_type == "text":
-                ref_blocks.append(text)
-            elif item_type in ("list_item", "paragraph"):
-                ref_blocks.append(text)
+            if item_type in ("text", "list_item", "paragraph"):
+                raw_blocks.append((text, page_idx))
 
-        if not ref_blocks:
+        if not raw_blocks:
             return []
 
-        # Join with double newlines to treat each block as a hard boundary for the splitter
-        combined = "\n\n".join(ref_blocks)
-        entries = self._split_content_list_refs(combined)
-        cleaned = [self._normalize_reference_text(e) for e in entries]
-        return [e for e in cleaned if len(e) >= 15]
+        # Split mỗi block thành individual refs, giữ page_idx theo block đầu
+        result: list[tuple[str, int]] = []
+        for block_text, page_idx in raw_blocks:
+            entries = self._split_content_list_refs(block_text)
+            for e in entries:
+                cleaned = self._normalize_reference_text(e)
+                if len(cleaned) >= 15:
+                    result.append((cleaned, page_idx))
+
+        return result
+
 
     # ------------------------------------------------------------------
     # Markdown extraction  ← fallback path
@@ -501,28 +490,37 @@ class AsyncMinerUClient:
                     pass
 
     # ------------------------------------------------------------------
-    # Class-level convenience loader
+    # Page-boundary helpers
     # ------------------------------------------------------------------
 
-    @classmethod
-    def load_and_extract_references(
-        cls,
-        content_list_path: str,
-        output_path: str | None = None,
-    ) -> list[str]:
-        path = Path(content_list_path)
-        content_list = json.loads(path.read_text(encoding="utf-8"))
+    @staticmethod
+    def _detect_page_boundary_pairs(
+        blocks: list[tuple[str, int]],
+    ) -> list[int]:
+        """
+        Trả về danh sách index i sao cho blocks[i] và blocks[i+1]
+        nằm ở các trang khác nhau (page_idx khác nhau và cả 2 đều >= 0).
+        """
+        boundaries: list[int] = []
+        for i in range(len(blocks) - 1):
+            _, p1 = blocks[i]
+            _, p2 = blocks[i + 1]
+            if p1 >= 0 and p2 >= 0 and p1 != p2:
+                boundaries.append(i)
+        return boundaries
 
-        instance = cls()
-        refs = instance.extract_references_from_content_list(content_list)
+    @staticmethod
+    def _should_skip_merge(text_a: str, text_b: str) -> bool:
+        """
+        Fast-reject: trả về True khi CÓ THỂ CHẮC CHẮN 2 blocks là
+        2 references riêng biệt (không cần hỏi LLM).
 
-        if output_path:
-            out = Path(output_path)
-            out.parent.mkdir(parents=True, exist_ok=True)
-            out.write_text("\n\n".join(refs), encoding="utf-8")
-            print(f"[MinerUClient] Wrote {len(refs)} references -> {out}")
-
-        return refs
+        Chỉ dùng signal structural rõ ràng:
+        - text_b bắt đầu bằng numbered citation marker ([1], 1., (1))
+        """
+        # Numbered marker ở đầu text_b → reference mới bắt đầu rõ ràng
+        numbered = re.match(r"^\s*(?:\[\w+\]|\(\d+\)|\d{1,3}[.):]\s)", text_b)
+        return bool(numbered)
 
     # ------------------------------------------------------------------
     # Debug helper
@@ -560,11 +558,49 @@ class AsyncLLMClient:
         api_key: str,
         base_url: Optional[str] = None,
         model: str = "gpt-4o-mini",
+        use_json_mode: bool = False,
     ):
-        self.client = instructor.from_openai(
-            AsyncOpenAI(api_key=api_key, base_url=base_url)
-        )
+        raw = AsyncOpenAI(api_key=api_key, base_url=base_url)
+        if use_json_mode:
+            self.client = instructor.from_openai(raw, mode=instructor.Mode.JSON)
+        else:
+            self.client = instructor.from_openai(raw)
         self.model = model
+
+    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
+    async def decide_merge(self, text_a: str, text_b: str) -> bool:
+        """
+        Hỏi LLM xem text_a và text_b có phải là 2 phần của cùng một
+        reference bị ngắt trang không.
+        Trả về True nếu nên merge.
+        """
+        decision: MergeDecision = await self.client.chat.completions.create(
+            model=self.model,
+            response_model=MergeDecision,
+            messages=[
+                {
+                    "role": "system",
+                    "content": (
+                        "You are a bibliographic citation expert. "
+                        "Two text fragments were extracted from adjacent pages of a PDF. "
+                        "Determine whether they are TWO SEPARATE references or "
+                        "ONE reference split across pages.\n"
+                        "Answer should_merge=true ONLY if fragment B is clearly a "
+                        "continuation of fragment A (same bibliographic entry). "
+                        "Answer should_merge=false if fragment B starts a new, "
+                        "independent reference."
+                    ),
+                },
+                {
+                    "role": "user",
+                    "content": (
+                        f"Fragment A (end of page):\n{text_a}\n\n"
+                        f"Fragment B (start of next page):\n{text_b}"
+                    ),
+                },
+            ],
+        )
+        return decision.should_merge
 
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
     async def extract_citation(self, raw_text: str) -> ParsedCitationEntry:

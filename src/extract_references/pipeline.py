@@ -23,13 +23,105 @@ class ExtractionPipeline:
         self.semaphore = asyncio.Semaphore(max_concurrency)
 
     async def run(self, pdf_path: str) -> List[ExtractedCitation]:
-        """Full pipeline: PDF -> MinerU -> Raw Strings -> LLM -> JSON"""
+        """Full pipeline: PDF -> MinerU -> Raw Strings -> (page-split resolve) -> LLM -> JSON"""
         from pathlib import Path
         print(f"[Pipeline] Extracting raw strings from {pdf_path}...")
-        raw_strings = await self.mineru.extract_raw_references(pdf_path)
-        
+        raw_blocks = await self.mineru.extract_ref_blocks_with_page_idx(pdf_path)
+
         log_id = Path(pdf_path).stem[:10]
+
+        # Resolve references split across page boundaries
+        raw_strings = await self._resolve_page_splits(raw_blocks, log_id)
+
         return await self.process_citations(raw_strings, log_id)
+
+    async def _resolve_page_splits(
+        self,
+        blocks: list[tuple[str, int]],
+        log_id: str = "SPLIT",
+    ) -> List[str]:
+        """
+        Phát hiện các cặp reference liền kề bị tách trang và hỏi LLM
+        xem có nên merge hai cặp lại không.
+
+        Logic:
+        1. Tìm các index đị page-boundary (page_idx khác nhau giữa 2 blocks liền kề).
+        2. Fast-reject: cặp nào có numbered marker ở đầu text_b → chắc chắn 2 refs riêng.
+        3. Các cặp còn lại → gọi LLM song song (bảo vệ bởi semaphore).
+        4. Nếu nên merge → gộp text_a + " " + text_b vào một entry.
+        """
+        from .clients import AsyncMinerUClient
+
+        if not blocks:
+            return []
+
+        boundary_indices = AsyncMinerUClient._detect_page_boundary_pairs(blocks)
+
+        if not boundary_indices:
+            print(f"[Pipeline][{log_id}] No page boundaries detected, skipping split resolution.")
+            return [text for text, _ in blocks]
+
+        print(
+            f"[Pipeline][{log_id}] Found {len(boundary_indices)} page boundary pair(s), "
+            "resolving with LLM..."
+        )
+
+        # Thiết kế: dùng set để track các index đã bị merge (absorbed into previous)
+        merged_into_prev: set[int] = set()
+
+        async def _check_pair(i: int) -> bool:
+            """Trả về True nếu nên merge blocks[i] và blocks[i+1]."""
+            text_a, _ = blocks[i]
+            text_b, _ = blocks[i + 1]
+
+            # Fast-reject: text_b có numbered marker rõ ràng
+            if AsyncMinerUClient._should_skip_merge(text_a, text_b):
+                print(
+                    f"[Pipeline][{log_id}] Boundary @{i}: fast-reject "
+                    f"(text_b has numbered marker)"
+                )
+                return False
+
+            # Gọi LLM (bảo vệ bởi semaphore hiện có)
+            async with self.semaphore:
+                try:
+                    should_merge = await self.llm.decide_merge(text_a, text_b)
+                    print(
+                        f"[Pipeline][{log_id}] Boundary @{i}: "
+                        f"LLM says {'MERGE' if should_merge else 'KEEP SEPARATE'}"
+                    )
+                    return should_merge
+                except Exception as e:
+                    print(f"[Pipeline][{log_id}] Boundary @{i}: decide_merge failed ({e}), keeping separate")
+                    return False
+
+        # Chạy song song tất cả các boundary checks
+        merge_flags = await asyncio.gather(*[_check_pair(i) for i in boundary_indices])
+
+        for idx, should_merge in zip(boundary_indices, merge_flags):
+            if should_merge:
+                merged_into_prev.add(idx + 1)
+
+        # Xây dựng output list, merge khi cần
+        result: List[str] = []
+        i = 0
+        while i < len(blocks):
+            if i in merged_into_prev:
+                # Đã được merge vào block trước — nối tiếp vào entry cuối
+                if result:
+                    result[-1] = result[-1].rstrip() + " " + blocks[i][0].lstrip()
+                else:
+                    result.append(blocks[i][0])
+            else:
+                result.append(blocks[i][0])
+            i += 1
+
+        merged_count = len([f for f in merge_flags if f])
+        print(
+            f"[Pipeline][{log_id}] Page-split resolution done: "
+            f"{merged_count} merge(s), {len(result)} refs remaining."
+        )
+        return result
 
     async def process_citations(self, raw_strings: List[str], log_id: str = "EXTRACT") -> List[ExtractedCitation]:
         """Process a list of raw citation strings through the LLM."""
