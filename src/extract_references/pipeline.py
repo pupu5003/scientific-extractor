@@ -8,6 +8,7 @@ from typing import List
 from .schemas import ExtractedCitation, ExtractedIdentifiers
 from .clients import AsyncMinerUClient, AsyncLLMClient
 from .heuristics import CitationParserEngine
+from pathlib import Path
 
 class ExtractionPipeline:
     def __init__(
@@ -24,7 +25,6 @@ class ExtractionPipeline:
 
     async def run(self, pdf_path: str) -> List[ExtractedCitation]:
         """Full pipeline: PDF -> MinerU -> Raw Strings -> (page-split resolve) -> LLM -> JSON"""
-        from pathlib import Path
         print(f"[Pipeline] Extracting raw strings from {pdf_path}...")
         raw_blocks = await self.mineru.extract_ref_blocks_with_page_idx(pdf_path)
 
@@ -41,16 +41,14 @@ class ExtractionPipeline:
         log_id: str = "SPLIT",
     ) -> List[str]:
         """
-        Phát hiện các cặp reference liền kề bị tách trang và hỏi LLM
-        xem có nên merge hai cặp lại không.
+        Detect reference split across page boundaries and ask LLM if two references should be merged.
 
         Logic:
-        1. Tìm các index đị page-boundary (page_idx khác nhau giữa 2 blocks liền kề).
-        2. Fast-reject: cặp nào có numbered marker ở đầu text_b → chắc chắn 2 refs riêng.
-        3. Các cặp còn lại → gọi LLM song song (bảo vệ bởi semaphore).
-        4. Nếu nên merge → gộp text_a + " " + text_b vào một entry.
+        1. Find indices where page_idx differs between adjacent blocks.
+        2. Fast-reject: if text_b starts with a numbered marker, they are separate.
+        3. The remaining pairs -> ask LLM in parallel (protected by semaphore).
+        4. If should merge -> merge text_a + " " + text_b into one entry.
         """
-        from .clients import AsyncMinerUClient
 
         if not blocks:
             return []
@@ -66,48 +64,48 @@ class ExtractionPipeline:
             "resolving with LLM..."
         )
 
-        # Thiết kế: dùng set để track các index đã bị merge (absorbed into previous)
+        # Design: use set to track indices that have been merged (absorbed into previous)
         merged_into_prev: set[int] = set()
 
         async def _check_pair(i: int) -> bool:
-            """Trả về True nếu nên merge blocks[i] và blocks[i+1]."""
+            """Return True if blocks[i] and blocks[i+1] should be merged."""
             text_a, _ = blocks[i]
             text_b, _ = blocks[i + 1]
 
-            # Fast-reject: text_b có numbered marker rõ ràng
+            # Fast-reject: text_b has numbered marker
             if AsyncMinerUClient._should_skip_merge(text_a, text_b):
-                print(
-                    f"[Pipeline][{log_id}] Boundary @{i}: fast-reject "
-                    f"(text_b has numbered marker)"
-                )
+                # print(
+                #     f"[Pipeline][{log_id}] Boundary @{i}: fast-reject "
+                #     f"(text_b has numbered marker)"
+                # )
                 return False
 
-            # Gọi LLM (bảo vệ bởi semaphore hiện có)
+            # Call LLM (protected by semaphore)
             async with self.semaphore:
                 try:
                     should_merge = await self.llm.decide_merge(text_a, text_b)
-                    print(
-                        f"[Pipeline][{log_id}] Boundary @{i}: "
-                        f"LLM says {'MERGE' if should_merge else 'KEEP SEPARATE'}"
-                    )
+                    # print(
+                    #     f"[Pipeline][{log_id}] Boundary @{i}: "
+                    #     f"LLM says {'MERGE' if should_merge else 'KEEP SEPARATE'}"
+                    # )
                     return should_merge
                 except Exception as e:
                     print(f"[Pipeline][{log_id}] Boundary @{i}: decide_merge failed ({e}), keeping separate")
                     return False
 
-        # Chạy song song tất cả các boundary checks
+        # Run all boundary checks in parallel
         merge_flags = await asyncio.gather(*[_check_pair(i) for i in boundary_indices])
 
         for idx, should_merge in zip(boundary_indices, merge_flags):
             if should_merge:
                 merged_into_prev.add(idx + 1)
 
-        # Xây dựng output list, merge khi cần
+        # Build output list, merge when needed
         result: List[str] = []
         i = 0
         while i < len(blocks):
             if i in merged_into_prev:
-                # Đã được merge vào block trước — nối tiếp vào entry cuối
+                # Already merged into previous block - continue to the last entry
                 if result:
                     result[-1] = result[-1].rstrip() + " " + blocks[i][0].lstrip()
                 else:

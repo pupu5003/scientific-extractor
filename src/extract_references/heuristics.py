@@ -7,135 +7,135 @@ from typing import Dict, Any, List, Optional
 
 class CitationParserEngine:
 
-    @staticmethod
-    def apply_regex_fallbacks(parsed: Dict[str, Any]) -> Dict[str, Any]:
-        """Applies high-confidence regex to fill gaps left by upstream extraction."""
-        raw = parsed.get("raw_text", "")
+    # @staticmethod
+    # def apply_regex_fallbacks(parsed: Dict[str, Any]) -> Dict[str, Any]:
+    #     """Applies high-confidence regex to fill gaps left by upstream extraction."""
+    #     raw = parsed.get("raw_text", "")
         
-        if not parsed.get("doi"):
-            m = re.search(r"(10\.\d{4,}/[^\s,;]+)", raw)
-            if m: parsed["doi"] = m.group(1).rstrip(".")
+    #     if not parsed.get("doi"):
+    #         m = re.search(r"(10\.\d{4,}/[^\s,;]+)", raw)
+    #         if m: parsed["doi"] = m.group(1).rstrip(".")
                 
-        if not parsed.get("arxiv_id"):
-            m = re.search(r"(\d{4}\.\d{4,5})(v\d+)?", raw)
-            if m: parsed["arxiv_id"] = m.group(1)
+    #     if not parsed.get("arxiv_id"):
+    #         m = re.search(r"(\d{4}\.\d{4,5})(v\d+)?", raw)
+    #         if m: parsed["arxiv_id"] = m.group(1)
             
-        if not parsed.get("url"):
-            m = re.search(r"https?://[^\s]+(?:\s+[^\s,\)\.]+)*", raw, re.IGNORECASE)
-            if m: parsed["url"] = re.sub(r"\s+", "", m.group(0)).rstrip(".,)")
+    #     if not parsed.get("url"):
+    #         m = re.search(r"https?://[^\s]+(?:\s+[^\s,\)\.]+)*", raw, re.IGNORECASE)
+    #         if m: parsed["url"] = re.sub(r"\s+", "", m.group(0)).rstrip(".,)")
             
-        if not parsed.get("year"):
-            m = re.search(r"\b(1[89]\d{2}|20\d{2})(?:[a-z])?\b", raw, re.IGNORECASE)
-            if m: parsed["year"] = m.group(1)
+    #     if not parsed.get("year"):
+    #         m = re.search(r"\b(1[89]\d{2}|20\d{2})(?:[a-z])?\b", raw, re.IGNORECASE)
+    #         if m: parsed["year"] = m.group(1)
 
-        regex_authors = CitationParserEngine._extract_authors_from_raw(raw)
-        if regex_authors:
-            parsed["authors_regex"] = regex_authors
+    #     regex_authors = CitationParserEngine._extract_authors_from_raw(raw)
+    #     if regex_authors:
+    #         parsed["authors_regex"] = regex_authors
 
-        parsed["authors"] = CitationParserEngine._merge_authors(
-            parsed.get("authors"),
-            parsed.get("authors_regex"),
-            raw,
-        )
+    #     parsed["authors"] = CitationParserEngine._merge_authors(
+    #         parsed.get("authors"),
+    #         parsed.get("authors_regex"),
+    #         raw,
+    #     )
 
-        return parsed
+    #     return parsed
 
-    @staticmethod
-    def _extract_authors_from_raw(raw: str) -> List[str]:
-        """Heuristic regex-only to extract authors from the head of a citation."""
-        head = raw
+    # @staticmethod
+    # def _extract_authors_from_raw(raw: str) -> List[str]:
+    #     """Heuristic regex-only to extract authors from the head of a citation."""
+    #     head = raw
 
-        year_block = re.search(r"\.\s*(1[89]\d{2}|20\d{2})[a-z]?\.\s+", raw, re.IGNORECASE)
-        if year_block:
-            head = raw[:year_block.start() + 1]
-        else:
-            end_m = re.search(r"(?<=[a-zà-ỹ])\.\s+[A-Z]", raw)
-            if end_m:
-                head = raw[: end_m.start() + 1]
-            else:
-                year_m = re.search(r"\b(1[89]\d{2}|20\d{2})\b", raw)
-                if year_m:
-                    head = raw[:year_m.start()]
+    #     year_block = re.search(r"\.\s*(1[89]\d{2}|20\d{2})[a-z]?\.\s+", raw, re.IGNORECASE)
+    #     if year_block:
+    #         head = raw[:year_block.start() + 1]
+    #     else:
+    #         end_m = re.search(r"(?<=[a-zà-ỹ])\.\s+[A-Z]", raw)
+    #         if end_m:
+    #             head = raw[: end_m.start() + 1]
+    #         else:
+    #             year_m = re.search(r"\b(1[89]\d{2}|20\d{2})\b", raw)
+    #             if year_m:
+    #                 head = raw[:year_m.start()]
 
-        head = re.sub(r"\bet\s+al\.?", "", head, flags=re.IGNORECASE)
-        head = re.sub(r"\band\b", ",", head, flags=re.IGNORECASE)
-        head = re.sub(r"\s+", " ", head).strip(" .,")
+    #     head = re.sub(r"\bet\s+al\.?", "", head, flags=re.IGNORECASE)
+    #     head = re.sub(r"\band\b", ",", head, flags=re.IGNORECASE)
+    #     head = re.sub(r"\s+", " ", head).strip(" .,")
 
-        parts = [p.strip(" .,") for p in head.split(",") if p.strip(" .,")]
-        authors: List[str] = []
-        for p in parts:
-            if len(p) < 2:
-                continue
-            if '"' in p or "'" in p and len(p.split()) > 4:
-                continue
-            if re.search(r"\b(arxiv|proceedings|press|journal|conference|vol\.|pp\.|edition)\b", p, re.IGNORECASE):
-                continue
-            if re.search(r"\b(jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec|june)\b", p, re.IGNORECASE):
-                continue
-            if re.search(r"\d", p):
-                continue
-            if len(p.split()) < 2:
-                continue
-            authors.append(p)
+    #     parts = [p.strip(" .,") for p in head.split(",") if p.strip(" .,")]
+    #     authors: List[str] = []
+    #     for p in parts:
+    #         if len(p) < 2:
+    #             continue
+    #         if '"' in p or "'" in p and len(p.split()) > 4:
+    #             continue
+    #         if re.search(r"\b(arxiv|proceedings|press|journal|conference|vol\.|pp\.|edition)\b", p, re.IGNORECASE):
+    #             continue
+    #         if re.search(r"\b(jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec|june)\b", p, re.IGNORECASE):
+    #             continue
+    #         if re.search(r"\d", p):
+    #             continue
+    #         if len(p.split()) < 2:
+    #             continue
+    #         authors.append(p)
 
-        return authors
+    #     return authors
 
-    @staticmethod
-    def _merge_authors(
-        xml_authors: Optional[List[str]],
-        regex_authors: Optional[List[str]],
-        raw_text: str,
-    ) -> List[str]:
-        """Combine XML and regex author lists, preferring the more plausible option."""
-        xml_authors = xml_authors or []
-        regex_authors = regex_authors or []
+    # @staticmethod
+    # def _merge_authors(
+    #     xml_authors: Optional[List[str]],
+    #     regex_authors: Optional[List[str]],
+    #     raw_text: str,
+    # ) -> List[str]:
+    #     """Combine XML and regex author lists, preferring the more plausible option."""
+    #     xml_authors = xml_authors or []
+    #     regex_authors = regex_authors or []
 
-        def score(authors: List[str]) -> int:
-            if not authors:
-                return 0
-            single_tokens = sum(1 for a in authors if len(a.split()) < 2)
-            hyphen_fragments = sum(1 for a in authors if a.startswith("-"))
-            return len(authors) * 3 - single_tokens * 4 - hyphen_fragments * 2
+    #     def score(authors: List[str]) -> int:
+    #         if not authors:
+    #             return 0
+    #         single_tokens = sum(1 for a in authors if len(a.split()) < 2)
+    #         hyphen_fragments = sum(1 for a in authors if a.startswith("-"))
+    #         return len(authors) * 3 - single_tokens * 4 - hyphen_fragments * 2
 
-        xml_score = score(xml_authors)
-        regex_score = score(regex_authors)
+    #     xml_score = score(xml_authors)
+    #     regex_score = score(regex_authors)
 
-        if regex_score > xml_score:
-            return regex_authors
+    #     if regex_score > xml_score:
+    #         return regex_authors
 
-        if xml_authors:
-            return xml_authors
+    #     if xml_authors:
+    #         return xml_authors
 
-        return regex_authors
+    #     return regex_authors
 
-    @staticmethod
-    def detect_suspicious_merge(raw_text: str, result: Dict[str, Any]) -> bool:
-        """Determines if a citation string likely contains multiple merged references."""
-        # 1. Check unique values from extracted metadata
-        dates = set(result.get("date", []))
-        dois = set(result.get("doi", []))
-        arxivs = set(result.get("arxiv", []))
-        urls = set(result.get("url", []))
+    # @staticmethod
+    # def detect_suspicious_merge(raw_text: str, result: Dict[str, Any]) -> bool:
+    #     """Determines if a citation string likely contains multiple merged references."""
+    #     # 1. Check unique values from extracted metadata
+    #     dates = set(result.get("date", []))
+    #     dois = set(result.get("doi", []))
+    #     arxivs = set(result.get("arxiv", []))
+    #     urls = set(result.get("url", []))
 
-        # 3 or more distinct years is a strong signal for merged cites
-        if len(dates) >= 3:
-            return True
+    #     # 3 or more distinct years is a strong signal for merged cites
+    #     if len(dates) >= 3:
+    #         return True
         
-        # 2 years + specific year-separator pattern (e.g. "2023. Authors...")
-        if len(dates) == 2:
-            # Skip the first 20 chars to avoid matching the first citation's year
-            if re.search(r'\b(?:19|20)\d{2}[a-z]?\.\s+[A-Z]', raw_text[20:]):
-                return True
+    #     # 2 years + specific year-separator pattern (e.g. "2023. Authors...")
+    #     if len(dates) == 2:
+    #         # Skip the first 20 chars to avoid matching the first citation's year
+    #         if re.search(r'\b(?:19|20)\d{2}[a-z]?\.\s+[A-Z]', raw_text[20:]):
+    #             return True
         
-        # Multiple DOIs/Arxiv IDs are rare in single items
-        if len(dois) > 1 or len(arxivs) > 1:
-            return True
+    #     # Multiple DOIs/Arxiv IDs are rare in single items
+    #     if len(dois) > 1 or len(arxivs) > 1:
+    #         return True
         
-        # Many URLs (3+)
-        if len(urls) >= 3:
-            return True
+    #     # Many URLs (3+)
+    #     if len(urls) >= 3:
+    #         return True
 
-        return False
+    #     return False
 
     @staticmethod
     def heal_broken_urls(text: str) -> str:
@@ -192,69 +192,70 @@ class CitationParserEngine:
 
         return False
 
-    @staticmethod
-    def guard_hallucinations(raw_text: str, patch: Dict[str, Any]) -> Dict[str, Any]:
-        """Strips exact-match fields (URLs, DOIs) from LLM output if they don't exist in raw_text."""
-        safe_patch = {}
-        exact_fields = {"doi", "arxiv_id", "url"}
-        for k, v in patch.items():
-            if k in exact_fields and isinstance(v, str):
-                # Clean strings for loose matching
-                if v.strip().lower() not in raw_text.lower().replace(" ", ""):
-                    continue # Hallucination detected
-            safe_patch[k] = v
-        return safe_patch
+    # @staticmethod
+    # def guard_hallucinations(raw_text: str, patch: Dict[str, Any]) -> Dict[str, Any]:
+    #     """Strips exact-match fields (URLs, DOIs) from LLM output if they don't exist in raw_text."""
+    #     safe_patch = {}
+    #     exact_fields = {"doi", "arxiv_id", "url"}
+    #     for k, v in patch.items():
+    #         if k in exact_fields and isinstance(v, str):
+    #             # Clean strings for loose matching
+    #             if v.strip().lower() not in raw_text.lower().replace(" ", ""):
+    #                 continue # Hallucination detected
+    #         safe_patch[k] = v
+    #     return safe_patch
 
-    @staticmethod
-    def sanitize_llm_patch(patch: Dict[str, Any]) -> Dict[str, Any]:
-        """Fixes common LLM typing issues (e.g. returning a dict explanation instead of a string/list)."""
-        sanitized = {}
+    # @staticmethod
+    # def sanitize_llm_patch(patch: Dict[str, Any]) -> Dict[str, Any]:
+    #     """Fixes common LLM typing issues (e.g. returning a dict explanation instead of a string/list)."""
+    #     sanitized = {}
         
-        # 1. Authors must be list[str]
-        authors = patch.get("authors")
-        if authors:
-            if isinstance(authors, list):
-                sanitized["authors"] = [str(a) for a in authors if a]
-            elif isinstance(authors, dict):
-                # Sometimes Llama returns {'incorrect': ..., 'correction': [...]}
-                for key in ["correction", "suggested", "fill", "authors"]:
-                    if isinstance(authors.get(key), list):
-                        sanitized["authors"] = authors[key]
-                        break
-            elif isinstance(authors, str):
-                # If LLM returns just one string, wrap it
-                sanitized["authors"] = [authors]
+    #     # 1. Authors must be list[str]
+    #     authors = patch.get("authors")
+    #     if authors:
+    #         if isinstance(authors, list):
+    #             sanitized["authors"] = [str(a) for a in authors if a]
+    #         elif isinstance(authors, dict):
+    #             # Sometimes Llama returns {'incorrect': ..., 'correction': [...]}
+    #             for key in ["correction", "suggested", "fill", "authors"]:
+    #                 if isinstance(authors.get(key), list):
+    #                     sanitized["authors"] = authors[key]
+    #                     break
+    #         elif isinstance(authors, str):
+    #             # If LLM returns just one string, wrap it
+    #             sanitized["authors"] = [authors]
 
-        # 2. Year must be int or convertible to int
-        year = patch.get("year")
-        if year:
-            if isinstance(year, (int, str)):
-                sanitized["year"] = year
-            elif isinstance(year, dict):
-                sanitized["year"] = year.get("year") or year.get("correction")
+    #     # 2. Year must be int or convertible to int
+    #     year = patch.get("year")
+    #     if year:
+    #         if isinstance(year, (int, str)):
+    #             sanitized["year"] = year
+    #         elif isinstance(year, dict):
+    #             sanitized["year"] = year.get("year") or year.get("correction")
 
-        # 3. Identifiers must be strings
-        for key in ["doi", "url", "arxiv_id"]:
-            val = patch.get(key)
-            if val:
-                if isinstance(val, str):
-                    sanitized[key] = val
-                elif isinstance(val, dict):
-                    # Take first string-looking thing
-                    for subkey in ["correction", "original", "value", "id"]:
-                        if isinstance(val.get(subkey), str):
-                            sanitized[key] = val[subkey]
-                            break
+    #     # 3. Identifiers must be strings
+    #     for key in ["doi", "url", "arxiv_id"]:
+    #         val = patch.get(key)
+    #         if val:
+    #             if isinstance(val, str):
+    #                 sanitized[key] = val
+    #             elif isinstance(val, dict):
+    #                 # Take first string-looking thing
+    #                 for subkey in ["correction", "original", "value", "id"]:
+    #                     if isinstance(val.get(subkey), str):
+    #                         sanitized[key] = val[subkey]
+    #                         break
         
-        # 4. Other flat fields
-        for key in ["title", "venue"]:
-            val = patch.get(key)
-            if val:
-                if isinstance(val, str):
-                    sanitized[key] = val
-                elif isinstance(val, list) and val:
-                    sanitized[key] = str(val[0])
-                elif isinstance(val, dict):
-                     sanitized[key] = val.get("correction") or val.get("title") or val.get("venue")
+    #     # 4. Other flat fields
+    #     for key in ["title", "venue"]:
+    #         val = patch.get(key)
+    #         if val:
+    #             if isinstance(val, str):
+    #                 sanitized[key] = val
+    #             elif isinstance(val, list) and val:
+    #                 sanitized[key] = str(val[0])
+    #             elif isinstance(val, dict):
+    #                  sanitized[key] = val.get("correction") or val.get("title") or val.get("venue")
 
-        return sanitized
+    #     return sanitized
+

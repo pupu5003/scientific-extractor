@@ -1,80 +1,157 @@
-# Scientific Reference Extractor 🚀
+# Scientific Reference Extractor
 
-A high-precision pipeline for extracting structured references from scientific PDFs using **MinerU** and **LLM (Instructor)**.
+A high-precision pipeline for extracting structured bibliographic references from scientific PDFs using **MinerU** and an **LLM** (via `instructor`).
 
-## 🌟 Key Features
-- **Pure LLM Extraction**: Uses OpenAI (GPT-4o-mini) and `instructor` for schema-driven, zero-hallucination parsing.
-- **Smart Reference Splitting**: Handles dense reference blocks without markers (e.g., ICLR/NeurIPS papers) via deterministic heuristics and LLM batch fallback.
-- **MinerU Integration**: Uses `magic-pdf` (MinerU) for robust PDF-to-Structured-JSON conversion.
-- **Noise Filtering**: Automatically skips headers, footers, and page numbers during extraction.
+---
 
-## 🛠️ Prerequisites
+## How it works
+
+1. **MinerU** converts the PDF to structured JSON (`content_list.json`) or Markdown.
+2. Reference blocks are located and split into individual entries using deterministic heuristics.
+3. Pairs of entries at page boundaries are checked by the LLM to detect incorrect splits.
+4. Each entry is parsed by the LLM into a structured schema (`ParsedCitationEntry`).
+5. Non-plausible entries are filtered out and results are saved as JSON.
+
+---
+
+## Prerequisites
+
 - Python 3.10+
-- OpenAI API Key (set in `.env`)
-- Bộ công cụ MinerU (`magic-pdf`, `mineru`)
+- [MinerU](https://github.com/opendatalab/MinerU) (`magic-pdf` / `mineru` CLI)
+- An LLM API key (OpenAI, Together AI, or local Ollama)
 
-## 🚀 Setup
+---
 
-1. **Clone & Environment**:
-   ```bash
-   python3 -m venv .venv
-   source .venv/bin/activate
-   pip install -r requirements.txt
-   ```
+## Setup
 
-2. **Environment Variables**:
-   Create a `.env` file from `.env.example`:
-   ```bash
-   OPENAI_API_KEY=your_key_here
-   LLM_BACKEND=openai
-   LLM_MODEL=gpt-4o-mini
-   ```
-
-3. **MinerU Models (One-time)**:
-   ```bash
-   .venv/bin/mineru-models-download
-   ```
-
-## 📖 Usage
-
-### 1. Extract from a single PDF
-The pipeline runs MinerU automatically and then parses the references:
 ```bash
-.venv/bin/python -m src.extract_references tests/2510.04871v1.pdf
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 ```
 
-### 2. Extract from a MinerU output folder
-If you already ran MinerU, you can point the pipeline to the output folder to save time:
-```bash
-.venv/bin/python -m src.extract_references tests/mineru_output/10201/
+Create a `.env` file:
+
+```env
+OPENAI_API_KEY=sk-...
+# or for Together AI:
+TOGETHER_API_KEY=...
 ```
 
-### 3. Batch Mode
-Process multiple PDFs in parallel:
+Download MinerU models (one-time):
+
 ```bash
-.venv/bin/python run_batch.py "tests/pdfs/*.pdf" --output_dir tests/json/minerU/
+.venv/bin/mineru-models-download
 ```
 
-## 📊 Output Format
-The results are saved as structured JSON in `tests/json/minerU/`.
+---
+
+## Usage
+
+### Run on a single PDF
+
+```bash
+python3 -m src.extract_references <path/to/paper.pdf> [options]
+```
+
+**Options:**
+
+| Flag | Default | Description |
+|---|---|---|
+| `--llm_backend` | `openai` | LLM provider: `openai`, `together`, `ollama` |
+| `--model` | `gpt-4o-mini` | Model name |
+| `--concurrency` | `10` | Max citations parsed concurrently |
+| `--output_dir` | `tests/json/minerU/` | Directory to save the output JSON |
+| `--mineru_cmd` | *(see below)* | MinerU command template |
+
+**Examples:**
+
+```bash
+# OpenAI (default)
+python3 -m src.extract_references tests/paper.pdf
+
+# Together AI
+python3 -m src.extract_references tests/paper.pdf \
+    --llm_backend together \
+    --model meta-llama/Llama-3.3-70B-Instruct-Turbo \
+    --output_dir out/
+
+# Ollama (local)
+python3 -m src.extract_references tests/paper.pdf \
+    --llm_backend ollama \
+    --model llama3
+```
+
+Output is saved as `<output_dir>/<pdf_stem>_extracted.json`.
+
+---
+
+### Run in batch mode
+
+Process an entire folder (or glob pattern) of PDFs concurrently:
+
+```bash
+python3 run_batch.py <glob_or_dir> [options]
+```
+
+**Options:**
+
+| Flag | Default | Description |
+|---|---|---|
+| `--output_dir` | `tests/json/batch_output/` | Directory to save all output JSON files |
+| `--llm_backend` | `openai` | LLM provider: `openai`, `together`, `ollama` |
+| `--model` | `gpt-4o-mini` | Model name |
+| `--pdf_workers` | `5` | Max PDFs processed concurrently |
+| `--citation_workers` | `10` | Max citations parsed concurrently per PDF |
+| `--mineru_cmd` | *(see below)* | MinerU command template |
+| `--debug_markdown_dir` | *(empty)* | If set, saves MinerU markdown output here for inspection |
+
+**Examples:**
+
+```bash
+# Process all PDFs in a folder
+python3 run_batch.py tests/pdfs/ --output_dir out/
+
+# Use a glob pattern with Together AI
+python3 run_batch.py "tests/pdfs/iclr2025/*.pdf" \
+    --llm_backend together \
+    --model meta-llama/Llama-3.3-70B-Instruct-Turbo \
+    --pdf_workers 3 \
+    --output_dir out/
+
+# Save MinerU markdown for debugging
+python3 run_batch.py tests/pdfs/ --debug_markdown_dir out/md_debug/
+```
+
+Each PDF produces one `<pdf_stem>_extracted.json` file in `--output_dir`.
+
+---
+
+## Output format
 
 ```json
-{
-  "ref_id": "R1",
-  "title": "Example Paper Title",
-  "authors": ["Author One", "Author Two"],
-  "venue": "Nature Communications",
-  "year": 2024,
-  "identifiers": {
-    "doi": "10.1038/...",
-    "arxiv_id": "2401.xxxxx",
-    "url": "https://..."
+[
+  {
+    "ref_id": "R1",
+    "raw_text": "Vaswani et al. Attention is all you need. NeurIPS 2017.",
+    "title": "Attention Is All You Need",
+    "authors": ["Ashish Vaswani", "Noam Shazeer"],
+    "venue": "NeurIPS 2017",
+    "year": 2017,
+    "identifiers": {
+      "arxiv_id": "1706.03762",
+      "url": "https://arxiv.org/abs/1706.03762"
+    }
   }
-}
+]
 ```
 
+---
 
-.venv/bin/mineru -p tests/pdfs/minerU/09669_Progressive_Compositionality_in_Text-to-Image_Generative_Models.pdf -o /tmp/mineru_inspect -b pipeline -m txt -d cpu -f false -t false
+## Default MinerU command
 
+```
+.venv/bin/mineru -p {pdf} -o {out_dir} -b pipeline -m txt -d cpu -f false -t false
+```
 
-.venv/bin/mineru -p tests/pdfs/minerU/10208_Adaptive_Gradient_Clipping_for_Robust_Federated_Learning.pdf -o tests/pdfs/minerU_results/ -b pipeline -m txt -d cpu -f false -t false
+Override with `--mineru_cmd`. The template must contain `{pdf}` and `{out_dir}` placeholders.

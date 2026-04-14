@@ -19,14 +19,10 @@ from openai import AsyncOpenAI
 from .schemas import ParsedCitationEntry, CitationCollection, MergeDecision
 
 
-# ---------------------------------------------------------------------------
-# Helpers (module-level để dễ test độc lập)
-# ---------------------------------------------------------------------------
-
 def _is_new_ref_start(line: str, current_buffer: list[str]) -> bool:
     """
-    Multi-signal heuristic: quyết định `line` có bắt đầu một reference mới không.
-    Yêu cầu tổng điểm >= 2 để tránh cắt nhầm continuation lines.
+    Multi-signal heuristic: decide if `line` starts a new reference.
+    Requires total score >= 2 to avoid cutting off continuation lines.
     """
     if not line:
         return False
@@ -74,10 +70,10 @@ class AsyncMinerUClient:
     """
     Async client wrapping the MinerU CLI.
 
-    Tối ưu performance:
-    - Dùng command_template để inject các flags tắt formula/table/OCR
-    - Ví dụ: "mineru -p {pdf} -o {out_dir} -b pipeline -m txt -d cpu -f false -t false"
-    - Batch: gọi extract_raw_references() concurrently với asyncio.gather()
+    Optimize performance:
+    - Use command_template to inject flags to turn off formula/table/OCR
+    - Example: "mineru -p {pdf} -o {out_dir} -b pipeline -m txt -d cpu -f false -t false"
+    - Batch: call extract_raw_references() concurrently with asyncio.gather()
     """
 
     REFERENCE_HEADINGS: frozenset[str] = frozenset({
@@ -90,7 +86,7 @@ class AsyncMinerUClient:
         "tài liệu tham khảo",
     })
 
-    # Sections thường xuất hiện SAU references → stop collecting
+    # Sections appearing AFTER references → stop collecting
     _POST_REF_STOP = re.compile(
         r"^(appendix|acknowledg|author\s+(information|contribution|note)|"
         r"supplement|conflict\s+of\s+interest|funding|notes?\s*$|annex|"
@@ -98,17 +94,17 @@ class AsyncMinerUClient:
         re.IGNORECASE,
     )
 
-    # Types MinerU dùng cho noise — luôn bỏ qua
+    # Types MinerU used for noise — always ignore
     _IGNORE_TYPES: frozenset[str] = frozenset({
         "page_number", "header", "page_footnote", "footer", "discarded",
     })
 
-    # Types MinerU dùng cho headings
+    # Types MinerU used for headings
     _HEADING_TYPES: frozenset[str] = frozenset({
         "title", "section_header",
     })
 
-    # Types chứa reference content
+    # Types used for reference content
     _CONTENT_TYPES: frozenset[str] = frozenset({
         "text", "list", "list_item", "paragraph",
     })
@@ -174,8 +170,8 @@ class AsyncMinerUClient:
         self, pdf_path: str
     ) -> list[tuple[str, int]]:
         """
-        Run MinerU on *pdf_path* và trả về list (ref_text, page_idx).
-        page_idx dùng để phát hiện các cặp liền kề bị tách trang.
+        Run MinerU on *pdf_path* and return list (ref_text, page_idx).
+        page_idx is used to detect adjacent pairs that are split across pages.
         """
         if not os.path.exists(pdf_path):
             raise FileNotFoundError(f"PDF not found: {pdf_path}")
@@ -190,14 +186,14 @@ class AsyncMinerUClient:
         with tempfile.TemporaryDirectory(prefix="mineru_out_") as out_dir:
             await self._run_mineru(pdf_path, out_dir)
 
-            # Ưu tiên content_list.json — chính xác hơn markdown
+            # Prioritize content_list.json — more accurate than markdown
             cl_files = sorted(Path(out_dir).rglob("*_content_list.json"))
             if cl_files:
                 best_cl = max(cl_files, key=lambda p: p.stat().st_size)
                 content_list = json.loads(best_cl.read_text(encoding="utf-8"))
                 return self._extract_ref_blocks_with_pages(content_list)
 
-            # Fallback: markdown (không có page_idx, gán -1)
+            # Fallback: markdown (no page_idx, assign -1)
             md_files = sorted(Path(out_dir).rglob("*.md"))
             if not md_files:
                 raise RuntimeError(
@@ -249,10 +245,10 @@ class AsyncMinerUClient:
         content_list: list[dict],
     ) -> list[tuple[str, int]]:
         """
-        Core extractor: trả về list (ref_text, page_idx).
-        page_idx = -1 khi không có thông tin trang.
+        Core extractor: return list (ref_text, page_idx).
+        page_idx = -1 when no page info.
         """
-        # Collect raw blocks cùng page_idx trước khi split
+        # Collect raw blocks with page_idx before splitting
         raw_blocks: list[tuple[str, int]] = []  # (text, page_idx)
         in_references = False
 
@@ -319,7 +315,7 @@ class AsyncMinerUClient:
         if not raw_blocks:
             return []
 
-        # Split mỗi block thành individual refs, giữ page_idx theo block đầu
+        # Split each block into individual refs, keep page_idx from the first block
         result: list[tuple[str, int]] = []
         for block_text, page_idx in raw_blocks:
             entries = self._split_content_list_refs(block_text)
@@ -400,15 +396,15 @@ class AsyncMinerUClient:
     @classmethod
     def _split_content_list_refs(cls, text: str) -> list[str]:
         """
-        Tách reference block thành từng entry riêng lẻ.
-        Hỗ trợ: numbered [1]/1., author-year, hỗn hợp.
+        Split reference block into individual entries.
+        Supports: numbered [1]/1., author-year, mixed.
 
-        Fix so với version cũ:
-        - Dùng threshold 25% (thay vì any()) để phân loại numbered/author-year
-          → tránh 1 dòng lẻ có marker làm hỏng toàn bộ author-year block
-        - Author-year mode dùng _is_new_ref_start() với multi-signal scoring
-          → không cắt nhầm continuation lines chỉ vì kết thúc bằng "."
-        """
+        Fix compared to old version:
+        - Use 25% threshold (instead of any()) to classify numbered/author-year
+          -> avoid a single line with a marker ruining the entire author-year block
+        - Author-year mode uses _is_new_ref_start() with multi-signal scoring
+          -> do not cut off continuation lines just because they end with "."
+        """     
         numbered_pattern = re.compile(
             r"^\s*(?:\[[\w\d]+\]|\(\d+\)|\d{1,3}[.)]\s)\s*"
         )
@@ -416,7 +412,7 @@ class AsyncMinerUClient:
         lines = text.splitlines()
         non_empty = [l for l in lines if l.strip()]
 
-        # Cần ≥ 25% dòng có marker mới coi là numbered mode
+        # Need >= 25% lines with markers to be considered numbered mode
         if non_empty:
             marker_count = sum(1 for l in non_empty if numbered_pattern.match(l))
             is_numbered = (marker_count / len(non_empty)) >= 0.25
@@ -434,7 +430,7 @@ class AsyncMinerUClient:
                 buffer.clear()
 
         if is_numbered:
-            # Numbered mode: split tại marker, accumulate continuation lines
+            # Numbered mode: split at marker, accumulate continuation lines
             for line in lines:
                 stripped = line.strip()
                 if not stripped:
@@ -498,8 +494,8 @@ class AsyncMinerUClient:
         blocks: list[tuple[str, int]],
     ) -> list[int]:
         """
-        Trả về danh sách index i sao cho blocks[i] và blocks[i+1]
-        nằm ở các trang khác nhau (page_idx khác nhau và cả 2 đều >= 0).
+        Return list of index i such that blocks[i] and blocks[i+1]
+        are on different pages (page_idx different and both >= 0).
         """
         boundaries: list[int] = []
         for i in range(len(blocks) - 1):
@@ -512,13 +508,11 @@ class AsyncMinerUClient:
     @staticmethod
     def _should_skip_merge(text_a: str, text_b: str) -> bool:
         """
-        Fast-reject: trả về True khi CÓ THỂ CHẮC CHẮN 2 blocks là
-        2 references riêng biệt (không cần hỏi LLM).
+        Fast-reject: return True  if 2 blocks are definitely separate references
 
-        Chỉ dùng signal structural rõ ràng:
-        - text_b bắt đầu bằng numbered citation marker ([1], 1., (1))
+        Only use clear structural signals:
+        - text_b starts with numbered citation marker ([1], 1., (1))
         """
-        # Numbered marker ở đầu text_b → reference mới bắt đầu rõ ràng
         numbered = re.match(r"^\s*(?:\[\w+\]|\(\d+\)|\d{1,3}[.):]\s)", text_b)
         return bool(numbered)
 
@@ -604,7 +598,7 @@ class AsyncLLMClient:
 
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
     async def extract_citation(self, raw_text: str) -> ParsedCitationEntry:
-        """Extract metadata cho 1 raw citation string."""
+        """Extract metadata for 1 raw citation string."""
         return await self.client.chat.completions.create(
             model=self.model,
             response_model=ParsedCitationEntry,
@@ -624,7 +618,7 @@ class AsyncLLMClient:
 
     @retry(stop=stop_after_attempt(2), wait=wait_exponential(multiplier=1, min=2, max=10))
     async def extract_citations_batch(self, raw_text: str) -> CitationCollection:
-        """Extract nhiều references từ 1 block text cùng lúc."""
+        """Extract multiple references from a block of text at once."""
         return await self.client.chat.completions.create(
             model=self.model,
             response_model=CitationCollection,
