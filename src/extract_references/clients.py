@@ -210,7 +210,7 @@ class AsyncMinerUClient:
     # ------------------------------------------------------------------
 
     async def extract_markdown(self, pdf_path: str) -> str:
-        """Chạy MinerU và trả về markdown content."""
+        """Run MinerU and return markdown content."""
         if not os.path.exists(pdf_path):
             raise FileNotFoundError(f"PDF not found: {pdf_path}")
 
@@ -237,7 +237,7 @@ class AsyncMinerUClient:
             return markdown_text
 
     # ------------------------------------------------------------------
-    # content_list.json extraction  ← main path
+    # content_list.json extraction
     # ------------------------------------------------------------------
 
     def _extract_ref_blocks_with_pages(
@@ -564,9 +564,9 @@ class AsyncLLMClient:
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
     async def decide_merge(self, text_a: str, text_b: str) -> bool:
         """
-        Hỏi LLM xem text_a và text_b có phải là 2 phần của cùng một
-        reference bị ngắt trang không.
-        Trả về True nếu nên merge.
+        Ask LLM if text_a and text_b are two parts of the same
+        reference split across pages.
+        Return True if they should be merged.
         """
         decision: MergeDecision = await self.client.chat.completions.create(
             model=self.model,
