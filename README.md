@@ -69,6 +69,7 @@ python3 -m src.extract_references <path/to/paper.pdf> [options]
 ```bash
 # OpenAI (default)
 python3 -m src.extract_references tests/paper.pdf
+python3 -m src.extract_references paper.pdf --llm_backend openai --model gpt-4o-mini
 
 # Together AI
 python3 -m src.extract_references tests/paper.pdf \
@@ -94,6 +95,8 @@ Process an entire folder (or glob pattern) of PDFs concurrently:
 python3 run_batch.py <glob_or_dir> [options]
 ```
 
+
+
 **Options:**
 
 | Flag | Default | Description |
@@ -111,6 +114,7 @@ python3 run_batch.py <glob_or_dir> [options]
 ```bash
 # Process all PDFs in a folder
 python3 run_batch.py tests/pdfs/ --output_dir out/
+python3 run_batch.py "tests/pdfs/iclr2025/*.pdf" --llm_backend openai --model gpt-4o-mini --output_dir tests/json/output/
 
 # Use a glob pattern with Together AI
 python3 run_batch.py "tests/pdfs/iclr2025/*.pdf" \
