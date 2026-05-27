@@ -2,55 +2,57 @@
 schemas.py
 Defines the strict data contracts for the extraction pipeline.
 """
-from typing import List, Optional, Dict, Any
+from typing import List, Optional
 from pydantic import BaseModel, Field, field_validator
 import re
+
 
 class ExtractedIdentifiers(BaseModel):
     doi: Optional[str] = Field(default=None, description="Digital Object Identifier")
     arxiv_id: Optional[str] = Field(default=None, description="arXiv ID (e.g., 2402.12345)")
     url: Optional[str] = Field(default=None, description="Fallback URL")
 
+
 class ExtractedCitation(BaseModel):
     ref_id: str = Field(..., description="Local reference ID (e.g., R1)")
-    raw_text: str = Field(..., description="The original raw text from the PDF")
-    
-    # Critical Metadata
+    raw_text: Optional[str] = Field(default=None, description="The original raw text from the PDF")
+
     title: Optional[str] = None
     authors: List[str] = Field(default_factory=list, description="List of 'Given Family' strings")
     venue: Optional[str] = None
     year: Optional[int] = None
     identifiers: ExtractedIdentifiers = Field(default_factory=ExtractedIdentifiers)
 
-
-    @field_validator('year', mode='before')
+    @field_validator("year", mode="before")
+    @classmethod
     def parse_year(cls, v):
         if not v:
             return None
         m = re.search(r"(1[89]\d{2}|20\d{2})", str(v))
         return int(m.group(1)) if m else None
 
-class LLMPatchInstruction(BaseModel):
-    """Structured output expected from the LLM"""
-    fill: Dict[str, Any] = Field(default_factory=dict, description="Fields to add if currently null")
-    corrections: Dict[str, Any] = Field(default_factory=dict, description="Fields to overwrite if incorrect")
 
 class ParsedCitationEntry(BaseModel):
-    """A single citation parsed by LLM/Instructor"""
+    """A single citation parsed by the LLM in a single-pass batch extraction."""
+    raw_text: Optional[str] = Field(
+        default=None,
+        description="Verbatim text of this citation as it appeared in the source document",
+    )
     title: str = Field(..., description="Full title of the paper")
-    authors: List[str] = Field(default_factory=list, description="List of authors in 'Given Family' format")
-    venue: Optional[str] = Field(None, description="Journal name, Conference, or Repository")
+    authors: List[str] = Field(
+        default_factory=list,
+        description="List of author names in 'FirstName LastName' format",
+    )
+    venue: Optional[str] = Field(None, description="Journal name, conference, or repository")
     year: Optional[int] = Field(None, description="4-digit publication year")
-    doi: Optional[str] = Field(None, description="DOI if available")
-    arxiv_id: Optional[str] = Field(None, description="arXiv ID if available")
-    url: Optional[str] = Field(None, description="URL link if available")
+    doi: Optional[str] = Field(None, description="DOI if present in the source text")
+    arxiv_id: Optional[str] = Field(None, description="arXiv ID if present (e.g. 2402.12345)")
+    url: Optional[str] = Field(None, description="URL if present and no DOI/arXiv ID")
+
 
 class CitationCollection(BaseModel):
-    """A collection of citations extracted from a text block"""
-    citations: List[ParsedCitationEntry] = Field(..., description="List of individual citations found in the text")
-
-
-class MergeDecision(BaseModel):
-    """LLM decision on whether two adjacent text fragments belong to the same reference."""
-    should_merge: bool = Field(..., description="True if the two fragments are parts of the same reference")
-    reason: str = Field(..., description="Brief explanation of the decision")
+    """Validated array of citations produced from a single-pass LLM call."""
+    citations: List[ParsedCitationEntry] = Field(
+        ...,
+        description="One entry per unique paper found in the references block",
+    )
