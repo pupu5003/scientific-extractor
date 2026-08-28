@@ -48,19 +48,22 @@ async def process_one_pdf(
         print(f"[{idx}/{total}] Starting PDF: {base_name}")
         t0 = time.monotonic()
         try:
-            results = await pipeline.run(pdf_path)
-            output_data = [r.model_dump(exclude_none=True) for r in results]
+            result = await pipeline.run(pdf_path)
+            output_data = result.model_dump(exclude_none=True)
             os.makedirs(output_dir, exist_ok=True)
-            
+
             # Use same stem logic as __main__.py
             stem = Path(pdf_path).stem
             out_file = os.path.join(output_dir, f"{stem}_extracted.json")
-            
+
             with open(out_file, "w", encoding="utf-8") as f:
                 json.dump(output_data, f, ensure_ascii=False, indent=2)
-            
+
             elapsed = time.monotonic() - t0
-            print(f"[{idx}/{total}] Done: {base_name} → {len(results)} refs ({elapsed:.1f}s)")
+            print(
+                f"[{idx}/{total}] Done: {base_name} → {len(result.references)} refs, "
+                f"{len(result.claims)} claims ({elapsed:.1f}s)"
+            )
             return True
         except Exception as e:
             elapsed = time.monotonic() - t0
@@ -101,6 +104,7 @@ async def main_async(args):
         llm_client=llm_client,
         max_concurrency=args.citation_workers,
         debug_markdown_dir=args.debug_markdown_dir or None,
+        skip_claims=args.no_claims,
     )
 
     sem = asyncio.Semaphore(args.pdf_workers)
@@ -156,7 +160,13 @@ def main():
     )
     parser.add_argument(
         "--citation_workers", type=int, default=10,
-        help="Max citations parsed concurrently per PDF (default: 10)."
+        help="Max citations parsed concurrently per PDF, and max claim-extraction "
+             "paragraphs parsed concurrently per PDF (default: 10)."
+    )
+    parser.add_argument(
+        "--no_claims",
+        action="store_true",
+        help="Skip LLM-based claim extraction from the body text — references only.",
     )
     args = parser.parse_args()
     asyncio.run(main_async(args))

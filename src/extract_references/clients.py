@@ -18,7 +18,7 @@ import instructor
 from openai import AsyncOpenAI
 from tenacity import retry, stop_after_attempt, wait_exponential
 
-from .schemas import CitationCollection
+from .schemas import CitationCollection, ParagraphClaimCollection
 
 
 # ---------------------------------------------------------------------------
@@ -180,6 +180,25 @@ class AsyncMinerUClient:
         return ref_lines
 
     # ------------------------------------------------------------------
+    # Public: isolate body text (everything before References)
+    # ------------------------------------------------------------------
+
+    def extract_body_markdown(self, markdown_text: str) -> str:
+        """Return the markdown content that precedes the References section.
+
+        This is the text the claim-matching step (`claims.py`) searches for
+        in-text citation markers ("[1]", "(Smith et al., 2020)", ...). If no
+        References heading is found, the entire document is returned so
+        claim-matching still has something to search.
+        """
+        lines = markdown_text.splitlines()
+        start_idx = self._find_references_start(lines)
+        if start_idx is None:
+            return markdown_text
+        heading_idx = start_idx - 1  # back up to the heading line itself
+        return "\n".join(lines[:heading_idx]).strip()
+
+    # ------------------------------------------------------------------
     # Debug helper
     # ------------------------------------------------------------------
 
@@ -263,6 +282,61 @@ class AsyncLLMClient:
                 {
                     "role": "user",
                     "content": f"References block:\n\n{ref_block}",
+                },
+            ],
+        )
+
+
+    @retry(stop=stop_after_attempt(2), wait=wait_exponential(multiplier=1, min=2, max=10))
+    async def extract_claims_batch(self, tagged_paragraph: str) -> ParagraphClaimCollection:
+        """
+        Extract atomic claims from one paragraph of body text.
+
+        The paragraph has already been pre-processed (see `claims.py` /
+        `claim_extraction.py`): in-text citation markers resolved to
+        canonical '<CIT:ref_id>' tags, and sentences numbered
+        '[S1] ... [S2] ...'. The model never has to understand APA/IEEE/etc
+        citation syntax — it only ever sees '<CIT:ref_id>' tokens.
+        """
+        return await self.client.chat.completions.create(
+            model=self.model,
+            response_model=ParagraphClaimCollection,
+            messages=[
+                {
+                    "role": "system",
+                    "content": (
+                        "You are a precise scientific claim extraction specialist.\n\n"
+                        "INPUT: One paragraph from a scientific paper. Sentences are "
+                        "tagged '[S<n>]' at their start. Some sentences contain inline "
+                        "tokens like '<CIT:R3>' marking exactly where an in-text "
+                        "citation to reference R3 occurs.\n\n"
+                        "YOUR TASK: Extract the atomic factual claims made in this "
+                        "paragraph. For each claim, report:\n"
+                        "  • claim               – a self-contained statement of the claim, "
+                        "in your own words if needed, but never inventing facts not in the text\n"
+                        "  • source_sentence_ids – the [S<n>] id(s) the claim is drawn from\n"
+                        "  • explicit_citations  – ref ids (e.g. 'R3') whose <CIT:...> tag "
+                        "appears directly in the claim's own source sentence(s)\n"
+                        "  • inherited_citations – ref ids that are NOT tagged in the "
+                        "claim's own sentence(s), but that the claim clearly still refers "
+                        "to via discourse (a pronoun, 'this approach', 'these methods', a "
+                        "repeated short-form name, etc.) pointing back to an earlier "
+                        "sentence in THIS SAME paragraph that WAS tagged with that ref id\n\n"
+                        "RULES:\n"
+                        "1. NEVER invent a ref id — only use ids that literally appear as "
+                        "'<CIT:...>' somewhere in this paragraph.\n"
+                        "2. A claim with no citation at all (pure background/motivation) is "
+                        "fine — leave both citation lists empty.\n"
+                        "3. Do not merge unrelated claims from different citations into one; "
+                        "split them so each claim maps to the citation(s) that actually "
+                        "support it, not every citation in the paragraph.\n"
+                        "4. Skip meta-text that isn't a factual claim (e.g. pure section "
+                        "transitions)."
+                    ),
+                },
+                {
+                    "role": "user",
+                    "content": f"Paragraph:\n\n{tagged_paragraph}",
                 },
             ],
         )

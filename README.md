@@ -6,11 +6,12 @@ A high-precision pipeline for extracting structured bibliographic references fro
 
 ## How it works
 
-1. **MinerU** converts the PDF to structured JSON (`content_list.json`) or Markdown.
-2. Reference blocks are located and split into individual entries using deterministic heuristics.
-3. Pairs of entries at page boundaries are checked by the LLM to detect incorrect splits.
-4. Each entry is parsed by the LLM into a structured schema (`ParsedCitationEntry`).
-5. Non-plausible entries are filtered out and results are saved as JSON.
+1. **MinerU** converts the PDF to Markdown.
+2. The "References" block is located with deterministic heuristics and isolated from the rest of the document.
+3. The whole block is parsed in a **single LLM call** (`instructor` + Pydantic) into a structured schema (`CitationCollection`), implicitly splitting any entries that got merged together.
+4. Non-plausible entries are filtered out and the survivors are re-indexed to `R1, R2, ...`.
+5. In-text citation markers (`[1]`, `(Smith et al., 2020)`, ...) in the body text are resolved against the reference list, then a per-paragraph LLM pass extracts atomic **claims** and links each one back to the reference(s) it cites. Skip this step with `--no_claims`.
+6. Results are saved as one JSON file — see [Output format](#output-format).
 
 ---
 
@@ -60,8 +61,9 @@ python3 -m src.extract_references <path/to/paper.pdf> [options]
 |---|---|---|
 | `--llm_backend` | `openai` | LLM provider: `openai`, `together`, `ollama` |
 | `--model` | `gpt-4o-mini` | Model name |
-| `--concurrency` | `10` | Max citations parsed concurrently |
+| `--concurrency` | `10` | Max citations parsed concurrently, and max claim-extraction paragraphs parsed concurrently |
 | `--output_dir` | `tests/json/minerU/` | Directory to save the output JSON |
+| `--no_claims` | *(off)* | Skip LLM-based claim extraction from the body text — references only |
 | `--mineru_cmd` | *(see below)* | MinerU command template |
 
 **Examples:**
@@ -105,7 +107,8 @@ python3 run_batch.py <glob_or_dir> [options]
 | `--llm_backend` | `openai` | LLM provider: `openai`, `together`, `ollama` |
 | `--model` | `gpt-4o-mini` | Model name |
 | `--pdf_workers` | `5` | Max PDFs processed concurrently |
-| `--citation_workers` | `10` | Max citations parsed concurrently per PDF |
+| `--citation_workers` | `10` | Max citations parsed concurrently per PDF, and max claim-extraction paragraphs parsed concurrently per PDF |
+| `--no_claims` | *(off)* | Skip LLM-based claim extraction from the body text — references only |
 | `--mineru_cmd` | *(see below)* | MinerU command template |
 | `--debug_markdown_dir` | *(empty)* | If set, saves MinerU markdown output here for inspection |
 
@@ -134,21 +137,53 @@ Each PDF produces one `<pdf_stem>_extracted.json` file in `--output_dir`.
 ## Output format
 
 ```json
-[
-  {
-    "ref_id": "R1",
-    "raw_text": "Vaswani et al. Attention is all you need. NeurIPS 2017.",
-    "title": "Attention Is All You Need",
-    "authors": ["Ashish Vaswani", "Noam Shazeer"],
-    "venue": "NeurIPS 2017",
-    "year": 2017,
-    "identifiers": {
-      "arxiv_id": "1706.03762",
-      "url": "https://arxiv.org/abs/1706.03762"
+{
+  "references": [
+    {
+      "ref_id": "R1",
+      "raw_text": "Vaswani et al. Attention is all you need. NeurIPS 2017.",
+      "title": "Attention Is All You Need",
+      "authors": ["Ashish Vaswani", "Noam Shazeer"],
+      "venue": "NeurIPS 2017",
+      "year": 2017,
+      "identifiers": {
+        "arxiv_id": "1706.03762",
+        "url": "https://arxiv.org/abs/1706.03762"
+      },
+      "claim_ids": ["claim_001"]
     }
-  }
-]
+  ],
+  "claims": [
+    {
+      "claim_id": "claim_001",
+      "claim": "The Transformer architecture was introduced by Vaswani et al.",
+      "source_sentence_ids": ["S3"],
+      "explicit_citations": ["R1"],
+      "inherited_citations": [],
+      "references": ["R1"]
+    }
+  ]
+}
 ```
+
+Each `<pdf_stem>_extracted.json` file is now a single object with two
+top-level lists: `references` (the bibliography, as before) and `claims`
+(atomic claims pulled from the body text). `claims` is produced in two
+stages — see `src/extract_references/claims.py` and
+`src/extract_references/claim_extraction.py`:
+
+1. **Deterministic (regex, no LLM)** — in-text citation markers, numbered
+   (`[1]`, `[2, 3]`, `[4-6]`) or author-year (`(Smith et al., 2020)`,
+   `Smith (2020)`), are resolved against the reference list and rewritten
+   as canonical `<CIT:ref_id>` tags.
+2. **LLM, per paragraph** — the model reads each tagged paragraph and
+   extracts atomic claims, distinguishing `explicit_citations` (tagged in
+   the claim's own sentence) from `inherited_citations` (only implied via
+   discourse — a pronoun, "this approach", etc. — pointing back to an
+   earlier sentence in the same paragraph).
+
+Each reference's `claim_ids` lists which claims cite it. Pass `--no_claims`
+to skip stage 2 and get references only (no extra LLM calls).
 
 ---
 
